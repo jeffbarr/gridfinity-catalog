@@ -34,3 +34,4 @@ Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.
 # Other Resources
 
 * [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad) - OpenSCAD code to generate baseplates and other blocks.
+* [/r/gridfinity](https://www.reddit.com/r/gridfinity/) - Gridfinity sub-Reddit.
