@@ -8,20 +8,30 @@ In April of 2022, [Zack Freedman](https://www.youtube.com/c/ZackFreedman/about) 
 
 Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.com/channel/UCe1Aj6VEO299Yq4WkXdoD3Q), Zach designed a modular system that uses a gridded baseplate that accomodates blocks (also referred to as boxes or bins) sized to fit into one or more grid cells. After the publication of Zach's video, other designers began to adopt existing designs and to create new ones. This page is an attempt to catalog as many Gridfinity resources as possible.
 
+# Getting Started with Gridfinity
+
+* Pick a baseplate
+* Pick some boxes
+* Print
+* Use
+* Share
+* Learn about parameterization and customization
+
 # Baseplates
 
 * [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) - STL, 1x2 - 7x7, 55 variants.
 * [Baseplates](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) - OpenSCAD code for baseplate.
+* [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) - CADQuery code for baseplates, 1x1 - 10x10, 22 variants.
 * [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) - 3MF, 2x2 - 6x6, 8 variants.
 * [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) - STL, 1x4 - 4x3, 3 variants.
 * [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers; STL, 1x1, 6 variants.
 * [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) - 3MF, 4x1 - 5x6, 18 variants.
 
-
 # Blocks
 
 * [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) - STL, 1x2.
 * [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) - STL, 1x1.
+* [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) - CadQuery, 1x1 - 5x5, 28 variants.
 * [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) - STL, 1x1 - 5x1, 51 variants.
 * [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) - OpenSCAD, ?x?.
 * [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) - STL, 1x1 - 3x5, 21 variants. 
