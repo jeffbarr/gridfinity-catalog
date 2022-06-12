@@ -16,9 +16,9 @@ Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.
 # Blocks
 
 * [Divider Boxes](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) - STL, 1x1 - 5x1, 51 variants.
-* [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) - STL, 1x1.
 * [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) - OpenSCAD, ?x?
 * [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) - OpenSCAD, ?x?.
+* [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) - STL, 1x1.
 * [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) - STL, 1x1, 4 variants.
 
 # Other Resources
