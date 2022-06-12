@@ -1,5 +1,5 @@
 # gridfinity-catalog
-This is a Catalog of Gridfinity Designs and Other Resources
+This is a Catalog of Gridfinity Designs and Other Resources. Your pull requests are welcome!
 
 # Introduction
 In April of 2022, [Zack Freedman](https://www.youtube.com/c/ZackFreedman/about) announced Gridfinity to the world in this video:
