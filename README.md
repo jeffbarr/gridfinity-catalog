@@ -36,6 +36,10 @@ Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.
 * [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) - STL, 1x1, 4 variants.
 * [Window Divider Bin](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Window%20Divider%20Bin-60754) - STL, 1x2 - 5 variants.
 
+# Articles
+
+* [Gridfinity: 3D Printed Super Quick Tool Storage And Retrieval](https://hackaday.com/2022/04/18/gridfinity-3d-printed-super-quick-tool-storage-and-retrieval/).
+
 # Other Resources
 
 * [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad) - OpenSCAD code to generate baseplates and other blocks.
