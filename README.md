@@ -13,6 +13,7 @@ Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.
 * [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) - STL, 1x2 - 7x7, 55 variants.
 * [Baseplates](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) - OpenSCAD code for baseplate.
 * [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers; STL, 1x1, 6 variants.
+* [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) - 3MF, 2x2 - 6x6, 8 variants.
 
 # Blocks
 
