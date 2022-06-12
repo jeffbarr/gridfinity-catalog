@@ -41,7 +41,9 @@ Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.
 * [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) - STL, (1x4, 2x4, 1x5), 3 variants. 
 * [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) - STL, 1x2, 3 variants.
 * [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) - STL, 2x2.
+* [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) - 3MF, 1x1 - 3x4, 26 variants.
 * [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) - OpenSCAD, ?x?.
+* [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) - STL, (1x3, 2x3), 4 variants.
 * [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) - STL, 1x2.
 * [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) - STL, 1x1.
 * [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) - STL, 1x2.
