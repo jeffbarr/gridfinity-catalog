@@ -46,7 +46,8 @@ Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.
 * [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) - STL, 17 elements.
 * [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) - OpenSCAD, ?x?.
 * [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) - STL, 1x1 - 3x5, 21 variants. 
-* [Hex Bit Storage with Tray](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) - STL, 2x2, 2 variants.
+* [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) - STL, 2 variants.
+* [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) - STL.
 * [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) - STL, (1x4, 2x4), 3 variants.
 * [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) - STL, 1x1. 
 * [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) - STL, 1x1.
