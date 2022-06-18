@@ -42,6 +42,7 @@ Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.
 * [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) - STL, (1x3, 2x3), 2 variants. 
 * [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) - STL, 1x1 - 5x1, 51 variants.
 * [Divided Boxes (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Divided%20Gridfinity%20Boxes%20(CadQuery%20Customizable)-64757) - STL, (1x1 - 5x5), 37 variants.
+* [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) - STL, 17 elements.
 * [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) - OpenSCAD, ?x?.
 * [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) - STL, 1x1 - 3x5, 21 variants. 
 * [Hex Bit Storage with Tray](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) - STL, 2x2, 2 variants.
