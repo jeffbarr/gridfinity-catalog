@@ -36,15 +36,18 @@ Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.
 * [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) - STL, 1x2.
 * [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) - STL, 1x1.
 * [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) - CadQuery, 1x1 - 5x5, 28 variants.
+* [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) - STL, (4x1 - 5x5), 36 variants.
 * [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) - STL, 1x1, 4 variants.
 * [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) - STL, 1x2.
 * [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) - STL, (1x2, 2x2, 3x3), 4 variants.
 * [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) - STL, 1x1 & 1x2, 2 variants.
 * [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) - STL, (1x3, 2x3), 2 variants. 
+* [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) - STL, (2x2, 2x3), 2 variants.
 * [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) - STL, 1x1 - 5x1, 51 variants.
 * [Divided Boxes (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Divided%20Gridfinity%20Boxes%20(CadQuery%20Customizable)-64757) - STL, (1x1 - 5x5), 37 variants.
 * [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) - STL, 3x2.
 * [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) - STL, 17 elements.
+* [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) - STL, 1x1.
 * [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) - OpenSCAD, ?x?.
 * [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) - STL, 1x1 - 3x5, 21 variants. 
 * [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) - STL, 2 variants.
@@ -60,6 +63,8 @@ Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.
 * [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) - STL, (1x1 - 5x5), 27 variants.
 * [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) - OpenSCAD, ?x?.
 * [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) - STL, 2x3.
+* [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) - (1x1, 3x3), 2 variants.
+* [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes) - STL, (1x1 - 3x3), 24 variants.
 * [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) - STL, (1x3, 2x3), 4 variants.
 * [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) - STL, 1x2.
 * [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) - STL, 1x1.
