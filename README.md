@@ -8,6 +8,10 @@ In April of 2022, [Zack Freedman](https://www.youtube.com/c/ZackFreedman/about) 
 
 Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.com/channel/UCe1Aj6VEO299Yq4WkXdoD3Q), Zach designed a modular system that uses a gridded baseplate that accomodates blocks (also referred to as boxes or bins) sized to fit into one or more grid cells. After the publication of Zach's video, other designers began to adopt existing designs and to create new ones. This page is an attempt to catalog as many Gridfinity resources as possible.
 
+In July of 2022,Zach published a follow-on video to highlight a plethora of community designs:
+
+[![3D Print a Modular Toolbox, Soldering Station, and More!](https://img.youtube.com/vi/Bd4NnHvTRAY/0.jpg)](https://www.youtube.com/watch?v=Bd4NnHvTRAY)
+
 # Getting Started with Gridfinity
 
 * Pick a baseplate
