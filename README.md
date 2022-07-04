@@ -91,6 +91,11 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 
 * [Gridfinity: 3D Printed Super Quick Tool Storage And Retrieval](https://hackaday.com/2022/04/18/gridfinity-3d-printed-super-quick-tool-storage-and-retrieval/).
 
+# Videos
+
+* [Organize Your Messy Workspaces and Drawers with Gridfinity! Hastag #Gridfinity](https://www.youtube.com/watch?v=ZhIF1O4_aj0)
+* [A Quick Look at Gridfinity](https://www.youtube.com/watch?v=jJNx9FWgSM0)
+
 # Other Resources
 
 * [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad) - OpenSCAD code to generate baseplates and other blocks.
