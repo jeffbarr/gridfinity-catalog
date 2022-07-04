@@ -73,7 +73,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) - STL, 2x3.
 * [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) - (1x1, 3x3), 2 variants.
 * [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes) - STL, (1x1 - 3x3), 24 variants.
-* Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) - 3MF, 1x1. 
+* [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) - 3MF, 1x2. 
 * [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) - STL, (1x3, 2x3), 4 variants.
 * [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) - STL, 1x2.
 * [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) - STL, 1x1.
