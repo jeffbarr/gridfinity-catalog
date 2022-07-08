@@ -57,6 +57,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) - OpenSCAD, ?x?.
 * [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) - STL, 1x1.
 * [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) - STL, 1x1 - 3x5, 21 variants. 
+* [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder), STL, 1x3, 2 variants, 2022-07-08.
 * [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) - STL, 2 variants.
 * [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) - STL.
 * [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) - STL, (1x4, 2x4), 3 variants.
@@ -68,6 +69,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) - STL, 2x2.
 * [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) - 3MF, 1x1 - 3x4, 26 variants.
 * [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) - STL, (1x3, 1x4, 1x5), 5 variants.
+* [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack), STL, 1x2, 2022-07-08.
 * [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) - STL, (1x1 - 5x5), 27 variants.
 * [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) - OpenSCAD, ?x?.
 * [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) - STL, 2x3.
