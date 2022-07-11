@@ -41,6 +41,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) - STL, 1x2.
 * [AAA Battery Container](https://www.printables.com/model/219701-gridfinity-aaa-battery-containers) - STL, 
 * [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) - STL, 1x1.
+* [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) - STL, 1x1, 2022-7-11.
 * [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) - CadQuery, 1x1 - 5x5, 28 variants.
 * [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) - STL, (4x1 - 5x5), 36 variants.
 * [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) - STL, 1x1, 4 variants.
@@ -68,7 +69,9 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) - STL, 1x1.
 * [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) - STL, 2x2.
 * [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) - 3MF, 1x1 - 3x4, 26 variants.
+* [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) - STL, 1x3, 2022-7-11.
 * [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) - STL, (1x3, 1x4, 1x5), 5 variants.
+* [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) - STL, 1x2, 2022-7-11.
 * [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack), STL, 1x2, 2022-07-08.
 * [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) - STL, (1x1 - 5x5), 27 variants.
 * [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) - OpenSCAD, ?x?.
