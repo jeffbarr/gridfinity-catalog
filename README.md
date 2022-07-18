@@ -60,6 +60,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) - STL, 1x1.
 * [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) - OpenSCAD, ?x?.
 * [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) - STL, 1x1.
+* [Half Box](https://www.printables.com/model/241907-gridfinity-half-box) - STL, 0.5x1, 2022-07-18.
 * [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) - STL, 1x1 - 3x5, 21 variants. 
 * [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder), STL, 1x3, 2 variants, 2022-07-08.
 * [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) - STL, 2 variants.
