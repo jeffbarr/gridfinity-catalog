@@ -50,10 +50,13 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) - STL, 1x1 & 1x2, 2 variants.
 * [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) - STL, (1x3, 2x3), 2 variants. 
 * [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) - STL, (2x2, 2x3), 2 variants.
+* [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) - STL, 2x2, 2022-07-18.
 * [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) - STL, 1x1 - 5x1, 51 variants.
 * [Divided Boxes (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Divided%20Gridfinity%20Boxes%20(CadQuery%20Customizable)-64757) - STL, (1x1 - 5x5), 37 variants.
+* [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) - STL, 2x2, 2022-07-18.
 * [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) - STL, 3x2.
 * [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) - STL, 17 elements.
+* [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) - STL, 1x3, 2022-07-18.
 * [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) - STL, 1x1.
 * [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) - OpenSCAD, ?x?.
 * [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) - STL, 1x1.
@@ -74,7 +77,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) - STL, (1x3, 1x4, 1x5), 5 variants.
 * [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) - STL, 1x2, 2022-7-11.
 * [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack), STL, 1x2, 2022-07-08.
-* [Sharpie Holder](https://thangs.com/mythangs/file/191487) - STL, 1x1.
+* [Sharpie Holder](https://thangs.com/mythangs/file/191487) - STL, 1x1, 2022-07-18.
 * [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) - STL, (1x1 - 5x5), 27 variants.
 * [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) - OpenSCAD, ?x?.
 * [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) - STL, 2x3.
