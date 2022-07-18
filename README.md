@@ -66,6 +66,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) - STL, 1x1.
 * [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) - STL, (1x4, 2x4, 1x5), 3 variants. 
 * [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) - STL, 1x2, 3 variants.
+* [Pen Holder]([https://thangs.com/mythangs/file/191487](https://thangs.com/designer/RobJ/3d-model/Reg%20Sharpie%20Holder%201x1x1%20v1.stl-191487)) - STL, 1x1.
 * [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) - STL, 1x1.
 * [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) - STL, 2x2.
 * [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) - 3MF, 1x1 - 3x4, 26 variants.
