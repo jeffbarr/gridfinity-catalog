@@ -60,11 +60,11 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) | 2x2 | 1 | STL | 2022-07-18 | 
 | [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) | 3x2 | 1 | STL | - |
 | [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 elements | STL | - | 
+| [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
+| [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | - |
+| [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | - |
+| [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | - |
 
-* [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) - STL, 1x3, 2022-07-18.
-* [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) - STL, 1x1.
-* [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) - OpenSCAD, ?x?.
-* [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) - STL, 1x1.
 * [Half Box](https://www.printables.com/model/241907-gridfinity-half-box) - STL, 0.5x1, 2022-07-18.
 * [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) - STL, 1x1 - 3x5, 21 variants. 
 * [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder), STL, 1x3, 2 variants, 2022-07-08.
