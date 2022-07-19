@@ -46,10 +46,11 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [AAA Battery Container](https://www.printables.com/model/219701-gridfinity-aaa-battery-containers) | 1x1, 1x2 | 2 | STL | - |
 | [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) | 1x1 | 1 | STL | - |
 | [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) | 1x1 | 1 | STL | 2022-7-11 |
+| [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | - | 
+| [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 
+| [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL |
 
-* [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) - CadQuery, 1x1 - 5x5, 28 variants.
-* [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) - STL, (4x1 - 5x5), 36 variants.
-* [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) - STL, 1x1, 4 variants.
+
 * [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) - STL, 1x2.
 * [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) - STL, (1x2, 2x2, 3x3), 4 variants.
 * [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) - STL, 1x1 & 1x2, 2 variants.
