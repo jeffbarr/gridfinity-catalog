@@ -80,14 +80,14 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-7-11 |
 | [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | - |
 | [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) | 1x2 | 1 | STL |  2022-7-11 |
+| [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack) | 1x2 | 1 | STL | 2022-07-08 |
+| [Sharpie Holder](https://thangs.com/mythangs/file/191487) | 1x1 | 1 | STL | 2022-07-18 | 
+| [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1-5x5 | 27 | STL | - |
+| [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | - |
+| [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | - |
+| [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | - |
+| [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | - |
 
-* [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack), STL, 1x2, 2022-07-08.
-* [Sharpie Holder](https://thangs.com/mythangs/file/191487) - STL, 1x1, 2022-07-18.
-* [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) - STL, (1x1 - 5x5), 27 variants.
-* [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) - OpenSCAD, ?x?.
-* [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) - STL, 2x3.
-* [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) - (1x1, 3x3), 2 variants.
-* [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes) - STL, (1x1 - 3x3), 24 variants.
 * [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) - 3MF, 1x2. 
 * [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) - STL, (1x3, 2x3), 4 variants.
 * [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) - STL, 1x2.
