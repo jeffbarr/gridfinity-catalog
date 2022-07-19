@@ -49,14 +49,14 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | - | 
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL |
+| [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | - |
+| [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) | 1x2, 2x2, 3x3 | 4 | STL | - |
+| [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) | 1x1, 1x2 | 1 | STL | - |
+| [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) | 1x3, 2x3 | 1 | STL | - | 
+| [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | - |
+| [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
 
 
-* [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) - STL, 1x2.
-* [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) - STL, (1x2, 2x2, 3x3), 4 variants.
-* [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) - STL, 1x1 & 1x2, 2 variants.
-* [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) - STL, (1x3, 2x3), 2 variants. 
-* [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) - STL, (2x2, 2x3), 2 variants.
-* [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) - STL, 2x2, 2022-07-18.
 * [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) - STL, 1x1 - 5x1, 51 variants.
 * [Divided Boxes (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Divided%20Gridfinity%20Boxes%20(CadQuery%20Customizable)-64757) - STL, (1x1 - 5x5), 37 variants.
 * [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) - STL, 2x2, 2022-07-18.
