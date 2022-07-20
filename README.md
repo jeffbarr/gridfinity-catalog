@@ -94,6 +94,9 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | - |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | - |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | - |
+| [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
+| [Paper Towel Roll](https://social.thangs.com/m/201112) | 3x4 | 1 | STL | 2022-07-20 |
+
 # Everything Else
 
 * [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) - STL, 4x4.
