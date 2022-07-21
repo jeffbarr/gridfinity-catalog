@@ -26,7 +26,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | - |
-| [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | - |  
+| [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | - |  
 | [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2 - 6x6 | 8 | 3MF | - |
 | [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) | 1x4 - 3x4 | 3 | STL | - |
@@ -65,7 +65,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | - |
-| [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | - |
+| [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | - |
 | [Half Box](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 | 1 | STL | 2022-07-18 |
 | [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | - |
@@ -88,7 +88,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack) | 1x2 | 1 | STL | 2022-07-08 |
 | [Sharpie Holder](https://thangs.com/mythangs/file/191487) | 1x1 | 1 | STL | 2022-07-18 | 
 | [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1-5x5 | 27 | STL | - |
-| [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | - |
+| [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | - |
 | [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | - |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | - |
@@ -117,6 +117,6 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 
 # Other Resources
 
-* [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad) - OpenSCAD code to generate baseplates and other blocks.
+* [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad) - OpenSCAD code to generate baseplates and other blocks (2022-06-12).
 * [/r/gridfinity](https://www.reddit.com/r/gridfinity/) - Gridfinity sub-Reddit.
 * [Custom Gridfinity Bins](https://github.com/RashKash103/custom-gridfinity-bins) - Python Script: This project will allow you to create custom Gridfinity divider bins.
