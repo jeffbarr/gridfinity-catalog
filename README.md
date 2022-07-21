@@ -41,13 +41,13 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | 2022-06-16 | 
-| [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | - | 
+| [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | 2022-07-01 | 
 | [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) | 1x2 | 1 | STL | 2022-06-12 |
-| [AAA Battery Container](https://www.printables.com/model/219701-gridfinity-aaa-battery-containers) | 1x1, 1x2 | 2 | STL | - |
+| [AAA Battery Container](https://www.printables.com/model/219701-gridfinity-aaa-battery-containers) | 1x1, 1x2 | 2 | STL | 2022-07-01 |
 | [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) | 1x1 | 1 | STL | 2022-06-12 |
 | [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) | 1x1 | 1 | STL | 2022-7-11 |
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | 2022-06-12 | 
-| [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | ? |
+| [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 2022-06-25 |
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
 | [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) | 1x2, 2x2, 3x3 | 4 | STL | - |
@@ -68,7 +68,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | - |
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
-| [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | - |
+| [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [Half Box](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 | 1 | STL | 2022-07-18 |
 | [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | 2022-06-12 |
 | [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder)| 1x3 | 2 | STL | 2022-07-08 | 
@@ -82,7 +82,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5-4x5 | 10 | STL | 2022-07-21 |
 | [Paper Towel Roll](https://social.thangs.com/m/201112) | 3x4 | 1 | STL | 2022-07-20 |
 | [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | 2022-06-12 |
-| [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 1x1 | 1 | STL | - |
+| [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 1x1 | 1 | STL | 2022-07-01 |
 | [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) | 2x2 | 1 | STL | 2022-06-12 |
 | [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) | 1x1-3x4 | 26 | 3MF | 2022-06-12 |
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-07-11 |
@@ -95,13 +95,13 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
 | [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | - |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | - |
-| [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | - | 
+| [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | 2022-07-01 | 
 | [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
 | [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) | 1x2 | 1 | STL | 2022-06-12 |
 | [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) | 1x1 | 1 | STL | 2022-06-12 |
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
-| [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | - |
+| [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
 
 # Everything Else
 
