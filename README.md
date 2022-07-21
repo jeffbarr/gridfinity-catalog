@@ -63,7 +63,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) | 2x2 | 1 | STL | 2022-07-18 | 
 | [Drawers](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Drawers-188528?s=09) | 2x3,4x6 | 6 | STL | 2022-07-21 | 
 | [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) | 3x2 | 1 | STL | 2022-06-19 |
-| [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 elements | STL | - | 
+| [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 elements | STL | 2022-07-19 | 
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | - |
