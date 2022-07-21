@@ -66,7 +66,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 elements | STL | 2022-07-19 | 
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
-| [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | - |
+| [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [Half Box](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 | 1 | STL | 2022-07-18 |
@@ -74,9 +74,9 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder)| 1x3 | 2 | STL | 2022-07-08 | 
 | [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) | 2x2 | 2 | STL | 2022-06-12 |
 | [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) | 2x4 | 1 | STL | 2022-06-18 |
-| [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | - |
+| [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
 | [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
-| [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | - |
+| [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | 2022-07-19 |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
 | [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | 2022-06-12 | 
 | [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5-4x5 | 10 | STL | 2022-07-21 |
@@ -86,15 +86,15 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) | 2x2 | 1 | STL | 2022-06-12 |
 | [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) | 1x1-3x4 | 26 | 3MF | 2022-06-12 |
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-07-11 |
-| [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | - |
+| [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
 | [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) | 1x2 | 1 | STL |  2022-07-11 |
 | [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack) | 1x2 | 1 | STL | 2022-07-08 |
 | [Sharpie Holder](https://thangs.com/mythangs/file/191487) | 1x1 | 1 | STL | 2022-07-18 | 
 | [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1-5x5 | 27 | STL | 2022-06-18 |
 | [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
-| [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | - |
-| [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | - |
+| [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | 2022-07-19 |
+| [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | 2022-07-19 |
 | [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | 2022-07-01 | 
 | [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
 | [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) | 1x2 | 1 | STL | 2022-06-12 |
