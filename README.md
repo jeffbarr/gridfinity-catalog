@@ -59,7 +59,9 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Diamond Needle File kit](https://www.printables.com/model/244748-gridfinity-diamond-needle-file-set) | 1x1 | 1 | STL | 2022-07-20 |
 | [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) | 1x1 - 5x1 | 51 variants | STL | 2022-06-12 |
 | [Divided Boxes (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Divided%20Gridfinity%20Boxes%20(CadQuery%20Customizable)-64757) | 1x1 - 5x5 | 37 | STL | - |
+| [Divider Box for Breadboard Jumper Wires](https://thangs.com/designer/whoistobias/3d-model/Gridfinity%2520Divider%2520Box%2520for%2520Breadboard%2520Jumper%2520Wires-186348?s=09) | 2x5 | 1 | STL | 2022-07-21 |
 | [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) | 2x2 | 1 | STL | 2022-07-18 | 
+| [Drawers](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Drawers-188528?s=09) | 2x3,4x6 | 6 | | STL | 2022-07-21 | 
 | [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) | 3x2 | 1 | STL | - |
 | [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 elements | STL | - | 
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
@@ -77,6 +79,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | - |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
 | [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | - | 
+| [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5-4x5 | 10 | STL | 2022-07-21 |
 | [Paper Towel Roll](https://social.thangs.com/m/201112) | 3x4 | 1 | STL | 2022-07-20 |
 | [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | - |
 | [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 1x1 | 1 | STL | - |
