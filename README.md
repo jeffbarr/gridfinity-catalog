@@ -27,13 +27,13 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
-| [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | - |  
-| [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2 - 6x6 | 8 | 3MF | - |
-| [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) | 1x4 - 3x4 | 3 | STL | - |
-| [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers | 1x1 |  6  | STL | - |
-| [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | - |
+| [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |  
+| [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2 - 6x6 | 8 | 3MF | 2022-06-12 |
+| [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) | 1x4 - 3x4 | 3 | STL | 2022-06-12 |
+| [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers | 1x1 |  6  | STL | 2022-06-12 |
+| [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | 2022-06-12 |
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1 - 5x5 | 15 | STL | - |
-| [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1 - 7x7 | 13 | STL | - | 
+| [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1 - 7x7 | 13 | STL | 2022-06-12 | 
 | [Wall Rack](https://thangs.com/designer/ashleyi100/3d-model/Gridfinity%2520Wall%2520Rack-62669?part=3080e1c0-6ce6-4cd3-a17e-1b8e37b7f676) | 1x4 | 1 | STL | - |
 
 # Blocks
@@ -42,16 +42,16 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | - | 
 | [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | - | 
-| [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) | 1x2 | 1 | STL |
+| [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) | 1x2 | 1 | STL | 2022-06-12 |
 | [AAA Battery Container](https://www.printables.com/model/219701-gridfinity-aaa-battery-containers) | 1x1, 1x2 | 2 | STL | - |
-| [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) | 1x1 | 1 | STL | - |
+| [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) | 1x1 | 1 | STL | 2022-06-12 |
 | [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) | 1x1 | 1 | STL | 2022-7-11 |
-| [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | - | 
+| [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | 2022-06-12 | 
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL |
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | - |
 | [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) | 1x2, 2x2, 3x3 | 4 | STL | - |
-| [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) | 1x1, 1x2 | 1 | STL | - |
+| [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) | 1x1, 1x2 | 1 | STL | 2022-06-12 |
 | [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) | 1x3, 2x3 | 1 | STL | - | 
 | [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | - |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
@@ -70,21 +70,21 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | - |
 | [Half Box](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 | 1 | STL | 2022-07-18 |
-| [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | - |
+| [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | 2022-06-12 |
 | [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder)| 1x3 | 2 | STL | 2022-07-08 | 
-| [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) | 2x2 | 2 | STL | - |
+| [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) | 2x2 | 2 | STL | 2022-06-12 |
 | [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) | 2x4 | 1 | STL | - |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | - |
-| [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | - | 
+| [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
 | [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | - |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
-| [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | - | 
+| [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | 2022-06-12 | 
 | [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5-4x5 | 10 | STL | 2022-07-21 |
 | [Paper Towel Roll](https://social.thangs.com/m/201112) | 3x4 | 1 | STL | 2022-07-20 |
-| [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | - |
+| [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | 2022-06-12 |
 | [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 1x1 | 1 | STL | - |
-| [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) | 2x2 | 1 | STL | - |
-| [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) | 1x1-3x4 | 26 | 3MF | - |
+| [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) | 2x2 | 1 | STL | 2022-06-12 |
+| [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) | 1x1-3x4 | 26 | 3MF | 2022-06-12 |
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-07-11 |
 | [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | - |
 | [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) | 1x2 | 1 | STL |  2022-07-11 |
@@ -96,10 +96,10 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | - |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | - |
 | [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | - | 
-| [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | - |
-| [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) | 1x2 | 1 | STL | - |
+| [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
+| [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) | 1x2 | 1 | STL | 2022-06-12 |
 | [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) | 1x1 | 1 | STL | 2022-06-12 |
-| [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | - |
+| [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | - |
 
