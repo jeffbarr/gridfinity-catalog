@@ -50,10 +50,10 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 2022-06-25 |
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
-| [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) | 1x2, 2x2, 3x3 | 4 | STL | - |
+| [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) | 1x2, 2x2, 3x3 | 4 | STL | 2022-07-19 |
 | [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) | 1x1, 1x2 | 1 | STL | 2022-06-12 |
-| [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) | 1x3, 2x3 | 1 | STL | - | 
-| [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | - |
+| [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) | 1x3, 2x3 | 1 | STL | 2022-07-19 | 
+| [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | 2022-07-19 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
 | [Diamond Needle File kit](https://www.printables.com/model/244748-gridfinity-diamond-needle-file-set) | 1x1 | 1 | STL | 2022-07-20 |
