@@ -36,6 +36,8 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1 - 5x5 | 15 | STL | 2022-06-18 |
 | [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1 - 7x7 | 13 | STL | 2022-06-12 | 
 | [Wall Rack](https://thangs.com/designer/ashleyi100/3d-model/Gridfinity%2520Wall%2520Rack-62669?part=3080e1c0-6ce6-4cd3-a17e-1b8e37b7f676) | 1x4 | 1 | STL | 2022-06-17 |
+| [Weighted Baseplate 5x7.stl](https://social.thangs.com/m/187707) | 5x7 | 1 | STL | 2022-07-22 |
+| [Weighted Baseplate 7x7.stl](https://social.thangs.com/m/187945) | 7x7 | 1 | STL | 2022-07-22 |
 
 # Blocks
 
