@@ -70,6 +70,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
+| [Glasses (3x) Stand](https://www.printables.com/model/245600-gridfinity-glasses-3x-stand) | 1x3 | 1 | STL | 2022-07-22 |
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [Half Box](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 | 1 | STL | 2022-07-18 |
