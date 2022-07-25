@@ -124,7 +124,6 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Gridfinity Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
 | [Gridfinity Solder Reel Stand](https://www.printables.com/model/196782-gridfinity-solder-reel-stand) | 2x2 | 1 | STL | 2022-07-25 |
 | [#Gridfinity Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
-| [Gridfinity Jumper Wire Holder](https://www.printables.com/en/model/193846-gridfinity-jumper-wire-holder/files) | 1x1 | 1 | STL | 2022-07-25 |
 | [Gridfinity Adjustable Jumper Wire Comb](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Adjustable%2520Jumper%2520Wire%2520Comb-174402) | 1x1 | 1 | STL | 2022-07-25 |
 | [#Gridfinity helping hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
 | [Gridfinity 1x1 Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
