@@ -128,7 +128,6 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [#Gridfinity helping hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
 | [Gridfinity 1x1 Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
 | [Gridfinity The One SD Card Holder](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520The%2520One%2520SD%2520Card%2520Holder-61775) | 1x1 | 1 | STL | 2022-07-25 |
-| [Gridfinity AAA Battery Containers](https://www.printables.com/en/model/219701-gridfinity-aaa-battery-containers) | 1x1,2x1 | 2 | STL | 2022-07-25 |
 | [Gridfinity - 2x1 8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL/F3D | 2022-07-25 |
 | [Gridfinity Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF/F3D | 2022-07-25 |
 | [Gridfinity 9V battery holder](https://www.printables.com/en/model/225989-gridfinity-9v-battery-holder) | 1x1 | 1 | 3MF | 2022-07-25 |
