@@ -61,6 +61,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | 2022-06-12 | 
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 2022-06-25 |
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
+| [Gridfinity Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
 | [Can Holder](https://www.printables.com/model/245372-gridfinity-can-holder) | 2x2 | 1 | STL | 2022-07-21 |
 | [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) | 1x2, 2x2, 3x3 | 4 | STL | 2022-07-19 |
@@ -138,10 +139,6 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [#Gridfinity Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 2(but 1 isn't gridfinity) | STL | 2022-07-25 |
 | [Dremel box organiser - Gridfinity based](https://www.printables.com/en/model/217722-dremel-box-organiser-gridfinity-based/files) | various | 17 | STL | 2022-07-25 |
 | [#Gridfinity Height Adaptive Spacers](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Height%2520Adaptive%2520Spacers-61820) | various | 30 | STL | 2022-07-25 |
-| [#gridfinity Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%2523gridfinity%2520Vase%2520Mode%2520Single%2520Box-65828) | 1x1 | 4 | STL | 2022-07-25 |
-| [Gridfinity Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL/STEP | 2022-07-25 |
-| [Gridfinity Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL/BLEND | 2022-07-25 |
-| [Gridfinity Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 4 | STL | 2022-07-25 |
 | [Plain Bins](https://thangs.com/designer/robert.j.paisley/3d-model/Plain%2520Bins-73750) | 3x6 | 2 | STL | 2022-07-25 |
 | [Dispenser lids](https://thangs.com/designer/robert.j.paisley/3d-model/Dispenser%2520lids-73748) | 3x6 | 2 | STL | 2022-07-25 |
 | [#Gridfinity Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2(2 parts, 1 final item) | STL | 2022-07-25 |
