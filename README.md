@@ -28,22 +28,22 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
-| [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |  
+| [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |
+| [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
+| [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 
+| [Ender 3 Power ledge Baseplate](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
+| [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
 | [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2 - 6x6 | 8 | 3MF | 2022-06-12 |
 | [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) | 1x4 - 3x4 | 3 | STL | 2022-06-12 |
 | [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers | 1x1 |  6  | STL | 2022-06-12 |
 | [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | 2022-06-12 |
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1 - 5x5 | 15 | STL | 2022-06-18 |
-| [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1 - 7x7 | 13 | STL | 2022-06-12 | 
+| [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1 - 7x7 | 13 | STL | 2022-06-12 |
+| [Vertical Baseplate](https://www.printables.com/model/229566-gridfinity-vertical-baseplate/files) | 4x3 | 1 | STL/F3D | 2022-07-25 |
+| [Voron printer (2020 extrusion) Baseplate](https://www.printables.com/model/175108-gridfinity-holder-for-voron-printers-2020-extrusio/files) | 1x1 | 1 | STL/F3D | 2022-07-25 |
 | [Wall Rack](https://thangs.com/designer/ashleyi100/3d-model/Gridfinity%2520Wall%2520Rack-62669?part=3080e1c0-6ce6-4cd3-a17e-1b8e37b7f676) | 1x4 | 1 | STL | 2022-06-17 |
 | [Weighted Baseplate 5x7.stl](https://social.thangs.com/m/187707) | 5x7 | 1 | STL | 2022-07-22 |
 | [Weighted Baseplate 7x7.stl](https://social.thangs.com/m/187945) | 7x7 | 1 | STL | 2022-07-22 |
-| [Gridfinity Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |
-| [Gridfinity Power ledge](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
-| [Gridfinity Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 2022-07-25 |
-| [Gridfinity holder for Voron printers (2020 extrusion)](https://www.printables.com/model/175108-gridfinity-holder-for-voron-printers-2020-extrusio/files) | 1x1 | 1 | STL/F3D | 2022-07-25 |
-| [CR10-CR10S #Gridfinity Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
-| [Gridfinity Vertical Baseplate](https://www.printables.com/model/229566-gridfinity-vertical-baseplate/files) | 4x3 | 1 | STL/F3D | 2022-07-25 |
 
 
 
