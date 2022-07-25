@@ -38,6 +38,14 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Wall Rack](https://thangs.com/designer/ashleyi100/3d-model/Gridfinity%2520Wall%2520Rack-62669?part=3080e1c0-6ce6-4cd3-a17e-1b8e37b7f676) | 1x4 | 1 | STL | 2022-06-17 |
 | [Weighted Baseplate 5x7.stl](https://social.thangs.com/m/187707) | 5x7 | 1 | STL | 2022-07-22 |
 | [Weighted Baseplate 7x7.stl](https://social.thangs.com/m/187945) | 7x7 | 1 | STL | 2022-07-22 |
+| [Gridfinity Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity Power ledge](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity holder for Voron printers (2020 extrusion)](https://www.printables.com/model/175108-gridfinity-holder-for-voron-printers-2020-extrusio/files) | 1x1 | 1 | STL/F3D | 2022-07-25 |
+| [CR10-CR10S #Gridfinity Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity Vertical Baseplate](https://www.printables.com/model/229566-gridfinity-vertical-baseplate/files) | 4x3 | 1 | STL/F3D | 2022-07-25 |
+
+
 
 # Blocks
 
@@ -108,11 +116,43 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
+| [Gridfinity Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 1 | STL | 2022-07-25 |
+| [#Gridfinity Raspberry Pi Case](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Raspberry%2520Pi%2520Case-61718) | 2x2 | 1 | STL | 2022-07-25 |
+| [Gridfinity Pinecil Solder iron Holder](https://thangs.com/designer/markh018/3d-model/Gridfinity%2520Pinecil%2520Solder%2520iron%2520Holder-73357) | 1x1 | 1 | STL | 2022-07-25 |
+| [#gridfinity xacto holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity Solder Reel Stand](https://www.printables.com/model/196782-gridfinity-solder-reel-stand) | 2x2 | 1 | STL | 2022-07-25 |
+| [#Gridfinity Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
+| [Gridfinity Jumper Wire Holder](https://www.printables.com/en/model/193846-gridfinity-jumper-wire-holder/files) | 1x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity Adjustable Jumper Wire Comb](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Adjustable%2520Jumper%2520Wire%2520Comb-174402) | 1x1 | 1 | STL | 2022-07-25 |
+| [#Gridfinity helping hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity 1x1 Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) | 1x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity The One SD Card Holder](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520The%2520One%2520SD%2520Card%2520Holder-61775) | 1x1 | 1 | STL | 2022-07-25 |
+| [Gridfinity AAA Battery Containers](https://www.printables.com/en/model/219701-gridfinity-aaa-battery-containers) | 1x1,2x1 | 2 | STL | 2022-07-25 |
+| [Gridfinity - 2x1 8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL/F3D | 2022-07-25 |
+| [Gridfinity Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF/F3D | 2022-07-25 |
+| [Gridfinity 9V battery holder](https://www.printables.com/en/model/225989-gridfinity-9v-battery-holder) | 1x1 | 1 | 3MF | 2022-07-25 |
+| [Gridfinity 1x1 18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
+| [Gridfinity 3x5 Ultimate Battery Holder (AA, AAA, AAAA, 2032, LR44, A97, 18650, 9v)](https://thangs.com/designer/Michael%20Fuchs/3d-model/Gridfinity%25203x5%2520Ultimate%2520Battery%2520Holder%2520%28AA%252C%2520AAA%252C%2520AAAA%252C%25202032%252C%2520LR44%252C%2520A97%252C%252018650%252C%25209v%29-62533) | 3x5 | 1 | STL | 2022-07-25 |
+| [#Gridfinity Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 2(but 1 isn't gridfinity) | STL | 2022-07-25 |
+| [Dremel box organiser - Gridfinity based](https://www.printables.com/en/model/217722-dremel-box-organiser-gridfinity-based/files) | various | 17 | STL | 2022-07-25 |
+| [#Gridfinity Height Adaptive Spacers](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Height%2520Adaptive%2520Spacers-61820) | various | 30 | STL | 2022-07-25 |
+| [#gridfinity Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%2523gridfinity%2520Vase%2520Mode%2520Single%2520Box-65828) | 1x1 | 4 | STL | 2022-07-25 |
+| [Gridfinity Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL/STEP | 2022-07-25 |
+| [Gridfinity Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL/BLEND | 2022-07-25 |
+| [Gridfinity Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 4 | STL | 2022-07-25 |
+| [Plain Bins](https://thangs.com/designer/robert.j.paisley/3d-model/Plain%2520Bins-73750) | 3x6 | 2 | STL | 2022-07-25 |
+| [Dispenser lids](https://thangs.com/designer/robert.j.paisley/3d-model/Dispenser%2520lids-73748) | 3x6 | 2 | STL | 2022-07-25 |
+| [#Gridfinity Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2(2 parts, 1 final item) | STL | 2022-07-25 |
+
 
 # Everything Else
 
-* [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) - STL, 4x4, 2022-06-17.
-* 
+| Description | Sizes | Variants |Format | Date Added |
+| :---        |  ---: |     ---: |  ---: | :---       |
+| [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) | 4x4 | 1 | STL | 2022-06-17 |
+| [Gridfinity Toolbox (Parametric)](https://thangs.com/designer/jaswlodarczyk/3d-model/Gridfinity%2520Toolbox%2520%28Parametric%29-67053) | 5x3 | 7 | STL | 2022-07-25 |
 
 # Articles
 
