@@ -130,7 +130,6 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Gridfinity The One SD Card Holder](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520The%2520One%2520SD%2520Card%2520Holder-61775) | 1x1 | 1 | STL | 2022-07-25 |
 | [Gridfinity - 2x1 8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL/F3D | 2022-07-25 |
 | [Gridfinity Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF/F3D | 2022-07-25 |
-| [Gridfinity 9V battery holder](https://www.printables.com/en/model/225989-gridfinity-9v-battery-holder) | 1x1 | 1 | 3MF | 2022-07-25 |
 | [Gridfinity 1x1 18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
 | [Gridfinity 3x5 Ultimate Battery Holder (AA, AAA, AAAA, 2032, LR44, A97, 18650, 9v)](https://thangs.com/designer/Michael%20Fuchs/3d-model/Gridfinity%25203x5%2520Ultimate%2520Battery%2520Holder%2520%28AA%252C%2520AAA%252C%2520AAAA%252C%25202032%252C%2520LR44%252C%2520A97%252C%252018650%252C%25209v%29-62533) | 3x5 | 1 | STL | 2022-07-25 |
 | [#Gridfinity Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 2(but 1 isn't gridfinity) | STL | 2022-07-25 |
