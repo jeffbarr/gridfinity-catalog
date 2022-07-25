@@ -117,7 +117,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
-| [Gridfinity Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 1 | STL | 2022-07-25 |
+| [Gridfinity Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [#Gridfinity Raspberry Pi Case](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Raspberry%2520Pi%2520Case-61718) | 2x2 | 1 | STL | 2022-07-25 |
 | [Gridfinity Pinecil Solder iron Holder](https://thangs.com/designer/markh018/3d-model/Gridfinity%2520Pinecil%2520Solder%2520iron%2520Holder-73357) | 1x1 | 1 | STL | 2022-07-25 |
 | [#gridfinity xacto holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
