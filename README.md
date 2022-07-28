@@ -91,7 +91,6 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [Half Box](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 | 1 | STL | 2022-07-18 |
-| [Height Adaptive Spacers](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Height%2520Adaptive%2520Spacers-61820) | various | 30 | STL | 2022-07-25 |
 | [Helping Hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
 | [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | 2022-06-12 |
 | [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder)| 1x3 | 2 | STL | 2022-07-08 | 
@@ -104,7 +103,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | 2022-06-12 | 
-| [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5-4x5 | 10 | STL | 2022-07-21 |
+| [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5 - 4x5 | 10 | STL | 2022-07-21 |
 | [Paper Towel Roll](https://social.thangs.com/m/201112) | 3x4 | 1 | STL | 2022-07-20 |
 | [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | 2022-06-12 |
 | [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 1x1 | 1 | STL | 2022-07-01 |
@@ -138,6 +137,12 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
 | [Xacto Holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
 
+# Adapters
+
+| Description | Sizes | Variants |Format | Date Added |
+| :---        |  ---: |     ---: |  ---: | :---       |
+| [Gridfinity Adapters](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Adapters-61462) | 1x1 - 5x5 | 1 | STL/F3D | 2022-07-28
+| [Height Adaptive Spacers](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Height%2520Adaptive%2520Spacers-61820) | various | 30 | STL | 2022-07-25 |
 
 # Everything Else
 
