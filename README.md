@@ -103,7 +103,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
 | [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | 2022-07-19 |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
-| Minifinity Bin Collection | 1x1-4x2 | 9 | STL | 2022-07-29 |
+| [Minifinity Bin Collection](https://www.printables.com/model/247815-gridfinity-minifinity-bin-collection) | 1x1-4x2 | 9 | STL | 2022-07-29 |
 | [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | 2022-06-12 | 
