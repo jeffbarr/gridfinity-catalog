@@ -117,7 +117,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) | 1x1-3x4 | 26 | 3MF | 2022-06-12 |
 | [Plain Bins](https://thangs.com/designer/robert.j.paisley/3d-model/Plain%2520Bins-73750) | 3x6 | 2 | STL | 2022-07-25 |
 | [(Plain Bin) Dispenser lids](https://thangs.com/designer/robert.j.paisley/3d-model/Dispenser%2520lids-73748) | 3x6 | 2 | STL | 2022-07-25 |
-| (Post-It Stack Container)[https://www.printables.com/model/251977-gridfinity-post-it-stack-container] | 2x2 | 1 | STL | 2022-08-16 |
+| [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
 | [Raspberry Pi Case](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Raspberry%2520Pi%2520Case-61718) | 2x2 | 1 | STL | 2022-07-25 |
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-07-11 |
 | [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
@@ -128,7 +128,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
 | [Solder Reel Stand](https://www.printables.com/model/196782-gridfinity-solder-reel-stand) | 2x2 | 1 | STL | 2022-07-25 |
-{ [Small Part Sort and Storage](https://www.printables.com/model/218364-sortfinity-gridfinity-small-part-sort-and-storage) | 2x2 | 1 | STL | 2022-08-16 | 
+| [Small Part Sort and Storage](https://www.printables.com/model/218364-sortfinity-gridfinity-small-part-sort-and-storage) | 2x2 | 1 | STL | 2022-08-16 | 
 | [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | 2022-07-19 |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | 2022-07-19 |
 | [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | 2022-07-01 | 
