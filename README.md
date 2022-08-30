@@ -141,6 +141,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) | 1x1 | 1 | STL | 2022-06-12 |
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
+| [Watch Band Holder](https://www.printables.com/model/268905-gridfinity-watch-band-holder) | 2x3 | 1 | STL | 2022-08-30 |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
