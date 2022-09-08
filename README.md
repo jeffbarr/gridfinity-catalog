@@ -204,6 +204,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Organize Your Messy Workspaces and Drawers with Gridfinity! Hastag #Gridfinity](https://www.youtube.com/watch?v=ZhIF1O4_aj0), 2022-07-04.
 * [A Quick Look at Gridfinity](https://www.youtube.com/watch?v=jJNx9FWgSM0), 2022-07-04.
 * [Revenge Of The 5th | Gridfinity Enclosure Imperial Inspired](https://www.youtube.com/watch?v=Vo-mQe38-Bk), 2022-07-04.
+* [3D Printing Your New Workshop Organization System](https://www.youtube.com/watch?v=KtbKwAuwv9s), 2022-09-08.
 
 # Other Resources
 
