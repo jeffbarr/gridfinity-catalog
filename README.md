@@ -108,7 +108,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [GoPro Holder](https://thangs.com/designer/martinwew/3d-model/Gridfinity%202x1%20gopro%20holder.STL-313028) | 1x2 | 1 | STL | 2022-09-04 |
 | [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 - 0.5x3 | 10 | STL | 2022-09-19 |
 | [Helping Hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
-| [Helping Hands Base](https://thangs.com/designer/faalzin/3d-model/Gridfinity%2520Helping%2520Hands%2520Base-260671) | 1x1 | STL | 2022-09-08 |
+| [Helping Hands Base](https://thangs.com/designer/faalzin/3d-model/Gridfinity%2520Helping%2520Hands%2520Base-260671) | 1x1 | 1 | STL | 2022-09-08 |
 | [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | 2022-06-12 |
 | [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder)| 1x3 | 2 | STL | 2022-07-08 | 
 | [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) | 2x2 | 2 | STL | 2022-06-12 |
