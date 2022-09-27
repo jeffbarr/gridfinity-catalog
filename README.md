@@ -144,6 +144,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Raspberry Pi Case](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Raspberry%2520Pi%2520Case-61718) | 2x2 | 1 | STL | 2022-07-25 |
 | [Raspberry Pi Pico Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%2520Raspberry%2520Pi%2520Pico%2520Holder.stl-198518) | 2x1 | 1 | STL | 2022-09-04 |
 | [Raspberry Pi Zero Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%2520Raspberry%2520Pi%2520Zero%2520Holder.stl-198515) | 2x1 | 1 | STL | 2022-09-04 |
+| [Ratchet Holder](https://www.printables.com/model/282674-gridfinity-ratchet-holder-1x4) | 1x4 | 1 | STL | 2022-09-26 |
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-07-11 |
 | [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
 | [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) | 1x2 | 1 | STL |  2022-07-11 |
