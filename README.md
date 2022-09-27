@@ -30,6 +30,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |
 | [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
+| [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
 | [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 
 | [Ender 3 Power ledge Baseplate](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
