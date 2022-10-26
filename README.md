@@ -90,6 +90,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
 | [Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
 | [Diamond Needle File kit](https://www.printables.com/model/244748-gridfinity-diamond-needle-file-set) | 1x1 | 1 | STL | 2022-07-20 |
+| [Dice Holder for DnD and other TTRPG](https://www.printables.com/model/295485-gridfinity-dice-holder-for-dnd-and-other-ttrpg) | 1x3 | 7 | STL | 2022-10-26 |
 | [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) | 1x1 - 5x1 | 51 variants | STL | 2022-06-12 |
 | [Divided Boxes (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Divided%20Gridfinity%20Boxes%20(CadQuery%20Customizable)-64757) | 1x1 - 5x5 | 37 | STL | 2022-06-13 |
 | [Divider Box for Breadboard Jumper Wires](https://thangs.com/designer/whoistobias/3d-model/Gridfinity%2520Divider%2520Box%2520for%2520Breadboard%2520Jumper%2520Wires-186348?s=09) | 2x5 | 1 | STL | 2022-07-21 |
@@ -209,6 +210,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+| [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2 - 2x4 | 27 | SCAD,STL | 2022-10-26 |
 | [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) | 4x4 | 1 | STL | 2022-06-17 |
 | [Toolbox (Parametric)](https://thangs.com/designer/jaswlodarczyk/3d-model/Gridfinity%2520Toolbox%2520%28Parametric%29-67053) | 5x3 | 7 elements | STL | 2022-07-25 |
 
