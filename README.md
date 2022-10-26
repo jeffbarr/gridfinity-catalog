@@ -199,6 +199,12 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Gridfinity Adapters](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Adapters-61462) | 1x1 - 5x5 | 1 | STL/F3D | 2022-07-28
 | [Height Adaptive Spacers](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Height%2520Adaptive%2520Spacers-61820) | various | 30 | STL | 2022-07-25 |
 
+# Templates
+| Description | Sizes | Variants |Format | Date Added |
+| :---        |  ---: |     ---: |  ---: | :---       |
+| [Base Template with Improved Holes and Weight Slots](https://www.printables.com/model/275757-gridfinity-base-template-with-improved-holes-and-w) | 1x1 | 2 | STEP,F3D,STL | 2022-10-26 |
+| [Template with Mid-Air Holes](https://www.printables.com/model/269834-gridfinity-template-modified-for-mid-air-holes) | 1x1 | 1 | 3MF,F3D | 2022-10-26 |
+
 # Everything Else
 
 | Description | Sizes | Variants |Format | Date Added |
