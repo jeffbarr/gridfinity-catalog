@@ -56,7 +56,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
-| [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 1 | STL | 2022-09-26 |
+| [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 | 1 | STL | 2022-09-26 |
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | 2022-06-16 | 
 | [8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL/F3D | 2022-07-25 |
 | [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | 2022-07-01 | 
