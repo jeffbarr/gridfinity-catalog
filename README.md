@@ -169,7 +169,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Sticky Note Holder](https://thangs.com/designer/Robot_taco_sauce/3d-model/Gridfinity%2520sticky%2520note%2520holder.stl-194948) | 2x2 | 1 | STL | 2022-09-04 |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | 2022-07-19 |
 | [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | 2022-07-19 |
-| [Swinger Trays](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinger%2520Trays-262514)| | 2x2 | 1 | STL | 2022-09-26 |
+| [Swinger Trays](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinger%2520Trays-262514) | 2x2 | 1 | STL | 2022-09-26 |
 | [Swinging Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinging%2520Drawer-201480) | 3x3 | 2 | STL | 2022-09-04 |
 | [Tabletop (Gaming)](https://www.thingiverse.com/thing:5454853) | 1x1 | 3 | STL | 2022-09-04
 | [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | 2022-07-01 | 
