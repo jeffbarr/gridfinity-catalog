@@ -47,7 +47,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Thin Baseplate with Magnets](https://www.printables.com/model/303923-gridfinity-thin-base-with-magnets) | 2x2 - 6x6 | 15 | STL | 2022-10-27 |
 | [Thinner Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Thinner%2520Minimal%2520Baseplate%25204x4.stl-260577) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
 | [Under-Desk Drawer](https://www.printables.com/model/267929-gridfinity-under-desk-drawer) | 4x4 | 1 | STL + STEP | 2022-09-21 |
-| [VESA Shelf](https://www.tinkercad.com/things/dx6BXXMHsrs-vesa-gridfinity-1x3-shelf) and [VESA Shelf Back](https://www.tinkercad.com/things/133jXDA6OXN-vesa-gridfinity-2-shelf-back) | 1x3 | 1 STL | 2022-12-06 |
+| [VESA Shelf](https://www.tinkercad.com/things/dx6BXXMHsrs-vesa-gridfinity-1x3-shelf) and [VESA Shelf Back](https://www.tinkercad.com/things/133jXDA6OXN-vesa-gridfinity-2-shelf-back) | 1x3 | 1  | STL | 2022-12-06 |
 | [Vertical Baseplate](https://www.printables.com/model/229566-gridfinity-vertical-baseplate/files) | 4x3 | 1 | STL/F3D | 2022-07-25 |
 | [Voron printer (2020 extrusion) Baseplate](https://www.printables.com/model/175108-gridfinity-holder-for-voron-printers-2020-extrusio/files) | 1x1 | 1 | STL/F3D | 2022-07-25 |
 | [Wall Rack](https://thangs.com/designer/ashleyi100/3d-model/Gridfinity%2520Wall%2520Rack-62669?part=3080e1c0-6ce6-4cd3-a17e-1b8e37b7f676) | 1x4 | 1 | STL | 2022-06-17 |
