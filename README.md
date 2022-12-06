@@ -236,3 +236,5 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 * [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad) - OpenSCAD code to generate baseplates and other blocks (2022-06-12).
 * [/r/gridfinity](https://www.reddit.com/r/gridfinity/) - Gridfinity sub-Reddit.
 * [Custom Gridfinity Bins](https://github.com/RashKash103/custom-gridfinity-bins) - Python Script: This project will allow you to create custom Gridfinity divider bins.
+* [Gridfinity Rebuilt in OpenSCAD](https://github.com/kennetek/gridfinity-rebuilt-openscad) - Parameterized OpenSCAD for baseplates and bins, including vase mode (2022-12-06).
+ 
