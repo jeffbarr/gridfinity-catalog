@@ -229,7 +229,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 * [3D Printing Your New Workshop Organization System](https://www.youtube.com/watch?v=KtbKwAuwv9s), 2022-09-08.
 * [To Gridfinity and Beyond - Decluttering my Workshop with Gridfinity](https://www.youtube.com/watch?v=hTjcp_R7Bbg) - 2022-09-11.
 * [Overkill Gridfinity Baseplate](https://www.youtube.com/watch?v=EWTE9uL3jnQ) - 2022-10-27.
-* 
+* [Store Anything Anywhere with Gridfinity! 20+ Weird Printable Organizers by Makers Like You!](https://www.youtube.com/watch?v=7FCwMq-rVsY) - 2022-12-06.
 
 # Other Resources
 
