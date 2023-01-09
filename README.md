@@ -43,6 +43,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | 2022-06-12 |
 | [Screw Together Baseplate](https://www.printables.com/model/300603-gridfinity-screw-together-baseplate/files) | 1x1 - 7x7 | 28 |  STL | 2022-10-27 |
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1 - 5x5 | 15 | STL | 2022-06-18 |
+| [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1 - 5x5 | 20 | 3MF, F3D, STEP | 2023-01-09 |
 | [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1 - 7x7 | 13 | STL | 2022-06-12 | 28 | 
 | [Thin Baseplate with Magnets](https://www.printables.com/model/303923-gridfinity-thin-base-with-magnets) | 2x2 - 6x6 | 15 | STL | 2022-10-27 |
 | [Thinner Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Thinner%2520Minimal%2520Baseplate%25204x4.stl-260577) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
