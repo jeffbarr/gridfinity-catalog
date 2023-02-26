@@ -246,4 +246,5 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 * [/r/gridfinity](https://www.reddit.com/r/gridfinity/) - Gridfinity sub-Reddit.
 * [Custom Gridfinity Bins](https://github.com/RashKash103/custom-gridfinity-bins) - Python Script: This project will allow you to create custom Gridfinity divider bins.
 * [Gridfinity Rebuilt in OpenSCAD](https://github.com/kennetek/gridfinity-rebuilt-openscad) - Parameterized OpenSCAD for baseplates and bins, including vase mode (2022-12-06).
+* [Gridfinity Design Reference](https://gridfinity.xyz/specification/) - A reference tool for designing Gridfinity modules.
  
