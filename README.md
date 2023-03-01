@@ -188,6 +188,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
 | [Template with Mid-Air Holes](https://www.printables.com/model/269834-gridfinity-template-modified-for-mid-air-holes) | 1x1 | 1 | STL,F3D | 2022-09-26 |
 | [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) | 1x2 | 1 | STL | 2022-06-12 |
+| [Threaded Insert Tips Holder](https://www.printables.com/model/408938-gridfinity-threaded-insert-tips-holder) | 1x2 | 1 | STL | 2023-02-28 |
 | [Tiered Bins](https://www.printables.com/model/247302-gridfinity-tiered-bins) | 1x1 | 3 | STL | 2022-08-16 |
 | [The One SD Card Holder](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520The%2520One%2520SD%2520Card%2520Holder-61775) | 1x1 | 1 | STL | 2022-07-25 |
 | [Tinkercad Blanks](https://www.tinkercad.com/things/0e6jUnl4tIr) | Varies | 8 | Tinkercad | 2022-07-25 |
