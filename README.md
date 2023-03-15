@@ -117,6 +117,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [GoPro Holder](https://thangs.com/designer/martinwew/3d-model/Gridfinity%202x1%20gopro%20holder.STL-313028) | 1x2 | 1 | STL | 2022-09-04 |
 | [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 - 0.5x3 | 10 | STL | 2022-09-19 |
+| [Height Tool](https://thangs.com/designer/myway2build3d/3d-model/Gridfinity%20Height%20Tool%20-666915) | 1x1 | 1 | STL | 2023-03-15 |
 | [Helping Hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
 | [Helping Hands Base](https://thangs.com/designer/faalzin/3d-model/Gridfinity%2520Helping%2520Hands%2520Base-260671) | 1x1 | 1 | STL | 2022-09-08 |
 | [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | 2022-06-12 |
