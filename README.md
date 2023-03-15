@@ -85,6 +85,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
 | [Can Holder](https://www.printables.com/model/245372-gridfinity-can-holder) | 2x2 | 1 | STL | 2022-07-21 |
 | [Case for Scalpels](https://www.printables.com/model/241400) | 4x2 | 1 | F3D + STL | 2022-09-04 |
+| [Celtic Knot Bin] | 1x1 ([std](https://social.thangs.com/m/733950), [ext](https://social.thangs.com/m/733951)), 1x2 ([std](https://social.thangs.com/m/733953), [ext](https://social.thangs.com/m/733956)), 2x2 ([std](https://social.thangs.com/m/733962), [ext](https://social.thangs.com/m/733965)) | STL | 2023-03-15 |
 | [Chalk Holder](https://thangs.com/designer/doubleyuhtee/3d-model/Gridfinity%25201x1%2520chalk%2520holder-65847) | 1x1 | 1 | STL | 2022-09-04 |
 | [Chisel Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%2520Chisel%2520Holder.stl-67081) | 4x7 | 1 | STL | 2022-09-04 |
 | [Cigfinity Pack Dispenser](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Cigfinity%20Pack%20Dispenser-212826) | 3x2 | 2 | STL | 2022-09-04 |
