@@ -197,6 +197,8 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
 | [Watch Band Holder](https://www.printables.com/model/268905-gridfinity-watch-band-holder) | 2x3 | 1 | STL | 2022-09-06 |
+| [Wera Imperial 950 Allen Key Holder](https://www.printables.com/model/407463-gridfinity-wera-imperial-9509-hex-plus-2-inches/files) | 4x7 | 1 | STL | 2023-03-15 |
+| [Wera Metric 950 Allen Key Holder](https://www.printables.com/model/407467-gridfinity-wera-metric-950-spkl9-sm-hf) | 4x7 | 1 | STL | 2023-03-15 |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
