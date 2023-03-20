@@ -110,6 +110,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Drill Caddy](https://thangs.com/designer/Zwierzak%252C%2520Does%2520a%2520Thing/3d-model/Gridfinity%2520Drill%2520Caddy-65743) | 2x2 | 1 | STEP | 2022-09-04
 | [Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
+| [Filled-In Boxes for Customization](https://www.printables.com/model/210548-filled-in-gridfinity-boxes-for-customization) | 1x1-7x7 | 39 | STL | 2023-03-20 |
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
 | [Fusion360 Templates](https://thangs.com/designer/KptnAutismus/3d-model/Gridfinity%2520Templates%2520%28Filled%2520in%2520and%2520Hollow%29%2520for%2520Fusion360-202057) | Varies | 3 | F3D | 2022-09-26 |
