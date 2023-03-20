@@ -255,4 +255,5 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 * [Gridfinity Rebuilt in OpenSCAD](https://github.com/kennetek/gridfinity-rebuilt-openscad) - Parameterized OpenSCAD for baseplates and bins, including vase mode (2022-12-06).
 * [Gridfinity Design Reference](https://gridfinity.xyz/specification/) - A reference tool for designing Gridfinity modules.
 * [Gridfinity Bin Generator](https://gridfinity.bouwens.co/) - Generates custom Gridfinity divider bin STL files.
+* [Gridfinity Freaks](https://www.facebook.com/groups/894771558536705) - Facebook Community.
  
