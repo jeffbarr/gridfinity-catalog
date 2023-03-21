@@ -251,6 +251,8 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 * [Gridfinity Tips: 3D Printing Your New Workshop Organization System](https://www.youtube.com/watch?v=KtbKwAuwv9s) - 2023-03-20.
 * [Spiralized Gridfinity Bins](https://www.youtube.com/watch?v=kjh1qQ6FsXY) - 2023-03-21.
 * [Gridfinity is Parameteric?](https://www.youtube.com/watch?v=WBBFElrOziI) - 2023-03-21.
+* [Aluminum Gridfinity](https://www.youtube.com/watch?v=OesuCeZICQ4) - 2023-03-21.
+* [Gridfinity Print Progress](https://www.youtube.com/watch?v=yihv38j6xeM) - 2023-03-21.
 
 # Other Resources
 
