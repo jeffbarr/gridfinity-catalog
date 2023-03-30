@@ -253,6 +253,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 * [Gridfinity is Parameteric?](https://www.youtube.com/watch?v=WBBFElrOziI) - 2023-03-21.
 * [Aluminum Gridfinity](https://www.youtube.com/watch?v=OesuCeZICQ4) - 2023-03-21.
 * [Gridfinity Print Progress](https://www.youtube.com/watch?v=yihv38j6xeM) - 2023-03-21.
+* [Gridfinity Using OnShape](https://www.youtube.com/watch?v=95REky02tWE) - 2023-03-30.
 
 # Other Resources
 
