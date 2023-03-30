@@ -30,6 +30,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |
 | [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 130 | STL,F360,STP | 2023-03-30 |
+| [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1 - 7x7 | 30 | STL,STP | 2023-03-30 |
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
 | [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
 | [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
@@ -112,6 +113,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Drill Caddy](https://thangs.com/designer/Zwierzak%252C%2520Does%2520a%2520Thing/3d-model/Gridfinity%2520Drill%2520Caddy-65743) | 2x2 | 1 | STEP | 2022-09-04
 | [Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
+| [Filled Bins Full Height No Lip](https://www.printables.com/model/410744-gridfinity-filled-bins-full-height-no-lip) | 0.5x0x5 - 7x7 | 3MF | 2023-03-23 |
 | [Filled-In Boxes for Customization](https://www.printables.com/model/210548-filled-in-gridfinity-boxes-for-customization) | 1x1-7x7 | 39 | STL | 2023-03-20 |
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
