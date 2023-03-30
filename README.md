@@ -29,6 +29,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |
+| [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 130 | STL,F360,STP | 2023-03-30 |
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
 | [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
 | [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
@@ -39,9 +40,9 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2 - 6x6 | 8 | 3MF | 2022-06-12 |
 | [Magnet Light Baseplate](https://www.printables.com/model/250550-gridfinity-magnet-light-baseplate) | 1x1 - 8x8 | 36 | STL/F3D | 2022-10-30 | 
 | [Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Minimal%2520Baseplate%25204x4.stl-260576) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
+| [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | 2022-06-12 |
 | [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) | 1x4 - 3x4 | 3 | STL | 2022-06-12 |
 | [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers | 1x1 |  6  | STL | 2022-06-12 |
-| [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | 2022-06-12 |
 | [Screw Together Baseplate](https://www.printables.com/model/300603-gridfinity-screw-together-baseplate/files) | 1x1 - 7x7 | 28 |  STL | 2022-10-27 |
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1 - 5x5 | 15 | STL | 2022-06-18 |
 | [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1 - 5x5 | 20 | 3MF, F3D, STEP | 2023-01-09 |
@@ -77,8 +78,9 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | 2022-06-12 | 
 | [Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF/F3D | 2022-07-25 |
-| [Bolt Sorter](https://www.thingiverse.com/thing:5402658) | 1x2 | 1 | STL | 2022-09-04
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 2022-06-25 |
+| [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 1508 | STL,F360,STP | 2023-03-30 |
+| [Bolt Sorter](https://www.thingiverse.com/thing:5402658) | 1x2 | 1 | STL | 2022-09-04 |
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
 | [Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
 | [Breadboard Holders](https://www.printables.com/model/248418) | 1x2, 2x2, 2x4 | 3 | F3D + STL | 2022-09-04 |
