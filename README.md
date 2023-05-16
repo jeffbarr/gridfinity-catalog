@@ -87,7 +87,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Bolt Sorter](https://www.thingiverse.com/thing:5402658) | 1x2 | 1 | STL | 2022-09-04 |
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
 | [Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
-| [Bowls](https://www.printables.com/model/447389-gridfinity-bowls) | 1x1,1x2,1x4,2x2 | 4 | STK | 2023-04-09 |
+| [Bowls](https://www.printables.com/model/447389-gridfinity-bowls) | 1x1,1x2,1x4,2x2 | 4 | STL | 2023-04-09 |
 | [Breadboard Holders](https://www.printables.com/model/248418) | 1x2, 2x2, 2x4 | 3 | F3D + STL | 2022-09-04 |
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
