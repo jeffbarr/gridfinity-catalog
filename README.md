@@ -39,6 +39,8 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
 | [Ikea Skadis Baseplate](https://www.printables.com/model/171690-gridfinity-x-skadis-frames) - baseplates that attach to Ikea Skadis pegboards |1x2 - 2x7 | 12 | STL | 2022-09-06 |
 | [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2 - 6x6 | 8 | 3MF | 2022-06-12 |
+| [Jesh Baseplates for Crappy Printers](https://www.printables.com/model/471686-jesh-plates-gridfinty-for-crappy-printers) | 1x1 - 6x6 | 19 | STEP | 2023-05-16 | 
+| [Lasercut Base](https://myhub.autodesk360.com/ue29c81a3/g/shares/SH512d4QTec90decfa6e7f2938df1b06f971) | 7x12 | 1 | F3D | 2023-05-16 |
 | [Magnet Light Baseplate](https://www.printables.com/model/250550-gridfinity-magnet-light-baseplate) | 1x1 - 8x8 | 36 | STL/F3D | 2022-10-30 | 
 | [Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Minimal%2520Baseplate%25204x4.stl-260576) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
 | [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | 2022-06-12 |
