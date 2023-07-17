@@ -32,7 +32,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 130 | STL,F360,STP | 2023-03-30 |
 | [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1 - 7x7 | 30 | STL,STP | 2023-03-30 |
 | [ClickFinity Baseplate - No Magnets](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp) | 1x1 - 7x7 | 49 | STL,F3D | 2023-05-16 | 
-| [Clickfinity Refined Baseplate] (https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
+| [Clickfinity Refined Baseplate](https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
 | [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
 | [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
