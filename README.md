@@ -246,6 +246,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Pegboard Gridfinity](https://thangs.com/designer/evanmeltzer/3d-model/Peg%20Board%20Gridfinity%20Bin%20System-509457) | 2x2 | 4 | STL | 2022-12-17 |
 | [Modular Expandable Storage Box](https://www.printables.com/model/369813-fully-printable-gridfinity-box-parametric) | 2x3, 4x5, 4x7 | 3 | STL | 2023-01-16 | 
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
+| [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
 
 # Articles
 
