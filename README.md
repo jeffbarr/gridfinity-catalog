@@ -192,6 +192,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Small Part Sort and Storage](https://www.printables.com/model/218364-sortfinity-gridfinity-small-part-sort-and-storage) | 2x2 | 1 | STL | 2022-08-16 | 
 | [Spade Bit Holder](https://thangs.com/designer/rbarbrow/3d-model/Spade%2520Bit%2520Holder%2520Gridfinity-216505) | 4x3 | 1 | STL | 2022-09-22 |
 | [Spiralized Gridfinity Bins](https://thangs.com/designer/DaveMakesStuff/3d-model/Spiralized%20Gridfinity%20Bins-758773) | 1x1 | 1 | STL | 2023-03-21 |
+| [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
 | [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D + STL | 2022-09-04 |
 | [Stackable Citadel Paint Pot Storage](https://www.printables.com/model/267790-gridfinity-stackable-citadel-paint-pot-storage) | 1x1-6x6 | 5 | STL,F3D | 2022-09-26 |
 | [Starbond CA Glue Variety Pack](https://www.printables.com/model/280137-starbond-ca-glue-variety-pack-holder-3-2oz-bottles) | 2x3 | 1 | STL | 2022-09-21 |
