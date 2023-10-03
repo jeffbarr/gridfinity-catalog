@@ -249,6 +249,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Modular Expandable Storage Box](https://www.printables.com/model/369813-fully-printable-gridfinity-box-parametric) | 2x3, 4x5, 4x7 | 3 | STL | 2023-01-16 | 
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
+| [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
 
 # Articles
 
