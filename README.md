@@ -144,6 +144,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Kitchen Caddy Sr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Kitchen%2520Caddy%2520Sr.-217328) | 4x3 | 1 + 3 trays | STL | 2022-09-04 |
 | [LCD Display Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%202x%20lcd%20display%20Holder.stl-201107) | 2x1 | 1 | STL | 2022-09-04 |
 | [Lid](https://thangs.com/designer/noelboettcher2004/3d-model/Gridfinity%2520lid-194358) | 1x1 | 1 | STL | 2022-09-04 |
+| [Lite Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x1 - 6x6 | 84 | STL | 2023-10-03 |
 | [Lite Ultra Boxes](https://www.printables.com/model/435429-gridfinity-lite-ultra-boxes-improved-version-with-) |  168 | 1x1 - 5x5 | STL,F3D | 2023-05-16 |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
 | [Long n' Tall Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Long%20n'%20Tall%20Drawer-228161) | 1x3 | 2 parts | STL | 2022-09-04 |
