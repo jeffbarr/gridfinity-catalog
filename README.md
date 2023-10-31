@@ -116,7 +116,8 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Drawers](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Drawers-188528?s=09) | 2x3,4x6 | 6 | STL | 2022-07-21 | 
 | [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) | 3x2 | 1 | STL | 2022-06-19 |
 | [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 elements | STL | 2022-07-19 |
-| [Drill Caddy](https://thangs.com/designer/Zwierzak%252C%2520Does%2520a%2520Thing/3d-model/Gridfinity%2520Drill%2520Caddy-65743) | 2x2 | 1 | STEP | 2022-09-04
+| [Drill Caddy](https://thangs.com/designer/Zwierzak%252C%2520Does%2520a%2520Thing/3d-model/Gridfinity%2520Drill%2520Caddy-65743) | 2x2 | 1 | STEP | 2022-09-04 |
+| [Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x3-6x6 | 84 | STL | 2023-10-30 |
 | [Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
 | [Filled Bins Full Height No Lip](https://www.printables.com/model/410744-gridfinity-filled-bins-full-height-no-lip) | 0.5x0x5 - 7x7 | 3MF | 2023-03-23 |
