@@ -160,6 +160,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Model Paint Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%20model%20paint%20organiser-75049) | 3x3 | 1 | STL | 2022-09-04 |
 | [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 elements | STL | 2022-07-25 |
+| [Needle File Set Holder (Draper 6 Piece Diamond)](https://www.printables.com/model/636437-needle-file-set-holder-gridfinity-4x2-draper-6-pie) | 2x4 | 1 | STL | 2024-01-02 |
 | [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | 2022-06-12 | 
 | [OpenSCAD Templates](https://github.com/kennetek/gridfinity-rebuilt-openscad) | Varies | 2 | OpenSCAD | 2022-09-26 |
 | [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5 - 4x5 | 10 | STL | 2022-07-21 |
