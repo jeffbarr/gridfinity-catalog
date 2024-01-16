@@ -138,6 +138,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder)| 1x3 | 2 | STL | 2022-07-08 | 
 | [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) | 2x2 | 2 | STL | 2022-06-12 |
 | [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) | 2x4 | 1 | STL | 2022-06-18 |
+| [Hinged Box](https://www.printables.com/model/724144-gridfinity-hinged-box) | 1x1, 1x2 | 2 | STL | 2024-01-16 |
 | [Hobby Knife Stand](https://thangs.com/designer/anonym_xxl/3d-model/2x1GridfinityHobbyKnifeStand.stl-321683) | 1x2 | 1 | STL | 2022-09-06 |
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
@@ -162,6 +163,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Needle File Set Holder (Draper 6 Piece Diamond)](https://www.printables.com/model/636437-needle-file-set-holder-gridfinity-4x2-draper-6-pie) | 2x4 | 1 | STL | 2024-01-02 |
+| [Nikon Z Lens Holder](https://www.printables.com/model/720657-nikon-z-lend-holder-for-gridfinity) | 2x2 | 2 | STL | 2024-01-16 |
 | [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | 2022-06-12 | 
 | [OpenSCAD Templates](https://github.com/kennetek/gridfinity-rebuilt-openscad) | Varies | 2 | OpenSCAD | 2022-09-26 |
 | [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5 - 4x5 | 10 | STL | 2022-07-21 |
