@@ -170,6 +170,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Paint Shelf](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Paint%20Shelf-62255) | 2x3, 3x3, 4x3 | 3 | F3D + STL | 2022-09-04 |
 | [Paper Towel Roll](https://social.thangs.com/m/201112) | 3x4 | 1 | STL | 2022-07-20 |
 | [Parametric Bottle with Cap](https://www.printables.com/model/278947-gridfinity-parametric-bottle-with-knurled-cap) | 1x1-4x4 | 7 | STL,F3D | 2022-09-26 |
+| [Parametric Vase Mode Bins](https://www.thingiverse.com/thing:5519674) | 1x1-3x3 | 6 | STL,F3D | 2024-01-18 | 
 | [Pelican 3310 Flashlight Holder](https://www.printables.com/model/248122-gridfinity-1x1-holder-for-pelican-3310-flashlight) | 1x1 | 1 | STL | 2022-07-25 |
 | [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | 2022-06-12 |
 | [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 1x1 | 1 | STL | 2022-07-01 |
