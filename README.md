@@ -256,6 +256,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+| [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
 | [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2 - 2x4 | 27 | SCAD,STL | 2022-10-26 |
 | [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) | 4x4 | 1 | STL | 2022-06-17 |
@@ -265,7 +266,6 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
 | [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
-
 # Articles
 
 * [Gridfinity: 3D Printed Super Quick Tool Storage And Retrieval](https://hackaday.com/2022/04/18/gridfinity-3d-printed-super-quick-tool-storage-and-retrieval/).
