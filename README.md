@@ -241,7 +241,12 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Ziggurat Storage Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Ziggurat%20Storage%20Bin-216412) | 3x3 | 1 | STL | 2022-09-04 |
 
 # Dashboard
-| [Interface Plate for Dashboard Modules](https://www.printables.com/model/615357-gridfinity-interface-plate-for-dashboard-modules/files) | 1x2-3x2 | 3 | STL,F3D | 2024-01-25 |
+
+| Description |Format | Date Added |
+| :---        |  ---: | :---       |
+| [Interface Plate for Dashboard Modules](https://www.printables.com/model/615357-gridfinity-interface-plate-for-dashboard-modules/files) | STL,F3D | 2024-01-25 |
+| [Dashboard Module for Stream Deck XL](https://www.printables.com/model/615377-gridfinity-dashboard-module-for-streamdeck-xl) | STL,F3D | 2024-01-25 |
+| [Dashboard Module for Stream Deck Plus](https://www.printables.com/model/615364-gridfinity-dashboard-module-for-streamdeck) | STL,F3D | 2024-01-25 |
 
 # Adapters
 
