@@ -240,6 +240,9 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Xiaomi Wowstick 1F+ Holder](https://thangs.com/designer/bn326160/3d-model/Xiaomi%2520Wowstick%25201F%252B%2520%2523Gridfinity%2520holder%2520-98140) | 2x5 | 2 | STL | 2022-09-04 |
 | [Ziggurat Storage Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Ziggurat%20Storage%20Bin-216412) | 3x3 | 1 | STL | 2022-09-04 |
 
+# Dashboard
+| [Interface Plate for Dashboard Modules](https://www.printables.com/model/615357-gridfinity-interface-plate-for-dashboard-modules/files) | 1x2-3x2 | 3 | STL,F3D | 2024-01-25 |
+
 # Adapters
 
 | Description | Sizes | Variants |Format | Date Added |
