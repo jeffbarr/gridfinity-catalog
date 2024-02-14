@@ -86,8 +86,15 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | 2022-06-12 | 
 | [Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF/F3D | 2022-07-25 |
+| [Battery trays](https://www.printables.com/model/341811-gridfinity-battery-trays-aa-aaa-aaaa-18650-cr123-c) | 1x1,1x3,2x2 | Many | STL | 2024-02-14 |
+| [Battery holders, stackable](https://www.printables.com/model/381400-definitive-collection-of-battery-holders-gridfinit) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
+| [Battery holders (AGxx), stackable](https://www.printables.com/model/442231-agx-button-cell-battery-holders-gridfinity-stackab) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
+| [Battery holders (CRxxxx), stackable](https://www.printables.com/model/442365-crxxxx-button-cell-battery-holders-gridfinity-stac) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
+| [Battery holders (LRx), stackable](https://www.printables.com/model/442274-lrxx-button-cell-battery-holders-gridfinity-stacka) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 2022-06-25 |
 | [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 1508 | STL,F360,STP | 2023-03-30 |
+| [Bins with cover (1x1)](https://www.printables.com/model/665798-gridfinity-1-x-1-x-2-and-1-x-1-x-3-inserts-with-co) | 1x1 | 17 | STL | 2024-02-14 |
+| [Bins with cover (2x1)](https://www.printables.com/model/672541-gridfinity-1-x-2-size-inserts-can-be-closed-indivi) | 2x1 | 24 | STEP,STL | 2024-02-14 |
 | [Bolt Sorter](https://www.thingiverse.com/thing:5402658) | 1x2 | 1 | STL | 2022-09-04 |
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
 | [Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
@@ -117,6 +124,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Divided Vase Bins with Labels](https://www.printables.com/model/389300) | 1x1-1x5 | 120 | STL | 2023-02-26 |
 | [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) | 2x2 | 1 | STL | 2022-07-18 | 
 | [Drawers](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Drawers-188528?s=09) | 2x3,4x6 | 6 | STL | 2022-07-21 | 
+| [Drawers for Lack Enclosures](https://www.printables.com/model/284027-gen2-gridfinity-drawers-for-lack-enclosures) | 3x4 | 3 | 3MF | 2024-02-14 |
 | [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) | 3x2 | 1 | STL | 2022-06-19 |
 | [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 elements | STL | 2022-07-19 |
 | [Drill Caddy](https://thangs.com/designer/Zwierzak%252C%2520Does%2520a%2520Thing/3d-model/Gridfinity%2520Drill%2520Caddy-65743) | 2x2 | 1 | STEP | 2022-09-04 |
@@ -196,6 +204,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) | 1x2 | 1 | STL |  2022-07-11 |
 | [Ruler Holder](https://thangs.com/designer/atrimbletlr/3d-model/Gridfinity%2520Ruler%2520Holder-74621) | 1x1 | 1 | STL | 2022-09-04 |
 | [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack) | 1x2 | 1 | STL | 2022-07-08 |
+| [Screw Measure Tool](https://www.printables.com/model/276983-gridfinity-screw-measure-tool-1x1-mini-edition) | 1x1 | 1 | STL | 2024-02-14 |
 | [Sewing Needle Holder](https://www.printables.com/model/283716-gridfinity-needle-holder) | 1x2 | 1 | STL,STEP,F3D | 2023-10-07 |
 | [Sharpie Holder](https://thangs.com/mythangs/file/191487) | 1x1 | 1 | STL | 2022-07-18 | 
 | [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1-5x5 | 27 | STL | 2022-06-18 |
@@ -230,6 +239,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Ultimate Battery Holder (AA, AAA, AAAA, 2032, LR44, A97, 18650, 9v)](https://thangs.com/designer/Michael%20Fuchs/3d-model/Gridfinity%25203x5%2520Ultimate%2520Battery%2520Holder%2520%28AA%252C%2520AAA%252C%2520AAAA%252C%25202032%252C%2520LR44%252C%2520A97%252C%252018650%252C%25209v%29-62533) | 3x5 | 1 | STL | 2022-07-25 |
 | [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) | 1x1 | 1 | STL | 2022-06-12 |
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
+| [USB A & C holder](https://www.printables.com/model/242607-gridfinity-usb-a-c-holder-1x1x3-or-2x1x3-added-ste) | 1x1,2x1 | 2 | STP, STEP | 2024-02-14 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
 | [Watch Band Bin](https://www.reddit.com/r/gridfinity/comments/18etpfi/watch_band_bin_3x1_vase_mode/) | 3x1 | 1 | F3D,3MF,GCODE | 2023-12-26 |
 | [Watch Band Holder](https://www.printables.com/model/268905-gridfinity-watch-band-holder) | 2x3 | 1 | STL | 2022-09-06 |
@@ -316,6 +326,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [/r/gridfinity](https://www.reddit.com/r/gridfinity/) - Gridfinity sub-Reddit.
 * [Custom Gridfinity Bins](https://github.com/RashKash103/custom-gridfinity-bins) - Python Script: This project will allow you to create custom Gridfinity divider bins.
 * [Gridfinity Rebuilt in OpenSCAD](https://github.com/kennetek/gridfinity-rebuilt-openscad) - Parameterized OpenSCAD for baseplates and bins, including vase mode (2022-12-06).
+* [Gridfinity Extended OpenSCAD](https://github.com/ostat/gridfinity_extended_openscad) ([docs](https://docs.ostat.com/docs/openscad/gridfinity-extended)) - Parameterized OpenSCAD for baseplates and customizable bins (2024-02-14).
 * [cq-gridfinity](https://github.com/michaelgale/cq-gridfinity) - A python package for making various Gridfinity compatible objects such as baseplates, boxes, rugged boxes, and drawer spacers. Based on CadQuery. PyPI package available. (2024-01-09)
 * [Gridfinity Design Reference](https://gridfinity.xyz/specification/) - A reference tool for designing Gridfinity modules.
 * [Gridfinity Freaks](https://www.facebook.com/groups/894771558536705) - Facebook Community.
