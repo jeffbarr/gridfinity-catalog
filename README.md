@@ -246,7 +246,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 
 | Description |Format | Date Added |
 | :---        |  ---: | :---       |
-| [Gridfinity Dashboard Module for 8.8" 1920x480 Ultra-Wide Touch Screen and 3 M5Stack Dials](https://www.printables.com/model/691203-gridfinity-dashboard-module-for-88-1920x480-ultra-) | STL,F3D] | 2024-02-13 |
+| [Gridfinity Dashboard Module for 8.8" 1920x480 Ultra-Wide Touch Screen and 3 M5Stack Dials](https://www.printables.com/model/691203-gridfinity-dashboard-module-for-88-1920x480-ultra-) | STL,F3D | 2024-02-13 |
 | [Gridfinity Dashboard Module for Loupedeck Live](https://www.printables.com/model/645175-gridfinity-dashboard-module-for-loupedeck-live) | STL,F3D | 2024-02-13|
 | [Gridfinity Dashboard Module for Two M5Stack Dials](https://www.printables.com/model/650999-gridfinity-dashboard-module-for-two-m5stack-dials) | STL,F3D | 2024-02-13|
 | [Interface Plate for Dashboard Modules](https://www.printables.com/model/615357-gridfinity-interface-plate-for-dashboard-modules/files) | STL,F3D | 2024-01-25 |
