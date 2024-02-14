@@ -284,6 +284,11 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
 | [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
 
+# Online Generators
+
+* [Gridfinity Bin Generator](https://gridfinity.bouwens.co/) - Generates custom Gridfinity divider bin STL files.
+* [Gridfinity Parametric Web Generator](https://vector76.github.io/Web_OpenSCAD_Customizer/gridfinity_bins.html) - Generates custom Gridfinity divider bin STL files.
+
 # Articles
 
 * [Gridfinity: 3D Printed Super Quick Tool Storage And Retrieval](https://hackaday.com/2022/04/18/gridfinity-3d-printed-super-quick-tool-storage-and-retrieval/).
@@ -313,6 +318,5 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Rebuilt in OpenSCAD](https://github.com/kennetek/gridfinity-rebuilt-openscad) - Parameterized OpenSCAD for baseplates and bins, including vase mode (2022-12-06).
 * [cq-gridfinity](https://github.com/michaelgale/cq-gridfinity) - A python package for making various Gridfinity compatible objects such as baseplates, boxes, rugged boxes, and drawer spacers. Based on CadQuery. PyPI package available. (2024-01-09)
 * [Gridfinity Design Reference](https://gridfinity.xyz/specification/) - A reference tool for designing Gridfinity modules.
-* [Gridfinity Bin Generator](https://gridfinity.bouwens.co/) - Generates custom Gridfinity divider bin STL files.
 * [Gridfinity Freaks](https://www.facebook.com/groups/894771558536705) - Facebook Community.
  
