@@ -274,7 +274,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
-| [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2 - 2x4 | 27 | SCAD,STL | 2022-10-26 |
+| [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2 - 2x4 | 27 | OpenSCAD,STL | 2022-10-26 |
 | [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) | 4x4 | 1 | STL | 2022-06-17 |
 | [Toolbox (Parametric)](https://thangs.com/designer/jaswlodarczyk/3d-model/Gridfinity%2520Toolbox%2520%28Parametric%29-67053) | 5x3 | 7 elements | STL | 2022-07-25 |
 | [Pegboard Gridfinity](https://thangs.com/designer/evanmeltzer/3d-model/Peg%20Board%20Gridfinity%20Bin%20System-509457) | 2x2 | 4 | STL | 2022-12-17 |
