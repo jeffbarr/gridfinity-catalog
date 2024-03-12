@@ -176,6 +176,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Minifinity Bin Collection](https://www.printables.com/model/247815-gridfinity-minifinity-bin-collection) | 1x1-4x2 | 9 | STL | 2022-07-29 |
 | [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Model Paint Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%20model%20paint%20organiser-75049) | 3x3 | 1 | STL | 2022-09-04 |
+| [Modular Gridfinity Drawers](https://www.printables.com/model/458846-modular-gridfinity-drawers-in-various-sizes) | 2x3-3x5 | 48 | STL,STP | 2024-03-12 |
 | [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Needle File Set Holder (Draper 6 Piece Diamond)](https://www.printables.com/model/636437-needle-file-set-holder-gridfinity-4x2-draper-6-pie) | 2x4 | 1 | STL | 2024-01-02 |
