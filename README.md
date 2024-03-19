@@ -108,6 +108,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
 | [Can Holder](https://www.printables.com/model/245372-gridfinity-can-holder) | 2x2 | 1 | STL | 2022-07-21 |
+| [Case for Ferrules and Crimp Tool](https://www.thingiverse.com/thing:6539877) | 2x5 | 1 | STL | 2024-03-19 |
 | [Case for Scalpels](https://www.printables.com/model/241400) | 4x2 | 1 | F3D + STL | 2022-09-04 |
 | Celtic Knot Bin | 1x1 ([std](https://social.thangs.com/m/733950), [ext](https://social.thangs.com/m/733951)), 1x2 ([std](https://social.thangs.com/m/733953), [ext](https://social.thangs.com/m/733956)), 2x2 ([std](https://social.thangs.com/m/733962), [ext](https://social.thangs.com/m/733965)) | 1 | STL | 2023-03-15 |
 | [Chalk Holder](https://thangs.com/designer/doubleyuhtee/3d-model/Gridfinity%25201x1%2520chalk%2520holder-65847) | 1x1 | 1 | STL | 2022-09-04 |
@@ -198,6 +199,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Plain Bins](https://thangs.com/designer/robert.j.paisley/3d-model/Plain%2520Bins-73750) | 3x6 | 2 | STL | 2022-07-25 |
 | [(Plain Bin) Dispenser lids](https://thangs.com/designer/robert.j.paisley/3d-model/Dispenser%2520lids-73748) | 3x6 | 2 | STL | 2022-07-25 |
 | [(Modified) Pliers Rack](https://github.com/nerpatech/gridfinity-pliers-rack/tree/dev-local) | 2x2 - 2x4 | 2 | AMF | 2023-10-07 |
+| [Posca Marker Holder](https://www.printables.com/model/811375-posca-marker-holder-for-gridfinity) | 2x2-2x3 | 1 | STL | 2024-03-19 | 
 | [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
 | [Prusa Pliers and Flat Cuts](https://www.printables.com/model/240253) | 1x1 | 1 | 3MF + STL | 2022-09-04 |
 | [Raspberry Pi Case](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Raspberry%2520Pi%2520Case-61718) | 2x2 | 1 | STL | 2022-07-25 |
@@ -253,6 +255,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 | [Wera Imperial 950 Allen Key Holder](https://www.printables.com/model/407463-gridfinity-wera-imperial-9509-hex-plus-2-inches/files) | 4x7 | 1 | STL | 2023-03-15 |
 | [Wera Metric 950 Allen Key Holder](https://www.printables.com/model/407467-gridfinity-wera-metric-950-spkl9-sm-hf) | 4x7 | 1 | STL | 2023-03-15 |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
+| [Wii Remote Bin](https://www.printables.com/model/810571-gridfinity-wii-remote-bin) | 3x4 | 1 | STL,3MF,STP,F3d | 2024-03-19 |
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
 | [Xacto Holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
