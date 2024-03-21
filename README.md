@@ -21,6 +21,8 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 * Share
 * Learn about parameterization and customization
 
+You can also start with the [Gridfinity Master Collection](https://www.printables.com/model/242711-gridfinity-master-collection) .
+
 # Baseplates
 
 | Description | Sizes | Variants |Format | Date Added |
@@ -304,6 +306,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
 | [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
 | [Gridfinity Rugged Storage Box (parametric)](https://www.printables.com/model/757297-gridfinity-rugged-storage-box-parametric-and-custo) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/rugged-box)) | 2x4 - 6x6 + Customizable | Many | OpenSCAD, STL | 2024-02-14 |
+| [Gridfinity Master Collection](https://www.printables.com/model/242711-gridfinity-master-collection) | 1x1-7x7 | 633 | STL,OpenSCAD | 2024-03-21 |
 
 # Online Generators
 
