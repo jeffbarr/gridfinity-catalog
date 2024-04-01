@@ -333,6 +333,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Aluminum Gridfinity](https://www.youtube.com/watch?v=OesuCeZICQ4) - 2023-03-21.
 * [Gridfinity Print Progress](https://www.youtube.com/watch?v=yihv38j6xeM) - 2023-03-21.
 * [Gridfinity Using OnShape](https://www.youtube.com/watch?v=95REky02tWE) - 2023-03-30.
+* [Solve Any Workshop's Problem with 3D Printing](https://www.youtube.com/watch?v=iAPKETpnUeg) - 2024-04-01.
 
 # Other Resources
 
