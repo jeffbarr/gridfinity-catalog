@@ -122,6 +122,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | 2022-07-19 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
+| [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
 | [Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
 | [Diamond Needle File kit](https://www.printables.com/model/244748-gridfinity-diamond-needle-file-set) | 1x1 | 1 | STL | 2022-07-20 |
@@ -144,6 +145,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
 | [Fusion360 Templates](https://thangs.com/designer/KptnAutismus/3d-model/Gridfinity%2520Templates%2520%28Filled%2520in%2520and%2520Hollow%29%2520for%2520Fusion360-202057) | Varies | 3 | F3D | 2022-09-26 |
+| [Generic Upright Holder](https://www.printables.com/model/825575-generic-gridfinity-upright-holder-2x2x6) | 2x2 | 1 | STL | 2024-01-01 |
 | [Glasses (3x) Stand](https://www.printables.com/model/245600-gridfinity-glasses-3x-stand) | 1x3 | 1 | STL | 2022-07-22 |
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
@@ -162,6 +164,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
 | [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
 | [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | 2022-07-19 |
+| [Kitchen Bag Bins - Ikea Istad and More](https://www.printables.com/model/824852-gridfinity-kitchen-bag-bins-ikea-istad-and-more) | 1x6-2x4 | 3 | STL | 2024-04-01 |
 | [Kitchen Caddy Jr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Kitchen%20Caddy%20Jr.-217330) | 2x1 | 1 | STL | 2022-09-04 |
 | [Kitchen Caddy Sr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Kitchen%2520Caddy%2520Sr.-217328) | 4x3 | 1 + 3 trays | STL | 2022-09-04 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
@@ -222,6 +225,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Slide-Up Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Slide-Up%20Drawer-303350) | 2x1x2 | 2 parts | STL | 2022-09-04 |
 | [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
 | [Socket Set Organizer for Husky 125-Piece Set](https://www.printables.com/model/614374-gridfinity-socket-holders-14-and-38) | 1x2 - 3x5 | 1 | 3MF,STEP | 2023-10-15 |
+| [Solder Flix & Soldering Iron Tip Cleaner](https://www.printables.com/model/825562-gridfinity-bin-for-solder-flux-soldering-iron-tip) | 2x2 | 3 | STL | 2024-04-01 |
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
 | [Solder Reel Stand](https://www.printables.com/model/196782-gridfinity-solder-reel-stand) | 2x2 | 1 | STL | 2022-07-25 |
 | [Small Part Sort and Storage](https://www.printables.com/model/218364-sortfinity-gridfinity-small-part-sort-and-storage) | 2x2 | 1 | STL | 2022-08-16 | 
@@ -247,6 +251,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [The One SD Card Holder](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520The%2520One%2520SD%2520Card%2520Holder-61775) | 1x1 | 1 | STL | 2022-07-25 |
 | [Tinkercad Blanks](https://www.tinkercad.com/things/0e6jUnl4tIr) | Varies | 8 | Tinkercad | 2022-07-25 |
 | [Toolbox Organizer (Ratchets and Sockets)](https://www.printables.com/model/690102-gridfinity-tool-box-organization-ratchets-and-sock) | 1x2-2x3 | 8 | 3MF | 2023-12-26 |
+| [Tweezers Box - Optimized](https://www.printables.com/model/750357-gridfinity-tweezers-box-optimized) | 10x4 | 1 | STP,STL | 2024-04-01 |
 | [Ultimate Battery Holder (AA, AAA, AAAA, 2032, LR44, A97, 18650, 9v)](https://thangs.com/designer/Michael%20Fuchs/3d-model/Gridfinity%25203x5%2520Ultimate%2520Battery%2520Holder%2520%28AA%252C%2520AAA%252C%2520AAAA%252C%25202032%252C%2520LR44%252C%2520A97%252C%252018650%252C%25209v%29-62533) | 3x5 | 1 | STL | 2022-07-25 |
 | [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) | 1x1 | 1 | STL | 2022-06-12 |
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
