@@ -169,7 +169,6 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Kitchen Caddy Sr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Kitchen%2520Caddy%2520Sr.-217328) | 4x3 | 1 + 3 trays | STL | 2022-09-04 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
 | [LCD Display Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%202x%20lcd%20display%20Holder.stl-201107) | 2x1 | 1 | STL | 2022-09-04 |
-| [Lid](https://thangs.com/designer/noelboettcher2004/3d-model/Gridfinity%2520lid-194358) | 1x1 | 1 | STL | 2022-09-04 |
 | [Lite Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x1 - 6x6 | 84 | STL | 2023-10-03 |
 | [Lite Ultra Boxes](https://www.printables.com/model/435429-gridfinity-lite-ultra-boxes-improved-version-with-) |  168 | 1x1 - 5x5 | STL,F3D | 2023-05-16 |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
@@ -269,6 +268,15 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Xiaomi Wowstick 1F+ Holder](https://thangs.com/designer/bn326160/3d-model/Xiaomi%2520Wowstick%25201F%252B%2520%2523Gridfinity%2520holder%2520-98140) | 2x5 | 2 | STL | 2022-09-04 |
 | [Ziggurat Storage Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Ziggurat%20Storage%20Bin-216412) | 3x3 | 1 | STL | 2022-09-04 |
 
+# Lids for Bins
+
+| Description |Format | Date Added |
+| :---        |  ---: | :---       |
+| [Lid](https://thangs.com/designer/noelboettcher2004/3d-model/Gridfinity%2520lid-194358) | 1x1 | 1 | STL | 2022-09-04 |
+| [Lids](https://thangs.com/designer/PotatoCheese/3d-model/Gridfinity%20Lids-294307) | 1x1-3x4 | 13 | STL | 2024-04-06 |
+| [Lids with Handles](https://www.printables.com/model/645622-gridfinity-lids-with-handles) | 1x1-5x5 | 25 | STL,SCAD | 2024-04-06 |
+| [Parametric Lids](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Parametric%20Lids-62072) | 1x1-3x3 | STL,F3D | 2024-04-06 |
+
 # Dashboard
 
 | Description |Format | Date Added |
@@ -299,7 +307,6 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
-| [Grindinity Lids](https://thangs.com/designer/PotatoCheese/3d-model/Gridfinity%20Lids-294307) | 1x1-3x4 | 13 | STL | 2024-04-06 |
 | [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
 | [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2 - 2x4 | 27 | OpenSCAD,STL | 2022-10-26 |
