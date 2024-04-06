@@ -299,6 +299,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+| [Grindinity Lids](https://thangs.com/designer/PotatoCheese/3d-model/Gridfinity%20Lids-294307) | 1x1-3x4 | 13 | STL | 2024-04-06 |
 | [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
 | [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2 - 2x4 | 27 | OpenSCAD,STL | 2022-10-26 |
