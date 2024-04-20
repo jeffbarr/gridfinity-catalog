@@ -239,7 +239,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | 2022-07-19 |
 | [Swinger Trays](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinger%2520Trays-262514) | 2x2 | 1 | STL | 2022-09-26 |
 | [Swinging Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinging%2520Drawer-201480) | 3x3 | 2 | STL | 2022-09-04 |
-| [Tabletop (Gaming)](https://www.thingiverse.com/thing:5454853) | 1x1 | 3 | STL | 2022-09-04
+| [Tabletop (Gaming)](https://www.thingiverse.com/thing:5454853) | 1x1 | 3 | STL | 2022-09-04 |
+| [Tap and Die Bins](https://makerworld.com/en/models/434208#profileId-339020) | 1x3, 2x2 | 9 | STL,3MF | 2024-04-20 |
 | [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | 2022-07-01 | 
 | [Tape Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%203x3%20Tape%20Holder-72448) | 3x3 | 1 | STL | 2022-09-04 |
 | [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
