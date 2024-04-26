@@ -262,6 +262,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Wera Imperial 950 Allen Key Holder](https://www.printables.com/model/407463-gridfinity-wera-imperial-9509-hex-plus-2-inches/files) | 4x7 | 1 | STL | 2023-03-15 |
 | [Wera Metric 950 Allen Key Holder](https://www.printables.com/model/407467-gridfinity-wera-metric-950-spkl9-sm-hf) | 4x7 | 1 | STL | 2023-03-15 |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
+| [Wiha Metric Nut Driver Holder](https://www.thingiverse.com/thing:6596520) | 1x2 | 1 | STL,F3D,3MF | 2023-04-26 |
 | [Wii Remote Bin](https://www.printables.com/model/810571-gridfinity-wii-remote-bin) | 3x4 | 1 | STL,3MF,STP,F3d | 2024-03-19 |
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
