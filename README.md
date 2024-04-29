@@ -98,9 +98,10 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Battery holders (LRx), stackable](https://www.printables.com/model/442274-lrxx-button-cell-battery-holders-gridfinity-stacka) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 2022-06-25 |
 | [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 1508 | STL,F360,STP | 2023-03-30 |
-| [Bins with cover (1x1)](https://www.printables.com/model/665798-gridfinity-1-x-1-x-2-and-1-x-1-x-3-inserts-with-co) | 1x1 | 17 | STL | 2024-02-14 |
-| [Bins with cover (2x1)](https://www.printables.com/model/672541-gridfinity-1-x-2-size-inserts-can-be-closed-indivi) | 2x1 | 24 | STEP,STL | 2024-02-14 |
-| [Bins with lids (parametric)](https://www.printables.com/model/751715-gridfinity-bins-with-lids-parametric-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/lid-bins)) | 1x1-2x2 + Customizable | 58 | OpenSCAD,STL | 2024-02-14 |
+| [Bins with Cover (1x1)](https://www.printables.com/model/665798-gridfinity-1-x-1-x-2-and-1-x-1-x-3-inserts-with-co) | 1x1 | 17 | STL | 2024-02-14 |
+| [Bins with Cover (2x1)](https://www.printables.com/model/672541-gridfinity-1-x-2-size-inserts-can-be-closed-indivi) | 2x1 | 24 | STEP,STL | 2024-02-14 |
+| [Bins with Lids (parametric)](https://www.printables.com/model/751715-gridfinity-bins-with-lids-parametric-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/lid-bins)) | 1x1-2x2 + Customizable | 58 | OpenSCAD,STL | 2024-02-14 |
+| [Bins with Swappable Labels](https://makerworld.com/en/models/446624#profileId-353132) | 1x1-3x2 | 32 | STL,3MF | 2024-04-29 |
 | [Bolt Sorter](https://www.thingiverse.com/thing:5402658) | 1x2 | 1 | STL | 2022-09-04 |
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
 | [Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
