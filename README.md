@@ -196,7 +196,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Parametric Vase Mode Bins](https://www.thingiverse.com/thing:5519674) | 1x1-3x3 | 6 | STL,F3D | 2024-01-18 | 
 | [Pelican 3310 Flashlight Holder](https://www.printables.com/model/248122-gridfinity-1x1-holder-for-pelican-3310-flashlight) | 1x1 | 1 | STL | 2022-07-25 |
 | [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | 2022-06-12 |
-| [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 1x1 | 1 | STL | 2022-07-01 |
+| [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 2x2 | 1 | STL | 2022-07-01 |
 | [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) | 2x2 | 1 | STL | 2022-06-12 |
 | [Pinecil Solder iron Holder](https://thangs.com/designer/markh018/3d-model/Gridfinity%2520Pinecil%2520Solder%2520iron%2520Holder-73357) | 1x1 | 1 | STL | 2022-07-25 |
 | [Bin - Vase Mode](https://www.tinkercad.com/things/eGFlfBAA6Jx-1x4x77-vase-mode) | 1x4 | 1 | Tinkercad | 2022-12-06 |
