@@ -329,6 +329,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Parametric Gridfinity Web UI (perplexing labs)](https://gridfinity.perplexinglabs.com) - Custom bins and bases as STL files
 * [Gridfinity Bin Generator](https://gridfinity.bouwens.co/) - Generates custom Gridfinity divider bin STL files.
 * [Gridfinity Parametric Web Generator](https://vector76.github.io/Web_OpenSCAD_Customizer/gridfinity_bins.html) - Generates custom Gridfinity divider bin STL files.
+* [Gridfinity Onshape Bins/Bases](https://github.com/rugbymauri/onshape-gridfinity) Make Bins and Bases from a Template for onshape
 
 # Articles
 
