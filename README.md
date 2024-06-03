@@ -179,7 +179,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Mechanical Pencil (Staedtler Micro 775) Holder](https://www.printables.com/model/498295-gridfinity-mechanical-pencil-holder-mars-staedtler) | 2x1 | 1 | STL, F3D | 2023-06-04 |
 | [M6 Washer Holder](https://thangs.com/designer/Jonathan%2520Anderson/3d-model/Gridfinity%2520-%2520M6%2520washer%2520holder-65094) | 1x1 | 1 | F3D + STL | 2022-09-04 |
 | [MicroSD combo bin](https://www.printables.com/model/556136-gridfinity-1x1x3-combo-bin-and-micro-sd-card-holde) | 1x1 | 1 | STL | 2024-02-14 |
-| [Minifig Display Base](https://www.printables.com/model/284008-gridfinity-minifig-display-base) | 1xx, 3x4 | 2 | STL, STEP | 2023-01-09 |
+| [Milk Crate Box + Base](https://makerworld.com/en/models/483020) | 1x1 | 3 | STL | 2024-06-03 |
+| [Minifig Display Base](https://www.printables.com/model/284008-gridfinity-minifig-display-base) | 1x1, 3x4 | 2 | STL, STEP | 2023-01-09 |
 | [Minifinity Bin Collection](https://www.printables.com/model/247815-gridfinity-minifinity-bin-collection) | 1x1-4x2 | 9 | STL | 2022-07-29 |
 | [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Model Paint Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%20model%20paint%20organiser-75049) | 3x3 | 1 | STL | 2022-09-04 |
@@ -270,6 +271,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Xacto Holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
 | [Xiaomi Wowstick 1F+ Holder](https://thangs.com/designer/bn326160/3d-model/Xiaomi%2520Wowstick%25201F%252B%2520%2523Gridfinity%2520holder%2520-98140) | 2x5 | 2 | STL | 2022-09-04 |
 | [Ziggurat Storage Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Ziggurat%20Storage%20Bin-216412) | 3x3 | 1 | STL | 2022-09-04 |
+| [Ziplock, Wrap, and Kitchen Extra Containers](https://www.printables.com/model/892677-gridfinity-ziplock-wrap-and-kitchen-extra-containe) | 2x3-2x8 | 30 | STL | 2024-06-03 |
 
 # Lids for Bins
 
@@ -312,6 +314,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
+| [Gridfinity Carousel, Motorized](https://www.printables.com/model/897707-gridfinity-carousel-motorized) | 1x5 | 1 | 2024-06-03 |
 | [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2 - 2x4 | 27 | OpenSCAD,STL | 2022-10-26 |
 | [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) | 4x4 | 1 | STL | 2022-06-17 |
 | [Toolbox (Parametric)](https://thangs.com/designer/jaswlodarczyk/3d-model/Gridfinity%2520Toolbox%2520%28Parametric%29-67053) | 5x3 | 7 elements | STL | 2022-07-25 |
