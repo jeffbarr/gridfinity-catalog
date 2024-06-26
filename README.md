@@ -110,7 +110,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4 - 4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
-| [Can Holder](https://www.printables.com/model/245372-gridfinity-can-holder) | 2x2 | 1 | STL | 2022-07-21 |
+| [Caliper Holder](https://makerworld.com/en/models/435832#profileId-394445) | 1x6 | 1 | STL | 2024-06-25 |
+| [Can Holder](https://www.printables.com/model/245372-gridfinity-can-holder) | 2x2 | 1 | STL,3MF | 2022-07-21 |
 | [Case for Ferrules and Crimp Tool](https://www.thingiverse.com/thing:6539877) | 2x5 | 1 | STL | 2024-03-19 |
 | [Case for Scalpels](https://www.printables.com/model/241400) | 4x2 | 1 | F3D + STL | 2022-09-04 |
 | Celtic Knot Bin | 1x1 ([std](https://social.thangs.com/m/733950), [ext](https://social.thangs.com/m/733951)), 1x2 ([std](https://social.thangs.com/m/733953), [ext](https://social.thangs.com/m/733956)), 2x2 ([std](https://social.thangs.com/m/733962), [ext](https://social.thangs.com/m/733965)) | 1 | STL | 2023-03-15 |
@@ -183,6 +184,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Minifig Display Base](https://www.printables.com/model/284008-gridfinity-minifig-display-base) | 1x1, 3x4 | 2 | STL, STEP | 2023-01-09 |
 | [Minifinity Bin Collection](https://www.printables.com/model/247815-gridfinity-minifinity-bin-collection) | 1x1-4x2 | 9 | STL | 2022-07-29 |
 | [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 elements | STL | 2022-07-25 |
+| [Mitutoyo Caliper Holder](https://www.printables.com/model/448005-gridfinity-mitutoyo-caliper-holder-2x2-1x1) | 2x2 + 1x1 | 13 | STL | 2024-06-25 |
 | [Model Paint Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%20model%20paint%20organiser-75049) | 3x3 | 1 | STL | 2022-09-04 |
 | [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 elements | STL | 2022-07-25 |
