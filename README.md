@@ -321,6 +321,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity Carousel, Motorized](https://www.printables.com/model/897707-gridfinity-carousel-motorized) | 1x5 | 1 | 2024-06-03 |
 | [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2 - 2x4 | 27 | OpenSCAD,STL | 2022-10-26 |
 | [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) | 4x4 | 1 | STL | 2022-06-17 |
+| [Modular Drawer System and Case with Honeycomb Walls](https://www.printables.com/model/916303-gridfinity-modular-drawer-and-case-with-honeycomb) | 5x3 | 1 | STL,F3D | 2024-07-01 |
 | [Toolbox (Parametric)](https://thangs.com/designer/jaswlodarczyk/3d-model/Gridfinity%2520Toolbox%2520%28Parametric%29-67053) | 5x3 | 7 elements | STL | 2022-07-25 |
 | [Pegboard Gridfinity](https://thangs.com/designer/evanmeltzer/3d-model/Peg%20Board%20Gridfinity%20Bin%20System-509457) | 2x2 | 4 | STL | 2022-12-17 |
 | [Rugged Case "Light"](https://www.printables.com/de/model/873932-gridfinity-rugged-case-light-5x4x6u) | 5x4 | 3 | STL | 2024-06-03 |
