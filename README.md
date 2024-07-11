@@ -256,6 +256,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Tiered Bins](https://www.printables.com/model/247302-gridfinity-tiered-bins) | 1x1 | 3 | STL | 2022-08-16 |
 | [The One SD Card Holder](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520The%2520One%2520SD%2520Card%2520Holder-61775) | 1x1 | 1 | STL | 2022-07-25 |
 | [Tinkercad Blanks](https://www.tinkercad.com/things/0e6jUnl4tIr) | Varies | 8 | Tinkercad | 2022-07-25 |
+| [Tool Holder Collection](https://www.printables.com/model/914533-gridfinity-tool-holder-collection-2nd-includes-tra) | 1x5,2x4,4x6 | 6 | AMF,FreeCAD | 2024-07-11 |
 | [Toolbox Organizer (Ratchets and Sockets)](https://www.printables.com/model/690102-gridfinity-tool-box-organization-ratchets-and-sock) | 1x2-2x3 | 8 | 3MF | 2023-12-26 |
 | [Tweezers Box - Optimized](https://www.printables.com/model/750357-gridfinity-tweezers-box-optimized) | 10x4 | 1 | STP,STL | 2024-04-01 |
 | [Ultimate Battery Holder (AA, AAA, AAAA, 2032, LR44, A97, 18650, 9v)](https://thangs.com/designer/Michael%20Fuchs/3d-model/Gridfinity%25203x5%2520Ultimate%2520Battery%2520Holder%2520%28AA%252C%2520AAA%252C%2520AAAA%252C%25202032%252C%2520LR44%252C%2520A97%252C%252018650%252C%25209v%29-62533) | 3x5 | 1 | STL | 2022-07-25 |
