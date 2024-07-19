@@ -239,6 +239,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
 | [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D + STL | 2022-09-04 |
 | [Stackable Citadel Paint Pot Storage](https://www.printables.com/model/267790-gridfinity-stackable-citadel-paint-pot-storage) | 1x1-6x6 | 5 | STL,F3D | 2022-09-26 |
+| [Stackable Shipping Container](https://makerworld.com/en/models/540866#profileId-458375) | 1x2 | 1 | STL | 2024-07-19 |
 | [Starbond CA Glue Variety Pack](https://www.printables.com/model/280137-starbond-ca-glue-variety-pack-holder-3-2oz-bottles) | 2x3 | 1 | STL | 2022-09-21 |
 | [Sticky Note Holder](https://thangs.com/designer/Robot_taco_sauce/3d-model/Gridfinity%2520sticky%2520note%2520holder.stl-194948) | 2x2 | 1 | STL | 2022-09-04 |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | 2022-07-19 |
