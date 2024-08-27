@@ -23,6 +23,19 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 
 You can also start with the [Gridfinity Master Collection](https://www.printables.com/model/242711-gridfinity-master-collection) .
 
+# Contents
+- [Baseplates](#baseplates)
+- [Blocks](#blocks)
+- [Lids for bins](#lids-for-bins)
+- [Dashboard](#dashboard)
+- [Adapters](#adapters)
+- [Templates](#templates])
+- [Everything Else](#everything-else)
+- [Online Generators](#online-generators)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Other Resources](#other-resources)
+
 # Baseplates
 
 | Description | Sizes | Variants |Format | Date Added |
