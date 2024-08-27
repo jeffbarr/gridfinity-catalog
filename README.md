@@ -346,6 +346,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 # Articles
 
 * [Gridfinity: 3D Printed Super Quick Tool Storage And Retrieval](https://hackaday.com/2022/04/18/gridfinity-3d-printed-super-quick-tool-storage-and-retrieval/).
+* [Gridfinity Modular Storage System: All You Need to Know](https://all3dp.com/2/gridfinity-simply-explained/)
 
 # Videos
 
