@@ -98,6 +98,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Adjustable Jumper Wire Comb](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Adjustable%2520Jumper%2520Wire%2520Comb-174402) | 1x1 | 2 elements | STL | 2022-07-25 |
 | [Adjustable Light](https://www.printables.com/en/model/273727-adjustable-light) | 2x2 | 1 | STL | 2023-01-06 |
 | [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) | 1x1 | 1 | STL | 2022-06-12 |
+| [Amazing Bolt Sorter](https://www.printables.com/model/874548-amazing-gridfinity-m3-bolt-sorter) | 2x4 | 1 | STL,3MF | 2024-09-04 |
 | [Angled Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Angled%20Bin-267623) | 4x2 | 1 + 4 inserts | STL | 2022-09-04 |
 | [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) | 1x1 | 1 | STL | 2022-07-11 |
 | [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
