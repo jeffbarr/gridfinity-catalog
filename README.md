@@ -343,11 +343,13 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Pegboard Gridfinity](https://thangs.com/designer/evanmeltzer/3d-model/Peg%20Board%20Gridfinity%20Bin%20System-509457) | 2x2 | 4 | STL | 2022-12-17 |
 | [Rugged Case "Light"](https://www.printables.com/de/model/873932-gridfinity-rugged-case-light-5x4x6u) | 5x4 | 3 | STL | 2024-06-03 |
 | [Modular Expandable Storage Box](https://www.printables.com/model/369813-fully-printable-gridfinity-box-parametric) | 2x3, 4x5, 4x7 | 3 | STL | 2023-01-16 | 
+| [Modular Gridfinity Case](https://www.printables.com/model/894202-modern-gridfinity-case) | 1x2-8x8 |  10 | 3MF | 2024-10-09 |
 | [Modular Rack System for Gridfinity Drawers](https://makerworld.com/en/models/85205) | 5x5 | 1 | STL, STP | 2024-01-23 |
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
 | [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
 | [Gridfinity Rugged Storage Box (parametric)](https://www.printables.com/model/757297-gridfinity-rugged-storage-box-parametric-and-custo) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/rugged-box)) | 2x4 - 6x6 + Customizable | Many | OpenSCAD, STL | 2024-02-14 |
+| [Gridfinity Sewing (or tool) Box](https://www.printables.com/model/1007079-gridfinity-sewing-or-tool-box) | 4x4 | 1 | STP | 2024-10-09 |
 | [Gridfinity Master Collection](https://www.printables.com/model/242711-gridfinity-master-collection) | 1x1-7x7 | 633 | STL,OpenSCAD | 2024-03-21 |
 
 # Online Generators
