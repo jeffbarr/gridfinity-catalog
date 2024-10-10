@@ -346,6 +346,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Modular Gridfinity Case](https://www.printables.com/model/894202-modern-gridfinity-case) | 1x2-8x8 |  10 | 3MF | 2024-10-09 |
 | [Modular Rack System for Gridfinity Drawers](https://makerworld.com/en/models/85205) | 5x5 | 1 | STL, STP | 2024-01-23 |
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
+| [Dynamic 3D Label Generator](https://github.com/clement-roblot/Gridfinity-Label-Generator) | - | 1 | Python,  PDF | 2024-08-08 |
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
 | [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
 | [Gridfinity Rugged Storage Box (parametric)](https://www.printables.com/model/757297-gridfinity-rugged-storage-box-parametric-and-custo) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/rugged-box)) | 2x4 - 6x6 + Customizable | Many | OpenSCAD, STL | 2024-02-14 |
