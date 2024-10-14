@@ -54,6 +54,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 
 | [Ender 3 Power ledge Baseplate](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
+| [Gridfinity Grids - Stacked for Printing](https://www.printables.com/model/995911-gridfinity-grids-stacked-for-printing) | 8x8 | 1 | STL,F3D | 2024-10-14 |
 | [Ikea Alex Wide Drawers](https://www.printables.com/model/718705-gridfinity-base-for-ikea-alex-wide-drawers) | 3x5-5x5 | 3 | 3MF | 2024-01-23 |
 | [Ikea Skadis Baseplate](https://www.printables.com/model/171690-gridfinity-x-skadis-frames) - baseplates that attach to Ikea Skadis pegboards |1x2 - 2x7 | 12 | STL | 2022-09-06 |
 | [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2 - 6x6 | 8 | 3MF | 2022-06-12 |
@@ -280,6 +281,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
 | [USB A & C holder](https://www.printables.com/model/242607-gridfinity-usb-a-c-holder-1x1x3-or-2x1x3-added-ste) | 1x1,2x1 | 2 | STP, STEP | 2024-02-14 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
+| [Vacuum Pump Bin](https://makerworld.com/en/models/679699#profileId-607967) | 2x2 | 1 | STP,3MF | 2024-10-14 |
 | [Watch Band Bin](https://www.reddit.com/r/gridfinity/comments/18etpfi/watch_band_bin_3x1_vase_mode/) | 3x1 | 1 | F3D,3MF,GCODE | 2023-12-26 |
 | [Watch Band Holder](https://www.printables.com/model/268905-gridfinity-watch-band-holder) | 2x3 | 1 | STL | 2022-09-06 |
 | [Wera Imperial 950 Allen Key Holder](https://www.printables.com/model/407463-gridfinity-wera-imperial-9509-hex-plus-2-inches/files) | 4x7 | 1 | STL | 2023-03-15 |
@@ -385,6 +387,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Using OnShape](https://www.youtube.com/watch?v=95REky02tWE) - 2023-03-30.
 * [Solve Any Workshop's Problem with 3D Printing](https://www.youtube.com/watch?v=iAPKETpnUeg) - 2024-04-01.
 * [Gridfinity: The one System to sort them all](https://www.youtube.com/watch?v=YSrZrXVKkp4) - 2024-10-11.
+* [Gridinity in the Machine Shop: 3d Printed Metrology Tool Organization](https://www.youtube.com/watch?v=RYA0xLryF-g) - 2024-10-14.
 
 # Other Resources
 
