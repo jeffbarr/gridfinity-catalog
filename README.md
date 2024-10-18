@@ -234,6 +234,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
 | [Reinforced Economical Bins](https://www.printables.com/model/538275-more-reinforced-economical-gridfinity-bins) | 0.5x0.5 to 7x7 | 1185 | 3MF | 2022-08-26 |
 | [Ryobi Quick Change Hobby Knife](https://www.printables.com/model/748779-ryobi-quick-change-hobby-knife-kit-rhckp04-gridfin) | 1x1 | 2 | STL,STP,F3D | 2024-02-07 |
+| [Rugged Gridfinity Desk Organizer XL](https://thangs.com/designer/K2_Kevin/3d-model/Rugged%20Organizer%20XL%20-%20Gridfinity%202x4%20%26%202x5-1157447) | 2x4, 2x5 | 2 | STL,STP,OBJ,FBX | 2024-10-18 | 
 | [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) | 1x2 | 1 | STL |  2022-07-11 |
 | [Ruler Holder](https://thangs.com/designer/atrimbletlr/3d-model/Gridfinity%2520Ruler%2520Holder-74621) | 1x1 | 1 | STL | 2022-09-04 |
 | [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack) | 1x2 | 1 | STL | 2022-07-08 |
