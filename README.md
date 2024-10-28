@@ -124,6 +124,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bowls](https://www.printables.com/model/447389-gridfinity-bowls) | 1x1,1x2,1x4,2x2 | 4 | STL | 2023-04-09 |
 | [Breadboard Holders](https://www.printables.com/model/248418) | 1x2, 2x2, 2x4 | 3 | F3D + STL | 2022-09-04 |
 | [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4 - 4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
+| [Cable Organizing Boxes](https://makerworld.com/en/models/510993#profileId-427092) | 2x1-2x6 | 12 | STL,3MF | 2024-10-28 |
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
 | [Caliper Holder](https://makerworld.com/en/models/435832#profileId-394445) | 1x6 | 1 | STL | 2024-06-25 |
