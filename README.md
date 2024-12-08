@@ -179,6 +179,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) | 2x4 | 1 | STL | 2022-06-18 |
 | [Hinged Box](https://www.printables.com/model/724144-gridfinity-hinged-box) | 1x1, 1x2 | 2 | STL | 2024-01-16 |
 | [Hobby Knife Stand](https://thangs.com/designer/anonym_xxl/3d-model/2x1GridfinityHobbyKnifeStand.stl-321683) | 1x2 | 1 | STL | 2022-09-06 |
+| [Husky Nut Driver Holder](https://www.reddit.com/r/gridfinity/comments/1h49cfv/husky_nut_driver_holder/) | - | - | - | 2024-12-08 |
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
 | [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
@@ -192,6 +193,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Lite Ultra Boxes](https://www.printables.com/model/435429-gridfinity-lite-ultra-boxes-improved-version-with-) |  168 | 1x1 - 5x5 | STL,F3D | 2023-05-16 |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
 | [Long n' Tall Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Long%20n'%20Tall%20Drawer-228161) | 1x3 | 2 parts | STL | 2022-09-04 |
+| [Makita 1/4" Hex Driver DF012D](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1096752-gridfinity-bin-for-72v-makita-df012d-screwdriver) | 2x8 | 1 | STL | 2024-12-08 |
 | [Material Swatches holder](https://www.printables.com/model/587675-gridfinity-material-swatches-holder-v2-parametric) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/material-swatch-bins)) | 1x1 - 2x4 + Customizable | 7 | OpenSCAD,STL | 2024-02-14 |
 | [Mechanical Keyboard Keycap Storage Trays](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%2520Mechanical%2520Keyboard%2520Keycap%2520Storage%2520Trays%2520(5x5%2520and%25205x7)-238569) | 5x5, 5x7 | 4 | STL | 2022-09-04 |
 | [Mechanical Pencil (Staedtler Micro 775) Holder](https://www.printables.com/model/498295-gridfinity-mechanical-pencil-holder-mars-staedtler) | 2x1 | 1 | STL, F3D | 2023-06-04 |
@@ -352,6 +354,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Modular Rack System for Gridfinity Drawers](https://makerworld.com/en/models/85205) | 5x5 | 1 | STL, STP | 2024-01-23 |
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Dynamic 3D Label Generator](https://github.com/clement-roblot/Gridfinity-Label-Generator) | - | 1 | Python,  PDF | 2024-08-08 |
+| [Gridfinity Ruler MKII](https://makerworld.com/en/models/856330#profileId-805694) | - 5 | STL,3MF | 2024-12-08 |
 | [Gridfinity Secure Brackets](https://www.printables.com/model/1009734-gridfinity-secure-brackets) | - | 3 | STL | 2024-10-13 |
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
 | [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
