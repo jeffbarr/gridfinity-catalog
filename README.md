@@ -204,6 +204,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Minifinity Bin Collection](https://www.printables.com/model/247815-gridfinity-minifinity-bin-collection) | 1x1-4x2 | 9 | STL | 2022-07-29 |
 | [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Mitutoyo Caliper Holder](https://www.printables.com/model/448005-gridfinity-mitutoyo-caliper-holder-2x2-1x1) | 2x2 + 1x1 | 13 | STL | 2024-06-25 |
+| [Mitutoyo Digital Calipers (6" and 8")](https://www.printables.com/model/1102634-gridfinity-bins-for-mitutoyo-digital-calipers-6-in) | 2x6,3x8 | 2 | STL | 2024-12-10 |
 | [Model Paint Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%20model%20paint%20organiser-75049) | 3x3 | 1 | STL | 2022-09-04 |
 | [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 elements | STL | 2022-07-25 |
@@ -255,6 +256,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
 | [Solder Reel Stand](https://www.printables.com/model/196782-gridfinity-solder-reel-stand) | 2x2 | 1 | STL | 2022-07-25 |
 | [Small Part Sort and Storage](https://www.printables.com/model/218364-sortfinity-gridfinity-small-part-sort-and-storage) | 2x2 | 1 | STL | 2022-08-16 | 
+| [Space Efficient Socket Holders](https://www.printables.com/model/1101988-space-efficient-socket-holders-gridfinity) | 2x7 | 29 | STL | 2024-12-10 |
 | [Spade Bit Holder](https://thangs.com/designer/rbarbrow/3d-model/Spade%2520Bit%2520Holder%2520Gridfinity-216505) | 4x3 | 1 | STL | 2022-09-22 |
 | [Spiralized Gridfinity Bins](https://thangs.com/designer/DaveMakesStuff/3d-model/Spiralized%20Gridfinity%20Bins-758773) | 1x1 | 1 | STL | 2023-03-21 |
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
