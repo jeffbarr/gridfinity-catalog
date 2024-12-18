@@ -139,6 +139,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) | 1x1, 1x2 | 1 | STL | 2022-06-12 |
 | [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) | 1x3, 2x3 | 1 | STL | 2022-07-19 | 
 | [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | 2022-07-19 |
+| [Complete Kitchen Collection (w/Modular Expansion Pieces)](https://makerworld.com/en/models/148636#profileId-201393) | 1x2 - 2x6 | 13 | STL,3MF | 2024-12-18 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
 | [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
@@ -187,6 +188,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Kitchen Bag Bins - Ikea Istad and More](https://www.printables.com/model/824852-gridfinity-kitchen-bag-bins-ikea-istad-and-more) | 1x6-2x4 | 3 | STL | 2024-04-01 |
 | [Kitchen Caddy Jr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Kitchen%20Caddy%20Jr.-217330) | 2x1 | 1 | STL | 2022-09-04 |
 | [Kitchen Caddy Sr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Kitchen%2520Caddy%2520Sr.-217328) | 4x3 | 1 + 3 trays | STL | 2022-09-04 |
+| [Kitchen Drawer (Parametric) | https://makerworld.com/en/models/883766#profileId-838429 | 3x1 - 6x2 | 23 | STL,OpenSCAD | 2024-12-18 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
 | [LCD Display Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%202x%20lcd%20display%20Holder.stl-201107) | 2x1 | 1 | STL | 2022-09-04 |
 | [Lite Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x1 - 6x6 | 84 | STL | 2023-10-03 |
