@@ -404,6 +404,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [How to 3D Print Custom Tool Organizers for ANYTHING!](https://www.youtube.com/watch?v=kXay9wYWsGs) - 2025-01-18.
 * [Organizing my desk with Gridfinity](https://www.youtube.com/shorts/7bAygy7e-6o) - 2025-01-19.
 * [3D Printed Gridfinity is the ultimate storage solution & I LOVE IT!](https://www.youtube.com/shorts/0OvQQuecQdQ) - 2025-01-19.
+* [Gridfinity portable case. Organization transformed with a DIY parts case](https://youtu.be/Tw1E2MDxOxk) - 2025-01-19.
 
 # Other Resources
 
