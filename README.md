@@ -402,6 +402,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridinity in the Machine Shop: 3d Printed Metrology Tool Organization](https://www.youtube.com/watch?v=RYA0xLryF-g) - 2024-10-14.
 * [Gridfinity for Dummies](https://www.youtube.com/watch?v=TvIvoY013xQ) - 2024-12-08.
 * [How to 3D Print Custom Tool Organizers for ANYTHING!](https://www.youtube.com/watch?v=kXay9wYWsGs) - 2025-01-18.
+* [Organizing my desk with Gridfinity](https://www.youtube.com/shorts/7bAygy7e-6o) - 2025-01-19.
+* [3D Printed Gridfinity is the ultimate storage solution & I LOVE IT!](https://www.youtube.com/shorts/0OvQQuecQdQ) - 2025-01-19.
 
 # Other Resources
 
