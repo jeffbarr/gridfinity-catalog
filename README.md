@@ -360,6 +360,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Modular Rack System for Gridfinity Drawers](https://makerworld.com/en/models/85205) | 5x5 | 1 | STL, STP | 2024-01-23 |
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Dynamic 3D Label Generator](https://github.com/clement-roblot/Gridfinity-Label-Generator) | - | 1 | Python,  PDF | 2024-08-08 |
+| [Gridfinity ruler](https://www.printables.com/model/1142386-gridfinity-ruler) | 1 | 1 | STL | 2025-01-23 |
 | [Gridfinity Ruler MKII](https://makerworld.com/en/models/856330#profileId-805694) | - 5 | STL,3MF | 2024-12-08 |
 | [Gridfinity Secure Brackets](https://www.printables.com/model/1009734-gridfinity-secure-brackets) | - | 3 | STL | 2024-10-13 |
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
