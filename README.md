@@ -407,6 +407,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [3D Printed Gridfinity is the ultimate storage solution & I LOVE IT!](https://www.youtube.com/shorts/0OvQQuecQdQ) - 2025-01-19.
 * [Gridfinity portable case. Organization transformed with a DIY parts case](https://youtu.be/Tw1E2MDxOxk) - 2025-01-19.
 * [Filling Up an Empty Toolcart with Gridfinity](https://www.youtube.com/watch?v=1zi0rHpEU7I) - 2025-01-20.
+* [Organising an IKEA ALEX drawer with Gridfinity](https://www.youtube.com/shorts/mVM563GjAlc) - 2025-01-23.
 
 # Other Resources
 
