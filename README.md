@@ -419,4 +419,5 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [cq-gridfinity](https://github.com/michaelgale/cq-gridfinity) - A python package for making various Gridfinity compatible objects such as baseplates, boxes, rugged boxes, and drawer spacers. Based on CadQuery. PyPI package available. (2024-01-09)
 * [Gridfinity Design Reference](https://gridfinity.xyz/specification/) - A reference tool for designing Gridfinity modules.
 * [Gridfinity Freaks](https://www.facebook.com/groups/894771558536705) - Facebook Community.
+* [Gridfinity FreeCAD Workbench](https://github.com/Stu142/FreeCAD-Gridfinity-Workbench) - Bin and baseplate generater using FreeCAD.
  
