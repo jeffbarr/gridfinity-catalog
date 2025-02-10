@@ -176,6 +176,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Helping Hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
 | [Helping Hands Base](https://thangs.com/designer/faalzin/3d-model/Gridfinity%2520Helping%2520Hands%2520Base-260671) | 1x1 | 1 | STL | 2022-09-08 |
 | [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | 2022-06-12 |
+| [Hex Bins Light](https://www.printables.com/model/1166141-gridfinity-hex-bins-light-all-sizes) | 0.5-6x1-6 | 962 | STL | 2025-02-10 |
 | [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder)| 1x3 | 2 | STL | 2022-07-08 | 
 | [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) | 2x2 | 2 | STL | 2022-06-12 |
 | [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) | 2x4 | 1 | STL | 2022-06-18 |
@@ -184,6 +185,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Husky Nut Driver Holder](https://www.reddit.com/r/gridfinity/comments/1h49cfv/husky_nut_driver_holder/) | - | - | - | 2024-12-08 |
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
+| [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5 - 4x5 | 12 | STL,STP | 2025-02-10 |
 | [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
 | [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | 2022-07-19 |
 | [Kitchen Bag Bins - Ikea Istad and More](https://www.printables.com/model/824852-gridfinity-kitchen-bag-bins-ikea-istad-and-more) | 1x6-2x4 | 3 | STL | 2024-04-01 |
