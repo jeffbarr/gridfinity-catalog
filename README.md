@@ -213,6 +213,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Model Paint Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%20model%20paint%20organiser-75049) | 3x3 | 1 | STL | 2022-09-04 |
 | [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
 | [Modular Kitchen Trays](https://www.printables.com/model/1162895-gridfinity-modular-modern-kitchen-trays) | 1x1-5x5 | 23 | STL,OpenSCAD | 2025-02-03 |
+| [Modular Screwdriver Organizer](https://makerworld.com/en/models/1131369#profileId-1132136) | 1x3, 1x.5 | 6 | STP | 2025-02-23 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 elements | STL | 2022-07-25 |
 | [Needle File Set Holder (Draper 6 Piece Diamond)](https://www.printables.com/model/636437-needle-file-set-holder-gridfinity-4x2-draper-6-pie) | 2x4 | 1 | STL | 2024-01-02 |
 | [Nikon Z Lens Holder](https://www.printables.com/model/720657-nikon-z-lend-holder-for-gridfinity) | 2x2 | 2 | STL | 2024-01-16 |
@@ -283,6 +284,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
 | [Template with Mid-Air Holes](https://www.printables.com/model/269834-gridfinity-template-modified-for-mid-air-holes) | 1x1 | 1 | STL,F3D | 2022-09-26 |
 | [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) | 1x2 | 1 | STL | 2022-06-12 |
+| [Thread Chaser Organizer](https://makerworld.com/en/models/1095238#profileId-1089530) | 3x4 | 1 | STL | 2025-02-23 |
 | [Threaded Insert Tips Holder](https://www.printables.com/model/408938-gridfinity-threaded-insert-tips-holder) | 1x2 | 1 | STL | 2023-02-28 |
 | [Tiered Bins](https://www.printables.com/model/247302-gridfinity-tiered-bins) | 1x1 | 3 | STL | 2022-08-16 |
 | [The One SD Card Holder](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520The%2520One%2520SD%2520Card%2520Holder-61775) | 1x1 | 1 | STL | 2022-07-25 |
