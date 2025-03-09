@@ -225,6 +225,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Parametric Bottle with Cap](https://www.printables.com/model/278947-gridfinity-parametric-bottle-with-knurled-cap) | 1x1-4x4 | 7 | STL,F3D | 2022-09-26 |
 | [Parametric Vase Mode Bins](https://www.thingiverse.com/thing:5519674) | 1x1-3x3 | 6 | STL,F3D | 2024-01-18 | 
 | [Pelican 3310 Flashlight Holder](https://www.printables.com/model/248122-gridfinity-1x1-holder-for-pelican-3310-flashlight) | 1x1 | 1 | STL | 2022-07-25 |
+| [Pencil Lead Holder](https://www.printables.com/model/1216902-gridfinity-1x2-12-slot-pencil-lead-holder) | 1x2 | 1 | STL | 2025-03-09 |
 | [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | 2022-06-12 |
 | [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 2x2 | 1 | STL | 2022-07-01 |
 | [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) | 2x2 | 1 | STL | 2022-06-12 |
@@ -257,6 +258,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Sharpie Holder](https://thangs.com/mythangs/file/191487) | 1x1 | 1 | STL | 2022-07-18 | 
 | [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1-5x5 | 27 | STL | 2022-06-18 |
 | [Slide-Up Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Slide-Up%20Drawer-303350) | 2x1x2 | 2 parts | STL | 2022-09-04 |
+| [SO-DIMM RAM Holder](https://www.printables.com/model/1222192-gridfinity-so-dimm-ram-holder) | 1x2 | 1 | STL | 2025-03-09 |
 | [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
 | [Socket Organizers for GEDORE RED Socket Sets](https://www.etsy.com/listing/1731541210/gridfinity-socket-organizers-for-gedore) | ? | ? | ? | 2025-01-18 |
 | [Socket Set Organizer for Husky 125-Piece Set](https://www.printables.com/model/614374-gridfinity-socket-holders-14-and-38) | 1x2 - 3x5 | 1 | 3MF,STEP | 2023-10-15 |
