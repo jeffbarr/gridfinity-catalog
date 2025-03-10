@@ -419,7 +419,9 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity portable case. Organization transformed with a DIY parts case](https://youtu.be/Tw1E2MDxOxk) - 2025-01-19.
 * [Filling Up an Empty Toolcart with Gridfinity](https://www.youtube.com/watch?v=1zi0rHpEU7I) - 2025-01-20.
 * [Organising an IKEA ALEX drawer with Gridfinity](https://www.youtube.com/shorts/mVM563GjAlc) - 2025-01-23.
-
+* [Transforming my wife's bathroom drawer with #gridfinity!](https://www.youtube.com/watch?v=oYP4TYD8Jl0) - 2025-03-10.
+* [Use Gridfinity and 3D Printing in your Bathroom!](https://www.youtube.com/watch?v=2UAXMtez4qg) - 2025-03-10.
+  
 # Other Resources
 
 * [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad) - OpenSCAD code to generate baseplates and other blocks (2022-06-12).
