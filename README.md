@@ -21,7 +21,7 @@ In July of 2022, Zack published a follow-on video to highlight a plethora of com
 * Share
 * Learn about parameterization and customization
 
-You can also start with the [Gridfinity Master Collection](https://www.printables.com/model/242711-gridfinity-master-collection) .
+You can also start with the [Gridfinity Master Collection](https://www.printables.com/model/774975-gridfinity-master-collection-by-griddex) .
 
 # Contents
 - [Baseplates](#baseplates)
