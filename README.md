@@ -425,6 +425,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Organising an IKEA ALEX drawer with Gridfinity](https://www.youtube.com/shorts/mVM563GjAlc) - 2025-01-23.
 * [Transforming my wife's bathroom drawer with #gridfinity!](https://www.youtube.com/watch?v=oYP4TYD8Jl0) - 2025-03-10.
 * [Use Gridfinity and 3D Printing in your Bathroom!](https://www.youtube.com/watch?v=2UAXMtez4qg) - 2025-03-10.
+* [How to Design and 3D Print the Perfect Storage System](https://www.youtube.com/watch?v=or2_79CTpPM) - 2025-04-10.
   
 # Other Resources
 
