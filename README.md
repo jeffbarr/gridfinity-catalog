@@ -245,6 +245,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-07-11 |
 | [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
 | [Reinforced Economical Bins](https://www.printables.com/model/538275-more-reinforced-economical-gridfinity-bins) | 0.5x0.5 to 7x7 | 1185 | 3MF | 2022-08-26 |
+| [RJ45 / 8P8C Crimp Tool Holder](https://makerworld.com/en/models/1305520-gridfinity-rj45-8p8c-crimp-tool-holder-2x5) | 5x2 | 1 | STL,3ML | 2025-04-10 |
 | [Ryobi Quick Change Hobby Knife](https://www.printables.com/model/748779-ryobi-quick-change-hobby-knife-kit-rhckp04-gridfin) | 1x1 | 2 | STL,STP,F3D | 2024-02-07 |
 | [Rugged Drawer System - Gridfinity Activated](https://makerworld.com/en/models/810461#profileId-751683) | 2x4, 3x5 | 6 | STL,3Mf | 2024-11-23 |
 | [Rugged Gridfinity Desk Organizer XL](https://thangs.com/designer/K2_Kevin/3d-model/Rugged%20Organizer%20XL%20-%20Gridfinity%202x4%20%26%202x5-1157447) | 2x4, 2x5 | 2 | STL,STP,OBJ,FBX | 2024-10-18 | 
@@ -309,6 +310,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Wiha Metric Nut Driver Holder](https://www.thingiverse.com/thing:6596520) | 1x2 | 1 | STL,F3D,3MF | 2023-04-26 |
 | [Wii Remote Bin](https://www.printables.com/model/810571-gridfinity-wii-remote-bin) | 3x4 | 1 | STL,3MF,STP,F3d | 2024-03-19 |
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
+| [Wire Stripping Tool Holder](https://makerworld.com/en/models/1305530-gridfinity-wire-stripping-tool-holder-3x5) | 3x5 | 1 | STL,3MF | 2025-04-10 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
 | [Xacto Holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
 | [Xiaomi Wowstick 1F+ Holder](https://thangs.com/designer/bn326160/3d-model/Xiaomi%2520Wowstick%25201F%252B%2520%2523Gridfinity%2520holder%2520-98140) | 2x5 | 2 | STL | 2022-09-04 |
