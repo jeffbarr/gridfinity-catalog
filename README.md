@@ -51,6 +51,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
 | [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
 | [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
+| [Design Thickness Guide](https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set#profileId-917678) | 1x2  1 | STL,3MF | 2025-04-22 |
 | [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 
 | [Ender 3 Power ledge Baseplate](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
@@ -240,6 +241,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Posca Marker Holder](https://www.printables.com/model/811375-posca-marker-holder-for-gridfinity) | 2x2-2x3 | 1 | STL | 2024-03-19 | 
 | [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
 | [Prusa Pliers and Flat Cuts](https://www.printables.com/model/240253) | 1x1 | 1 | 3MF + STL | 2022-09-04 |
+| [Radius Measuring Set](https://www.printables.com/model/1258992-gridfinity-radius-measuring-set-2mm-20mm) | 1x2 | 1 | STL | 2025-04-22 | 
 | [Raspberry Pi Case](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Raspberry%2520Pi%2520Case-61718) | 2x2 | 1 | STL | 2022-07-25 |
 | [Raspberry Pi Pico Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%2520Raspberry%2520Pi%2520Pico%2520Holder.stl-198518) | 2x1 | 1 | STL | 2022-09-04 |
 | [Raspberry Pi Zero Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%2520Raspberry%2520Pi%2520Zero%2520Holder.stl-198515) | 2x1 | 1 | STL | 2022-09-04 |
