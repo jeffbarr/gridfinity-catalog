@@ -381,6 +381,9 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity ruler](https://www.printables.com/model/1142386-gridfinity-ruler) | 1 | 1 | STL | 2025-01-23 |
 | [Gridfinity Ruler MKII](https://makerworld.com/en/models/856330#profileId-805694) | - 5 | STL,3MF | 2024-12-08 |
 | [Gridfinity Secure Brackets](https://www.printables.com/model/1009734-gridfinity-secure-brackets) | - | 3 | STL | 2024-10-13 |
+| [Slim Parts Storage](https://makerworld.com/en/models/684691-slim-parts-storage-gridfinity-4-x-3#profileId-613405) | 3x4 | 1 | STL,3MF | 2025-05-05 |
+| [Slim Parts Storage Bin](https://makerworld.com/en/models/704565-gridfinity-1x1-light-bin-no-magnet#profileId-634377) | 1x1 | 1 | STL,3MF | 2025-05-05 | 
+| [Slim Parts Storage Rack](https://makerworld.com/en/models/684626-slim-parts-storage-rack#profileId-613316) | - | - | STL,3MF | 2025-05-05 |
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
 | [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
 | [Gridfinity Rugged Storage Box (parametric)](https://www.printables.com/model/757297-gridfinity-rugged-storage-box-parametric-and-custo) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/rugged-box)) | 2x4 - 6x6 + Customizable | Many | OpenSCAD, STL | 2024-02-14 |
