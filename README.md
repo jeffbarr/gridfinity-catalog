@@ -79,6 +79,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Thinner Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Thinner%2520Minimal%2520Baseplate%25204x4.stl-260577) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
 | [Under-Desk Drawer](https://www.printables.com/model/267929-gridfinity-under-desk-drawer) | 4x4 | 1 | STL + STEP | 2022-09-21 |
 | [Under-Desk Drawer half-and-half combo](https://www.printables.com/model/557070-under-desk-drawer-combo-with-gridfinity-compartmen) | 2x4 | 1 | STL | 2024-02-14 |
+| [Velcro Tie Mountable Gridfinity Shelf](https://www.printables.com/model/1288428-velcro-tie-mountable-gridfinity-shelf) | 1x1 | 1 | STL | 2025-05-09 |
 | [VESA Shelf](https://www.tinkercad.com/things/dx6BXXMHsrs-vesa-gridfinity-1x3-shelf) and [VESA Shelf Back](https://www.tinkercad.com/things/133jXDA6OXN-vesa-gridfinity-2-shelf-back) | 1x3 | 1  | STL | 2022-12-06 |
 | [Vertical Baseplate](https://www.printables.com/model/229566-gridfinity-vertical-baseplate/files) | 4x3 | 1 | STL/F3D | 2022-07-25 |
 | [Voron printer (2020 extrusion) Baseplate](https://www.printables.com/model/175108-gridfinity-holder-for-voron-printers-2020-extrusio/files) | 1x1 | 1 | STL/F3D | 2022-07-25 |
@@ -363,6 +364,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+| [Binfinity Mk2 for 8u Gridfinity Bins](https://makerworld.com/en/models/1388935-binfinity-mk2-for-8u-gridfinity-bins#profileId-1438873) | 2x4 | 1 | STL,3MF | 2025-05-09 |
 | [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
 | [Gridfinity Carousel, Motorized](https://www.printables.com/model/897707-gridfinity-carousel-motorized) | 1x5 | 1 | 2024-06-03 |
@@ -392,6 +394,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 # Online Generators
 
+* [CADifier](https://cadifier.georgs.lv/viewer.html?bundleId=75caa38b-9b07-48f8-b049-b2555cd0eee9%20) - Gridfinity PLanner ([more info](https://www.reddit.com/r/gridfinity/comments/1kf8jk9/made_a_proof_of_concept_gridfinity_planner_using/).
 * [Parametric Gridfinity Web UI (perplexing labs)](https://gridfinity.perplexinglabs.com) - Custom bins and bases as STL files.
 * [Gridfinity Bin Creator](https://gridfinity.bouwens.co/) - Generates custom Gridfinity baseplate and bin (divider, holey, solid, and light) STL files.
 * [Gridfinity Parametric Web Generator](https://vector76.github.io/Web_OpenSCAD_Customizer/gridfinity_bins.html) - Generates custom Gridfinity divider bin STL files.
