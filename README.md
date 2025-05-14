@@ -97,30 +97,30 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
 | [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 | 1 | STL | 2022-09-26 |
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | 2022-06-16 | 
-| [8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL/F3D | 2022-07-25 |
+| [8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL,F3D | 2022-07-25 |
 | [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | 2022-07-01 | 
 | [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) | 1x2 | 1 | STL | 2022-06-12 |
 | [AAA Battery Container](https://www.printables.com/model/219701-gridfinity-aaa-battery-containers) | 1x1, 1x2 | 2 | STL | 2022-07-01 |
 | [Acrylic Paint Holder](https://www.printables.com/model/245563-gridfinity-acrylic-paint-holder) | 1x3 | 1 | STL | 2022-07-21 |
-| [Adjustable Jumper Wire Comb](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Adjustable%2520Jumper%2520Wire%2520Comb-174402) | 1x1 | 2 elements | STL | 2022-07-25 |
+| [Adjustable Jumper Wire Comb](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Adjustable%2520Jumper%2520Wire%2520Comb-174402) | 1x1 | 2 | STL | 2022-07-25 |
 | [Adjustable Light](https://www.printables.com/en/model/273727-adjustable-light) | 2x2 | 1 | STL | 2023-01-06 |
 | [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) | 1x1 | 1 | STL | 2022-06-12 |
 | [Amazing Bolt Sorter](https://www.printables.com/model/874548-amazing-gridfinity-m3-bolt-sorter) | 2x4 | 1 | STL,3MF | 2024-09-04 |
 | [Angled Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Angled%20Bin-267623) | 4x2 | 1 + 4 inserts | STL | 2022-09-04 |
 | [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) | 1x1 | 1 | STL | 2022-07-11 |
 | [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
-| [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | 2022-06-12 | 
-| [Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF/F3D | 2022-07-25 |
+| [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1-5x5 | 28 | CadQuery | 2022-06-12 | 
+| [Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF,F3D | 2022-07-25 |
 | [Battery Trays](https://www.printables.com/model/341811-gridfinity-battery-trays-aa-aaa-aaaa-18650-cr123-c) | 1x1,1x3,2x2 | Many | STL | 2024-02-14 |
 | [Battery Holder/Attachment for DeWalt Batteries](https://makerworld.com/en/models/1368182-gridfinity-battery-holder-attachment#profileId-1414219) | 2x3 | 1 | STL,3MF | 2026-05-13 |
 | [Battery Holders (AA, AAA, 9V, 2032)](https://www.printables.com/model/922743-gridfinity-battery-holders) | 1x2, 1x5 | 4 | STL | 2024-07-24 |
-| [Battery Holders, Stackable](https://www.printables.com/model/381400-definitive-collection-of-battery-holders-gridfinit) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
+| [Battery Holders, Stackable](https://www.printables.com/model/381400-definitive-collection-of-battery-holders-gridfinit) | 1x1-2x2 | Many | STL | 2024-02-14 |
 | [Battery Holders, Stackable (remix)](https://www.printables.com/model/752699-gridfinity-battery-bins-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/battery-bins)) | 2x2 | 4 | OpenSCAD,STL | 2024-02-14 |
-| [Battery Holders (AGxx), Stackable](https://www.printables.com/model/442231-agx-button-cell-battery-holders-gridfinity-stackab) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
-| [Battery Holders (CRxxxx), Stackable](https://www.printables.com/model/442365-crxxxx-button-cell-battery-holders-gridfinity-stac) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
-| [Battery Holders (LRx), Stackable](https://www.printables.com/model/442274-lrxx-button-cell-battery-holders-gridfinity-stacka) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
-| [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 2022-06-25 |
-| [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 1508 | STL,F360,STP | 2023-03-30 |
+| [Battery Holders (AGxx), Stackable](https://www.printables.com/model/442231-agx-button-cell-battery-holders-gridfinity-stackab) | 1x1-2x2 | Many | STL | 2024-02-14 |
+| [Battery Holders (CRxxxx), Stackable](https://www.printables.com/model/442365-crxxxx-button-cell-battery-holders-gridfinity-stac) | 1x1-2x2 | Many | STL | 2024-02-14 |
+| [Battery Holders (LRx), Stackable](https://www.printables.com/model/442274-lrxx-button-cell-battery-holders-gridfinity-stacka) | 1x1-2x2 | Many | STL | 2024-02-14 |
+| [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 1x4-5x5 | 36 | STL | 2022-06-25 |
+| [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 1508 | STL,F360,STP | 2023-03-30 |
 | [Bins with Cover (1x1)](https://www.printables.com/model/665798-gridfinity-1-x-1-x-2-and-1-x-1-x-3-inserts-with-co) | 1x1 | 17 | STL | 2024-02-14 |
 | [Bins with Cover (2x1)](https://www.printables.com/model/672541-gridfinity-1-x-2-size-inserts-can-be-closed-indivi) | 2x1 | 24 | STEP,STL | 2024-02-14 |
 | [Bins with Lids (parametric)](https://www.printables.com/model/751715-gridfinity-bins-with-lids-parametric-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/lid-bins)) | 1x1-2x2 + Customizable | 58 | OpenSCAD,STL | 2024-02-14 |
@@ -131,7 +131,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
 | [Bowls](https://www.printables.com/model/447389-gridfinity-bowls) | 1x1,1x2,1x4,2x2 | 4 | STL | 2023-04-09 |
 | [Breadboard Holders](https://www.printables.com/model/248418) | 1x2, 2x2, 2x4 | 3 | F3D + STL | 2022-09-04 |
-| [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4 - 4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
+| [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4-4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
 | [Cable Organizing Boxes](https://makerworld.com/en/models/510993#profileId-427092) | 2x1-2x6 | 12 | STL,3MF | 2024-10-28 |
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
