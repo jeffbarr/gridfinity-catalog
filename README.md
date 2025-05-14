@@ -43,9 +43,9 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
-| [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |
-| [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 130 | STL,F360,STP | 2023-03-30 |
-| [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1 - 7x7 | 30 | STL,STP | 2023-03-30 |
+| [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1-10x10 | 22 | CadQuery | 2022-06-12 |
+| [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 130 | STL,F360,STP | 2023-03-30 |
+| [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
 | [ClickFinity Baseplate - No Magnets](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp) | 1x1 - 7x7 | 49 | STL,F3D | 2023-05-16 | 
 | [Clickfinity Refined Baseplate](https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
@@ -53,29 +53,29 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL | 2025-05-05 |
 | [Craftsman Screwdriver Holder](https://www.printables.com/model/685801-gridfinity-craftsman-screwdriver-holder) | 7x9 | 1 | STL,3MF | 2025-05-05 |
 | [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
-| [Design Thickness Guide](https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set#profileId-917678) | 1x2  1 | STL,3MF | 2025-04-22 |
+| [Design Thickness Guide](https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set#profileId-917678) | 1x2 | 1 | STL,3MF | 2025-04-22 |
 | [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 
 | [Ender 3 Power ledge Baseplate](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
 | [Gridfinity Grids - Stacked for Printing](https://www.printables.com/model/995911-gridfinity-grids-stacked-for-printing) | 8x8 | 1 | STL,F3D | 2024-10-14 |
 | [GRIPS: GRidfinity Interlocking basePlate System](https://makerworld.com/en/models/704997) | Any | - | OpenSCAD | 2025-02-03 |
 | [Ikea Alex Wide Drawers](https://www.printables.com/model/718705-gridfinity-base-for-ikea-alex-wide-drawers) | 3x5-5x5 | 3 | 3MF | 2024-01-23 |
-| [Ikea Skadis Baseplate](https://www.printables.com/model/171690-gridfinity-x-skadis-frames) - baseplates that attach to Ikea Skadis pegboards |1x2 - 2x7 | 12 | STL | 2022-09-06 |
-| [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2 - 6x6 | 8 | 3MF | 2022-06-12 |
-| [Jesh Baseplates for Crappy Printers](https://www.printables.com/model/471686-jesh-plates-gridfinty-for-crappy-printers) | 1x1 - 6x6 | 19 | STEP | 2023-05-16 | 
+| [Ikea Skadis Baseplate](https://www.printables.com/model/171690-gridfinity-x-skadis-frames) - baseplates that attach to Ikea Skadis pegboards |1x2-2x7 | 12 | STL | 2022-09-06 |
+| [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2-6x6 | 8 | 3MF | 2022-06-12 |
+| [Jesh Baseplates for Crappy Printers](https://www.printables.com/model/471686-jesh-plates-gridfinty-for-crappy-printers) | 1x1-6x6 | 19 | STEP | 2023-05-16 | 
 | [Lasercut Base](https://myhub.autodesk360.com/ue29c81a3/g/shares/SH512d4QTec90decfa6e7f2938df1b06f971) | 7x12 | 1 | F3D | 2023-05-16 |
-| [Magnet Light Baseplate](https://www.printables.com/model/250550-gridfinity-magnet-light-baseplate) | 1x1 - 8x8 | 36 | STL/F3D | 2022-10-30 | 
+| [Magnet Light Baseplate](https://www.printables.com/model/250550-gridfinity-magnet-light-baseplate) | 1x1-8x8 | 36 | STL/F3D | 2022-10-30 | 
 | [Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Minimal%2520Baseplate%25204x4.stl-260576) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
 | [Modular Gridfinity Drawers](https://www.printables.com/model/458846-modular-gridfinity-drawers-in-various-sizes) | 2x3-3x5 | 48 | STL,STP | 2024-03-12 |
-| [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | 2022-06-12 |
-| [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) | 1x4 - 3x4 | 3 | STL | 2022-06-12 |
+| [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1-5x6 | 18 | 3MF | 2022-06-12 |
+| [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) | 1x4-3x4 | 3 | STL | 2022-06-12 |
 | [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers | 1x1 |  6  | STL | 2022-06-12 |
-| [Screw Together Baseplate](https://www.printables.com/model/300603-gridfinity-screw-together-baseplate/files) | 1x1 - 7x7 | 28 |  STL | 2022-10-27 |
-| [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1 - 5x5 | 15 | STL | 2022-06-18 |
-| [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1 - 5x5 | 20 | 3MF, F3D, STEP | 2023-01-09 |
-| [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3 - 5x5 | 14 | STL | 2023-10-07 |
-| [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1 - 7x7 | 13 | STL | 2022-06-12 | 28 | 
-| [Thin Baseplate with Magnets](https://www.printables.com/model/303923-gridfinity-thin-base-with-magnets) | 2x2 - 6x6 | 15 | STL | 2022-10-27 |
+| [Screw Together Baseplate](https://www.printables.com/model/300603-gridfinity-screw-together-baseplate/files) | 1x1-7x7 | 28 |  STL | 2022-10-27 |
+| [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1-5x5 | 15 | STL | 2022-06-18 |
+| [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1-5x5 | 20 | 3MF, F3D, STEP | 2023-01-09 |
+| [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3-5x5 | 14 | STL | 2023-10-07 |
+| [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1-7x7 | 13 | STL | 2022-06-12 | 28 | 
+| [Thin Baseplate with Magnets](https://www.printables.com/model/303923-gridfinity-thin-base-with-magnets) | 2x2-6x6 | 15 | STL | 2022-10-27 |
 | [Thinner Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Thinner%2520Minimal%2520Baseplate%25204x4.stl-260577) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
 | [Under-Desk Drawer](https://www.printables.com/model/267929-gridfinity-under-desk-drawer) | 4x4 | 1 | STL + STEP | 2022-09-21 |
 | [Under-Desk Drawer half-and-half combo](https://www.printables.com/model/557070-under-desk-drawer-combo-with-gridfinity-compartmen) | 2x4 | 1 | STL | 2024-02-14 |
