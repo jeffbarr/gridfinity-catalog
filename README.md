@@ -112,6 +112,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | 2022-06-12 | 
 | [Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF/F3D | 2022-07-25 |
 | [Battery Trays](https://www.printables.com/model/341811-gridfinity-battery-trays-aa-aaa-aaaa-18650-cr123-c) | 1x1,1x3,2x2 | Many | STL | 2024-02-14 |
+| [Battery Holder/Attachment for DeWalt Batteries](https://makerworld.com/en/models/1368182-gridfinity-battery-holder-attachment#profileId-1414219) | 2x3 | 1 | STL,3MF | 2026-05-13 |
 | [Battery Holders (AA, AAA, 9V, 2032)](https://www.printables.com/model/922743-gridfinity-battery-holders) | 1x2, 1x5 | 4 | STL | 2024-07-24 |
 | [Battery Holders, Stackable](https://www.printables.com/model/381400-definitive-collection-of-battery-holders-gridfinit) | 1x1 - 2x2 | Many | STL | 2024-02-14 |
 | [Battery Holders, Stackable (remix)](https://www.printables.com/model/752699-gridfinity-battery-bins-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/battery-bins)) | 2x2 | 4 | OpenSCAD,STL | 2024-02-14 |
@@ -124,6 +125,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bins with Cover (2x1)](https://www.printables.com/model/672541-gridfinity-1-x-2-size-inserts-can-be-closed-indivi) | 2x1 | 24 | STEP,STL | 2024-02-14 |
 | [Bins with Lids (parametric)](https://www.printables.com/model/751715-gridfinity-bins-with-lids-parametric-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/lid-bins)) | 1x1-2x2 + Customizable | 58 | OpenSCAD,STL | 2024-02-14 |
 | [Bins with Swappable Labels](https://makerworld.com/en/models/446624#profileId-353132) | 1x1-3x2 | 32 | STL,3MF | 2024-04-29 |
+| [Bin/Lid for RJ45 Jacks](https://makerworld.com/en/models/1414568-gridfinity-bin-for-rj45-jacks-pinout-lid#profileId-1468931) | 2.5x3.5 | 1 | STL,3MF | 2025-05-13 |
 | [Bolt Sorter](https://www.thingiverse.com/thing:5402658) | 1x2 | 1 | STL | 2022-09-04 |
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
 | [Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
