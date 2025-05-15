@@ -180,8 +180,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [GoPro Holder](https://thangs.com/designer/martinwew/3d-model/Gridfinity%202x1%20gopro%20holder.STL-313028) | 1x2 | 1 | STL | 2022-09-04 |
-| [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 - 0.5x3 | 10 | STL | 2022-09-19 |
-| [Height Tool](https://thangs.com/designer/myway2build3d/3d-model/Gridfinity%20Height%20Tool%20-666915) | 1x1 | 1 | STP + 3MF | 2023-03-15 |
+| [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1-0.5x3 | 10 | STL | 2022-09-19 |
+| [Height Tool](https://thangs.com/designer/myway2build3d/3d-model/Gridfinity%20Height%20Tool%20-666915) | 1x1 | 1 | STP,3MF | 2023-03-15 |
 | [Helping Hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
 | [Helping Hands Base](https://thangs.com/designer/faalzin/3d-model/Gridfinity%2520Helping%2520Hands%2520Base-260671) | 1x1 | 1 | STL | 2022-09-08 |
 | [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | 2022-06-12 |
@@ -194,17 +194,17 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Husky Nut Driver Holder](https://www.reddit.com/r/gridfinity/comments/1h49cfv/husky_nut_driver_holder/) | - | - | - | 2024-12-08 |
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
-| [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5 - 4x5 | 12 | STL,STP | 2025-02-10 |
+| [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5-4x5 | 12 | STL,STP | 2025-02-10 |
 | [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
 | [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | 2022-07-19 |
 | [Kitchen Bag Bins - Ikea Istad and More](https://www.printables.com/model/824852-gridfinity-kitchen-bag-bins-ikea-istad-and-more) | 1x6-2x4 | 3 | STL | 2024-04-01 |
 | [Kitchen Caddy Jr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Kitchen%20Caddy%20Jr.-217330) | 2x1 | 1 | STL | 2022-09-04 |
 | [Kitchen Caddy Sr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Kitchen%2520Caddy%2520Sr.-217328) | 4x3 | 1 + 3 trays | STL | 2022-09-04 |
-| [Kitchen Drawer (Parametric)](https://makerworld.com/en/models/883766#profileId-838429) | 3x1 - 6x2 | 23 | STL,OpenSCAD | 2024-12-18 |
+| [Kitchen Drawer (Parametric)](https://makerworld.com/en/models/883766#profileId-838429) | 3x1-6x2 | 23 | STL,OpenSCAD | 2024-12-18 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
 | [LCD Display Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%202x%20lcd%20display%20Holder.stl-201107) | 2x1 | 1 | STL | 2022-09-04 |
-| [Lite Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x1 - 6x6 | 84 | STL | 2023-10-03 |
-| [Lite Ultra Boxes](https://www.printables.com/model/435429-gridfinity-lite-ultra-boxes-improved-version-with-) |  168 | 1x1 - 5x5 | STL,F3D | 2023-05-16 |
+| [Lite Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x1-6x6 | 84 | STL | 2023-10-03 |
+| [Lite Ultra Boxes](https://www.printables.com/model/435429-gridfinity-lite-ultra-boxes-improved-version-with-) | 1x1-5x5 | 168 | STL,F3D | 2023-05-16 |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
 | [Long n' Tall Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Long%20n'%20Tall%20Drawer-228161) | 1x3 | 2 parts | STL | 2022-09-04 |
 | [LTT Screwdriver](https://www.printables.com/model/1279926-ltt-screwdriver-gridfinity) | 1x6 | 1 | STL | 2025-05-09 |
