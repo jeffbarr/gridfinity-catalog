@@ -255,7 +255,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ratchet Holder](https://www.printables.com/model/282674-gridfinity-ratchet-holder-1x4) | 1x4 | 1 | STL | 2022-09-26 |
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-07-11 |
 | [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
-| [Reinforced Economical Bins](https://www.printables.com/model/538275-more-reinforced-economical-gridfinity-bins) | 0.5x0.5 to 7x7 | 1185 | 3MF | 2022-08-26 |
+| [Reinforced Economical Bins](https://www.printables.com/model/538275-more-reinforced-economical-gridfinity-bins) | 0.5x0.5-7x7 | 1185 | 3MF | 2022-08-26 |
 | [RJ45 / 8P8C Crimp Tool Holder](https://makerworld.com/en/models/1305520-gridfinity-rj45-8p8c-crimp-tool-holder-2x5) | 5x2 | 1 | STL,3ML | 2025-04-10 |
 | [Ryobi Quick Change Hobby Knife](https://www.printables.com/model/748779-ryobi-quick-change-hobby-knife-kit-rhckp04-gridfin) | 1x1 | 2 | STL,STP,F3D | 2024-02-07 |
 | [Rugged Drawer System - Gridfinity Activated](https://makerworld.com/en/models/810461#profileId-751683) | 2x4, 3x5 | 6 | STL,3Mf | 2024-11-23 |
@@ -269,11 +269,11 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Screwfinity Unit 2U Large](https://thangs.com/designer/ZombieHedgehog/3d-model/Screwfinity%20Unit%202U%20Large%20-%20The%20Gridfinity%20Storage%20Unit-1081351?image=1350915) | 3x5 | 1 | STL,3MF,STP,OBJ,FBX | 2024-06-15 |
 | [Sharpie Holder](https://thangs.com/mythangs/file/191487) | 1x1 | 1 | STL | 2022-07-18 | 
 | [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1-5x5 | 27 | STL | 2022-06-18 |
-| [Slide-Up Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Slide-Up%20Drawer-303350) | 2x1x2 | 2 parts | STL | 2022-09-04 |
+| [Slide-Up Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Slide-Up%20Drawer-303350) | 2x1x2 | 2 | STL | 2022-09-04 |
 | [SO-DIMM RAM Holder](https://www.printables.com/model/1222192-gridfinity-so-dimm-ram-holder) | 1x2 | 1 | STL | 2025-03-09 |
 | [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
 | [Socket Organizers for GEDORE RED Socket Sets](https://www.etsy.com/listing/1731541210/gridfinity-socket-organizers-for-gedore) | ? | ? | ? | 2025-01-18 |
-| [Socket Set Organizer for Husky 125-Piece Set](https://www.printables.com/model/614374-gridfinity-socket-holders-14-and-38) | 1x2 - 3x5 | 1 | 3MF,STEP | 2023-10-15 |
+| [Socket Set Organizer for Husky 125-Piece Set](https://www.printables.com/model/614374-gridfinity-socket-holders-14-and-38) | 1x2-3x5 | ?? | 3MF,STEP | 2023-10-15 |
 | [Solder Flix & Soldering Iron Tip Cleaner](https://www.printables.com/model/825562-gridfinity-bin-for-solder-flux-soldering-iron-tip) | 2x2 | 3 | STL | 2024-04-01 |
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
 | [Solder Reel Stand](https://www.printables.com/model/196782-gridfinity-solder-reel-stand) | 2x2 | 1 | STL | 2022-07-25 |
@@ -282,7 +282,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Spade Bit Holder](https://thangs.com/designer/rbarbrow/3d-model/Spade%2520Bit%2520Holder%2520Gridfinity-216505) | 4x3 | 1 | STL | 2022-09-22 |
 | [Spiralized Gridfinity Bins](https://thangs.com/designer/DaveMakesStuff/3d-model/Spiralized%20Gridfinity%20Bins-758773) | 1x1 | 1 | STL | 2023-03-21 |
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
-| [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D + STL | 2022-09-04 |
+| [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 |
 | [Stackable Citadel Paint Pot Storage](https://www.printables.com/model/267790-gridfinity-stackable-citadel-paint-pot-storage) | 1x1-6x6 | 5 | STL,F3D | 2022-09-26 |
 | [Stackable Shipping Container](https://makerworld.com/en/models/540866#profileId-458375) | 1x2 | 1 | STL | 2024-07-19 |
 | [Starbond CA Glue Variety Pack](https://www.printables.com/model/280137-starbond-ca-glue-variety-pack-holder-3-2oz-bottles) | 2x3 | 1 | STL | 2022-09-21 |
@@ -355,7 +355,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
-| [Gridfinity Adapters](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Adapters-61462) | 1x1 - 5x5 | 1 | STL/F3D | 2022-07-28
+| [Gridfinity Adapters](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Adapters-61462) | 1x1-5x5 | 1 | STL/F3D | 2022-07-28
 | [Height Adaptive Spacers](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Height%2520Adaptive%2520Spacers-61820) | various | 30 | STL | 2022-07-25 |
 
 # Templates
@@ -371,11 +371,11 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Binfinity Mk2 for 8u Gridfinity Bins](https://makerworld.com/en/models/1388935-binfinity-mk2-for-8u-gridfinity-bins#profileId-1438873) | 2x4 | 1 | STL,3MF | 2025-05-09 |
 | [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
-| [Gridfinity Carousel, Motorized](https://www.printables.com/model/897707-gridfinity-carousel-motorized) | 1x5 | 1 | 2024-06-03 |
-| [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2 - 2x4 | 27 | OpenSCAD,STL | 2022-10-26 |
+| [Gridfinity Carousel, Motorized](https://www.printables.com/model/897707-gridfinity-carousel-motorized) | 1x5 | 1 | STL | 2024-06-03 |
+| [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2-2x4 | 27 | OpenSCAD,STL | 2022-10-26 |
 | [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) | 4x4 | 1 | STL | 2022-06-17 |
 | [Modular Drawer System and Case with Honeycomb Walls](https://www.printables.com/model/916303-gridfinity-modular-drawer-and-case-with-honeycomb) | 5x3 | 1 | STL,F3D | 2024-07-01 |
-| [Toolbox (Parametric)](https://thangs.com/designer/jaswlodarczyk/3d-model/Gridfinity%2520Toolbox%2520%28Parametric%29-67053) | 5x3 | 7 elements | STL | 2022-07-25 |
+| [Toolbox (Parametric)](https://thangs.com/designer/jaswlodarczyk/3d-model/Gridfinity%2520Toolbox%2520%28Parametric%29-67053) | 5x3 | 7 | STL | 2022-07-25 |
 | [Pegboard Gridfinity](https://thangs.com/designer/evanmeltzer/3d-model/Peg%20Board%20Gridfinity%20Bin%20System-509457) | 2x2 | 4 | STL | 2022-12-17 |
 | [Rugged Case "Light"](https://www.printables.com/de/model/873932-gridfinity-rugged-case-light-5x4x6u) | 5x4 | 3 | STL | 2024-06-03 |
 | [Modular Expandable Storage Box](https://www.printables.com/model/369813-fully-printable-gridfinity-box-parametric) | 2x3, 4x5, 4x7 | 3 | STL | 2023-01-16 | 
@@ -386,7 +386,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Dynamic 3D Label Generator](https://github.com/clement-roblot/Gridfinity-Label-Generator) | - | 1 | Python,  PDF | 2024-08-08 |
 | [Gridfinity ruler](https://www.printables.com/model/1142386-gridfinity-ruler) | 1 | 1 | STL | 2025-01-23 |
-| [Gridfinity Ruler MKII](https://makerworld.com/en/models/856330#profileId-805694) | - 5 | STL,3MF | 2024-12-08 |
+| [Gridfinity Ruler MKII](https://makerworld.com/en/models/856330#profileId-805694) | - | 5 | STL,3MF | 2024-12-08 |
 | [Gridfinity Secure Brackets](https://www.printables.com/model/1009734-gridfinity-secure-brackets) | - | 3 | STL | 2024-10-13 |
 | [Slim Parts Storage](https://makerworld.com/en/models/684691-slim-parts-storage-gridfinity-4-x-3#profileId-613405) | 3x4 | 1 | STL,3MF | 2025-05-05 |
 | [Slim Parts Storage Bin](https://makerworld.com/en/models/704565-gridfinity-1x1-light-bin-no-magnet#profileId-634377) | 1x1 | 1 | STL,3MF | 2025-05-05 | 
