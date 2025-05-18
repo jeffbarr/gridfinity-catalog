@@ -40,12 +40,14 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+| [Angled Plate](https://www.printables.com/model/1250441-gridfinity-angled-plate) | 2x4 | 1 | STL | 2025-05-18 |
 | [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1-10x10 | 22 | CadQuery | 2022-06-12 |
 | [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 130 | STL,F360,STP | 2023-03-30 |
 | [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
+| [Bisley 10 Drawer Gridfinity Base](https://www.printables.com/model/1297104-bisley-10-drawer-gridfinity-base) | 5x8 | 1 | STL | 2025-05-18 |
 | [ClickFinity Baseplate - No Magnets](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp) | 1x1 - 7x7 | 49 | STL,F3D | 2023-05-16 | 
 | [Clickfinity Refined Baseplate](https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
@@ -234,6 +236,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Paper Towel Roll](https://social.thangs.com/m/201112) | 3x4 | 1 | STL | 2022-07-20 |
 | [Parametric Bottle with Cap](https://www.printables.com/model/278947-gridfinity-parametric-bottle-with-knurled-cap) | 1x1-4x4 | 7 | STL,F3D | 2022-09-26 |
 | [Parametric Vase Mode Bins](https://www.thingiverse.com/thing:5519674) | 1x1-3x3 | 6 | STL,F3D | 2024-01-18 | 
+| [PCI Holder](https://www.printables.com/model/1252609-gridfinity-compatable-pci-holder) | 3x3 | 1 | STL | 2025-05-18 |
 | [Pelican 3310 Flashlight Holder](https://www.printables.com/model/248122-gridfinity-1x1-holder-for-pelican-3310-flashlight) | 1x1 | 1 | STL | 2022-07-25 |
 | [Pencil Lead Holder](https://www.printables.com/model/1216902-gridfinity-1x2-12-slot-pencil-lead-holder) | 1x2 | 1 | STL | 2025-03-09 |
 | [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | 2022-06-12 |
