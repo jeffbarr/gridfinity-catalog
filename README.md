@@ -157,6 +157,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
 | [Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
+| [Desktop Tool Bins](https://makerworld.com/en/models/1479743-gridfinity-desktop-tool-bins#profileId-1544955) | 2x2-2x4 | 12 | STL,3MF | 2025-06-02 |
 | [Diamond Needle File kit](https://www.printables.com/model/244748-gridfinity-diamond-needle-file-set) | 1x1 | 1 | STL | 2022-07-20 |
 | [Dice Holder for DnD and other TTRPG](https://www.printables.com/model/295485-gridfinity-dice-holder-for-dnd-and-other-ttrpg) | 1x3 | 7 | STL | 2022-10-26 |
 | [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) | 1x1-5x1 | 51 | STL | 2022-06-12 |
