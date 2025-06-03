@@ -152,6 +152,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | 2022-07-19 |
 | [Complete Kitchen Collection (w/Modular Expansion Pieces)](https://makerworld.com/en/models/148636#profileId-201393) | 1x2 - 2x6 | 13 | STL,3MF | 2024-12-18 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
+| [CR24xx Coin Battery Storage](https://makerworld.com/en/models/1457723-cr24xx-coin-battery-storage-for-gridfinity#profileId-1519490) | 1x1-1x3 | 12 | STL,3MF | 2025-06-02 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
 | [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
@@ -323,6 +324,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
 | [Wiha Metric Nut Driver Holder](https://www.thingiverse.com/thing:6596520) | 1x2 | 1 | STL,F3D,3MF | 2023-04-26 |
 | [Wii Remote Bin](https://www.printables.com/model/810571-gridfinity-wii-remote-bin) | 3x4 | 1 | STL,3MF,STP,F3d | 2024-03-19 |
+| [Wii Remote Holder](https://www.printables.com/model/1304912-gridfinity-wii-remote-holder) | 2x4 | 1 | STL | 2025-06-02 |
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
 | [Wire Stripping Tool Holder](https://makerworld.com/en/models/1305530-gridfinity-wire-stripping-tool-holder-3x5) | 3x5 | 1 | STL,3MF | 2025-04-10 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
