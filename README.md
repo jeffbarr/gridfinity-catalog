@@ -52,8 +52,6 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Clickfinity Refined Baseplate](https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
 | [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
-| [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL | 2025-05-05 |
-| [Craftsman Screwdriver Holder](https://www.printables.com/model/685801-gridfinity-craftsman-screwdriver-holder) | 7x9 | 1 | STL,3MF | 2025-05-05 |
 | [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
 | [Design Thickness Guide](https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set#profileId-917678) | 1x2 | 1 | STL,3MF | 2025-04-22 |
 | [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 
@@ -152,7 +150,9 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | 2022-07-19 |
 | [Complete Kitchen Collection (w/Modular Expansion Pieces)](https://makerworld.com/en/models/148636#profileId-201393) | 1x2 - 2x6 | 13 | STL,3MF | 2024-12-18 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
+| [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL | 2025-05-05 |
 | [CR24xx Coin Battery Storage](https://makerworld.com/en/models/1457723-cr24xx-coin-battery-storage-for-gridfinity#profileId-1519490) | 1x1-1x3 | 12 | STL,3MF | 2025-06-02 |
+| [Craftsman Screwdriver Holder](https://www.printables.com/model/685801-gridfinity-craftsman-screwdriver-holder) | 7x9 | 1 | STL,3MF | 2025-05-05 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
 | [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
