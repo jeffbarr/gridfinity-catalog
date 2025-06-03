@@ -123,6 +123,12 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 1508 | STL,F360,STP | 2023-03-30 |
 | [Bins with Cover (1x1)](https://www.printables.com/model/665798-gridfinity-1-x-1-x-2-and-1-x-1-x-3-inserts-with-co) | 1x1 | 17 | STL | 2024-02-14 |
 | [Bins with Cover (2x1)](https://www.printables.com/model/672541-gridfinity-1-x-2-size-inserts-can-be-closed-indivi) | 2x1 | 24 | STEP,STL | 2024-02-14 |
+| [Bins with Latching Lids (1x1)](https://makerworld.com/en/models/1350573-gridfinity-1x1-bins-with-latching-lids-v1-0#profileId-1393156) | 1x1 | 3 | STL,3MF | 2025-06-02 |
+| [Bins with Latching Lids (1x2)](https://makerworld.com/en/models/1465547-gridfinity-1x2-bins-with-latching-lids-v1-0#profileId-1528803) | 1x2 | 3 | STL,3MF | 2025-06-02 |
+| [Bins with Latching Lids (1x3)](https://makerworld.com/en/models/1465565-gridfinity-1x3-bins-with-latching-lids-v1-0#profileId-1528827) | 1x3 | 3 | STL,3MF | 2025-06-02 |
+| [Bins with Latching Lids (1x4)](https://makerworld.com/en/models/1465583-gridfinity-1x4-bins-with-latching-lids-v1-0) | 1x4 | 3 | STL,3MF | 2025-06-02 |
+| [Bins with Latching Lids (2x2)](https://makerworld.com/en/models/1350724-gridfinity-2x2-bins-with-latching-lids-v1-0#profileId-1393320) | 2x2 | 3 | STL,3MF | 2025-06-02 |
+| [Bins with Latching Lids (2x3)](https://makerworld.com/en/models/1350778-gridfinity-2x3-bins-with-latching-lids-v1-0#profileId-1393392) | 2x3 | 3 | STL,3MF | 2025-06-02 |
 | [Bins with Lids (parametric)](https://www.printables.com/model/751715-gridfinity-bins-with-lids-parametric-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/lid-bins)) | 1x1-2x2 + Customizable | 58 | OpenSCAD,STL | 2024-02-14 |
 | [Bins with Swappable Labels](https://makerworld.com/en/models/446624#profileId-353132) | 1x1-3x2 | 32 | STL,3MF | 2024-04-29 |
 | [Bin/Lid for RJ45 Jacks](https://makerworld.com/en/models/1414568-gridfinity-bin-for-rj45-jacks-pinout-lid#profileId-1468931) | 2.5x3.5 | 1 | STL,3MF | 2025-05-13 |
