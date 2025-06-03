@@ -288,6 +288,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Solder Flix & Soldering Iron Tip Cleaner](https://www.printables.com/model/825562-gridfinity-bin-for-solder-flux-soldering-iron-tip) | 2x2 | 3 | STL | 2024-04-01 |
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
 | [Solder Reel Stand](https://www.printables.com/model/196782-gridfinity-solder-reel-stand) | 2x2 | 1 | STL | 2022-07-25 |
+| [Soldering Iron Holder](https://www.printables.com/model/460233-gridfinity-soldering-iron-holder) | 1x3 | 1 | STL | 2025-06-03 |
 | [Small Part Sort and Storage](https://www.printables.com/model/218364-sortfinity-gridfinity-small-part-sort-and-storage) | 2x2 | 1 | STL | 2022-08-16 | 
 | [Space Efficient Socket Holders](https://www.printables.com/model/1101988-space-efficient-socket-holders-gridfinity) | 2x7 | 29 | STL | 2024-12-10 |
 | [Spade Bit Holder](https://thangs.com/designer/rbarbrow/3d-model/Spade%2520Bit%2520Holder%2520Gridfinity-216505) | 4x3 | 1 | STL | 2022-09-22 |
@@ -407,6 +408,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
 | [Gridfinity Rugged Storage Box (parametric)](https://www.printables.com/model/757297-gridfinity-rugged-storage-box-parametric-and-custo) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/rugged-box)) | 2x4 - 6x6 + Customizable | Many | OpenSCAD, STL | 2024-02-14 |
 | [Gridfinity Sewing (or tool) Box](https://www.printables.com/model/1007079-gridfinity-sewing-or-tool-box) | 4x4 | 1 | STP | 2024-10-09 |
+| [Tackle Box](https://makerworld.com/en/models/1334981-fishfinity-tackle-box#profileId-1374085) | 4x5 | 1 | 3MF,STL | 2025-06-02 |
 | [Gridfinity Master Collection](https://www.printables.com/model/242711-gridfinity-master-collection) | 1x1-7x7 | 633 | STL,OpenSCAD | 2024-03-21 |
 
 # Online Generators
