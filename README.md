@@ -148,6 +148,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | Celtic Knot Bin | 1x1 ([std](https://social.thangs.com/m/733950), [ext](https://social.thangs.com/m/733951)), 1x2 ([std](https://social.thangs.com/m/733953), [ext](https://social.thangs.com/m/733956)), 2x2 ([std](https://social.thangs.com/m/733962), [ext](https://social.thangs.com/m/733965)) | 1 | STL | 2023-03-15 |
 | [Chalk Holder](https://thangs.com/designer/doubleyuhtee/3d-model/Gridfinity%25201x1%2520chalk%2520holder-65847) | 1x1 | 1 | STL | 2022-09-04 |
 | [Chisel Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%2520Chisel%2520Holder.stl-67081) | 4x7 | 1 | STL | 2022-09-04 |
+| [Cisco WIC Card Holder](https://www.reddit.com/r/gridfinity/comments/1l2qwrj/gridfinity_organizer_for_cisco_router_wic_cards/) | 2x2,2x4 | 2 | STL | 2025-06-02 |
 | [Cigfinity Pack Dispenser](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Cigfinity%20Pack%20Dispenser-212826) | 3x2 | 2 | STL | 2022-09-04 |
 | [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) | 1x2, 2x2, 3x3 | 4 | STL | 2022-07-19 |
 | [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) | 1x1, 1x2 | 1 | STL | 2022-06-12 |
