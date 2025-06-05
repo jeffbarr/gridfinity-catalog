@@ -257,6 +257,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Plain Bins](https://thangs.com/designer/robert.j.paisley/3d-model/Plain%2520Bins-73750) | 3x6 | 2 | STL | 2022-07-25 |
 | [(Plain Bin) Dispenser lids](https://thangs.com/designer/robert.j.paisley/3d-model/Dispenser%2520lids-73748) | 3x6 | 2 | STL | 2022-07-25 |
 | [(Modified) Pliers Rack](https://github.com/nerpatech/gridfinity-pliers-rack/tree/dev-local) | 2x2 - 2x4 | 2 | AMF | 2023-10-07 |
+| [Pliers Stand](https://makerworld.com/en/models/1487921-gridfinity-pliers-stand#profileId-1554792) | 2x2 | 1 | STL,3MF | 2025-06-05 |
 | [Posca Marker Holder](https://www.printables.com/model/811375-posca-marker-holder-for-gridfinity) | 2x2-2x3 | 1 | STL | 2024-03-19 | 
 | [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
 | [Prusa Pliers and Flat Cuts](https://www.printables.com/model/240253) | 1x1 | 1 | 3MF + STL | 2022-09-04 |
