@@ -157,9 +157,11 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | 2022-07-19 |
 | [Complete Kitchen Collection (w/Modular Expansion Pieces)](https://makerworld.com/en/models/148636#profileId-201393) | 1x2 - 2x6 | 13 | STL,3MF | 2024-12-18 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
-| [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL | 2025-05-05 |
+| [CR12xx Coin Battery Storage](https://makerworld.com/en/models/1516518-cr12xx-coin-battery-storage-for-gridfinity#profileId-1588681) | 1x1, 1x3 | 9 | STL,3MF | 2025-06-18 |
+| [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL,3MF | 2025-05-05 |
 | [CR24xx Coin Battery Storage](https://makerworld.com/en/models/1457723-cr24xx-coin-battery-storage-for-gridfinity#profileId-1519490) | 1x1-1x3 | 12 | STL,3MF | 2025-06-02 |
 | [Craftsman Screwdriver Holder](https://www.printables.com/model/685801-gridfinity-craftsman-screwdriver-holder) | 7x9 | 1 | STL,3MF | 2025-05-05 |
+| [Creality K2 Plus Combo Toolbox Foam Insert Adapter](https://thangs.com/designer/myokeeh/3d-model/Creality%20K2%20Plus%20Combo%20Toolbox%20Foam%20Insert%20Gridfinity%20Adapter-1360427) | 2x3 | 1 | 3LF | 2025-06-18 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
 | [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
@@ -296,9 +298,10 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Spade Bit Holder](https://thangs.com/designer/rbarbrow/3d-model/Spade%2520Bit%2520Holder%2520Gridfinity-216505) | 4x3 | 1 | STL | 2022-09-22 |
 | [Spiralized Gridfinity Bins](https://thangs.com/designer/DaveMakesStuff/3d-model/Spiralized%20Gridfinity%20Bins-758773) | 1x1 | 1 | STL | 2023-03-21 |
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
-| [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 |
+| [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 | STL,3MF | 2025-06-18 |
 | [Stackable Citadel Paint Pot Storage](https://www.printables.com/model/267790-gridfinity-stackable-citadel-paint-pot-storage) | 1x1-6x6 | 5 | STL,F3D | 2022-09-26 |
 | [Stackable Shipping Container](https://makerworld.com/en/models/540866#profileId-458375) | 1x2 | 1 | STL | 2024-07-19 |
+| [Stackable Sunglasses Organizer with Modular Dividers]() | 4x4,6x4 | 4 | 
 | [Starbond CA Glue Variety Pack](https://www.printables.com/model/280137-starbond-ca-glue-variety-pack-holder-3-2oz-bottles) | 2x3 | 1 | STL | 2022-09-21 |
 | [Stanley Fatmax 6' Tape Measure](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1191042-gridfinity-bin-for-stanley-fatmax-6-tape-measure) | 2x2 | 1 | STL | 2025-02-23 | 
 | [Sticky Note Holder](https://thangs.com/designer/Robot_taco_sauce/3d-model/Gridfinity%2520sticky%2520note%2520holder.stl-194948) | 2x2 | 1 | STL | 2022-09-04 |
