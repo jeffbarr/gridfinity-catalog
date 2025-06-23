@@ -425,8 +425,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Onshape Bins/Bases](https://github.com/rugbymauri/onshape-gridfinity) - Make Bins and Bases from a Template for onshape.
 * [Layout Builder](https://mvpplaceholder.com/) - Layout tool.
 * [Gridfi](https://gridfi.cc/) - Configurator and printing service.
-* [Gridfinity Generator](https://gridfinitygenerator.com/en) - Easily create custom 3D Gridfinity designs with this free, interactive tool. Export your designs as STL
-
+* [Gridfinity Generator](https://gridfinitygenerator.com/en) - Easily create custom 3D Gridfinity designs with this free, interactive tool. Export your designs as STL.
+* [ToolTrace](https://www.tooltrace.ai/) - Tool inserts, made in one click. 
 
 # Articles
 
