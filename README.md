@@ -426,7 +426,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Layout Builder](https://mvpplaceholder.com/) - Layout tool.
 * [Gridfi](https://gridfi.cc/) - Configurator and printing service.
 * [Gridfinity Generator](https://gridfinitygenerator.com/en) - Easily create custom 3D Gridfinity designs with this free, interactive tool. Export your designs as STL.
-* [ToolTrace](https://www.tooltrace.ai/) - Tool inserts, made in one click. 
+* [ToolTrace](https://www.tooltrace.ai/) - Tool inserts, made in one click.
+* [Outline.Georgs.LV](https://outline.georgs.lv/) - Make an SVG path and Gridfinity box for any tool using only a picture.
 
 # Articles
 
