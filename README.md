@@ -353,7 +353,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | Description | Sizes | Variants | Format | Date Added |
 | :---        | ---:  | ---:     | ---:   | ---:       |
 | [ANYLID - Click-Lock Stackable Lid](https://makerworld.com/en/models/1059434) | 1x1-2x4 | 28 | STL,OpenSCAD | 2025-02-03 |
-| [Hinged Captive Lid](https://www.printables.com/model/1255783-gridfinity-bin-with-hinged-captive-lid) | Any | 
+| [Hinged Captive Lid](https://www.printables.com/model/1255783-gridfinity-bin-with-hinged-captive-lid) | Any |  5  |  STL,Onshape | 2025-06-26 |
 | [Lid](https://thangs.com/designer/noelboettcher2004/3d-model/Gridfinity%2520lid-194358) | 1x1 | 1 | STL | 2022-09-04 |
 | [Lids](https://thangs.com/designer/PotatoCheese/3d-model/Gridfinity%20Lids-294307) | 1x1-3x4 | 13 | STL | 2024-04-06 |
 | [Lids with Handles](https://www.printables.com/model/645622-gridfinity-lids-with-handles) | 1x1-5x5 | 25 | STL,SCAD | 2024-04-06 |
