@@ -158,6 +158,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Complete Kitchen Collection (w/Modular Expansion Pieces)](https://makerworld.com/en/models/148636#profileId-201393) | 1x2 - 2x6 | 13 | STL,3MF | 2024-12-18 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
 | [CR12xx Coin Battery Storage](https://makerworld.com/en/models/1516518-cr12xx-coin-battery-storage-for-gridfinity#profileId-1588681) | 1x1, 1x3 | 9 | STL,3MF | 2025-06-18 |
+| CR16xx Coin Battery Storage](https://makerworld.com/en/models/1537291-cr16xx-coin-battery-storage-for-gridfinity#profileId-1612854) | 1x1, 1x3 | 8 | STL,3MF | 2025-06-25 |
 | [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL,3MF | 2025-05-05 |
 | [CR24xx Coin Battery Storage](https://makerworld.com/en/models/1457723-cr24xx-coin-battery-storage-for-gridfinity#profileId-1519490) | 1x1-1x3 | 12 | STL,3MF | 2025-06-02 |
 | [Craftsman Screwdriver Holder](https://www.printables.com/model/685801-gridfinity-craftsman-screwdriver-holder) | 7x9 | 1 | STL,3MF | 2025-05-05 |
@@ -279,6 +280,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ruler Holder](https://thangs.com/designer/atrimbletlr/3d-model/Gridfinity%2520Ruler%2520Holder-74621) | 1x1 | 1 | STL | 2022-09-04 |
 | [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack) | 1x2 | 1 | STL | 2022-07-08 |
 | [Screw Measure Tool](https://www.printables.com/model/276983-gridfinity-screw-measure-tool-1x1-mini-edition) | 1x1 | 1 | STL | 2024-02-14 |
+| [Serum Holders] (https://makerworld.com/en/models/1511397-gridfinity-serum-holders#profileId-1582563) | 2x3 | 4 | STL,3MF | 2025-06-25 |
 | [Sewing Needle Holder](https://www.printables.com/model/283716-gridfinity-needle-holder) | 1x2 | 1 | STL,STEP,F3D | 2023-10-07 |
 | [ScrewUnit](https://thangs.com/designer/K2_Kevin/3d-model/ScrewU-nit%20Hardware%20Organizer%20-%20nuts%2C%20bolts%2C%20screws-1004137?affiliateCode=ZOMBIEHEDGEHOG) | ? | ? | ? | 2024-06-15 | 
 | [Screwfinity Unit 2U Large](https://thangs.com/designer/ZombieHedgehog/3d-model/Screwfinity%20Unit%202U%20Large%20-%20The%20Gridfinity%20Storage%20Unit-1081351?image=1350915) | 3x5 | 1 | STL,3MF,STP,OBJ,FBX | 2024-06-15 |
