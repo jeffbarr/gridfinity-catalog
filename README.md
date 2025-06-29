@@ -298,6 +298,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Small Part Sort and Storage](https://www.printables.com/model/218364-sortfinity-gridfinity-small-part-sort-and-storage) | 2x2 | 1 | STL | 2022-08-16 | 
 | [Space Efficient Socket Holders](https://www.printables.com/model/1101988-space-efficient-socket-holders-gridfinity) | 2x7 | 29 | STL | 2024-12-10 |
 | [Spade Bit Holder](https://thangs.com/designer/rbarbrow/3d-model/Spade%2520Bit%2520Holder%2520Gridfinity-216505) | 4x3 | 1 | STL | 2022-09-22 |
+| [Spice Trays](https://www.printables.com/model/1338255-gridfinity-spice-trays) | 0.5x3-2.5x3 | 4 | STL,STP,F3D | 2025-06-29 |
 | [Spiralized Gridfinity Bins](https://thangs.com/designer/DaveMakesStuff/3d-model/Spiralized%20Gridfinity%20Bins-758773) | 1x1 | 1 | STL | 2023-03-21 |
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
 | [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 | STL,3MF | 2022-09-04 |
