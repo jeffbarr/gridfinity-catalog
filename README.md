@@ -42,6 +42,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Angled Plate](https://www.printables.com/model/1250441-gridfinity-angled-plate) | 2x4 | 1 | STL | 2025-05-18 |
 | [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
+| [Baseplate Mold Box](https://www.printables.com/model/1344249-castfinity-baseplate-mold-box) | 2x2-5x5 | 14 | STL,3MF | 2025-07-02 |
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1-10x10 | 22 | CadQuery | 2022-06-12 |
@@ -467,6 +468,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Transforming my wife's bathroom drawer with #gridfinity!](https://www.youtube.com/watch?v=oYP4TYD8Jl0) - 2025-03-10.
 * [Use Gridfinity and 3D Printing in your Bathroom!](https://www.youtube.com/watch?v=2UAXMtez4qg) - 2025-03-10.
 * [How to Design and 3D Print the Perfect Storage System](https://www.youtube.com/watch?v=or2_79CTpPM) - 2025-04-10.
+* [Casting Gridfinity Baseplates](https://www.youtube.com/watch?v=HRkWixQssxc) - 2025-07-02.
   
 # Other Resources
 
