@@ -146,6 +146,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4-4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
 | [Build Plate Cleaner Microfiber Holder Adapter](https://www.printables.com/model/1347300-gridfinity-build-plate-cleaner-microfiber-holder-a) | 2x2 | 1 | STL | 2025-07-07 |
 | [Cable Organizing Boxes](https://makerworld.com/en/models/510993#profileId-427092) | 2x1-2x6 | 12 | STL,3MF | 2024-10-28 |
+| [Cable Storage Bins](https://makerworld.com/en/models/908154-gridfinity-cable-storage-bins#profileId-868526) | 1x2-2x6 | 8 | STL,STP,F3D | 2025-07-07 |
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
 | [Caliper Holder](https://makerworld.com/en/models/435832#profileId-394445) | 1x6 | 1 | STL | 2024-06-25 |
@@ -477,6 +478,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Use Gridfinity and 3D Printing in your Bathroom!](https://www.youtube.com/watch?v=2UAXMtez4qg) - 2025-03-10.
 * [How to Design and 3D Print the Perfect Storage System](https://www.youtube.com/watch?v=or2_79CTpPM) - 2025-04-10.
 * [Casting Gridfinity Baseplates](https://www.youtube.com/watch?v=HRkWixQssxc) - 2025-07-02.
+* [Gridfinity Shadow Maker Tutorial](https://www.youtube.com/watch?v=K45Y8rKlYDY) - 2025-07-07.
   
 # Other Resources
 
