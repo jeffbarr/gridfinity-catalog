@@ -159,7 +159,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Complete Kitchen Collection (w/Modular Expansion Pieces)](https://makerworld.com/en/models/148636#profileId-201393) | 1x2 - 2x6 | 13 | STL,3MF | 2024-12-18 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
 | [CR12xx Coin Battery Storage](https://makerworld.com/en/models/1516518-cr12xx-coin-battery-storage-for-gridfinity#profileId-1588681) | 1x1, 1x3 | 9 | STL,3MF | 2025-06-18 |
-| CR16xx Coin Battery Storage](https://makerworld.com/en/models/1537291-cr16xx-coin-battery-storage-for-gridfinity#profileId-1612854) | 1x1, 1x3 | 8 | STL,3MF | 2025-06-25 |
+| [CR16xx Coin Battery Storage](https://makerworld.com/en/models/1537291-cr16xx-coin-battery-storage-for-gridfinity#profileId-1612854) | 1x1, 1x3 | 8 | STL,3MF | 2025-06-25 |
 | [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL,3MF | 2025-05-05 |
 | [CR24xx Coin Battery Storage](https://makerworld.com/en/models/1457723-cr24xx-coin-battery-storage-for-gridfinity#profileId-1519490) | 1x1-1x3 | 12 | STL,3MF | 2025-06-02 |
 | [Craftsman Screwdriver Holder](https://www.printables.com/model/685801-gridfinity-craftsman-screwdriver-holder) | 7x9 | 1 | STL,3MF | 2025-05-05 |
