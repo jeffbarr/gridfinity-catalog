@@ -49,6 +49,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 130 | STL,F360,STP | 2023-03-30 |
 | [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
 | [Bisley 10 Drawer Gridfinity Base](https://www.printables.com/model/1297104-bisley-10-drawer-gridfinity-base) | 5x8 | 1 | STL | 2025-05-18 |
+| [ClickBase StackPlate](https://www.printables.com/model/1342921-clickbase-stackplate) | 1x1-4x4 | 5 | STL,Blend| 2025-07-07 |
 | [ClickFinity Baseplate - No Magnets](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp) | 1x1 - 7x7 | 49 | STL,F3D | 2023-05-16 | 
 | [Clickfinity Refined Baseplate](https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
@@ -67,6 +68,9 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Jesh Baseplates for Crappy Printers](https://www.printables.com/model/471686-jesh-plates-gridfinty-for-crappy-printers) | 1x1-6x6 | 19 | STEP | 2023-05-16 | 
 | [Lasercut Base](https://myhub.autodesk360.com/ue29c81a3/g/shares/SH512d4QTec90decfa6e7f2938df1b06f971) | 7x12 | 1 | F3D | 2023-05-16 |
 | [Magnet Light Baseplate](https://www.printables.com/model/250550-gridfinity-magnet-light-baseplate) | 1x1-8x8 | 36 | STL/F3D | 2022-10-30 | 
+| [Milwaukee 5-Compartment Packout Low Profile Organizer](https://makerworld.com/en/models/1487820-packout-low-profile-organizer-gridfinity-base#profileId-1554673) | 4x4.5 | 1 | STL,3MF | 2025-07-07 |
+| [Milwaukee 5-Compartment Packout Small Parts Organizer](https://makerworld.com/en/models/1504698-packout-deep-organizer-gridfinity-base-and-bins#profileId-1574535) | 4.5x7 | 1 | STL,3MF | 2025-07-07 |
+| [Milwaukee 11-Compartment Packout Low Profile Organizer](https://makerworld.com/en/models/1534482-gridfinity-base-for-packout-low-profile-organizer#profileId-1609516) |  7x9.5 | 1 | STL,3MF | 2025-07-07 |
 | [Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Minimal%2520Baseplate%25204x4.stl-260576) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
 | [Modular Gridfinity Drawers](https://www.printables.com/model/458846-modular-gridfinity-drawers-in-various-sizes) | 2x3-3x5 | 48 | STL,STP | 2024-03-12 |
 | [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1-5x6 | 18 | 3MF | 2022-06-12 |
@@ -88,7 +92,6 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Wall Rack](https://thangs.com/designer/ashleyi100/3d-model/Gridfinity%2520Wall%2520Rack-62669?part=3080e1c0-6ce6-4cd3-a17e-1b8e37b7f676) | 1x4 | 1 | STL | 2022-06-17 |
 | [Weighted Baseplate 5x7.stl](https://social.thangs.com/m/187707) | 5x7 | 1 | STL | 2022-07-22 |
 | [Weighted Baseplate 7x7.stl](https://social.thangs.com/m/187945) | 7x7 | 1 | STL | 2022-07-22 |
-
 
 # Blocks
 
