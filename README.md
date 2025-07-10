@@ -313,6 +313,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 | STL,3MF | 2022-09-04 |
 | [Stackable Citadel Paint Pot Storage](https://www.printables.com/model/267790-gridfinity-stackable-citadel-paint-pot-storage) | 1x1-6x6 | 5 | STL,F3D | 2022-09-26 |
 | [Stackable Shipping Container](https://makerworld.com/en/models/540866#profileId-458375) | 1x2 | 1 | STL | 2024-07-19 |
+| [Stackable Storage Basket](https://www.printables.com/model/1335756-stackable-gridfinity-storage-basket-parametric) | 2x2-5x5 | 162 | STL,3MF,OpenSCAD | 2025-07-09 |
 | [Stackable Sunglasses Organizer with Modular Dividers](https://makerworld.com/en/models/1518074-gridfinity-sunglasses-organizer-w-modular-divider#profileId-1590639) | 4x4,6x4 | 4 |3MF,STL | 2025-06-18 |
 | [Starbond CA Glue Variety Pack](https://www.printables.com/model/280137-starbond-ca-glue-variety-pack-holder-3-2oz-bottles) | 2x3 | 1 | STL | 2022-09-21 |
 | [Stanley Fatmax 6' Tape Measure](https://www.printables.com/model/1191042-gridfinity-bin-for-stanley-fatmax-6-tape-measure) | 2x2 | 1 | STL | 2025-02-23 | 
