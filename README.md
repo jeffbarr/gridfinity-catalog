@@ -494,4 +494,5 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Design Reference](https://gridfinity.xyz/specification/) - A reference tool for designing Gridfinity modules.
 * [Gridfinity Freaks](https://www.facebook.com/groups/894771558536705) - Facebook Community.
 * [Gridfinity FreeCAD Workbench](https://github.com/Stu142/FreeCAD-Gridfinity-Workbench) - Bin and baseplate generater using FreeCAD.
+* [dvng_gridfinity](https://github.com/Davang/dvng_gridfinity) - Gridfinity in FreeCAD (2025-07-14).
  
