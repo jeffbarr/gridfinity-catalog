@@ -78,7 +78,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers | 1x1 |  6  | STL | 2022-06-12 |
 | [Screw Together Baseplate](https://www.printables.com/model/300603-gridfinity-screw-together-baseplate/files) | 1x1-7x7 | 28 |  STL | 2022-10-27 |
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1-5x5 | 15 | STL | 2022-06-18 |
-| [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1-5x5 | 20 | 3MF, F3D,STEP | 2023-01-09 |
+| [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1-5x5 | 20 | 3MF,F3D,STEP | 2023-01-09 |
+| [Subdivide Base Plates](https://makerworld.com/en/models/1365928-gridfinity-subdivide-base-plates#profileId-1411605) | 1x1-6x6 | 11 | STL,3MF | 2025-07-19 |
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3-5x5 | 14 | STL | 2023-10-07 |
 | [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1-7x7 | 13 | STL | 2022-06-12 | 28 | 
 | [Thin Baseplate with Magnets](https://www.printables.com/model/303923-gridfinity-thin-base-with-magnets) | 2x2-6x6 | 15 | STL | 2022-10-27 |
@@ -285,6 +286,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
 | [Reinforced Economical Bins](https://www.printables.com/model/538275-more-reinforced-economical-gridfinity-bins) | 0.5x0.5-7x7 | 1185 | 3MF | 2022-08-26 |
 | [RJ45 / 8P8C Crimp Tool Holder](https://makerworld.com/en/models/1305520-gridfinity-rj45-8p8c-crimp-tool-holder-2x5) | 5x2 | 1 | STL,3ML | 2025-04-10 |
+| [Roller Door Bin Collection](https://makerworld.com/en/models/1507224-roller-door-gridfinity-bin-collection#profileId-1577549) | 1x1-3x2 | 12 | STL,3MF | 2025-07-19 |
 | [Ryobi Quick Change Hobby Knife](https://www.printables.com/model/748779-ryobi-quick-change-hobby-knife-kit-rhckp04-gridfin) | 1x1 | 2 | STL,STP,F3D | 2024-02-07 |
 | [Rugged Drawer System - Gridfinity Activated](https://makerworld.com/en/models/810461#profileId-751683) | 2x4, 3x5 | 6 | STL,3Mf | 2024-11-23 |
 | [Rugged Gridfinity Desk Organizer XL](https://thangs.com/designer/K2_Kevin/3d-model/Rugged%20Organizer%20XL%20-%20Gridfinity%202x4%20%26%202x5-1157447) | 2x4, 2x5 | 2 | STL,STP,OBJ,FBX | 2024-10-18 | 
@@ -315,6 +317,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
 | [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 | STL,3MF | 2022-09-04 |
 | [Stackable Citadel Paint Pot Storage](https://www.printables.com/model/267790-gridfinity-stackable-citadel-paint-pot-storage) | 1x1-6x6 | 5 | STL,F3D | 2022-09-26 |
+| [Stackable Roller Door Bins](https://makerworld.com/en/models/1564668-stackable-roller-door-gridfinity-bin-parametric#profileId-1644739) | 1x1 | 1 STL,3MF | 2025-07-19 |
 | [Stackable Shipping Container](https://makerworld.com/en/models/540866#profileId-458375) | 1x2 | 1 | STL | 2024-07-19 |
 | [Stackable Storage Basket](https://www.printables.com/model/1335756-stackable-gridfinity-storage-basket-parametric) | 2x2-5x5 | 162 | STL,3MF,OpenSCAD | 2025-07-09 |
 | [Stackable Sunglasses Organizer with Modular Dividers](https://makerworld.com/en/models/1518074-gridfinity-sunglasses-organizer-w-modular-divider#profileId-1590639) | 4x4,6x4 | 4 |3MF,STL | 2025-06-18 |
@@ -405,6 +408,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Binfinity Mk2 for 8u Gridfinity Bins](https://makerworld.com/en/models/1388935-binfinity-mk2-for-8u-gridfinity-bins#profileId-1438873) | 2x4 | 1 | STL,3MF | 2025-05-09 |
+| [Calipers](https://makerworld.com/en/models/1248671-gridfinity-calipers#profileId-1270740) | 4-7 | 4 | STL,3MF | 2025-07-19 |
 | [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
 | [Gridfinity Carousel, Motorized](https://www.printables.com/model/897707-gridfinity-carousel-motorized) | 1x5 | 1 | STL | 2024-06-03 |
@@ -419,6 +423,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Modular Gridfinity Case](https://www.printables.com/model/894202-modern-gridfinity-case) | 1x2-8x8 |  10 | 3MF | 2024-10-09 |
 | [Modular Rack System for Gridfinity Drawers](https://makerworld.com/en/models/85205) | 5x5 | 1 | STL, STP | 2024-01-23 |
 | [Multiboard Shelf Ultrastrong](https://makerworld.com/en/models/1112496-gridfinity-x-multiboard-ultrastrong-v2#profileId-1109339) | 1x1-5x5 | 28 | 3MF | 2025-05-15 |
+| [Monorail](https://makerworld.com/en/models/1196609-martin-s-monorail-gridfinity-train-v1-3#profileId-1224048) | - | - | STL,3MF | 2025-07-19 |
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Dynamic 3D Label Generator](https://github.com/clement-roblot/Gridfinity-Label-Generator) | - | 1 | Python,  PDF | 2024-08-08 |
 | [Gridfinity ruler](https://www.printables.com/model/1142386-gridfinity-ruler) | 1 | 1 | STL | 2025-01-23 |
