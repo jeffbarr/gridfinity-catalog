@@ -93,6 +93,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Wall Rack](https://thangs.com/designer/ashleyi100/3d-model/Gridfinity%2520Wall%2520Rack-62669?part=3080e1c0-6ce6-4cd3-a17e-1b8e37b7f676) | 1x4 | 1 | STL | 2022-06-17 |
 | [Weighted Baseplate 5x7.stl](https://social.thangs.com/m/187707) | 5x7 | 1 | STL | 2022-07-22 |
 | [Weighted Baseplate 7x7.stl](https://social.thangs.com/m/187945) | 7x7 | 1 | STL | 2022-07-22 |
+| [5x5 Gridfinity 4 Tray Storage Rack](https://makerworld.com/en/models/185805-5x5-gridfinity-4-tray-storage-rack?from=search#profileId-213034) | 5x5x4 | STL | 2025-07-19 |
 
 # Blocks
 
