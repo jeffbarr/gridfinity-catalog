@@ -222,6 +222,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
 | [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5-4x5 | 12 | STL,STP | 2025-02-10 |
+| [Inserts for Pandemic Board Game](https://makerworld.com/en/models/1621396-pandemic-board-game-gridfinity-inserts#profileId-1711605) | 2x2,2x3,1x5 | 5 | STL,3MF | 2025-07-25 |
 | [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
 | [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | 2022-07-19 |
 | [Kitchen Bag Bins - Ikea Istad and More](https://www.printables.com/model/824852-gridfinity-kitchen-bag-bins-ikea-istad-and-more) | 1x6-2x4 | 3 | STL | 2024-04-01 |
@@ -244,21 +245,22 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Milk Crate Box + Base](https://makerworld.com/en/models/483020) | 1x1 | 3 | STL | 2024-06-03 |
 | [Minifig Display Base](https://www.printables.com/model/284008-gridfinity-minifig-display-base) | 1x1, 3x4 | 2 | STL, STEP | 2023-01-09 |
 | [Minifinity Bin Collection](https://www.printables.com/model/247815-gridfinity-minifinity-bin-collection) | 1x1-4x2 | 9 | STL | 2022-07-29 |
-| [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 elements | STL | 2022-07-25 |
+| [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 | STL | 2022-07-25 |
 | [Mitutoyo Caliper Holder](https://www.printables.com/model/448005-gridfinity-mitutoyo-caliper-holder-2x2-1x1) | 2x2 + 1x1 | 13 | STL | 2024-06-25 |
 | [Mitutoyo Digital Calipers (6" and 8")](https://www.printables.com/model/1102634-gridfinity-bins-for-mitutoyo-digital-calipers-6-in) | 2x6,3x8 | 2 | STL | 2024-12-10 |
 | [Model Paint Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%20model%20paint%20organiser-75049) | 3x3 | 1 | STL | 2022-09-04 |
 | [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
 | [Modular Kitchen Trays](https://www.printables.com/model/1162895-gridfinity-modular-modern-kitchen-trays) | 1x1-5x5 | 23 | STL,OpenSCAD | 2025-02-03 |
 | [Modular Screwdriver Organizer](https://makerworld.com/en/models/1131369#profileId-1132136) | 1x3, 1x.5 | 6 | STP | 2025-02-23 |
-| [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 elements | STL | 2022-07-25 |
+| [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 | STL | 2022-07-25 |
 | [Needle File Set Holder (Draper 6 Piece Diamond)](https://www.printables.com/model/636437-needle-file-set-holder-gridfinity-4x2-draper-6-pie) | 2x4 | 1 | STL | 2024-01-02 |
 | [Nikon Z Lens Holder](https://www.printables.com/model/720657-nikon-z-lend-holder-for-gridfinity) | 2x2 | 2 | STL | 2024-01-16 |
 | [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | 2022-06-12 | 
 | [OpenSCAD Templates](https://github.com/kennetek/gridfinity-rebuilt-openscad) | Varies | 2 | OpenSCAD | 2022-09-26 |
 | [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5 - 4x5 | 10 | STL | 2022-07-21 |
-| [Paint Shelf](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Paint%20Shelf-62255) | 2x3, 3x3, 4x3 | 3 | F3D + STL | 2022-09-04 |
+| [Paint Shelf](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Paint%20Shelf-62255) | 2x3, 3x3, 4x3 | 3 | F3D,STL | 2022-09-04 |
 | [Paper Towel Roll](https://social.thangs.com/m/201112) | 3x4 | 1 | STL | 2022-07-20 |
+| [Parametric Battery Bin](https://makerworld.com/en/models/1600384-parametric-gridfinity-battery-bin#profileId-1686727) | - | - | F3D | 2025-07-20 |
 | [Parametric Bottle with Cap](https://www.printables.com/model/278947-gridfinity-parametric-bottle-with-knurled-cap) | 1x1-4x4 | 7 | STL,F3D | 2022-09-26 |
 | [Parametric Vase Mode Bins](https://www.thingiverse.com/thing:5519674) | 1x1-3x3 | 6 | STL,F3D | 2024-01-18 | 
 | [PCI Holder](https://www.printables.com/model/1252609-gridfinity-compatable-pci-holder) | 3x3 | 1 | STL | 2025-05-18 |
