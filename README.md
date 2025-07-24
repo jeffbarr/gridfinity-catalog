@@ -191,6 +191,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Drawers for Lack Enclosures](https://www.printables.com/model/284027-gen2-gridfinity-drawers-for-lack-enclosures) | 3x4 | 3 | 3MF | 2024-02-14 |
 | [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) | 3x2 | 1 | STL | 2022-06-19 |
 | [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 | STL | 2022-07-19 |
+| [Dremel Light Bin](https://makerworld.com/en/models/1598127-gridfinity-dremel-lite-7760-bin#profileId-1683924) | 1x5 | 1 | STP | 2025-07-23 |
 | [Drill Caddy](https://thangs.com/designer/Zwierzak%252C%2520Does%2520a%2520Thing/3d-model/Gridfinity%2520Drill%2520Caddy-65743) | 2x2 | 1 | STEP | 2022-09-04 |
 | [Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x3-6x6 | 84 | STL | 2023-10-30 |
 | [Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
@@ -250,6 +251,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Mitutoyo Digital Calipers (6" and 8")](https://www.printables.com/model/1102634-gridfinity-bins-for-mitutoyo-digital-calipers-6-in) | 2x6,3x8 | 2 | STL | 2024-12-10 |
 | [Model Paint Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%20model%20paint%20organiser-75049) | 3x3 | 1 | STL | 2022-09-04 |
 | [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
+| [Modular Hammer Rack](https://makerworld.com/en/models/1633800-gridfinity-modular-hammer-rack#profileId-1725807) | 2x2 | 5 | 3MF,STL | 2025-070-23 |
 | [Modular Kitchen Trays](https://www.printables.com/model/1162895-gridfinity-modular-modern-kitchen-trays) | 1x1-5x5 | 23 | STL,OpenSCAD | 2025-02-03 |
 | [Modular Screwdriver Organizer](https://makerworld.com/en/models/1131369#profileId-1132136) | 1x3, 1x.5 | 6 | STP | 2025-02-23 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 | STL | 2022-07-25 |
@@ -326,6 +328,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Starbond CA Glue Variety Pack](https://www.printables.com/model/280137-starbond-ca-glue-variety-pack-holder-3-2oz-bottles) | 2x3 | 1 | STL | 2022-09-21 |
 | [Stanley Fatmax 6' Tape Measure](https://www.printables.com/model/1191042-gridfinity-bin-for-stanley-fatmax-6-tape-measure) | 2x2 | 1 | STL | 2025-02-23 | 
 | [Sticky Note Holder](https://thangs.com/designer/Robot_taco_sauce/3d-model/Gridfinity%2520sticky%2520note%2520holder.stl-194948) | 2x2 | 1 | STL | 2022-09-04 |
+| [Storage Bin for Foam-Backed Sanding Sticks](https://www.printables.com/model/1359155-storage-bins-for-foam-backed-sanding-sticks-gridfi) | 3x4 | 2 | STL | 2025-07-23 |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | 2022-07-19 |
 | [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | 2022-07-19 |
 | [Swinger Trays](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinger%2520Trays-262514) | 2x2 | 1 | STL | 2022-09-26 |
