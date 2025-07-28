@@ -146,9 +146,10 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
 | [Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
 | [Bowls](https://www.printables.com/model/447389-gridfinity-bowls) | 1x1,1x2,1x4,2x2 | 4 | STL | 2023-04-09 |
-| [Breadboard Holders](https://www.printables.com/model/248418) | 1x2, 2x2, 2x4 | 3 | F3D + STL | 2022-09-04 |
+| [Breadboard Holders](https://www.printables.com/model/248418) | 1x2,2x2,2x4 | 3 | F3D + STL | 2022-09-04 |
 | [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4-4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
 | [Build Plate Cleaner Microfiber Holder Adapter](https://www.printables.com/model/1347300-gridfinity-build-plate-cleaner-microfiber-holder-a) | 2x2 | 1 | STL | 2025-07-07 |
+| [Bulk Battery Holder](https://makerworld.com/en/models/1563857-gridfinity-bulk-battery-holder-aa-aaa-9v#profileId-1643779) | 3x5 | 1 |  STL,3MF | 2025-07-27 |
 | [Cable Organizing Boxes](https://makerworld.com/en/models/510993#profileId-427092) | 2x1-2x6 | 12 | STL,3MF | 2024-10-28 |
 | [Cable Storage Bins](https://makerworld.com/en/models/908154-gridfinity-cable-storage-bins#profileId-868526) | 1x2-2x6 | 8 | STL,STP,F3D | 2025-07-07 |
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
@@ -186,6 +187,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Divided Boxes (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Divided%20Gridfinity%20Boxes%20(CadQuery%20Customizable)-64757) | 1x1-5x5 | 37 | STL | 2022-06-13 |
 | [Divider Box for Breadboard Jumper Wires](https://thangs.com/designer/whoistobias/3d-model/Gridfinity%2520Divider%2520Box%2520for%2520Breadboard%2520Jumper%2520Wires-186348?s=09) | 2x5 | 1 | STL | 2022-07-21 |
 | [Divided Vase Bins with Labels](https://www.printables.com/model/389300) | 1x1-1x5 | 120 | STL | 2023-02-26 |
+| [Dulce Gusto Coffee Capsule Holder](https://www.printables.com/model/1364828-gridfinity-dolce-gusto-coffee-capsule-holder) | 2x2,2x3,2x6,3x3 | 5 | STL,3MF | 2025-07-27 |
 | [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) | 2x2 | 1 | STL | 2022-07-18 | 
 | [Drawers](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Drawers-188528?s=09) | 2x3,4x6 | 6 | STL | 2022-07-21 | 
 | [Drawers for Lack Enclosures](https://www.printables.com/model/284027-gen2-gridfinity-drawers-for-lack-enclosures) | 3x4 | 3 | 3MF | 2024-02-14 |
