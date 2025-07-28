@@ -495,6 +495,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [How to Design and 3D Print the Perfect Storage System](https://www.youtube.com/watch?v=or2_79CTpPM) - 2025-04-10.
 * [Casting Gridfinity Baseplates](https://www.youtube.com/watch?v=HRkWixQssxc) - 2025-07-02.
 * [Gridfinity Shadow Maker Tutorial](https://www.youtube.com/watch?v=K45Y8rKlYDY) - 2025-07-07.
+* [Top 7 Things I Learned Printing Gridfinity](https://www.youtube.com/watch?v=wPt5_V2pAH8) - 2025-07-27.
   
 # Other Resources
 
