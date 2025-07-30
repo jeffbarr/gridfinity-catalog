@@ -232,6 +232,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Kitchen Caddy Jr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Kitchen%20Caddy%20Jr.-217330) | 2x1 | 1 | STL | 2022-09-04 |
 | [Kitchen Caddy Sr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Kitchen%2520Caddy%2520Sr.-217328) | 4x3 | 1 + 3 trays | STL | 2022-09-04 |
 | [Kitchen Drawer (Parametric)](https://makerworld.com/en/models/883766#profileId-838429) | 3x1-6x2 | 23 | STL,OpenSCAD | 2024-12-18 |
+| [Klein MM400 Multimeter](https://makerworld.com/en/models/1651239-klein-mm400-multimeter-gridfinity-bin-with-storage#profileId-1745767) | 4x5 | 1 | STL,3MF | 2025-07-29 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
 | [LCD Display Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%202x%20lcd%20display%20Holder.stl-201107) | 2x1 | 1 | STL | 2022-09-04 |
 | [Lite Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x1-6x6 | 84 | STL | 2023-10-03 |
@@ -280,6 +281,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [(Plain Bin) Dispenser lids](https://thangs.com/designer/robert.j.paisley/3d-model/Dispenser%2520lids-73748) | 3x6 | 2 | STL | 2022-07-25 |
 | [(Modified) Pliers Rack](https://github.com/nerpatech/gridfinity-pliers-rack/tree/dev-local) | 2x2 - 2x4 | 2 | AMF | 2023-10-07 |
 | [Pliers Stand](https://makerworld.com/en/models/1487921-gridfinity-pliers-stand#profileId-1554792) | 2x2 | 1 | STL,3MF | 2025-06-05 |
+| [Nippers, Pliers,Strippers Rack](https://www.printables.com/model/994578-gridfinity-nippers-pliers-strippers-rack-2x2) | 2x2 | 3 | STL,F3D | 2025-07-29 |
 | [Posca Marker Holder](https://www.printables.com/model/811375-posca-marker-holder-for-gridfinity) | 2x2-2x3 | 1 | STL | 2024-03-19 | 
 | [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
 | [Prusa Pliers and Flat Cuts](https://www.printables.com/model/240253) | 1x1 | 1 | 3MF + STL | 2022-09-04 |
