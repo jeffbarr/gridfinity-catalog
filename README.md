@@ -83,8 +83,9 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3-5x5 | 14 | STL | 2023-10-07 |
 | [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1-7x7 | 13 | STL | 2022-06-12 | 28 | 
 | [Thin Baseplate with Magnets](https://www.printables.com/model/303923-gridfinity-thin-base-with-magnets) | 2x2-6x6 | 15 | STL | 2022-10-27 |
-| [Thinner Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Thinner%2520Minimal%2520Baseplate%25204x4.stl-260577) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
-| [Uline Louvre Board Tray](https://www.printables.com/model/1349734-uline-louvre-board-gridfinity-tray) | 4x5 | 1 | STL,SolidWorks  2025-07-13 |
+| [Thinner Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Thinner%2520Minimal%2520Baseplate%25204x4.stl-260577) | 4x4 + Customizable | 1 | STL,F3D | 2022-08-12 |
+| [Uline Louvre Board Tray](https://www.printables.com/model/1349734-uline-louvre-board-gridfinity-tray) | 4x5 | 1 | STL,SolidWorks | 2025-07-13 |
+| [Ultralight+](https://www.printables.com/model/1233707-ultralight-gridfinity-bases) | 5x5 | 1 | STP | 2025-08-06 |
 | [Under-Desk Drawer](https://www.printables.com/model/267929-gridfinity-under-desk-drawer) | 4x4 | 1 | STL + STEP | 2022-09-21 |
 | [Under-Desk Drawer half-and-half combo](https://www.printables.com/model/557070-under-desk-drawer-combo-with-gridfinity-compartmen) | 2x4 | 1 | STL | 2024-02-14 |
 | [Velcro Tie Mountable Gridfinity Shelf](https://www.printables.com/model/1288428-velcro-tie-mountable-gridfinity-shelf) | 1x1 | 1 | STL | 2025-05-09 |
