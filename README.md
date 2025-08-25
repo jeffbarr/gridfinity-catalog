@@ -62,6 +62,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
 | [Gridfinity Grids - Stacked for Printing](https://www.printables.com/model/995911-gridfinity-grids-stacked-for-printing) | 8x8 | 1 | STL,F3D | 2024-10-14 |
 | [GRIPS: GRidfinity Interlocking basePlate System](https://makerworld.com/en/models/704997) | Any | - | OpenSCAD | 2025-02-03 |
+| [Ikea Alex Exact Fit Ultralight](https://makerworld.com/en/models/1706276-ikea-alex-gridfinity-exact-fit-70g-ultralight#profileId-1810082) | 10x14 | 1 | STL,3MF | 2025-08-24 |
 | [Ikea Alex Wide Drawers](https://www.printables.com/model/718705-gridfinity-base-for-ikea-alex-wide-drawers) | 3x5-5x5 | 3 | 3MF | 2024-01-23 |
 | [Ikea Skadis Baseplate](https://www.printables.com/model/171690-gridfinity-x-skadis-frames) - baseplates that attach to Ikea Skadis pegboards |1x2-2x7 | 12 | STL | 2022-09-06 |
 | [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2-6x6 | 8 | 3MF | 2022-06-12 |
@@ -245,6 +246,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Material Swatches holder](https://www.printables.com/model/587675-gridfinity-material-swatches-holder-v2-parametric) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/material-swatch-bins)) | 1x1 - 2x4 + Customizable | 7 | OpenSCAD,STL | 2024-02-14 |
 | [Mechanical Keyboard Keycap Storage Trays](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%2520Mechanical%2520Keyboard%2520Keycap%2520Storage%2520Trays%2520(5x5%2520and%25205x7)-238569) | 5x5, 5x7 | 4 | STL | 2022-09-04 |
 | [Mechanical Pencil (Staedtler Micro 775) Holder](https://www.printables.com/model/498295-gridfinity-mechanical-pencil-holder-mars-staedtler) | 2x1 | 1 | STL, F3D | 2023-06-04 |
+| [Metric Drill Bit Holder](https://www.printables.com/model/1388156-gridfinity-metric-drill-bit-holder) | 3x5 | 1 | STL,STEP | 2025-08-24 |
 | [M6 Washer Holder](https://thangs.com/designer/Jonathan%2520Anderson/3d-model/Gridfinity%2520-%2520M6%2520washer%2520holder-65094) | 1x1 | 1 | F3D + STL | 2022-09-04 |
 | [MicroSD combo bin](https://www.printables.com/model/556136-gridfinity-1x1x3-combo-bin-and-micro-sd-card-holde) | 1x1 | 1 | STL | 2024-02-14 |
 | [Milk Crate Box + Base](https://makerworld.com/en/models/483020) | 1x1 | 3 | STL | 2024-06-03 |
@@ -423,6 +425,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
 | [Gridfinity Carousel, Motorized](https://www.printables.com/model/897707-gridfinity-carousel-motorized) | 1x5 | 1 | STL | 2024-06-03 |
 | [Gridfinity Lifted](https://www.printables.com/model/300982-gridfinity-lifted) | 1x2-2x4 | 27 | OpenSCAD,STL | 2022-10-26 |
+| [Kaweco Tin Paint Carrier](https://makerworld.com/en/models/1727560-kaweco-tin-paint-carrier-with-gridfinity#profileId-1834472) | 1x5 | 1 | STL,3MF | 2025-08-24 |
 | [Mega-Gridfinity ToGo Box](https://thangs.com/designer/ww9a/3d-model/Mega-Gridfinity%2520ToGo%2520Box-65503) | 4x4 | 1 | STL | 2022-06-17 |
 | [Modular Drawer System and Case with Honeycomb Walls](https://www.printables.com/model/916303-gridfinity-modular-drawer-and-case-with-honeycomb) | 5x3 | 1 | STL,F3D | 2024-07-01 |
 | [Toolbox (Parametric)](https://thangs.com/designer/jaswlodarczyk/3d-model/Gridfinity%2520Toolbox%2520%28Parametric%29-67053) | 5x3 | 7 | STL | 2022-07-25 |
@@ -461,6 +464,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Generator](https://gridfinitygenerator.com/en) - Easily create custom 3D Gridfinity designs with this free, interactive tool. Export your designs as STL.
 * [ToolTrace](https://www.tooltrace.ai/) - Tool inserts, made in one click.
 * [Outline.Georgs.LV](https://outline.georgs.lv/) - Make an SVG path and Gridfinity box for any tool using only a picture.
+* [Gridfinity Extended Irregular Bins Generator](https://makerworld.com/en/models/1699341-gridfinity-extended-irregular-bins-generator#profileId-1804521) - Create custom Gridfinity-compatible bins and cups with shapes beyond simple rectangles.
 
 # Articles
 
