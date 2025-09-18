@@ -465,6 +465,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [ToolTrace](https://www.tooltrace.ai/) - Tool inserts, made in one click.
 * [Outline.Georgs.LV](https://outline.georgs.lv/) - Make an SVG path and Gridfinity box for any tool using only a picture.
 * [Gridfinity Extended Irregular Bins Generator](https://makerworld.com/en/models/1699341-gridfinity-extended-irregular-bins-generator#profileId-1804521) - Create custom Gridfinity-compatible bins and cups with shapes beyond simple rectangles.
+* [Parametric drawer and chest generator](https://makerworld.com/en/models/1792396-customizable-gridfinity-drawer-chest#profileId-1910290) - Generates custom drawers modules. Wall mountable, Customizable drawer label holder, Optional magnets to hold the drawer shut.
 
 # Articles
 
