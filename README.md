@@ -61,6 +61,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ender 3 Power ledge Baseplate](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
 | [Gridfinity Grids - Stacked for Printing](https://www.printables.com/model/995911-gridfinity-grids-stacked-for-printing) | 8x8 | 1 | STL,F3D | 2024-10-14 |
+| [Gridfinity Shelf for openGrid](https://makerworld.com/en/models/1469935-infinite-gridfinity-shelf-for-opengrid-very-strong#profileId-1534153) | 2x2-2x6 | 3 | STL,3MF | 2025-09-20 |
 | [GRIPS: GRidfinity Interlocking basePlate System](https://makerworld.com/en/models/704997) | Any | - | OpenSCAD | 2025-02-03 |
 | [Ikea Alex Exact Fit Ultralight](https://makerworld.com/en/models/1706276-ikea-alex-gridfinity-exact-fit-70g-ultralight#profileId-1810082) | 10x14 | 1 | STL,3MF | 2025-08-24 |
 | [Ikea Alex Wide Drawers](https://www.printables.com/model/718705-gridfinity-base-for-ikea-alex-wide-drawers) | 3x5-5x5 | 3 | 3MF | 2024-01-23 |
