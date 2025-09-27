@@ -117,6 +117,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Adjustable Light](https://www.printables.com/en/model/273727-adjustable-light) | 2x2 | 1 | STL | 2023-01-06 |
 | [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) | 1x1 | 1 | STL | 2022-06-12 |
 | [Amazing Bolt Sorter](https://www.printables.com/model/874548-amazing-gridfinity-m3-bolt-sorter) | 2x4 | 1 | STL,3MF | 2024-09-04 |
+| [Anatomical Kidney Model](https://makerworld.com/en/models/1822059-gridfinity-anatomical-kidney-model-4-color#profileId-1944957) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Angle Grinder Disk Holder](https://www.printables.com/model/937802-gridfinity-angle-grinder-disk-holder-125mm) |  3x3 | 1 | STL,STP | 2025-07-07 |
 | [Angled Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Angled%20Bin-267623) | 4x2 | 1 + 4 inserts | STL | 2022-09-04 |
 | [Apple AirTag Storage](https://makerworld.com/en/models/1600844-gridfinity-storage-for-apple-airtags#profileId-1687293) | 1x2,1x3 | 4 | STL,3MF | 2025-07-13 |
@@ -152,6 +153,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bowls](https://www.printables.com/model/447389-gridfinity-bowls) | 1x1,1x2,1x4,2x2 | 4 | STL | 2023-04-09 |
 | [Breadboard Holders](https://www.printables.com/model/248418) | 1x2,2x2,2x4 | 3 | F3D + STL | 2022-09-04 |
 | [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4-4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
+| [Bristol Stool Scale](https://makerworld.com/en/models/1822916-gridfinity-bristol-stool-scale-5x2#profileId-1945906)) | 2x5 | 1 | STL,3MF | 2025-09-27 |
 | [Build Plate Cleaner Microfiber Holder Adapter](https://www.printables.com/model/1347300-gridfinity-build-plate-cleaner-microfiber-holder-a) | 2x2 | 1 | STL | 2025-07-07 |
 | [Bulk Battery Holder](https://makerworld.com/en/models/1563857-gridfinity-bulk-battery-holder-aa-aaa-9v#profileId-1643779) | 3x5 | 1 |  STL,3MF | 2025-07-27 |
 | [Cable Organizing Boxes](https://makerworld.com/en/models/510993#profileId-427092) | 2x1-2x6 | 12 | STL,3MF | 2024-10-28 |
@@ -187,6 +189,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Desktop Tool Bins](https://makerworld.com/en/models/1479743-gridfinity-desktop-tool-bins#profileId-1544955) | 2x2-2x4 | 12 | STL,3MF | 2025-06-02 |
 | [Diamond Needle File kit](https://www.printables.com/model/244748-gridfinity-diamond-needle-file-set) | 1x1 | 1 | STL | 2022-07-20 |
 | [Dice Holder for DnD and other TTRPG](https://www.printables.com/model/295485-gridfinity-dice-holder-for-dnd-and-other-ttrpg) | 1x3 | 7 | STL | 2022-10-26 |
+| [Digestive Tract Model](https://makerworld.com/en/models/1815422-anatomical-model-gridfinity-digestive-tract-ams#profileId-1937219) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) | 1x1-5x1 | 51 | STL | 2022-06-12 |
 | [Divided Boxes (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Divided%20Gridfinity%20Boxes%20(CadQuery%20Customizable)-64757) | 1x1-5x5 | 37 | STL | 2022-06-13 |
 | [Divider Box for Breadboard Jumper Wires](https://thangs.com/designer/whoistobias/3d-model/Gridfinity%2520Divider%2520Box%2520for%2520Breadboard%2520Jumper%2520Wires-186348?s=09) | 2x5 | 1 | STL | 2022-07-21 |
@@ -215,6 +218,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [GoPro Holder](https://thangs.com/designer/martinwew/3d-model/Gridfinity%202x1%20gopro%20holder.STL-313028) | 1x2 | 1 | STL | 2022-09-04 |
 | [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1-0.5x3 | 10 | STL | 2022-09-19 |
+| [Hand Model](https://makerworld.com/en/models/526661-gridfinity-hand#profileId-1937043) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Height Tool](https://thangs.com/designer/myway2build3d/3d-model/Gridfinity%20Height%20Tool%20-666915) | 1x1 | 1 | STP,3MF | 2023-03-15 |
 | [Helping Hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
 | [Helping Hands Base](https://thangs.com/designer/faalzin/3d-model/Gridfinity%2520Helping%2520Hands%2520Base-260671) | 1x1 | 1 | STL | 2022-09-08 |
@@ -237,6 +241,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Kitchen Caddy Sr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Kitchen%2520Caddy%2520Sr.-217328) | 4x3 | 1 + 3 trays | STL | 2022-09-04 |
 | [Kitchen Drawer (Parametric)](https://makerworld.com/en/models/883766#profileId-838429) | 3x1-6x2 | 23 | STL,OpenSCAD | 2024-12-18 |
 | [Klein MM400 Multimeter](https://makerworld.com/en/models/1651239-klein-mm400-multimeter-gridfinity-bin-with-storage#profileId-1745767) | 4x5 | 1 | STL,3MF | 2025-07-29 |
+| [Knee Model](https://makerworld.com/en/models/526650-gridfinity-knee#profileId-1937037) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
 | [LCD Display Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%202x%20lcd%20display%20Holder.stl-201107) | 2x1 | 1 | STL | 2022-09-04 |
 | [Lite Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x1-6x6 | 84 | STL | 2023-10-03 |
@@ -244,6 +249,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
 | [Long n' Tall Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Long%20n'%20Tall%20Drawer-228161) | 1x3 | 2 parts | STL | 2022-09-04 |
 | [LTT Screwdriver](https://www.printables.com/model/1279926-ltt-screwdriver-gridfinity) | 1x6 | 1 | STL | 2025-05-09 |
+| [Lung Model](https://makerworld.com/en/models/1792163-gridfinity-anatomical-lung-model-multi-color-ams#profileId-1910041) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Makita 1/4" Hex Driver DF012D](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1096752-gridfinity-bin-for-72v-makita-df012d-screwdriver) | 2x8 | 1 | STL | 2024-12-08 |
 | [Material Swatches holder](https://www.printables.com/model/587675-gridfinity-material-swatches-holder-v2-parametric) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/material-swatch-bins)) | 1x1 - 2x4 + Customizable | 7 | OpenSCAD,STL | 2024-02-14 |
 | [Mechanical Keyboard Keycap Storage Trays](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%2520Mechanical%2520Keyboard%2520Keycap%2520Storage%2520Trays%2520(5x5%2520and%25205x7)-238569) | 5x5, 5x7 | 4 | STL | 2022-09-04 |
@@ -275,6 +281,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Parametric Vase Mode Bins](https://www.thingiverse.com/thing:5519674) | 1x1-3x3 | 6 | STL,F3D | 2024-01-18 | 
 | [PCI Holder](https://www.printables.com/model/1252609-gridfinity-compatable-pci-holder) | 3x3 | 1 | STL | 2025-05-18 |
 | [Pelican 3310 Flashlight Holder](https://www.printables.com/model/248122-gridfinity-1x1-holder-for-pelican-3310-flashlight) | 1x1 | 1 | STL | 2022-07-25 |
+| [Pelvis Model](https://makerworld.com/en/models/526611-gridfinity-pelvis#profileId-1937005) | 2x3 | 1 | STL,3MF | 2025-09-27 |
 | [Pencil Lead Holder](https://www.printables.com/model/1216902-gridfinity-1x2-12-slot-pencil-lead-holder) | 1x2 | 1 | STL | 2025-03-09 |
 | [Pen, Pencil, Marker Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Pen%252C%2520Pencil%252C%2520and%2520Marker%2520Holders-60745) | 1x2 | 3 | STL | 2022-06-12 |
 | [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 2x2 | 1 | STL | 2022-07-01 |
@@ -313,6 +320,9 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Screwfinity Unit 2U Large](https://thangs.com/designer/ZombieHedgehog/3d-model/Screwfinity%20Unit%202U%20Large%20-%20The%20Gridfinity%20Storage%20Unit-1081351?image=1350915) | 3x5 | 1 | STL,3MF,STP,OBJ,FBX | 2024-06-15 |
 | [Sharpie Holder](https://thangs.com/mythangs/file/191487) | 1x1 | 1 | STL | 2022-07-18 | 
 | [Sideless Bins](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1-5x5 | 27 | STL | 2022-06-18 |
+| [Skeleton Foot Model](https://makerworld.com/en/models/526675-gridfinity-foot#profileId-443632) | 2x3 | 1 | STL,3MF | 2025-09-27 |
+| [Skull Eyeglass Holder](https://makerworld.com/en/models/528508-gridfinity-skull-eyeglass-holder#profileId-445602) | 2x3 | 1 | STL,3MF | 2025-09-27 |
+| [Skull Model](https://makerworld.com/en/models/526627-gridfinity-skull#profileId-1937022) | 2x3 | 1 | STL,3MF | 2025-09-27 |
 | [Slide-Up Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Slide-Up%20Drawer-303350) | 2x1x2 | 2 | STL | 2022-09-04 |
 | [SO-DIMM RAM Holder](https://www.printables.com/model/1222192-gridfinity-so-dimm-ram-holder) | 1x2 | 1 | STL | 2025-03-09 |
 | [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
@@ -365,6 +375,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [USB-A Holder](https://makerworld.com/en/models/1575843-3-count-usb-a-holder-gridfinity-unit-1x1x3#profileId-1657942) | 1x1 | 1 | STL,3MF | 2025-07-07 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
 | [Vacuum Pump Bin](https://makerworld.com/en/models/679699#profileId-607967) | 2x2 | 1 | STP,3MF | 2024-10-14 |
+| [Vestibular System Model](https://makerworld.com/en/models/1828758-gridfinity-vestibular-system-for-patient-education#profileId-1952561) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Watch Band Bin](https://www.reddit.com/r/gridfinity/comments/18etpfi/watch_band_bin_3x1_vase_mode/) | 3x1 | 1 | F3D,3MF,GCODE | 2023-12-26 |
 | [Watch Band Holder](https://www.printables.com/model/268905-gridfinity-watch-band-holder) | 2x3 | 1 | STL | 2022-09-06 |
 | [Wera Imperial 950 Allen Key Holder](https://www.printables.com/model/407463-gridfinity-wera-imperial-9509-hex-plus-2-inches/files) | 4x7 | 1 | STL | 2023-03-15 |
