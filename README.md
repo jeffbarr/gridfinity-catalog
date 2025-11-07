@@ -250,6 +250,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Long n' Tall Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Long%20n'%20Tall%20Drawer-228161) | 1x3 | 2 parts | STL | 2022-09-04 |
 | [LTT Screwdriver](https://www.printables.com/model/1279926-ltt-screwdriver-gridfinity) | 1x6 | 1 | STL | 2025-05-09 |
 | [Lung Model](https://makerworld.com/en/models/1792163-gridfinity-anatomical-lung-model-multi-color-ams#profileId-1910041) | 2x2 | 1 | STL,3MF | 2025-09-27 |
+| [Macropad](https://makerworld.com/en/models/1772033-gridinity-macropad#profileId-2097539) | 2x2 | 1 | STL,3MF | 2025-11-07 |
 | [Makita 1/4" Hex Driver DF012D](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1096752-gridfinity-bin-for-72v-makita-df012d-screwdriver) | 2x8 | 1 | STL | 2024-12-08 |
 | [Material Swatches holder](https://www.printables.com/model/587675-gridfinity-material-swatches-holder-v2-parametric) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/material-swatch-bins)) | 1x1 - 2x4 + Customizable | 7 | OpenSCAD,STL | 2024-02-14 |
 | [Mechanical Keyboard Keycap Storage Trays](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%2520Mechanical%2520Keyboard%2520Keycap%2520Storage%2520Trays%2520(5x5%2520and%25205x7)-238569) | 5x5, 5x7 | 4 | STL | 2022-09-04 |
@@ -453,6 +454,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Monorail](https://makerworld.com/en/models/1196609-martin-s-monorail-gridfinity-train-v1-3#profileId-1224048) | - | - | STL,3MF | 2025-07-19 |
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Dynamic 3D Label Generator](https://github.com/clement-roblot/Gridfinity-Label-Generator) | - | 1 | Python,  PDF | 2024-08-08 |
+| [Gridfinity Height Bin](https://makerworld.com/en/models/171875-gridfinity-bin#profileId-420345) | 1x3 | 1 | STL,3MF | 2025-11-07 |
 | [Gridfinity ruler](https://www.printables.com/model/1142386-gridfinity-ruler) | 1 | 1 | STL | 2025-01-23 |
 | [Gridfinity Ruler MKII](https://makerworld.com/en/models/856330#profileId-805694) | - | 5 | STL,3MF | 2024-12-08 |
 | [Gridfinity Secure Brackets](https://www.printables.com/model/1009734-gridfinity-secure-brackets) | - | 3 | STL | 2024-10-13 |
