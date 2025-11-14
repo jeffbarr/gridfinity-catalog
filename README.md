@@ -49,7 +49,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 130 | STL,F360,STP | 2023-03-30 |
 | [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
 | [Bisley 10 Drawer Gridfinity Base](https://www.printables.com/model/1297104-bisley-10-drawer-gridfinity-base) | 5x8 | 1 | STL | 2025-05-18 |
-| [Boookfinity]() | 3x4,3x5 | 35 | STL,3MF | 2025-11-09 |
+| [Bookfinity](https://makerworld.com/en/models/1978845-bookfinity-complete-collection) | 3x4,3x5 | 35 | STL,3MF | 2025-11-09 |
 | [ClickBase StackPlate](https://www.printables.com/model/1342921-clickbase-stackplate) | 1x1-4x4 | 5 | STL,Blend| 2025-07-07 |
 | [ClickFinity Baseplate - No Magnets](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp) | 1x1 - 7x7 | 49 | STL,F3D | 2023-05-16 | 
 | [Clickfinity Refined Baseplate](https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
