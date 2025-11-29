@@ -51,6 +51,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bisley 10 Drawer Gridfinity Base](https://www.printables.com/model/1297104-bisley-10-drawer-gridfinity-base) | 5x8 | 1 | STL | 2025-05-18 |
 | [Bookfinity](https://makerworld.com/en/models/1978845-bookfinity-complete-collection) | 3x4,3x5 | 35 | STL,3MF | 2025-11-09 |
 | [ClickBase StackPlate](https://www.printables.com/model/1342921-clickbase-stackplate) | 1x1-4x4 | 5 | STL,Blend| 2025-07-07 |
+| [CLICKbase Refined](https://www.printables.com/model/1487592-clickbase-refined-a-no-magnet-latching-gridfinity) | 1x1-8x8 | 9 | STL | 2025-11-29 |
 | [ClickFinity Baseplate - No Magnets](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp) | 1x1 - 7x7 | 49 | STL,F3D | 2023-05-16 | 
 | [Clickfinity Refined Baseplate](https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
@@ -81,6 +82,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers | 1x1 |  6  | STL | 2022-06-12 |
 | [Screw Together Baseplate](https://www.printables.com/model/300603-gridfinity-screw-together-baseplate/files) | 1x1-7x7 | 28 |  STL | 2022-10-27 |
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1-5x5 | 15 | STL | 2022-06-18 |
+| [Slide In Magnet Stackable Base Plates](https://makerworld.com/en/models/2047124-gridfinity-slide-in-magnet-stackable-base-plates#profileId-2209033) | 1x2-2x6 | 11 | STL,3MF | 2025-11-29 |
 | [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1-5x5 | 20 | 3MF,F3D,STEP | 2023-01-09 |
 | [Subdivide Base Plates](https://makerworld.com/en/models/1365928-gridfinity-subdivide-base-plates#profileId-1411605) | 1x1-6x6 | 11 | STL,3MF | 2025-07-19 |
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3-5x5 | 14 | STL | 2023-10-07 |
@@ -139,6 +141,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 1508 | STL,F360,STP | 2023-03-30 |
 | [Bins with Cover (1x1)](https://www.printables.com/model/665798-gridfinity-1-x-1-x-2-and-1-x-1-x-3-inserts-with-co) | 1x1 | 17 | STL | 2024-02-14 |
 | [Bins with Cover (2x1)](https://www.printables.com/model/672541-gridfinity-1-x-2-size-inserts-can-be-closed-indivi) | 2x1 | 24 | STEP,STL | 2024-02-14 |
+| [Bins with Dividers](https://makerworld.com/en/models/2046419-gridfinity-bins-with-dividers-collection#profileId-2208248) | 1x1-3x5 | 74 | STL,3MF | 2025-11-29 |
 | [Bins with Latching Lids (1x1)](https://makerworld.com/en/models/1350573-gridfinity-1x1-bins-with-latching-lids-v1-0#profileId-1393156) | 1x1 | 3 | STL,3MF | 2025-06-02 |
 | [Bins with Latching Lids (1x2)](https://makerworld.com/en/models/1465547-gridfinity-1x2-bins-with-latching-lids-v1-0#profileId-1528803) | 1x2 | 3 | STL,3MF | 2025-06-02 |
 | [Bins with Latching Lids (1x3)](https://makerworld.com/en/models/1465565-gridfinity-1x3-bins-with-latching-lids-v1-0#profileId-1528827) | 1x3 | 3 | STL,3MF | 2025-06-02 |
@@ -334,6 +337,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
 | [Solder Reel Stand](https://www.printables.com/model/196782-gridfinity-solder-reel-stand) | 2x2 | 1 | STL | 2022-07-25 |
 | [Soldering Iron Holder](https://www.printables.com/model/460233-gridfinity-soldering-iron-holder) | 1x3 | 1 | STL | 2025-06-03 |
+| [Someline 2863M Crimp Tool](https://makerworld.com/en/models/2046587-someline-2863m-crimp-tool-gridfinity-5x2x6#profileId-2210465) | 2x5 | 1 | STL,3MF | 2025-11-29 |
 | [Small Part Sort and Storage](https://www.printables.com/model/218364-sortfinity-gridfinity-small-part-sort-and-storage) | 2x2 | 1 | STL | 2022-08-16 | 
 | [Space Efficient Socket Holders](https://www.printables.com/model/1101988-space-efficient-socket-holders-gridfinity) | 2x7 | 29 | STL | 2024-12-10 |
 | [Spade Bit Holder](https://thangs.com/designer/rbarbrow/3d-model/Spade%2520Bit%2520Holder%2520Gridfinity-216505) | 4x3 | 1 | STL | 2022-09-22 |
