@@ -50,6 +50,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
 | [Bisley 10 Drawer Gridfinity Base](https://www.printables.com/model/1297104-bisley-10-drawer-gridfinity-base) | 5x8 | 1 | STL | 2025-05-18 |
 | [Bookfinity](https://makerworld.com/en/models/1978845-bookfinity-complete-collection) | 3x4,3x5 | 35 | STL,3MF | 2025-11-09 |
+| [Center Handle Tote](https://makerworld.com/en/models/1988611-gridfinty-center-handle-tote-many-sizes-stacking#profileId-2155528) | 1x4-3x7 | 12 | STL,3MF | 2025-11-29 |
 | [ClickBase StackPlate](https://www.printables.com/model/1342921-clickbase-stackplate) | 1x1-4x4 | 5 | STL,Blend| 2025-07-07 |
 | [CLICKbase Refined](https://www.printables.com/model/1487592-clickbase-refined-a-no-magnet-latching-gridfinity) | 1x1-8x8 | 9 | STL | 2025-11-29 |
 | [ClickFinity Baseplate - No Magnets](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp) | 1x1 - 7x7 | 49 | STL,F3D | 2023-05-16 | 
@@ -379,6 +380,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
 | [USB A & C holder](https://www.printables.com/model/242607-gridfinity-usb-a-c-holder-1x1x3-or-2x1x3-added-ste) | 1x1,2x1 | 2 | STP, STEP | 2024-02-14 |
 | [USB-A Holder](https://makerworld.com/en/models/1575843-3-count-usb-a-holder-gridfinity-unit-1x1x3#profileId-1657942) | 1x1 | 1 | STL,3MF | 2025-07-07 |
+| [Vase Mode Bin with Label Option](https://makerworld.com/en/models/2000783-gridfinity-1x1-vase-mode-bins-with-label-option#profileId-2154310) | 1x1 | 2 | STL,3MF | 2025-11-29 |
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
 | [Vacuum Pump Bin](https://makerworld.com/en/models/679699#profileId-607967) | 2x2 | 1 | STP,3MF | 2024-10-14 |
 | [Vestibular System Model](https://makerworld.com/en/models/1828758-gridfinity-vestibular-system-for-patient-education#profileId-1952561) | 2x2 | 1 | STL,3MF | 2025-09-27 |
