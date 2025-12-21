@@ -85,6 +85,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1-5x5 | 15 | STL | 2022-06-18 |
 | [Slide In Magnet Stackable Base Plates](https://makerworld.com/en/models/2047124-gridfinity-slide-in-magnet-stackable-base-plates#profileId-2209033) | 1x2-2x6 | 11 | STL,3MF | 2025-11-29 |
 | [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1-5x5 | 20 | 3MF,F3D,STEP | 2023-01-09 |
+| [Stackable Modular Baseplates](https://www.printables.com/model/373752-gridfinity-stackable-modular-baseplates) | 1x1-7x7 | 56 | STK | 2025-12-21 |
 | [Subdivide Base Plates](https://makerworld.com/en/models/1365928-gridfinity-subdivide-base-plates#profileId-1411605) | 1x1-6x6 | 11 | STL,3MF | 2025-07-19 |
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3-5x5 | 14 | STL | 2023-10-07 |
 | [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1-7x7 | 13 | STL | 2022-06-12 | 28 | 
@@ -249,6 +250,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Knee Model](https://makerworld.com/en/models/526650-gridfinity-knee#profileId-1937037) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
 | [LCD Display Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%202x%20lcd%20display%20Holder.stl-201107) | 2x1 | 1 | STL | 2022-09-04 |
+| [Light Weight Blanks](https://www.printables.com/model/1520996-gridfinity-light-weight-blanks) | 1x1 | 1 | STL | 2025-12-21 |
 | [Lite Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x1-6x6 | 84 | STL | 2023-10-03 |
 | [Lite Ultra Boxes](https://www.printables.com/model/435429-gridfinity-lite-ultra-boxes-improved-version-with-) | 1x1-5x5 | 168 | STL,F3D | 2023-05-16 |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
@@ -363,6 +365,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Tap and Die Bins](https://makerworld.com/en/models/434208#profileId-339020) | 1x3, 2x2 | 9 | STL,3MF | 2024-04-20 |
 | [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | 2022-07-01 | 
 | [Tape Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%203x3%20Tape%20Holder-72448) | 3x3 | 1 | STL | 2022-09-04 |
+| [Tape Stand/Sorter](https://www.printables.com/model/1506848-gridfinity-tape-standsorter) | 4x1,4x2 | 2 | STL | 2025-12-21 |
 | [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
 | [Template with Mid-Air Holes](https://www.printables.com/model/269834-gridfinity-template-modified-for-mid-air-holes) | 1x1 | 1 | STL,F3D | 2022-09-26 |
 | [Test Hooks Clips Probes](https://makerworld.com/en/models/1527842-test-hook-clips-probes-gridfinity#profileId-1601868) | 1x1 | 1 | STL,3MF | 2025-09-18 |
@@ -491,6 +494,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Extended Irregular Bins Generator](https://makerworld.com/en/models/1699341-gridfinity-extended-irregular-bins-generator#profileId-1804521) - Create custom Gridfinity-compatible bins and cups with shapes beyond simple rectangles.
 * [Parametric drawer and chest generator](https://makerworld.com/en/models/1792396-customizable-gridfinity-drawer-chest#profileId-1910290) - Generates custom drawers modules. Wall mountable, Customizable drawer label holder, Optional magnets to hold the drawer shut.
 * [Extrabold Gridfinity Baseplate Generator](https://www.extrabold.tools/gridfinity-baseplate) - Generate normal and skeletal baseplates, with many options.
+* [Edge-to-Edge Base Generator](https://www.traygen.ai/) - Gridfinity base, Planned to print.
 
 # Articles
 
