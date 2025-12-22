@@ -208,6 +208,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 | STL | 2022-07-19 |
 | [Dremel Light Bin](https://makerworld.com/en/models/1598127-gridfinity-dremel-lite-7760-bin#profileId-1683924) | 1x5 | 1 | STP | 2025-07-23 |
 | [Drill Caddy](https://thangs.com/designer/Zwierzak%252C%2520Does%2520a%2520Thing/3d-model/Gridfinity%2520Drill%2520Caddy-65743) | 2x2 | 1 | STEP | 2022-09-04 |
+| [Easter Island Head](https://makerworld.com/en/models/1974324-easter-island-head-gridfinity#profileId-2123260) | 1x1,2x2 | 2 | STL,3MF | 2025-12-22 |
 | [Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x3-6x6 | 84 | STL | 2023-10-30 |
 | [Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
