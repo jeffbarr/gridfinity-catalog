@@ -547,4 +547,5 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Freaks](https://www.facebook.com/groups/894771558536705) - Facebook Community.
 * [Gridfinity FreeCAD Workbench](https://github.com/Stu142/FreeCAD-Gridfinity-Workbench) - Bin and baseplate generater using FreeCAD.
 * [dvng_gridfinity](https://github.com/Davang/dvng_gridfinity) - Gridfinity in FreeCAD (2025-07-14).
+* [Gridfinity for Grasshopper](https://www.food4rhino.com/en/app/gridfinity?lang=en) - Create Gridfinity baseplates, bins, and lids within Rhino (2025-12-22).
  
