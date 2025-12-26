@@ -482,7 +482,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 # Online Generators
 
-* [CADifier](https://cadifier.georgs.lv/viewer.html?bundleId=75caa38b-9b07-48f8-b049-b2555cd0eee9%20) - Gridfinity PLanner ([more info](https://www.reddit.com/r/gridfinity/comments/1kf8jk9/made_a_proof_of_concept_gridfinity_planner_using/).
+* [CADifier](https://cadifier.georgs.lv/viewer.html?bundleId=75caa38b-9b07-48f8-b049-b2555cd0eee9%20) - Gridfinity Planner ([more info](https://www.reddit.com/r/gridfinity/comments/1kf8jk9/made_a_proof_of_concept_gridfinity_planner_using/)).
 * [Parametric Gridfinity Web UI (perplexing labs)](https://gridfinity.perplexinglabs.com) - Custom bins and bases as STL files.
 * [Gridfinity Bin Creator](https://gridfinity.bouwens.co/) - Generates custom Gridfinity baseplate and bin (divider, holey, solid, and light) STL files.
 * [Gridfinity Parametric Web Generator](https://vector76.github.io/Web_OpenSCAD_Customizer/gridfinity_bins.html) - Generates custom Gridfinity divider bin STL files.
