@@ -349,6 +349,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Spiralized Gridfinity Bins](https://thangs.com/designer/DaveMakesStuff/3d-model/Spiralized%20Gridfinity%20Bins-758773) | 1x1 | 1 | STL | 2023-03-21 |
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
 | [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 | STL,3MF | 2022-09-04 |
+| [Stackable Battery Storage for Cylindrical & 9V Batteries]() |1x2-3x2| 35 | STL | 2025-12-28 |
 | [Stackable Citadel Paint Pot Storage](https://www.printables.com/model/267790-gridfinity-stackable-citadel-paint-pot-storage) | 1x1-6x6 | 5 | STL,F3D | 2022-09-26 |
 | [Stackable Roller Door Bins](https://makerworld.com/en/models/1564668-stackable-roller-door-gridfinity-bin-parametric#profileId-1644739) | 1x1 | 1 STL,3MF | 2025-07-19 |
 | [Stackable Shipping Container](https://makerworld.com/en/models/540866#profileId-458375) | 1x2 | 1 | STL | 2024-07-19 |
