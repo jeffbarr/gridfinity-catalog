@@ -350,6 +350,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
 | [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 | STL,3MF | 2022-09-04 |
 | [Stackable Citadel Paint Pot Storage](https://www.printables.com/model/267790-gridfinity-stackable-citadel-paint-pot-storage) | 1x1-6x6 | 5 | STL,F3D | 2022-09-26 |
+| [Gridfinity Stackable Battery Storage for Cylindrical & 9V Batteries](https://www.printables.com/model/1529938-gridfinity-stackable-battery-storage-for-cylindric) | 1x1-2x3 | 35 | STL | 2025-12-28 |
 | [Stackable Roller Door Bins](https://makerworld.com/en/models/1564668-stackable-roller-door-gridfinity-bin-parametric#profileId-1644739) | 1x1 | 1 STL,3MF | 2025-07-19 |
 | [Stackable Shipping Container](https://makerworld.com/en/models/540866#profileId-458375) | 1x2 | 1 | STL | 2024-07-19 |
 | [Stackable Storage Basket](https://www.printables.com/model/1335756-stackable-gridfinity-storage-basket-parametric) | 2x2-5x5 | 162 | STL,3MF,OpenSCAD | 2025-07-09 |
