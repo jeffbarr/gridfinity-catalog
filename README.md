@@ -247,6 +247,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Kitchen Caddy Jr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Kitchen%20Caddy%20Jr.-217330) | 2x1 | 1 | STL | 2022-09-04 |
 | [Kitchen Caddy Sr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Kitchen%2520Caddy%2520Sr.-217328) | 4x3 | 1 + 3 trays | STL | 2022-09-04 |
 | [Kitchen Drawer (Parametric)](https://makerworld.com/en/models/883766#profileId-838429) | 3x1-6x2 | 23 | STL,OpenSCAD | 2024-12-18 |
+| [Klein 69408G 69408MG Combo Wrench](https://makerworld.com/en/models/2163734-klein-69408g-69408mg-combo-wrench-gridfinity-bin) | 4x6 | 2 | STP | 2025-12-31 |
 | [Klein MM400 Multimeter](https://makerworld.com/en/models/1651239-klein-mm400-multimeter-gridfinity-bin-with-storage#profileId-1745767) | 4x5 | 1 | STL,3MF | 2025-07-29 |
 | [Knee Model](https://makerworld.com/en/models/526650-gridfinity-knee#profileId-1937037) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
