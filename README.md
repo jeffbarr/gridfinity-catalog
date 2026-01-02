@@ -498,6 +498,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Parametric drawer and chest generator](https://makerworld.com/en/models/1792396-customizable-gridfinity-drawer-chest#profileId-1910290) - Generates custom drawers modules. Wall mountable, Customizable drawer label holder, Optional magnets to hold the drawer shut.
 * [Extrabold Gridfinity Baseplate Generator](https://www.extrabold.tools/gridfinity-baseplate) - Generate normal and skeletal baseplates, with many options.
 * [Edge-to-Edge Base Generator](https://www.traygen.ai/) - Gridfinity base, Planned to print.
+* [Drawer Organizer Designer](https://www.solidair.co/gridfinity) - Web tool to design full-drawer Gridfinity layouts.
 
 # Articles
 
