@@ -167,6 +167,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
 | [Caliper Holder](https://makerworld.com/en/models/435832#profileId-394445) | 1x6 | 1 | STL | 2024-06-25 |
+| [Camera Lens Holder](https://makerworld.com/en/models/2216613-tpu-padded-gridfinity-lens-holders-60mm-to-80mm#profileId-2410133) | 2x2 | 11 | STL,3MF | 2026-01-10 |
 | [Can Holder](https://www.printables.com/model/245372-gridfinity-can-holder) | 2x2 | 1 | STL,3MF | 2022-07-21 |
 | [Case for Ferrules and Crimp Tool](https://www.thingiverse.com/thing:6539877) | 2x5 | 1 | STL | 2024-03-19 |
 | [Case for Scalpels](https://www.printables.com/model/241400) | 4x2 | 1 | F3D,STL | 2022-09-04 |
@@ -553,4 +554,5 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity FreeCAD Workbench](https://github.com/Stu142/FreeCAD-Gridfinity-Workbench) - Bin and baseplate generater using FreeCAD.
 * [dvng_gridfinity](https://github.com/Davang/dvng_gridfinity) - Gridfinity in FreeCAD (2025-07-14).
 * [Gridfinity for Grasshopper](https://www.food4rhino.com/en/app/gridfinity?lang=en) - Create Gridfinity baseplates, bins, and lids within Rhino (2025-12-22).
+* [Gridfinity Layout Tool](https://www.gridfinitylayouttool.com/) - Layout planner for Gridfinity (2026-01-10).
  
