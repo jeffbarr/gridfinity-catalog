@@ -403,6 +403,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
 | [Wire Stripping Tool Holder](https://makerworld.com/en/models/1305530-gridfinity-wire-stripping-tool-holder-3x5) | 3x5 | 1 | STL,3MF | 2025-04-10 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
+| [Wolfbox MegaFlow50 Holder](Wolfbox MegaFlow50) | 2x4 | 1 | 3MF | 2026-01-19 |
 | [Xacto Holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
 | [Xiaomi Wowstick 1F+ Holder](https://thangs.com/designer/bn326160/3d-model/Xiaomi%2520Wowstick%25201F%252B%2520%2523Gridfinity%2520holder%2520-98140) | 2x5 | 2 | STL | 2022-09-04 |
 | [Ziggurat Storage Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Ziggurat%20Storage%20Bin-216412) | 3x3 | 1 | STL | 2022-09-04 |
