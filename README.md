@@ -126,6 +126,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Angle Grinder Disk Holder](https://www.printables.com/model/937802-gridfinity-angle-grinder-disk-holder-125mm) |  3x3 | 1 | STL,STP | 2025-07-07 |
 | [Angled Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Angled%20Bin-267623) | 4x2 | 1 + 4 inserts | STL | 2022-09-04 |
 | [Apple AirTag Storage](https://makerworld.com/en/models/1600844-gridfinity-storage-for-apple-airtags#profileId-1687293) | 1x2,1x3 | 4 | STL,3MF | 2025-07-13 |
+| [AstroAI AM33D Multimeter Holder](https://makerworld.com/en/models/2269663-astroai-am33d-multimeter-holder-for-gridfinity#profileId-2473898) | 3x4 | 2 | STL,3MF | 2026-01-20 |
 | [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) | 1x1 | 1 | STL | 2022-07-11 |
 | [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
 | [Banana Plug Quick Connect Holder](https://makerworld.com/en/models/1806031-gridfinity-banana-plug-quick-connect-holder#profileId-1926320) | 1x1,1x2 | 2 | STL,3MF | 2025-09-18 |
@@ -502,6 +503,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Extrabold Gridfinity Baseplate Generator](https://www.extrabold.tools/gridfinity-baseplate) - Generate normal and skeletal baseplates, with many options.
 * [Edge-to-Edge Base Generator](https://www.traygen.ai/) - Gridfinity base, Planned to print.
 * [Drawer Organizer Designer](https://www.solidair.co/gridfinity) - Web tool to design full-drawer Gridfinity layouts.
+* [Gridfinity Refinery](https://gridfinity.us/) - Bin and baseplate generator.
 
 # Articles
 
