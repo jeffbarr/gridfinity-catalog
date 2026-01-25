@@ -141,6 +141,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Battery Holders (CRxxxx), Stackable](https://www.printables.com/model/442365-crxxxx-button-cell-battery-holders-gridfinity-stac) | 1x1-2x2 | Many | STL | 2024-02-14 |
 | [Battery Holders (LRx), Stackable](https://www.printables.com/model/442274-lrxx-button-cell-battery-holders-gridfinity-stacka) | 1x1-2x2 | Many | STL | 2024-02-14 |
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 1x4-5x5 | 36 | STL | 2022-06-25 |
+| [Binfinity Modular Bin System](https://makerworld.com/en/models/2294784-binfinity-modular-gridfinity-bin-system#profileId-2504193) | 1x1-6x5 | 560 | STL,3MF | 2026-01-25 |
 | [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 1508 | STL,F360,STP | 2023-03-30 |
 | [Bins with Cover (1x1)](https://www.printables.com/model/665798-gridfinity-1-x-1-x-2-and-1-x-1-x-3-inserts-with-co) | 1x1 | 17 | STL | 2024-02-14 |
 | [Bins with Cover (2x1)](https://www.printables.com/model/672541-gridfinity-1-x-2-size-inserts-can-be-closed-indivi) | 2x1 | 24 | STEP,STL | 2024-02-14 |
