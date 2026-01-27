@@ -40,6 +40,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+| [Alex Drawer Tray Grid](https://www.printables.com/model/1552099-gridfinity-alex-drawer-tray-grid-economic-variant) | 3x4 | 1 | STL | 2026-01-26 |
 | [Angled Plate](https://www.printables.com/model/1250441-gridfinity-angled-plate) | 2x4 | 1 | STL | 2025-05-18 |
 | [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
 | [Baseplate Mold Box](https://www.printables.com/model/1344249-castfinity-baseplate-mold-box) | 2x2-5x5 | 14 | STL,3MF | 2025-07-02 |
@@ -85,6 +86,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1-5x5 | 15 | STL | 2022-06-18 |
 | [Slide In Magnet Stackable Base Plates](https://makerworld.com/en/models/2047124-gridfinity-slide-in-magnet-stackable-base-plates#profileId-2209033) | 1x2-2x6 | 11 | STL,3MF | 2025-11-29 |
 | [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1-5x5 | 20 | 3MF,F3D,STEP | 2023-01-09 |
+| [Stackable 1/2" Dowel Shelves](https://www.printables.com/model/1571492-stackable-12-dowel-shelves-gridfinity-compatible) | 1x6 | 1 | STL | 2026-01-26 |
 | [Stackable Modular Baseplates](https://www.printables.com/model/373752-gridfinity-stackable-modular-baseplates) | 1x1-7x7 | 56 | STK | 2025-12-21 |
 | [Subdivide Base Plates](https://makerworld.com/en/models/1365928-gridfinity-subdivide-base-plates#profileId-1411605) | 1x1-6x6 | 11 | STL,3MF | 2025-07-19 |
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3-5x5 | 14 | STL | 2023-10-07 |
@@ -180,6 +182,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Cigfinity Pack Dispenser](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Cigfinity%20Pack%20Dispenser-212826) | 3x2 | 2 | STL | 2022-09-04 |
 | [CNC Tool Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20CNC%20Tool%20Holders-60739) | 1x2, 2x2, 3x3 | 4 | STL | 2022-07-19 |
 | [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) | 1x1, 1x2 | 1 | STL | 2022-06-12 |
+| [Coin Tray - 1€](https://www.printables.com/model/1481124-gridfinity-coin-tray-1eur) | 1x3 | 1 | STL | 2026-01-26 |
+| [Coin Tray - 2€](https://www.printables.com/model/1481123-gridfinity-coin-tray-2eur) | 1x3 | 1 | STL | 2026-01-26 |
 | [Coffee Filter Collection](https://makerworld.com/en/models/1267222-ultimate-gridfinity-coffee-filter-collection#profileId-1293189) | 2x3 | 4 | STL,3MF | 2025-04-10 |
 | [Collet Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Collet%20Holder%20Collet-ction-60743) | 1x3, 2x3 | 1 | STL | 2022-07-19 | 
 | [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | 2022-07-19 |
