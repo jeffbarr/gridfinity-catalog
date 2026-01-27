@@ -551,7 +551,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Foamfinity - Organizing my tech with foam and 3D printing](https://www.youtube.com/watch?v=kVjy84pQ4-w) - 2025-08-06.
 * [I Didn't Get Gridfinity... Then I Tried It](https://www.youtube.com/watch?v=AqYY10Gf2xg) - 2026-01-18.
 * [3D Printed Gridfinity Camera & Lens Holders](https://www.instagram.com/reels/DS1CG0lk28l/) - 2026-01-21.
-  
+* [No Measuring! 2 Fast ways to Design Gridfinity Shadow Boxes](https://www.youtube.com/watch?v=fGtTYha84vc) - 2026-01-27.
+
 # Other Resources
 
 * [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad) - OpenSCAD code to generate baseplates and other blocks (2022-06-12).
