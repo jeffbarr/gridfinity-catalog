@@ -331,7 +331,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ruler Holder](https://thangs.com/designer/atrimbletlr/3d-model/Gridfinity%2520Ruler%2520Holder-74621) | 1x1 | 1 | STL | 2022-09-04 |
 | [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack) | 1x2 | 1 | STL | 2022-07-08 |
 | [Screw Measure Tool](https://www.printables.com/model/276983-gridfinity-screw-measure-tool-1x1-mini-edition) | 1x1 | 1 | STL | 2024-02-14 |
-| [Serum Holders] (https://makerworld.com/en/models/1511397-gridfinity-serum-holders#profileId-1582563) | 2x3 | 4 | STL,3MF | 2025-06-25 |
+| [Serum Holders](https://makerworld.com/en/models/1511397-gridfinity-serum-holders#profileId-1582563) | 2x3 | 4 | STL,3MF | 2025-06-25 |
 | [Sewing Needle Holder](https://www.printables.com/model/283716-gridfinity-needle-holder) | 1x2 | 1 | STL,STEP,F3D | 2023-10-07 |
 | [ScrewUnit](https://thangs.com/designer/K2_Kevin/3d-model/ScrewU-nit%20Hardware%20Organizer%20-%20nuts%2C%20bolts%2C%20screws-1004137?affiliateCode=ZOMBIEHEDGEHOG) | ? | ? | ? | 2024-06-15 | 
 | [Screwfinity Unit 2U Large](https://thangs.com/designer/ZombieHedgehog/3d-model/Screwfinity%20Unit%202U%20Large%20-%20The%20Gridfinity%20Storage%20Unit-1081351?image=1350915) | 3x5 | 1 | STL,3MF,STP,OBJ,FBX | 2024-06-15 |
@@ -345,6 +345,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
 | [Socket Organizers for GEDORE RED Socket Sets](https://www.etsy.com/listing/1731541210/gridfinity-socket-organizers-for-gedore) | ? | ? | ? | 2025-01-18 |
 | [Socket Set Organizer for Husky 125-Piece Set](https://www.printables.com/model/614374-gridfinity-socket-holders-14-and-38) | 1x2-3x5 | ?? | 3MF,STEP | 2023-10-15 |
+| [Socket Tray - Customizable](https://makerworld.com/en/models/2292063-gridfinity-socket-tray-customizable?sfnsn=mo#profileId-2501011) |  |  | STP,F3D | 2026-01-29 |
 | [Solder Flix & Soldering Iron Tip Cleaner](https://www.printables.com/model/825562-gridfinity-bin-for-solder-flux-soldering-iron-tip) | 2x2 | 3 | STL | 2024-04-01 |
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
 | [Solder Reel Stand](https://www.printables.com/model/196782-gridfinity-solder-reel-stand) | 2x2 | 1 | STL | 2022-07-25 |
