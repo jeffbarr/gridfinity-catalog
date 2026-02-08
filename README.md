@@ -554,6 +554,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [3D Printed Gridfinity Camera & Lens Holders](https://www.instagram.com/reels/DS1CG0lk28l/) - 2026-01-21.
 * [No Measuring! 2 Fast ways to Design Gridfinity Shadow Boxes](https://www.youtube.com/watch?v=fGtTYha84vc) - 2026-01-27.
 * [Fusion + Gridfinity: Design Custom Bins, Today!](https://www.youtube.com/watch?v=UPDoAWp2blk) - 2026-01-27.
+* [Fully Automated Gridfinity Storage System](https://www.youtube.com/watch?v=ivigm4jzyUE) - 2026-02-08.
 
 # Other Resources
 
