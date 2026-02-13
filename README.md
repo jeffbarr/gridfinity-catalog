@@ -25,7 +25,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 # Contents
 - [Baseplates](#baseplates)
-- [Blocks](#blocks)
+- [Bins / Blocks](#blocks)
 - [Lids for bins](#lids-for-bins)
 - [Dashboard](#dashboard)
 - [Adapters](#adapters)
@@ -106,7 +106,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Weighted Baseplate 7x7.stl](https://social.thangs.com/m/187945) | 7x7 | 1 | STL | 2022-07-22 |
 | [5x5 Gridfinity 4 Tray Storage Rack](https://makerworld.com/en/models/185805-5x5-gridfinity-4-tray-storage-rack?from=search#profileId-213034) | 5x5x4 | STL | 2025-07-19 |
 
-# Blocks
+# Bins/Blocks
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
@@ -200,6 +200,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
 | [Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
 | [Desktop Tool Bins](https://makerworld.com/en/models/1479743-gridfinity-desktop-tool-bins#profileId-1544955) | 2x2-2x4 | 12 | STL,3MF | 2025-06-02 |
+| [Diagonal Dividing Bins](https://makerworld.com/en/models/2393657-gridfinity-diagonal-dividing-bins#profileId-2622750) | 2x3-6z6 | 80 | STL,3MF | 2026-02-13 |
 | [Diamond Needle File kit](https://www.printables.com/model/244748-gridfinity-diamond-needle-file-set) | 1x1 | 1 | STL | 2022-07-20 |
 | [Dice Holder for DnD and other TTRPG](https://www.printables.com/model/295485-gridfinity-dice-holder-for-dnd-and-other-ttrpg) | 1x3 | 7 | STL | 2022-10-26 |
 | [Digestive Tract Model](https://makerworld.com/en/models/1815422-anatomical-model-gridfinity-digestive-tract-ams#profileId-1937219) | 2x2 | 1 | STL,3MF | 2025-09-27 |
