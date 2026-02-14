@@ -556,6 +556,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [No Measuring! 2 Fast ways to Design Gridfinity Shadow Boxes](https://www.youtube.com/watch?v=fGtTYha84vc) - 2026-01-27.
 * [Fusion + Gridfinity: Design Custom Bins, Today!](https://www.youtube.com/watch?v=UPDoAWp2blk) - 2026-01-27.
 * [Fully Automated Gridfinity Storage System](https://www.youtube.com/watch?v=ivigm4jzyUE) - 2026-02-08.
+* [3D Printing Gridfinity Bin Tutorial](https://www.instagram.com/p/DTHK2AZiEAu/) - 2026-02-13.
 
 # Other Resources
 
