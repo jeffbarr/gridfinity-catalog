@@ -515,6 +515,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Edge-to-Edge Base Generator](https://www.traygen.ai/) - Gridfinity base, Planned to print.
 * [Drawer Organizer Designer](https://www.solidair.co/gridfinity) - Web tool to design full-drawer Gridfinity layouts.
 * [Gridfinity Refinery](https://gridfinity.us/) - Bin and baseplate generator.
+* [Tracemate](https://tracematehq.com/) - Custom gridfinity cutouts from a picture.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
