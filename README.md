@@ -74,6 +74,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2-6x6 | 8 | 3MF | 2022-06-12 |
 | [Jesh Baseplates for Crappy Printers](https://www.printables.com/model/471686-jesh-plates-gridfinty-for-crappy-printers) | 1x1-6x6 | 19 | STEP | 2023-05-16 | 
 | [Lasercut Base](https://myhub.autodesk360.com/ue29c81a3/g/shares/SH512d4QTec90decfa6e7f2938df1b06f971) | 7x12 | 1 | F3D | 2023-05-16 |
+| [Lockfinity - Parametric Locking Gridfinity Base](https://makerworld.com/en/models/2359173-lockfinity-parametric-locking-gridfinity-base#profileId-2580988) |  3x4-4x5 | 6 | 3MF,F3D | 2026-02-17 |
 | [Magnet Light Baseplate](https://www.printables.com/model/250550-gridfinity-magnet-light-baseplate) | 1x1-8x8 | 36 | STL,F3D | 2022-10-30 | 
 | [Milwaukee 5-Compartment Packout Low Profile Organizer](https://makerworld.com/en/models/1487820-packout-low-profile-organizer-gridfinity-base#profileId-1554673) | 4x4.5 | 1 | STL,3MF | 2025-07-07 |
 | [Milwaukee 5-Compartment Packout Small Parts Organizer](https://makerworld.com/en/models/1504698-packout-deep-organizer-gridfinity-base-and-bins#profileId-1574535) | 4.5x7 | 1 | STL,3MF | 2025-07-07 |
@@ -241,12 +242,14 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Hex Baskets](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520UPDATED%25204%252F18%252F22!%2520Hex%2520Baskets-61207) | 1x1-3x5 | 21 | STL | 2022-06-12 |
 | [Hex Bins Light](https://www.printables.com/model/1166141-gridfinity-hex-bins-light-all-sizes) | 0.5-6x1-6 | 962 | STL | 2025-02-10 |
 | [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder)| 1x3 | 2 | STL | 2022-07-08 | 
+| [Hex Bit Storage Deep for Long Bits](https://www.printables.com/model/1538366-gridfinity-hex-bit-storage-deep-for-long-bits) | 2x2 | 1 | 3MF,STP | 2026-02-17 |
 | [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) | 2x2 | 2 | STL | 2022-06-12 |
 | [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) | 2x4 | 1 | STL | 2022-06-18 |
 | [Hinged Box](https://www.printables.com/model/724144-gridfinity-hinged-box) | 1x1, 1x2 | 2 | STL | 2024-01-16 |
 | [Hobby Knife Stand](https://thangs.com/designer/anonym_xxl/3d-model/2x1GridfinityHobbyKnifeStand.stl-321683) | 1x2 | 1 | STL | 2022-09-06 |
 | [Husky Nut Driver Holder](https://www.reddit.com/r/gridfinity/comments/1h49cfv/husky_nut_driver_holder/) | - | - | - | 2024-12-08 |
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
+| [ICON 3/8 in Drive Metric Professional Long Ball Hex Bit Socket Set](https://www.printables.com/model/1602240-icon-38-in-drive-metric-professional-long-ball-hex) | 2x3 | 1 | 3MF,STP | 2026-02-17 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
 | [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5-4x5 | 12 | STL,STP | 2025-02-10 |
 | [Inserts for Pandemic Board Game](https://makerworld.com/en/models/1621396-pandemic-board-game-gridfinity-inserts#profileId-1711605) | 2x2,2x3,1x5 | 5 | STL,3MF | 2025-07-25 |
