@@ -571,7 +571,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 # Other Collections
 
-* [Gridfinity Library](https://makerworld.com/en/models/1709415-gridfinity-library#profileId-2044294) - 2026-02-23. 
+* [Gridfinity Library](https://makerworld.com/en/models/1709415-gridfinity-library#profileId-2044294) - 2026-02-23.
+* [Tooltrace Community](https://www.tooltrace.ai/community) - 2026-02-23.
 
 # Other Resources
 
