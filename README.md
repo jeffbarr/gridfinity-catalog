@@ -223,6 +223,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x3-6x6 | 84 | STL | 2023-10-30 |
 | [Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
+| [Essie Mini Nail Polish Holder](https://makerworld.com/en/models/2433831-essie-small-gridfinity-bins#profileId-2670002) | | 1x1-2x5 | 6 | STL,3MF | 2026-02-24 |
 | [Filled Bins Full Height No Lip](https://www.printables.com/model/410744-gridfinity-filled-bins-full-height-no-lip) | 0.5x0x5-7x7 | - | 3MF | 2023-03-23 |
 | [Filled-In Boxes for Customization](https://www.printables.com/model/210548-filled-in-gridfinity-boxes-for-customization) | 1x1-7x7 | 39 | STL | 2023-03-20 |
 | [Flashlight Holders](https://makerworld.com/en/models/1400746-gridfinity-flashlight-holders#profileId-1452634) | 1x1 | 78 | STL,3MF | 2025-05-15 |
@@ -246,6 +247,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Hex Bit Storage Deep for Long Bits](https://www.printables.com/model/1538366-gridfinity-hex-bit-storage-deep-for-long-bits) | 2x2 | 1 | 3MF,STP | 2026-02-17 |
 | [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) | 2x2 | 2 | STL | 2022-06-12 |
 | [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) | 2x4 | 1 | STL | 2022-06-18 |
+| [HF Pick and Hook Set](https://makerworld.com/en/models/2064691-gridfinity-storage-for-hf-pick-and-hook-set#profileId-2229517) | 2x4 | 1 | STL,3MF | 2026-02-24 |
 | [Hinged Box](https://www.printables.com/model/724144-gridfinity-hinged-box) | 1x1, 1x2 | 2 | STL | 2024-01-16 |
 | [Hobby Knife Stand](https://thangs.com/designer/anonym_xxl/3d-model/2x1GridfinityHobbyKnifeStand.stl-321683) | 1x2 | 1 | STL | 2022-09-06 |
 | [Husky Nut Driver Holder](https://www.reddit.com/r/gridfinity/comments/1h49cfv/husky_nut_driver_holder/) | - | - | - | 2024-12-08 |
@@ -254,6 +256,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
 | [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5-4x5 | 12 | STL,STP | 2025-02-10 |
 | [Inserts for Pandemic Board Game](https://makerworld.com/en/models/1621396-pandemic-board-game-gridfinity-inserts#profileId-1711605) | 2x2,2x3,1x5 | 5 | STL,3MF | 2025-07-25 |
+| [HF Jacobs Chuck](https://makerworld.com/en/models/2066429-gridfinity-jacobs-chuck-hf-tools-58728#profileId-2231544) | 2x4 | 1 | STL,3MF | 2026-02-26 |
 | [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
 | [Jumper Wire Holder](https://www.printables.com/model/193846-gridfinity-jumper-wire-holder) | 1x1 | 1 | STL | 2022-07-19 |
 | [Kitchen Bag Bins - Ikea Istad and More](https://www.printables.com/model/824852-gridfinity-kitchen-bag-bins-ikea-istad-and-more) | 1x6-2x4 | 3 | STL | 2024-04-01 |
@@ -320,6 +323,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Posca Marker Holder](https://www.printables.com/model/811375-posca-marker-holder-for-gridfinity) | 2x2-2x3 | 1 | STL | 2024-03-19 | 
 | [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
 | [Prusa Pliers and Flat Cuts](https://www.printables.com/model/240253) | 1x1 | 1 | 3MF + STL | 2022-09-04 |
+| [PSI Pen Chuck Jaw](https://makerworld.com/en/models/2068403-gridfinity-holder-for-psi-pen-chuck-jaw-pn-cjawpen#profileId-2233782) | 2x2 | 1 | STL,3MF | 2026-02-24 |
 | [Radius Measuring Set](https://www.printables.com/model/1258992-gridfinity-radius-measuring-set-2mm-20mm) | 1x2 | 1 | STL | 2025-04-22 | 
 | [Raspberry Pi Case](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Raspberry%2520Pi%2520Case-61718) | 2x2 | 1 | STL | 2022-07-25 |
 | [Raspberry Pi Pico Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%2520Raspberry%2520Pi%2520Pico%2520Holder.stl-198518) | 2x1 | 1 | STL | 2022-09-04 |
