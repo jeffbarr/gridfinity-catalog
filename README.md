@@ -35,6 +35,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 - [Offline Generators](#offline-generators)
 - [Articles](#articles)
 - [Videos](#videos)
+- [Other Collections](#other-collections)
 - [Other Resources](#other-resources)
 
 # Baseplates
@@ -516,6 +517,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Edge-to-Edge Base Generator](https://www.traygen.ai/) - Gridfinity base, Planned to print.
 * [Drawer Organizer Designer](https://www.solidair.co/gridfinity) - Web tool to design full-drawer Gridfinity layouts.
 * [Gridfinity Refinery](https://gridfinity.us/) - Bin and baseplate generator.
+* [Gridfinity Rebase](https://gridfinity.tools/rebase/) - Replace bases in STL files.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
@@ -525,6 +527,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity: 3D Printed Super Quick Tool Storage And Retrieval](https://hackaday.com/2022/04/18/gridfinity-3d-printed-super-quick-tool-storage-and-retrieval/).
 * [Gridfinity Modular Storage System: All You Need to Know](https://all3dp.com/2/gridfinity-simply-explained/)
 * [Gridfinity Simply Explained](https://all3dp.com/2/gridfinity-simply-explained/).
+* [Gridinity Latching Baseplate Without Creep](https://www.printables.com/article/gridfinity-latching-baseplate-without-creep-1ND2Mjd) - 2026-02-23.
 
 # Videos
 
@@ -565,6 +568,10 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Fusion + Gridfinity: Design Custom Bins, Today!](https://www.youtube.com/watch?v=UPDoAWp2blk) - 2026-01-27.
 * [Fully Automated Gridfinity Storage System](https://www.youtube.com/watch?v=ivigm4jzyUE) - 2026-02-08.
 * [3D Printing Gridfinity Bin Tutorial](https://www.instagram.com/p/DTHK2AZiEAu/) - 2026-02-13.
+
+# Other Collections
+
+* [Gridfinity Library](https://makerworld.com/en/models/1709415-gridfinity-library#profileId-2044294) - 2026-02-23. 
 
 # Other Resources
 
