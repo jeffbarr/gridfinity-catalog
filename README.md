@@ -229,6 +229,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Flashlight Holders](https://makerworld.com/en/models/1400746-gridfinity-flashlight-holders#profileId-1452634) | 1x1 | 78 | STL,3MF | 2025-05-15 |
 | [Flexbox Versatile Crate](https://www.printables.com/model/1008572-flexbox2-versatile-gridfinity-crate) | 1x2-3x3 | 64 | STL,F3D | 2025-07-07 |
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
+| [Fully Customizable Paint Rack](https://makerworld.com/en/models/2462995-fully-customizable-gridfinity-paint-rack#profileId-2704355) | 4x6 | 1 | STL,SCAD | 2026-03-01 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
 | [Fusion360 Templates](https://thangs.com/designer/KptnAutismus/3d-model/Gridfinity%2520Templates%2520%28Filled%2520in%2520and%2520Hollow%29%2520for%2520Fusion360-202057) | Varies | 3 | F3D | 2022-09-26 |
 | [Generic Upright Holder](https://www.printables.com/model/825575-generic-gridfinity-upright-holder-2x2x6) | 2x2 | 1 | STL | 2024-01-01 |
