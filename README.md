@@ -192,6 +192,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | 2022-07-19 |
 | [Complete Kitchen Collection (w/Modular Expansion Pieces)](https://makerworld.com/en/models/148636#profileId-201393) | 1x2 - 2x6 | 13 | STL,3MF | 2024-12-18 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
+| [Corrugated Bin](https://www.printables.com/model/1621031-corrugated-gridfinity-bin-with-snap-in-dividers-pr/files) | 2x2 | 1 | STL,STP,F3Z | 2026-03-01 |
 | [CR12xx Coin Battery Storage](https://makerworld.com/en/models/1516518-cr12xx-coin-battery-storage-for-gridfinity#profileId-1588681) | 1x1, 1x3 | 9 | STL,3MF | 2025-06-18 |
 | [CR16xx Coin Battery Storage](https://makerworld.com/en/models/1537291-cr16xx-coin-battery-storage-for-gridfinity#profileId-1612854) | 1x1, 1x3 | 8 | STL,3MF | 2025-06-25 |
 | [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL,3MF | 2025-05-05 |
@@ -237,6 +238,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [GoPro Holder](https://thangs.com/designer/martinwew/3d-model/Gridfinity%202x1%20gopro%20holder.STL-313028) | 1x2 | 1 | STL | 2022-09-04 |
+| [GRoG - the Gridfinity openGrid Stand](https://makerworld.com/en/models/2462959-grog-the-gridfinity-opengrid-stand#profileId-2703739) | 2x2 | 1 | STL,3MF | 2026-03-01 |
 | [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1-0.5x3 | 10 | STL | 2022-09-19 |
 | [Hand Model](https://makerworld.com/en/models/526661-gridfinity-hand#profileId-1937043) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Height Tool](https://thangs.com/designer/myway2build3d/3d-model/Gridfinity%20Height%20Tool%20-666915) | 1x1 | 1 | STP,3MF | 2023-03-15 |
