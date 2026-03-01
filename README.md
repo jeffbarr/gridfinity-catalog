@@ -576,6 +576,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Fusion + Gridfinity: Design Custom Bins, Today!](https://www.youtube.com/watch?v=UPDoAWp2blk) - 2026-01-27.
 * [Fully Automated Gridfinity Storage System](https://www.youtube.com/watch?v=ivigm4jzyUE) - 2026-02-08.
 * [3D Printing Gridfinity Bin Tutorial](https://www.instagram.com/p/DTHK2AZiEAu/) - 2026-02-13.
+* [Who "Invented" Gridfinity?](https://www.youtube.com/watch?v=aiDHXKRxLeQ) - 2026-03-01.
 
 # Other Collections
 
