@@ -526,6 +526,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Drawer Organizer Designer](https://www.solidair.co/gridfinity) - Web tool to design full-drawer Gridfinity layouts.
 * [Gridfinity Refinery](https://gridfinity.us/) - Bin and baseplate generator.
 * [Gridfinity Rebase](https://gridfinity.tools/rebase/) - Replace bases in STL files.
+* [GridPilot](https://gridpilot.us/) - AI-powered custom Gridfinity tray generator. Photo-based tool detection, auto-layout, 3D labels, per-tool depth/color, and 3MF export.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
