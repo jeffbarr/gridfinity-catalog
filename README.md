@@ -158,6 +158,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bins with Latching Lids (2x2)](https://makerworld.com/en/models/1350724-gridfinity-2x2-bins-with-latching-lids-v1-0#profileId-1393320) | 2x2 | 3 | STL,3MF | 2025-06-02 |
 | [Bins with Latching Lids (2x3)](https://makerworld.com/en/models/1350778-gridfinity-2x3-bins-with-latching-lids-v1-0#profileId-1393392) | 2x3 | 3 | STL,3MF | 2025-06-02 |
 | [Bins with Lids (parametric)](https://www.printables.com/model/751715-gridfinity-bins-with-lids-parametric-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/lid-bins)) | 1x1-2x2 + Customizable | 58 | OpenSCAD,STL | 2024-02-14 |
+| [Bins with Roller Lid](https://makerworld.com/en/models/2486248-gridfinity-bin-with-roller-lid#profileId-2731332) | 1x1-2x5 | 8 | STL,STP,3MF | 2026-03-16 |
 | [Bins with Swappable Labels](https://makerworld.com/en/models/446624#profileId-353132) | 1x1-3x2 | 32 | STL,3MF | 2024-04-29 |
 | [Bin/Lid for RJ45 Jacks](https://makerworld.com/en/models/1414568-gridfinity-bin-for-rj45-jacks-pinout-lid#profileId-1468931) | 2.5x3.5 | 1 | STL,3MF | 2025-05-13 |
 | [Bolt Sorter](https://www.thingiverse.com/thing:5402658) | 1x2 | 1 | STL | 2022-09-04 |
@@ -193,6 +194,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Complete Kitchen Collection (w/Modular Expansion Pieces)](https://makerworld.com/en/models/148636#profileId-201393) | 1x2 - 2x6 | 13 | STL,3MF | 2024-12-18 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
 | [Corrugated Bin](https://www.printables.com/model/1621031-corrugated-gridfinity-bin-with-snap-in-dividers-pr/files) | 2x2 | 1 | STL,STP,F3Z | 2026-03-01 |
+| [CR Battery Organizer](https://makerworld.com/en/models/2497702-cr-battery-organizer-gridfinity-version#profileId-2745369) | 1x4,2x4 | 2 | STL,3MF | 2024-03-16 |
 | [CR12xx Coin Battery Storage](https://makerworld.com/en/models/1516518-cr12xx-coin-battery-storage-for-gridfinity#profileId-1588681) | 1x1, 1x3 | 9 | STL,3MF | 2025-06-18 |
 | [CR16xx Coin Battery Storage](https://makerworld.com/en/models/1537291-cr16xx-coin-battery-storage-for-gridfinity#profileId-1612854) | 1x1, 1x3 | 8 | STL,3MF | 2025-06-25 |
 | [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL,3MF | 2025-05-05 |
