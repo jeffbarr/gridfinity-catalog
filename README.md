@@ -509,6 +509,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Tackle Box](https://makerworld.com/en/models/1334981-fishfinity-tackle-box#profileId-1374085) | 4x5 | 1 | 3MF,STL | 2025-06-02 |
 | [Gridfinity Master Collection](https://www.printables.com/model/242711-gridfinity-master-collection) | 1x1-7x7 | 633 | STL,OpenSCAD | 2024-03-21 |
 | [Under Desk Drawer Modular](https://makerworld.com/en/models/2414551-under-desk-drawer-modular-push-lock-gridfinity#profileId-2647661) | 4x3 | 1 | 3MF,STL | 2026-02-18 |
+| [WAVEGRID - Parametric Gridfinity Tray & Bin System](https://makerworld.com/en/models/2408252-parametric-gridfinity-tray-bin-system#profileId-2640230) | 1x1-8x8 | Many | 3MF,F3D | 2026-03-17 |
 
 # Online Generators
 
