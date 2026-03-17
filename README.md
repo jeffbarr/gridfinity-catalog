@@ -585,6 +585,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [3D Printing Gridfinity Bin Tutorial](https://www.instagram.com/p/DTHK2AZiEAu/) - 2026-02-13.
 * [Who "Invented" Gridfinity?](https://www.youtube.com/watch?v=aiDHXKRxLeQ) - 2026-03-01.
 * [No Measuring! 2 Fast ways to Design Gridfinity Shadow Boxes](https://www.youtube.com/watch?v=fGtTYha84vc) - 2026-03-16.
+* [Gridfinity 2](https://www.youtube.com/watch?v=fUI2k1YA1KE) - 2026-03-16.
 
 # Other Collections
 
