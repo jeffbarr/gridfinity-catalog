@@ -534,6 +534,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [GridPilot](https://gridpilot.us/) - AI-powered custom Gridfinity tray generator. Photo-based tool detection, auto-layout, 3D labels, per-tool depth/color, and 3MF export.
 * [Gridfinity Carve](https://gridfinity.liorbk.com/) - Carve bins from photos - 2026-03-23.
 * [Gridfinity Layout Tool](https://gridfinitylayouttool.com) - Generate baseplates and lay out drawers - 2026-03-23.
+* [Genie Crate](https://geniecrate.com/) - Share dimensions and generate everything needed to gridfinity your drawer - 2026-03-24.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
@@ -592,6 +593,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Drillbit Bins](https://www.youtube.com/shorts/gA_ME_w8Wps) - 2026-03-16.
 * [ToolTrace.AI and Gridfinity - a match made in heaven](https://www.youtube.com/shorts/Z7xWVKxYvZ4) - 2026-03-17.
 * [Sandisk Drive Bin for IKEA ALEX Drawers](https://www.youtube.com/shorts/XSiztUP2K8M) - 2026-03-17.
+* [Xtool F2 & Gridfinity FTW!!](https://www.youtube.com/shorts/Te3UbtmLXSM) - 2026-03-24.
 
 # Other Collections
 
