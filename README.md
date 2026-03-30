@@ -275,6 +275,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Klein 69408G 69408MG Combo Wrench](https://makerworld.com/en/models/2163734-klein-69408g-69408mg-combo-wrench-gridfinity-bin) | 4x6 | 2 | STP | 2025-12-31 |
 | [Klein MM400 Multimeter](https://makerworld.com/en/models/1651239-klein-mm400-multimeter-gridfinity-bin-with-storage#profileId-1745767) | 4x5 | 1 | STL,3MF | 2025-07-29 |
 | [Knee Model](https://makerworld.com/en/models/526650-gridfinity-knee#profileId-1937037) | 2x2 | 1 | STL,3MF | 2025-09-27 |
+| [Kumiko Bins Sampler Set](https://makerworld.com/en/models/2513474-gridfinity-kumiko-bins-sampler-set#profileId-2764555) | 1x1 | 6 | STL,3MF | 2026-03-30 |
+| [Kumiko Bins Asanoha Pattern](https://makerworld.com/en/models/2513379-kumiko-gridfinity-bins-asanoha-pattern#profileId-2764423) | 1x1-3x3 | STL,3MF | 2026-03-30 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
 | [LCD Display Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%202x%20lcd%20display%20Holder.stl-201107) | 2x1 | 1 | STL | 2022-09-04 |
 | [Light Weight Blanks](https://www.printables.com/model/1520996-gridfinity-light-weight-blanks) | 1x1 | 1 | STL | 2025-12-21 |
