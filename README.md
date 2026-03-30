@@ -175,6 +175,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Cable Organizing Boxes](https://makerworld.com/en/models/510993#profileId-427092) | 2x1-2x6 | 12 | STL,3MF | 2024-10-28 |
 | [Cable Storage Bins](https://makerworld.com/en/models/908154-gridfinity-cable-storage-bins#profileId-868526) | 1x2-2x6 | 8 | STL,STP,F3D | 2025-07-07 |
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
+| [Caliper, Angle, and Radius Gauge](https://makerworld.com/en/models/2581195-gridfinity-caliper-angle-and-radius-gauge-holder#profileId-2846854) | 3x6 | 1 | STL,3MF | 2026-03-30 |
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
 | [Caliper Holder](https://makerworld.com/en/models/435832#profileId-394445) | 1x6 | 1 | STL | 2024-06-25 |
 | [Camera Lens Holder](https://makerworld.com/en/models/2216613-tpu-padded-gridfinity-lens-holders-60mm-to-80mm#profileId-2410133) | 2x2 | 11 | STL,3MF | 2026-01-10 |
@@ -418,6 +419,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) | 1x1 | 4 | STL | 2022-06-12 |
 | [Vacuum Pump Bin](https://makerworld.com/en/models/679699#profileId-607967) | 2x2 | 1 | STP,3MF | 2024-10-14 |
 | [Vestibular System Model](https://makerworld.com/en/models/1828758-gridfinity-vestibular-system-for-patient-education#profileId-1952561) | 2x2 | 1 | STL,3MF | 2025-09-27 |
+| [Vintage Camera Lens Storage](https://makerworld.com/en/models/2560443-gridfinity-vintage-lens-storage) | 1x2,2x2 | 8 | STL,3MF | 2026-03-30 |
 | [Watch Band Bin](https://www.reddit.com/r/gridfinity/comments/18etpfi/watch_band_bin_3x1_vase_mode/) | 3x1 | 1 | F3D,3MF,GCODE | 2023-12-26 |
 | [Watch Band Holder](https://www.printables.com/model/268905-gridfinity-watch-band-holder) | 2x3 | 1 | STL | 2022-09-06 |
 | [Wera Imperial 950 Allen Key Holder](https://www.printables.com/model/407463-gridfinity-wera-imperial-9509-hex-plus-2-inches/files) | 4x7 | 1 | STL | 2023-03-15 |
