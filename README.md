@@ -134,6 +134,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [AstroAI AM33D Multimeter Holder](https://makerworld.com/en/models/2269663-astroai-am33d-multimeter-holder-for-gridfinity#profileId-2473898) | 3x4 | 2 | STL,3MF | 2026-01-20 |
 | [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) | 1x1 | 1 | STL | 2022-07-11 |
 | [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
+| [Bambu H2/P2 Nozzle Holder](https://makerworld.com/en/models/2571192-gridfinity-bambu-h2-p2-standard-hotend-4-slot#profileId-2834392) | 2x3 | 1 | STL,3MF | 2026-03-29 |
+| [Bambu H2C Nozzle Holder](https://makerworld.com/en/models/2571177-gridfinity-bambu-h2c-induction-hotend-4-slot#profileId-2834369) | 2x2 | 1 | STL,3MF | 2026-03-29 |
 | [Banana Plug Quick Connect Holder](https://makerworld.com/en/models/1806031-gridfinity-banana-plug-quick-connect-holder#profileId-1926320) | 1x1,1x2 | 2 | STL,3MF | 2025-09-18 |
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1-5x5 | 28 | CadQuery | 2022-06-12 | 
 | [Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF,F3D | 2022-07-25 |
@@ -259,6 +261,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
 | [ICON 3/8 in Drive Metric Professional Long Ball Hex Bit Socket Set](https://www.printables.com/model/1602240-icon-38-in-drive-metric-professional-long-ball-hex) | 2x3 | 1 | 3MF,STP | 2026-02-17 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
+[ Ikea Bilresa Remote Control Holder](https://makerworld.com/en/models/2583493-gridfinity-ikea-bilresa-remote-control-holder#profileId-2849662) | 1x2 | 1 | STL,3MF | 2026-03-29 |
 | [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5-4x5 | 12 | STL,STP | 2025-02-10 |
 | [Inserts for Pandemic Board Game](https://makerworld.com/en/models/1621396-pandemic-board-game-gridfinity-inserts#profileId-1711605) | 2x2,2x3,1x5 | 5 | STL,3MF | 2025-07-25 |
 | [HF Jacobs Chuck](https://makerworld.com/en/models/2066429-gridfinity-jacobs-chuck-hf-tools-58728#profileId-2231544) | 2x4 | 1 | STL,3MF | 2026-02-26 |
@@ -427,6 +430,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
 | [Wire Stripping Tool Holder](https://makerworld.com/en/models/1305530-gridfinity-wire-stripping-tool-holder-3x5) | 3x5 | 1 | STL,3MF | 2025-04-10 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
+| [WORX WX242L Screwdriver](https://makerrepo.com/r/fangpenlin/open-models/artifact/master/922beff8-d5ef-4ffd-9643-1261e57b1dba) | 2x5 | 1 | STL | 2026-03-29 |
 | [Wolfbox MegaFlow50 Holder](Wolfbox MegaFlow50) | 2x4 | 1 | 3MF | 2026-01-19 |
 | [Xacto Holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
 | [Xiaomi Wowstick 1F+ Holder](https://thangs.com/designer/bn326160/3d-model/Xiaomi%2520Wowstick%25201F%252B%2520%2523Gridfinity%2520holder%2520-98140) | 2x5 | 2 | STL | 2022-09-04 |
