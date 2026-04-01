@@ -68,6 +68,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 
 | [Ender 3 Power ledge Baseplate](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
+| [French Cleat Rack](https://makeronline.com/en/model/Gridfinity%20French%20Cleat%20Rack/261166.html) | 2x4,2x6 | 2 | STL | 2026-04-01 |
+| [Gen 5 (2023+) Prius Center Console](https://www.printables.com/model/1585337-gen-5-2023-prius-center-console-gridfinity-base) | 3x5 | 2 | 3MF,F3D | 2026-04-01 |
 | [Gridfinity Grids - Stacked for Printing](https://www.printables.com/model/995911-gridfinity-grids-stacked-for-printing) | 8x8 | 1 | STL,F3D | 2024-10-14 |
 | [Gridfinity Shelf for openGrid](https://makerworld.com/en/models/1469935-infinite-gridfinity-shelf-for-opengrid-very-strong#profileId-1534153) | 2x2-2x6 | 3 | STL,3MF | 2025-09-20 |
 | [GRIPS: GRidfinity Interlocking basePlate System](https://makerworld.com/en/models/704997) | Any | - | OpenSCAD | 2025-02-03 |
@@ -436,6 +438,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Wii Remote Bin](https://www.printables.com/model/810571-gridfinity-wii-remote-bin) | 3x4 | 1 | STL,3MF,STP,F3d | 2024-03-19 |
 | [Wii Remote Holder](https://www.printables.com/model/1304912-gridfinity-wii-remote-holder) | 2x4 | 1 | STL | 2025-06-02 |
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
+| [Wire Spool Holder](https://makerworld.com/en/models/2380142-gridfinity-wire-spool-holder-aliexpress-style#profileId-2606252) | 2x3 | 1 | STL,F3D | 2026-04-01 |
 | [Wire Stripping Tool Holder](https://makerworld.com/en/models/1305530-gridfinity-wire-stripping-tool-holder-3x5) | 3x5 | 1 | STL,3MF | 2025-04-10 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
 | [WORX WX242L Screwdriver](https://makerrepo.com/r/fangpenlin/open-models/artifact/master/922beff8-d5ef-4ffd-9643-1261e57b1dba) | 2x5 | 1 | STL | 2026-03-29 |
