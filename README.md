@@ -42,9 +42,10 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+| [A1 Printer Attachment System](https://makerworld.com/en/models/2412696-a1-printer-gridfinity-attachment-system#profileId-2645439) | 2x3-4x5 | 
 | [Alex Drawer Tray Grid](https://www.printables.com/model/1552099-gridfinity-alex-drawer-tray-grid-economic-variant) | 3x4 | 1 | STL | 2026-01-26 |
 | [Angled Plate](https://www.printables.com/model/1250441-gridfinity-angled-plate) | 2x4 | 1 | STL | 2025-05-18 |
-| [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
+| [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 4 | STL,3MF | 2026-04-01 |
 | [Baseplate Mold Box](https://www.printables.com/model/1344249-castfinity-baseplate-mold-box) | 2x2-5x5 | 14 | STL,3MF | 2025-07-02 |
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
@@ -398,6 +399,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Storage Bin for Foam-Backed Sanding Sticks](https://www.printables.com/model/1359155-storage-bins-for-foam-backed-sanding-sticks-gridfi) | 3x4 | 2 | STL | 2025-07-23 |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | 2022-07-19 |
 | [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | 2022-07-19 |
+| [Super Lube Grease Tube Holder](https://makerworld.com/en/models/2348650-super-lube-grease-tube-holder-gridfinity-1x4) | 1x4 | 1 | STL | 2026-04-01 |
 | [Swinger Trays](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinger%2520Trays-262514) | 2x2 | 1 | STL | 2022-09-26 |
 | [Swinging Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinging%2520Drawer-201480) | 3x3 | 2 | STL | 2022-09-04 |
 | [Tabletop (Gaming)](https://www.thingiverse.com/thing:5454853) | 1x1 | 3 | STL | 2022-09-04 |
@@ -491,6 +493,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Binfinity Mk2 for 8u Gridfinity Bins](https://makerworld.com/en/models/1388935-binfinity-mk2-for-8u-gridfinity-bins#profileId-1438873) | 2x4 | 1 | STL,3MF | 2025-05-09 |
 | [Calipers](https://makerworld.com/en/models/1248671-gridfinity-calipers#profileId-1270740) | 4-7 | 4 | STL,3MF | 2025-07-19 |
+| [CLACKBin Connector](https://www.printables.com/model/1615179-clackbin-connector-no-magnets-no-problem-gridfinit) | 1x1 | 1 | STL,STEP | 2026-04-01 |
 | [EuroGrid - Merge Gridfinity & EuroBoxes](https://www.printables.com/model/1631505-eurogrid-merge-gridfinity-euroboxes-for-next-level) | - | - | STL | 2026-04-01 |
 | [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
