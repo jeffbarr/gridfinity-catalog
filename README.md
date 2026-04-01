@@ -49,6 +49,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1-10x10 | 22 | CadQuery | 2022-06-12 |
+| [Baseplates with Handle](https://www.printables.com/model/1624252-gridfinity-baseplates-with-handle) | 2x5-4x5 | 4 | STL,FCSTD | 2026-04-01 |
 | [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 130 | STL,F360,STP | 2023-03-30 |
 | [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
 | [Bisley 10 Drawer Gridfinity Base](https://www.printables.com/model/1297104-bisley-10-drawer-gridfinity-base) | 5x8 | 1 | STL | 2025-05-18 |
@@ -59,6 +60,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [ClickFinity Baseplate - No Magnets](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp) | 1x1 - 7x7 | 49 | STL,F3D | 2023-05-16 | 
 | [Clickfinity Refined Baseplate](https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
+| [Costco Iris Plastic Storage Tote Bin](https://www.thingiverse.com/thing:7305440) | 5x7 | 1 | STL | 2026-04-01 |
 | [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
 | [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
 | [Design Thickness Guide](https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set#profileId-917678) | 1x2 | 1 | STL,3MF | 2025-04-22 |
@@ -412,6 +414,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Tinkercad Blanks](https://www.tinkercad.com/things/0e6jUnl4tIr) | Varies | 8 | Tinkercad | 2022-07-25 |
 | [Tool Holder Collection](https://www.printables.com/model/914533-gridfinity-tool-holder-collection-2nd-includes-tra) | 1x5,2x4,4x6 | 6 | AMF,FreeCAD | 2024-07-11 |
 | [Toolbox Organizer (Ratchets and Sockets)](https://www.printables.com/model/690102-gridfinity-tool-box-organization-ratchets-and-sock) | 1x2-2x3 | 8 | 3MF | 2023-12-26 |
+| [Tray for 0-1" Mitutoyo Micrometer](https://makerworld.com/en/models/2474784-gridfinity-1x3-tray-for-0-1-mitutoyo-micrometer#profileId-2717469) | 1x3 | 1 | STL,3MF | 2026-04-01 |
 | [Tweezers Box - Optimized](https://www.printables.com/model/750357-gridfinity-tweezers-box-optimized) | 10x4 | 1 | STP,STL | 2024-04-01 |
 | [Ultimate Battery Holder (AA, AAA, AAAA, 2032, LR44, A97, 18650, 9v)](https://thangs.com/designer/Michael%20Fuchs/3d-model/Gridfinity%25203x5%2520Ultimate%2520Battery%2520Holder%2520%28AA%252C%2520AAA%252C%2520AAAA%252C%25202032%252C%2520LR44%252C%2520A97%252C%252018650%252C%25209v%29-62533) | 3x5 | 1 | STL | 2022-07-25 |
 | [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) | 1x1 | 1 | STL | 2022-06-12 |
@@ -485,6 +488,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Binfinity Mk2 for 8u Gridfinity Bins](https://makerworld.com/en/models/1388935-binfinity-mk2-for-8u-gridfinity-bins#profileId-1438873) | 2x4 | 1 | STL,3MF | 2025-05-09 |
 | [Calipers](https://makerworld.com/en/models/1248671-gridfinity-calipers#profileId-1270740) | 4-7 | 4 | STL,3MF | 2025-07-19 |
+| [EuroGrid - Merge Gridfinity & EuroBoxes](https://www.printables.com/model/1631505-eurogrid-merge-gridfinity-euroboxes-for-next-level) | - | - | STL | 2026-04-01 |
 | [Gridfinity Legs](https://www.printables.com/model/729485-gridfinity-legs) | 1x1 | 10 | STL | 2024-01-21 |
 | [Gridfinity Carousel](https://www.printables.com/model/698402-gridfinity-carousel) | 1x5 | 1 | STL | 2024-01-09 |
 | [Gridfinity Carousel, Motorized](https://www.printables.com/model/897707-gridfinity-carousel-motorized) | 1x5 | 1 | STL | 2024-06-03 |
