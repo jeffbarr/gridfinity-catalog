@@ -25,7 +25,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 # Contents
 - [Baseplates](#baseplates)
-- [Bins / Blocks](#blocks)
+- [Bins / Blocks](#binsblocks)
 - [Lids for bins](#lids-for-bins)
 - [Dashboard](#dashboard)
 - [Adapters](#adapters)
