@@ -42,6 +42,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+
+| [A1 Printer Attachment System](https://makerworld.com/en/models/2412696-a1-printer-gridfinity-attachment-system#profileId-2645439) | 2x5-4x5 | 3 | STL,3MF | 2025-04-01 |
 | [Alex Drawer Tray Grid](https://www.printables.com/model/1552099-gridfinity-alex-drawer-tray-grid-economic-variant) | 3x4 | 1 | STL | 2026-01-26 |
 | [Angled Plate](https://www.printables.com/model/1250441-gridfinity-angled-plate) | 2x4 | 1 | STL | 2025-05-18 |
 | [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
@@ -398,6 +400,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Storage Bin for Foam-Backed Sanding Sticks](https://www.printables.com/model/1359155-storage-bins-for-foam-backed-sanding-sticks-gridfi) | 3x4 | 2 | STL | 2025-07-23 |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | 2022-07-19 |
 | [Superglue Bottle Holder](https://www.printables.com/model/177516-gridfinity-box-for-superglue-bottles) | 1x1,3x3 | 2 | STL | 2022-07-19 |
+| [Super Lube Grease Tube Holder](https://makerworld.com/en/models/2348650-super-lube-grease-tube-holder-gridfinity-1x4) | 1x4 | 1 | STL | 2026-04-01 |
 | [Swinger Trays](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinger%2520Trays-262514) | 2x2 | 1 | STL | 2022-09-26 |
 | [Swinging Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Swinging%2520Drawer-201480) | 3x3 | 2 | STL | 2022-09-04 |
 | [Tabletop (Gaming)](https://www.thingiverse.com/thing:5454853) | 1x1 | 3 | STL | 2022-09-04 |
