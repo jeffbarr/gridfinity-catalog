@@ -549,6 +549,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Carve](https://gridfinity.liorbk.com/) - Carve bins from photos - 2026-03-23.
 * [Gridfinity Layout Tool](https://gridfinitylayouttool.com) - Generate baseplates and lay out drawers - 2026-03-23.
 * [Genie Crate](https://geniecrate.com/) - Share dimensions and generate everything needed to gridfinity your drawer - 2026-03-24.
+* [Spacerless Gridfinity Bin Generator](https://makerworld.com/en/models/2230410-spacerless-gridfinity-bin-generator#profileId-2426632) - Sculpt complex layouts - 2026-04-01.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
