@@ -42,7 +42,6 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
-
 | [A1 Printer Attachment System](https://makerworld.com/en/models/2412696-a1-printer-gridfinity-attachment-system#profileId-2645439) | 2x5-4x5 | 3 | STL,3MF | 2025-04-01 |
 | [Alex Drawer Tray Grid](https://www.printables.com/model/1552099-gridfinity-alex-drawer-tray-grid-economic-variant) | 3x4 | 1 | STL | 2026-01-26 |
 | [Angled Plate](https://www.printables.com/model/1250441-gridfinity-angled-plate) | 2x4 | 1 | STL | 2025-05-18 |
