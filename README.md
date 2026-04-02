@@ -249,6 +249,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [GoPro Holder](https://thangs.com/designer/martinwew/3d-model/Gridfinity%202x1%20gopro%20holder.STL-313028) | 1x2 | 1 | STL | 2022-09-04 |
+| [Granola Bar Storage](https://makerworld.com/en/models/1918340-gridfinity-2x3x10-granola-bar-storage#profileId-2058167) | 2x3 | 1 | STL,3MF | 20026-04-02 |
 | [GRoG - the Gridfinity openGrid Stand](https://makerworld.com/en/models/2462959-grog-the-gridfinity-opengrid-stand#profileId-2703739) | 2x2 | 1 | STL,3MF | 2026-03-01 |
 | [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1-0.5x3 | 10 | STL | 2022-09-19 |
 | [Hand Model](https://makerworld.com/en/models/526661-gridfinity-hand#profileId-1937043) | 2x2 | 1 | STL,3MF | 2025-09-27 |
@@ -338,6 +339,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [(Modified) Pliers Rack](https://github.com/nerpatech/gridfinity-pliers-rack/tree/dev-local) | 2x2 - 2x4 | 2 | AMF | 2023-10-07 |
 | [Pliers Stand](https://makerworld.com/en/models/1487921-gridfinity-pliers-stand#profileId-1554792) | 2x2 | 1 | STL,3MF | 2025-06-05 |
 | [Nippers, Pliers,Strippers Rack](https://www.printables.com/model/994578-gridfinity-nippers-pliers-strippers-rack-2x2) | 2x2 | 3 | STL,F3D | 2025-07-29 |
+| [Odd Tool Storage](https://makerworld.com/en/models/2106246-gridfinity-6x3x7-long-slots-odd-tool-storage) | 6x3 | 1 | STL,3MF | 2026-04-02 |
 | [Posca Marker Holder](https://www.printables.com/model/811375-posca-marker-holder-for-gridfinity) | 2x2-2x3 | 1 | STL | 2024-03-19 | 
 | [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
 | [Prusa Pliers and Flat Cuts](https://www.printables.com/model/240253) | 1x1 | 1 | 3MF + STL | 2022-09-04 |
@@ -394,6 +396,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Stackable Shipping Container](https://makerworld.com/en/models/540866#profileId-458375) | 1x2 | 1 | STL | 2024-07-19 |
 | [Stackable Storage Basket](https://www.printables.com/model/1335756-stackable-gridfinity-storage-basket-parametric) | 2x2-5x5 | 162 | STL,3MF,OpenSCAD | 2025-07-09 |
 | [Stackable Sunglasses Organizer with Modular Dividers](https://makerworld.com/en/models/1518074-gridfinity-sunglasses-organizer-w-modular-divider#profileId-1590639) | 4x4,6x4 | 4 |3MF,STL | 2025-06-18 |
+| [Stackable Pen and Paper Tray](https://makerworld.com/en/models/2108904-gridfinity-stackable-pen-paper-trays) | 3x4 | 1 | STL,3MF | 2026-04-02 |
 | [Starbond CA Glue Variety Pack](https://www.printables.com/model/280137-starbond-ca-glue-variety-pack-holder-3-2oz-bottles) | 2x3 | 1 | STL | 2022-09-21 |
 | [Stanley Fatmax 6' Tape Measure](https://www.printables.com/model/1191042-gridfinity-bin-for-stanley-fatmax-6-tape-measure) | 2x2 | 1 | STL | 2025-02-23 | 
 | [Sticky Note Holder](https://thangs.com/designer/Robot_taco_sauce/3d-model/Gridfinity%2520sticky%2520note%2520holder.stl-194948) | 2x2 | 1 | STL | 2022-09-04 |
@@ -433,6 +436,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Vintage Camera Lens Storage](https://makerworld.com/en/models/2560443-gridfinity-vintage-lens-storage) | 1x2,2x2 | 8 | STL,3MF | 2026-03-30 |
 | [Watch Band Bin](https://www.reddit.com/r/gridfinity/comments/18etpfi/watch_band_bin_3x1_vase_mode/) | 3x1 | 1 | F3D,3MF,GCODE | 2023-12-26 |
 | [Watch Band Holder](https://www.printables.com/model/268905-gridfinity-watch-band-holder) | 2x3 | 1 | STL | 2022-09-06 |
+| [Wera Advent Calendar 2025](https://www.printables.com/model/1660212-gridfinity-for-wera-advent-calendar-2025) | 5x6 | 2 | STL,3MF | 2026-04-02 |
 | [Wera Imperial 950 Allen Key Holder](https://www.printables.com/model/407463-gridfinity-wera-imperial-9509-hex-plus-2-inches/files) | 4x7 | 1 | STL | 2023-03-15 |
 | [Wera Metric 950 Allen Key Holder](https://www.printables.com/model/407467-gridfinity-wera-metric-950-spkl9-sm-hf) | 4x7 | 1 | STL | 2023-03-15 |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
