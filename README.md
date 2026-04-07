@@ -172,6 +172,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
 | [Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
 | [Bowls](https://www.printables.com/model/447389-gridfinity-bowls) | 1x1,1x2,1x4,2x2 | 4 | STL | 2023-04-09 |
+| [Bosch Professional 5M Tape Measure](https://www.printables.com/model/1655644-gridfinity-bosch-professional-5m-tape-measure) | 2.5x2.5 | 4 | STL,3MF | 2026-04-07 |
 | [Breadboard Holders](https://www.printables.com/model/248418) | 1x2,2x2,2x4 | 3 | F3D + STL | 2022-09-04 |
 | [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4-4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
 | [Bristol Stool Scale](https://makerworld.com/en/models/1822916-gridfinity-bristol-stool-scale-5x2#profileId-1945906)) | 2x5 | 1 | STL,3MF | 2025-09-27 |
@@ -533,6 +534,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity Master Collection](https://www.printables.com/model/242711-gridfinity-master-collection) | 1x1-7x7 | 633 | STL,OpenSCAD | 2024-03-21 |
 | [Under Desk Drawer Modular](https://makerworld.com/en/models/2414551-under-desk-drawer-modular-push-lock-gridfinity#profileId-2647661) | 4x3 | 1 | 3MF,STL | 2026-02-18 |
 | [WAVEGRID - Parametric Gridfinity Tray & Bin System](https://makerworld.com/en/models/2408252-parametric-gridfinity-tray-bin-system#profileId-2640230) | 1x1-8x8 | Many | 3MF,F3D | 2026-03-17 |
+| [Portable Solder Station](https://www.printables.com/model/1666691-gridfinity-portable-solder-station) | 4x5 | 1 | STL | 2026-04-07 |
 
 # Online Generators
 
