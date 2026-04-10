@@ -191,6 +191,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Case for Scalpels](https://www.printables.com/model/241400) | 4x2 | 1 | F3D,STL | 2022-09-04 |
 | Celtic Knot Bin | 1x1 ([std](https://social.thangs.com/m/733950), [ext](https://social.thangs.com/m/733951)), 1x2 ([std](https://social.thangs.com/m/733953), [ext](https://social.thangs.com/m/733956)), 2x2 ([std](https://social.thangs.com/m/733962), [ext](https://social.thangs.com/m/733965)) | 1 | STL | 2023-03-15 |
 | [Chalk Holder](https://thangs.com/designer/doubleyuhtee/3d-model/Gridfinity%25201x1%2520chalk%2520holder-65847) | 1x1 | 1 | STL | 2022-09-04 |
+| [Chalk Pastel Stackable Organizer](https://makerworld.com/en/models/2623598-3x2-chalk-pastel-stackable-organizer?appSharePlatform=copy#profileId-2896090) | 3x2 | 1 | STL,3MF | 2026-04-10 |
 | [Chisel Holder](https://thangs.com/designer/pussyNugget/3d-model/Gridfinity%2520Chisel%2520Holder.stl-67081) | 4x7 | 1 | STL | 2022-09-04 |
 | [Cisco WIC Card Holder](https://www.reddit.com/r/gridfinity/comments/1l2qwrj/gridfinity_organizer_for_cisco_router_wic_cards/) | 2x2,2x4 | 2 | STL | 2025-06-02 |
 | [Cigfinity Pack Dispenser](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Cigfinity%20Pack%20Dispenser-212826) | 3x2 | 2 | STL | 2022-09-04 |
@@ -357,13 +358,15 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Reinforced Economical Bins](https://www.printables.com/model/538275-more-reinforced-economical-gridfinity-bins) | 0.5x0.5-7x7 | 1185 | 3MF | 2022-08-26 |
 | [RJ45 / 8P8C Crimp Tool Holder](https://makerworld.com/en/models/1305520-gridfinity-rj45-8p8c-crimp-tool-holder-2x5) | 5x2 | 1 | STL,3ML | 2025-04-10 |
 | [Roller Door Bin Collection](https://makerworld.com/en/models/1507224-roller-door-gridfinity-bin-collection#profileId-1577549) | 1x1-3x2 | 12 | STL,3MF | 2025-07-19 |
-| [Ryobi Quick Change Hobby Knife](https://www.printables.com/model/748779-ryobi-quick-change-hobby-knife-kit-rhckp04-gridfin) | 1x1 | 2 | STL,STP,F3D | 2024-02-07 |
 | [Rugged Bin Collection](https://makerworld.com/en/models/946361-rugged-bin-collection-gridfinity-bins#profileId-926362) |  1x2-4x6 | 56 | STL,3MF | 2026-04-03 |
 | [Rugged Drawer System - Gridfinity Activated](https://makerworld.com/en/models/810461#profileId-751683) | 2x4, 3x5 | 6 | STL,3Mf | 2024-11-23 |
 | [Rugged Gridfinity Desk Organizer XL](https://thangs.com/designer/K2_Kevin/3d-model/Rugged%20Organizer%20XL%20-%20Gridfinity%202x4%20%26%202x5-1157447) | 2x4, 2x5 | 2 | STL,STP,OBJ,FBX | 2024-10-18 | 
 | [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) | 1x2 | 1 | STL |  2022-07-11 |
 | [Ruler Holder](https://thangs.com/designer/atrimbletlr/3d-model/Gridfinity%2520Ruler%2520Holder-74621) | 1x1 | 1 | STL | 2022-09-04 |
 | [Ruler Holder](https://www.printables.com/model/1639600-gridfinity-ruler-holder) | 1x1 | 5 | STL | 2026-03-16 |
+| [Ryobi Quick Change Hobby Knife](https://www.printables.com/model/748779-ryobi-quick-change-hobby-knife-kit-rhckp04-gridfin) | 1x1 | 2 | STL,STP,F3D | 2024-02-07 |
+| [Ryobi USB Lithium LED Pivoting Laser](https://www.printables.com/model/1679124-ryobi-gridfinity-bin-usb-lithium-led-pivoting-lase) | 1x5 | 1 | STL,3MF | 2026-04-10 |
+| [Ryobi USB Lithium Screwdriver](https://www.printables.com/model/1660652-ryobi-gridfinity-bin-usb-lithium-screwdriver) |  2x6 | 1 | STL,3MF | 2026-04-10 |
 | [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack) | 1x2 | 1 | STL | 2022-07-08 |
 | [Screw Measure Tool](https://www.printables.com/model/276983-gridfinity-screw-measure-tool-1x1-mini-edition) | 1x1 | 1 | STL | 2024-02-14 |
 | [Serum Holders](https://makerworld.com/en/models/1511397-gridfinity-serum-holders#profileId-1582563) | 2x3 | 4 | STL,3MF | 2025-06-25 |
