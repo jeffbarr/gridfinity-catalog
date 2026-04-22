@@ -544,6 +544,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Schubox Storage Box V2](https://makerworld.com/en/models/2359984-gridfinity-storage-box-v2-5x4#profileId-2582008) | 5x4 | 1 | STL | 2026-04-21 |
 | [Schubox Storage Box V2](https://makerworld.com/en/models/2472040-schubox-v2-5x5#profileId-2714271) | 5x5 | 1 | STL | 2026-04-21 |
 | [Schubox Storage Box V2](https://makerworld.com/en/models/2488518-gridfinity-storage-box-schubox-v2-large-7x6#profileId-2734255) | 7x6 | 1 | STL | 2026-04-21 |
+| [Clip Persuader](https://makerworld.com/en/models/2668066-gridfinity-clip-persuader#profileId-2952698) | - | - | 2026-04-22 |
 
 # Online Generators
 
@@ -630,6 +631,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [ToolTrace.AI and Gridfinity - a match made in heaven](https://www.youtube.com/shorts/Z7xWVKxYvZ4) - 2026-03-17.
 * [Sandisk Drive Bin for IKEA ALEX Drawers](https://www.youtube.com/shorts/XSiztUP2K8M) - 2026-03-17.
 * [Xtool F2 & Gridfinity FTW!!](https://www.youtube.com/shorts/Te3UbtmLXSM) - 2026-03-24.
+* [Gridfinity Revisited - fasteners and small parts organization solutions](https://www.youtube.com/watch?v=lDtDploScb8) - 2026-04-22.
 
 # Other Collections
 
