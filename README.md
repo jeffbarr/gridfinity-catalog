@@ -541,6 +541,9 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Under Desk Drawer Modular](https://makerworld.com/en/models/2414551-under-desk-drawer-modular-push-lock-gridfinity#profileId-2647661) | 4x3 | 1 | 3MF,STL | 2026-02-18 |
 | [WAVEGRID - Parametric Gridfinity Tray & Bin System](https://makerworld.com/en/models/2408252-parametric-gridfinity-tray-bin-system#profileId-2640230) | 1x1-8x8 | Many | 3MF,F3D | 2026-03-17 |
 | [Portable Solder Station](https://www.printables.com/model/1666691-gridfinity-portable-solder-station) | 4x5 | 1 | STL | 2026-04-07 |
+| [Schubox Storage Box V2](https://makerworld.com/en/models/2359984-gridfinity-storage-box-v2-5x4#profileId-2582008) | 5x4 | 1 | STL | 2026-04-21 |
+| [Schubox Storage Box V2](https://makerworld.com/en/models/2472040-schubox-v2-5x5#profileId-2714271) | 5x5 | 1 | STL | 2026-04-21 |
+| [Schubox Storage Box V2](https://makerworld.com/en/models/2488518-gridfinity-storage-box-schubox-v2-large-7x6#profileId-2734255) | 7x6 | 1 | STL | 2026-04-21 |
 
 # Online Generators
 
