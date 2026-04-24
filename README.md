@@ -123,6 +123,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [1/4" Drive Long Socket with Magnetic Base](https://www.printables.com/model/682454-gridfinity-14-drive-long-socket-with-magnetic-base) | 2x2 | 1 | STP | 2023-12-26 |
 | [18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
 | [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 | 1 | STL | 2022-09-26 |
+| [3/8" Drive - Emergency 10mm Socket](https://makerworld.com/en/models/2352596-3-8-drive-emergency-10mm-socket-gridfinity) | 1 | STL,3MF | 2026-04-24 | 
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | 2022-06-16 | 
 | [8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL,F3D | 2022-07-25 |
 | [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | 2022-07-01 | 
@@ -213,6 +214,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Craftsman Screwdriver Holder](https://www.printables.com/model/685801-gridfinity-craftsman-screwdriver-holder) | 7x9 | 1 | STL,3MF | 2025-05-05 |
 | [Creality K2 Plus Combo Toolbox Foam Insert Adapter](https://thangs.com/designer/myokeeh/3d-model/Creality%20K2%20Plus%20Combo%20Toolbox%20Foam%20Insert%20Gridfinity%20Adapter-1360427) | 2x3 | 1 | 3LF | 2025-06-18 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
+| [Customizable Long Tool Organizer](https://makerworld.com/en/models/2707046-customizable-gridfinity-long-tool-organizer#profileId-2999598) | 1x2 | 2 | STL,OpenSCAD | 2026-04-24 |
 | [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
 | [Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
@@ -353,6 +355,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Raspberry Pi Pico Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%2520Raspberry%2520Pi%2520Pico%2520Holder.stl-198518) | 2x1 | 1 | STL | 2022-09-04 |
 | [Raspberry Pi Zero Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%2520Raspberry%2520Pi%2520Zero%2520Holder.stl-198515) | 2x1 | 1 | STL | 2022-09-04 |
 | [Ratchet Holder](https://www.printables.com/model/282674-gridfinity-ratchet-holder-1x4) | 1x4 | 1 | STL | 2022-09-26 |
+| [Ratchet Holders](https://makerworld.com/en/models/2699516-gridfinity-ratchet-holders) |  2x3,2x4 | 3 | STL,STP | 2026-04-23 |
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-07-11 |
 | [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
 | [Reinforced Economical Bins](https://www.printables.com/model/538275-more-reinforced-economical-gridfinity-bins) | 0.5x0.5-7x7 | 1185 | 3MF | 2022-08-26 |
