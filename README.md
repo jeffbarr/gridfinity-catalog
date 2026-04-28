@@ -575,11 +575,14 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Layout Tool](https://gridfinitylayouttool.com) - Generate baseplates and lay out drawers - 2026-03-23.
 * [Genie Crate](https://geniecrate.com/) - Share dimensions and generate everything needed to gridfinity your drawer - 2026-03-24.
 * [Spacerless Gridfinity Bin Generator](https://makerworld.com/en/models/2230410-spacerless-gridfinity-bin-generator#profileId-2426632) - Sculpt complex layouts - 2026-04-01.
+* [GridPreview](https://www.gridpreview.app/) - Configure a Gridfinity grid right in the browser - 2026-04-28.
+* [GridCrate](https://makerworld.com/en/models/2716394-gridcrate-parametric-gridfinity-basket#profileId-3008498) - fully parametric basket - 2026-04-28.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
 * [Fusion Gridfinity Generator](https://github.com/Le0Michine/FusionGridfinityGenerator) - Fusion 360 add-in to generate bins and baseplates.
 * [Fusion Gridfinity Generator Mod](https://github.com/jonmooreai/fusion-gridfinity-mod) - Generate baseplate from draws dimensions.
+
 
 # Articles
 
