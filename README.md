@@ -129,6 +129,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | 2022-07-01 | 
 | [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) | 1x2 | 1 | STL | 2022-06-12 |
 | [AAA Battery Container](https://www.printables.com/model/219701-gridfinity-aaa-battery-containers) | 1x1, 1x2 | 2 | STL | 2022-07-01 |
+| [AA/AAA Battery Organizer](https://makerworld.com/en/models/2316725-aa-aaa-battery-organizer-gridfinity-version#profileId-2529803) |  1x3,1x4,2x4 | 4 | STL,3MF | 2026-05-06 |
 | [Acrylic Paint Holder](https://www.printables.com/model/245563-gridfinity-acrylic-paint-holder) | 1x3 | 1 | STL | 2022-07-21 |
 | [Adjustable Jumper Wire Comb](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Adjustable%2520Jumper%2520Wire%2520Comb-174402) | 1x1 | 2 | STL | 2022-07-25 |
 | [Adjustable Light](https://www.printables.com/en/model/273727-adjustable-light) | 2x2 | 1 | STL | 2023-01-06 |
@@ -178,6 +179,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Breadboard Holders](https://www.printables.com/model/248418) | 1x2,2x2,2x4 | 3 | F3D + STL | 2022-09-04 |
 | [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4-4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
 | [Bristol Stool Scale](https://makerworld.com/en/models/1822916-gridfinity-bristol-stool-scale-5x2#profileId-1945906)) | 2x5 | 1 | STL,3MF | 2025-09-27 |
+| [Brother P-Touch Tape Holder](https://www.printables.com/model/1708863-brother-p-touch-tze-gridfinity-tape-holder-6-24mm) | 3x3,3x4,3x5 | 3 | STL,STP,F3D | 2026-05-06 |
 | [Build Plate Cleaner Microfiber Holder Adapter](https://www.printables.com/model/1347300-gridfinity-build-plate-cleaner-microfiber-holder-a) | 2x2 | 1 | STL | 2025-07-07 |
 | [Bulk Battery Holder](https://makerworld.com/en/models/1563857-gridfinity-bulk-battery-holder-aa-aaa-9v#profileId-1643779) | 3x5 | 1 |  STL,3MF | 2025-07-27 |
 | [Cable Organizing Boxes](https://makerworld.com/en/models/510993#profileId-427092) | 2x1-2x6 | 12 | STL,3MF | 2024-10-28 |
@@ -205,6 +207,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Collet Holder for CNC](https://www.printables.com/model/175705-gridfinity-collet-holder-cnc) | 2x2, 2x3 | 2 | STL | 2022-07-19 |
 | [Complete Kitchen Collection (w/Modular Expansion Pieces)](https://makerworld.com/en/models/148636#profileId-201393) | 1x2 - 2x6 | 13 | STL,3MF | 2024-12-18 |
 | [Condom Dispenser](https://www.printables.com/model/269273-condom-dispenser) | 2x2 | 1 | STL | 2024-01-27 |
+| [Controller Stand](https://www.printables.com/model/1210233-the-gridfinity-controller-stand) | 2x4 | 5 | STL | 2026-05-06 |
 | [Corrugated Bin](https://www.printables.com/model/1621031-corrugated-gridfinity-bin-with-snap-in-dividers-pr/files) | 2x2 | 1 | STL,STP,F3Z | 2026-03-01 |
 | [CR Battery Organizer](https://makerworld.com/en/models/2497702-cr-battery-organizer-gridfinity-version#profileId-2745369) | 1x4,2x4 | 2 | STL,3MF | 2024-03-16 |
 | [CR12xx Coin Battery Storage](https://makerworld.com/en/models/1516518-cr12xx-coin-battery-storage-for-gridfinity#profileId-1588681) | 1x1, 1x3 | 9 | STL,3MF | 2025-06-18 |
@@ -309,6 +312,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [M6 Washer Holder](https://thangs.com/designer/Jonathan%2520Anderson/3d-model/Gridfinity%2520-%2520M6%2520washer%2520holder-65094) | 1x1 | 1 | F3D + STL | 2022-09-04 |
 | [MicroSD combo bin](https://www.printables.com/model/556136-gridfinity-1x1x3-combo-bin-and-micro-sd-card-holde) | 1x1 | 1 | STL | 2024-02-14 |
 | [Milk Crate Box + Base](https://makerworld.com/en/models/483020) | 1x1 | 3 | STL | 2024-06-03 |
+| [Milwaukee M12 Battery Flip Holder](https://makerworld.com/en/models/2707149-milwaukee-m12-battery-flip-holder-gridfinity#profileId-2999628) | 2x3 | 1 | STL,3MF | 2026-06-05 |
 | [Minifig Display Base](https://www.printables.com/model/284008-gridfinity-minifig-display-base) | 1x1, 3x4 | 2 | STL, STEP | 2023-01-09 |
 | [Minifinity Bin Collection](https://www.printables.com/model/247815-gridfinity-minifinity-bin-collection) | 1x1-4x2 | 9 | STL | 2022-07-29 |
 | [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 | STL | 2022-07-25 |
