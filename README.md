@@ -581,6 +581,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Spacerless Gridfinity Bin Generator](https://makerworld.com/en/models/2230410-spacerless-gridfinity-bin-generator#profileId-2426632) - Sculpt complex layouts - 2026-04-01.
 * [GridPreview](https://www.gridpreview.app/) - Configure a Gridfinity grid right in the browser - 2026-04-28.
 * [GridCrate](https://makerworld.com/en/models/2716394-gridcrate-parametric-gridfinity-basket#profileId-3008498) - fully parametric basket - 2026-04-28.
+* [Binforge](https://binforge.app/) - Design any part of Gridfinity - 2026-05-06. 
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
