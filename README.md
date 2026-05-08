@@ -155,6 +155,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Battery Holders (AGxx), Stackable](https://www.printables.com/model/442231-agx-button-cell-battery-holders-gridfinity-stackab) | 1x1-2x2 | Many | STL | 2024-02-14 |
 | [Battery Holders (CRxxxx), Stackable](https://www.printables.com/model/442365-crxxxx-button-cell-battery-holders-gridfinity-stac) | 1x1-2x2 | Many | STL | 2024-02-14 |
 | [Battery Holders (LRx), Stackable](https://www.printables.com/model/442274-lrxx-button-cell-battery-holders-gridfinity-stacka) | 1x1-2x2 | Many | STL | 2024-02-14 |
+| [Beard Club PT45 Trimmer & Guards](https://makerworld.com/en/models/2767486-beard-club-pt45-trimmer-guards-gridfinity-bin#profileId-3073437) | 4x5 | 1 | STL,3MF | 2026-05-08 |
+| [Beard Club T-Blade Beard Edger](https://makerworld.com/en/models/2751943-beard-club-t-blade-beard-edger-gridfinity-bin#profileId-3053435) | 2x5 | 1 | STL,3MF | 2026-05-08 |
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 1x4-5x5 | 36 | STL | 2022-06-25 |
 | [Binfinity Modular Bin System](https://makerworld.com/en/models/2294784-binfinity-modular-gridfinity-bin-system#profileId-2504193) | 1x1-6x5 | 560 | STL,3MF | 2026-01-25 |
 | [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 1508 | STL,F360,STP | 2023-03-30 |
@@ -313,6 +315,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [MicroSD combo bin](https://www.printables.com/model/556136-gridfinity-1x1x3-combo-bin-and-micro-sd-card-holde) | 1x1 | 1 | STL | 2024-02-14 |
 | [Milk Crate Box + Base](https://makerworld.com/en/models/483020) | 1x1 | 3 | STL | 2024-06-03 |
 | [Milwaukee M12 Battery Flip Holder](https://makerworld.com/en/models/2707149-milwaukee-m12-battery-flip-holder-gridfinity#profileId-2999628) | 2x3 | 1 | STL,3MF | 2026-06-05 |
+| [Milwaukee Wire Stripper](https://makerworld.com/en/models/2689838-milwaukee-wire-stripper-and-cutter-48-22-3081#profileId-2980260) | 2x5 | 3 | STL,3MF | 2026-05-06 |
 | [Minifig Display Base](https://www.printables.com/model/284008-gridfinity-minifig-display-base) | 1x1, 3x4 | 2 | STL, STEP | 2023-01-09 |
 | [Minifinity Bin Collection](https://www.printables.com/model/247815-gridfinity-minifinity-bin-collection) | 1x1-4x2 | 9 | STL | 2022-07-29 |
 | [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 | STL | 2022-07-25 |
