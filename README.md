@@ -219,6 +219,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Craftsman Screwdriver Holder](https://www.printables.com/model/685801-gridfinity-craftsman-screwdriver-holder) | 7x9 | 1 | STL,3MF | 2025-05-05 |
 | [Creality K2 Plus Combo Toolbox Foam Insert Adapter](https://thangs.com/designer/myokeeh/3d-model/Creality%20K2%20Plus%20Combo%20Toolbox%20Foam%20Insert%20Gridfinity%20Adapter-1360427) | 2x3 | 1 | 3LF | 2025-06-18 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
+| [Customizable Airpods Organizer](https://makerworld.com/en/models/2700231-customizable-airpods-gridfinity-organizer#profileId-2993304) | 2x2 | 1 | STL,3MF | 2026-05-11 | 
 | [Customizable Long Tool Organizer](https://makerworld.com/en/models/2707046-customizable-gridfinity-long-tool-organizer#profileId-2999598) | 1x2 | 2 | STL,OpenSCAD | 2026-04-24 |
 | [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
@@ -356,6 +357,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Posca Marker Holder](https://www.printables.com/model/811375-posca-marker-holder-for-gridfinity) | 2x2-2x3 | 1 | STL | 2024-03-19 | 
 | [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
 | [Prusa Pliers and Flat Cuts](https://www.printables.com/model/240253) | 1x1 | 1 | 3MF + STL | 2022-09-04 |
+| [Prusa Wrenches](https://www.printables.com/model/1699375-gridfinity-bins-for-prusa-wrenches) | 1x3 | 4 | STL | 2026-05-11 |
 | [PSI Pen Chuck Jaw](https://makerworld.com/en/models/2068403-gridfinity-holder-for-psi-pen-chuck-jaw-pn-cjawpen#profileId-2233782) | 2x2 | 1 | STL,3MF | 2026-02-24 |
 | [Radius Measuring Set](https://www.printables.com/model/1258992-gridfinity-radius-measuring-set-2mm-20mm) | 1x2 | 1 | STL | 2025-04-22 | 
 | [Raspberry Pi Case](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Raspberry%2520Pi%2520Case-61718) | 2x2 | 1 | STL | 2022-07-25 |
