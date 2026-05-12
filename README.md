@@ -96,6 +96,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1-5x5 | 20 | 3MF,F3D,STEP | 2023-01-09 |
 | [Stackable 1/2" Dowel Shelves](https://www.printables.com/model/1571492-stackable-12-dowel-shelves-gridfinity-compatible) | 1x6 | 1 | STL | 2026-01-26 |
 | [Stackable Modular Baseplates](https://www.printables.com/model/373752-gridfinity-stackable-modular-baseplates) | 1x1-7x7 | 56 | STK | 2025-12-21 |
+| [Stackable Gridfinity Wire Spool Holder Set](https://makerworld.com/en/models/1549279-stackable-gridfinity-wire-spool-holder-set#profileId-1627100) | 1x4,2x2,2x4 | 14 | 3MF | 2026-05-12 |
 | [Subdivide Base Plates](https://makerworld.com/en/models/1365928-gridfinity-subdivide-base-plates#profileId-1411605) | 1x1-6x6 | 11 | STL,3MF | 2025-07-19 |
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3-5x5 | 14 | STL | 2023-10-07 |
 | [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1-7x7 | 13 | STL | 2022-06-12 | 28 | 
