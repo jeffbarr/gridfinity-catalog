@@ -606,12 +606,11 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Organize Your Messy Workspaces and Drawers with Gridfinity! Hastag #Gridfinity](https://www.youtube.com/watch?v=ZhIF1O4_aj0), 2022-07-04.
 * [A Quick Look at Gridfinity](https://www.youtube.com/watch?v=jJNx9FWgSM0), 2022-07-04.
 * [Revenge Of The 5th | Gridfinity Enclosure Imperial Inspired](https://www.youtube.com/watch?v=Vo-mQe38-Bk), 2022-07-04.
-* [3D Printing Your New Workshop Organization System](https://www.youtube.com/watch?v=KtbKwAuwv9s), 2022-09-08.
+* [Gridfinity Tips: 3D Printing Your New Workshop Organization System](https://www.youtube.com/watch?v=KtbKwAuwv9s), 2022-09-08.
 * [To Gridfinity and Beyond - Decluttering my Workshop with Gridfinity](https://www.youtube.com/watch?v=hTjcp_R7Bbg) - 2022-09-11.
 * [Overkill Gridfinity Baseplate](https://www.youtube.com/watch?v=EWTE9uL3jnQ) - 2022-10-27.
 * [Store Anything Anywhere with Gridfinity! 20+ Weird Printable Organizers by Makers Like You!](https://www.youtube.com/watch?v=7FCwMq-rVsY) - 2022-12-06.
 * [My TOP 3D Printed Organization Systems](https://www.youtube.com/watch?v=kN8-9mgatTo) - 2023-03-20.
-* [Gridfinity Tips: 3D Printing Your New Workshop Organization System](https://www.youtube.com/watch?v=KtbKwAuwv9s) - 2023-03-20.
 * [Spiralized Gridfinity Bins](https://www.youtube.com/watch?v=kjh1qQ6FsXY) - 2023-03-21.
 * [Gridfinity is Parameteric?](https://www.youtube.com/watch?v=WBBFElrOziI) - 2023-03-21.
 * [Aluminum Gridfinity](https://www.youtube.com/watch?v=OesuCeZICQ4) - 2023-03-21.
@@ -641,7 +640,6 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Fully Automated Gridfinity Storage System](https://www.youtube.com/watch?v=ivigm4jzyUE) - 2026-02-08.
 * [3D Printing Gridfinity Bin Tutorial](https://www.instagram.com/p/DTHK2AZiEAu/) - 2026-02-13.
 * [Who "Invented" Gridfinity?](https://www.youtube.com/watch?v=aiDHXKRxLeQ) - 2026-03-01.
-* [No Measuring! 2 Fast ways to Design Gridfinity Shadow Boxes](https://www.youtube.com/watch?v=fGtTYha84vc) - 2026-03-16.
 * [Gridfinity 2](https://www.youtube.com/watch?v=fUI2k1YA1KE) - 2026-03-16.
 * [Gridfinity Drillbit Bins](https://www.youtube.com/shorts/gA_ME_w8Wps) - 2026-03-16.
 * [ToolTrace.AI and Gridfinity - a match made in heaven](https://www.youtube.com/shorts/Z7xWVKxYvZ4) - 2026-03-17.
