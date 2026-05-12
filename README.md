@@ -656,6 +656,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 * [Gridfinity Library](https://makerworld.com/en/models/1709415-gridfinity-library#profileId-2044294) - 2026-02-23.
 * [Tooltrace Community](https://www.tooltrace.ai/community) - 2026-02-23.
+* [Desk Organizer System - Deskfinity](https://makerworld.com/en/models/826392-gridfinity-desk-organizer-system-deskfinity#profileId-780724) - 2026-05-12.
 
 # Other Resources
 
