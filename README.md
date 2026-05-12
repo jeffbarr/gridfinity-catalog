@@ -648,7 +648,9 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Sandisk Drive Bin for IKEA ALEX Drawers](https://www.youtube.com/shorts/XSiztUP2K8M) - 2026-03-17.
 * [Xtool F2 & Gridfinity FTW!!](https://www.youtube.com/shorts/Te3UbtmLXSM) - 2026-03-24.
 * [Gridfinity Revisited - fasteners and small parts organization solutions](https://www.youtube.com/watch?v=lDtDploScb8) - 2026-04-22.
-* [Top 5 ways to generate Gridfinity models for FREE](https://www.youtube.com/watch?v=e7h4w56yacc) - 2026-05-11. 
+* [Top 5 ways to generate Gridfinity models for FREE](https://www.youtube.com/watch?v=e7h4w56yacc) - 2026-05-11.
+* [Custom Gridfinity Bins for ANYTHING!](https://www.youtube.com/watch?v=_TtkaIe0ZKU) - 2026-05-12.
+* [Make Gridfinity Even Better with Half Sized Containers](https://www.youtube.com/watch?v=9JK4h4ROupU) - 2026-05-12.
 
 # Other Collections
 
