@@ -651,7 +651,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Top 5 ways to generate Gridfinity models for FREE](https://www.youtube.com/watch?v=e7h4w56yacc) - 2026-05-11.
 * [Custom Gridfinity Bins for ANYTHING!](https://www.youtube.com/watch?v=_TtkaIe0ZKU) - 2026-05-12.
 * [Make Gridfinity Even Better with Half Sized Containers](https://www.youtube.com/watch?v=9JK4h4ROupU) - 2026-05-12.
-* [Fusion + Gridfinity: Custom Tool Shadowboxing, Today!](https://www.youtube.com/watch?v=N2C2LFqtCfQ) - 2026-05-12. 
+* [Fusion + Gridfinity: Custom Tool Shadowboxing, Today!](https://www.youtube.com/watch?v=N2C2LFqtCfQ) - 2026-05-12.
+* [6 Lessons learned creating and installing Gridfinity in my toolbox](https://www.youtube.com/watch?v=v8pl9xurgUk) - 2026-05-15.
 
 # Other Collections
 
