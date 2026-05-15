@@ -429,6 +429,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Tabletop (Gaming)](https://www.thingiverse.com/thing:5454853) | 1x1 | 3 | STL | 2022-09-04 |
 | [Tap and Die Bins](https://makerworld.com/en/models/434208#profileId-339020) | 1x3, 2x2 | 9 | STL,3MF | 2024-04-20 |
 | [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | 2022-07-01 | 
+| [Tape Dispenser](https://makerworld.com/en/models/2799162-gridfinity-tape-dispenser#profileId-3113711) | 1x2 | STL,3MF | 2026-05-15 |
 | [Tape Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%203x3%20Tape%20Holder-72448) | 3x3 | 1 | STL | 2022-09-04 |
 | [Tape Stand/Sorter](https://www.printables.com/model/1506848-gridfinity-tape-standsorter) | 4x1,4x2 | 2 | STL | 2025-12-21 |
 | [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
