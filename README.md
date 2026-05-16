@@ -330,6 +330,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Modular Screwdriver Organizer](https://makerworld.com/en/models/1131369#profileId-1132136) | 1x3, 1x.5 | 6 | STP | 2025-02-23 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 | STL | 2022-07-25 |
 | [Needle File Set Holder (Draper 6 Piece Diamond)](https://www.printables.com/model/636437-needle-file-set-holder-gridfinity-4x2-draper-6-pie) | 2x4 | 1 | STL | 2024-01-02 |
+| [Nespresso Vertuo Pod](https://makerworld.com/en/models/2790863-nespresso-vertuo-pod-gridfinity-bin#profileId-3103263) | 5x5 | 1 | STL,3MF | 2026-05-16 |
+
 | [Nikon Z Lens Holder](https://www.printables.com/model/720657-nikon-z-lend-holder-for-gridfinity) | 2x2 | 2 | STL | 2024-01-16 |
 | [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | 2022-06-12 | 
 | [OpenSCAD Templates](https://github.com/kennetek/gridfinity-rebuilt-openscad) | Varies | 2 | OpenSCAD | 2022-09-26 |
@@ -588,7 +590,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Spacerless Gridfinity Bin Generator](https://makerworld.com/en/models/2230410-spacerless-gridfinity-bin-generator#profileId-2426632) - Sculpt complex layouts - 2026-04-01.
 * [GridPreview](https://www.gridpreview.app/) - Configure a Gridfinity grid right in the browser - 2026-04-28.
 * [GridCrate](https://makerworld.com/en/models/2716394-gridcrate-parametric-gridfinity-basket#profileId-3008498) - fully parametric basket - 2026-04-28.
-* [Binforge](https://binforge.app/) - Design any part of Gridfinity - 2026-05-06. 
+* [Binforge](https://binforge.app/) - Design any part of Gridfinity - 2026-05-06.
+* [ExtraBold Tools - Gridfinity Baseplate](https://www.extrabold.tools/gridfinity-baseplate) - Generate a baseplate with configurable grid size and shape - 2026-05-16.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
