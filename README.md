@@ -592,6 +592,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [GridCrate](https://makerworld.com/en/models/2716394-gridcrate-parametric-gridfinity-basket#profileId-3008498) - fully parametric basket - 2026-04-28.
 * [Binforge](https://binforge.app/) - Design any part of Gridfinity - 2026-05-06.
 * [ExtraBold Tools - Gridfinity Baseplate](https://www.extrabold.tools/gridfinity-baseplate) - Generate a baseplate with configurable grid size and shape - 2026-05-16.
+* [GridPilot](https://gridpilot.us/) - Custom Gridfinity trays from a photo of your tools - 2026-05-19.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
