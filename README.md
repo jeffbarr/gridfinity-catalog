@@ -561,6 +561,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Schubox Storage Box V2](https://makerworld.com/en/models/2472040-schubox-v2-5x5#profileId-2714271) | 5x5 | 1 | STL | 2026-04-21 |
 | [Schubox Storage Box V2](https://makerworld.com/en/models/2488518-gridfinity-storage-box-schubox-v2-large-7x6#profileId-2734255) | 7x6 | 1 | STL | 2026-04-21 |
 | [Clip Persuader](https://makerworld.com/en/models/2668066-gridfinity-clip-persuader#profileId-2952698) | - | - | 2026-04-22 |
+| [Gridfinity Bin Compression Mold](https://www.printables.com/model/1723802-gridfinity-bin-compression-mold) | 1x2 | - | 2026-05-20 |
 
 # Online Generators
 
@@ -657,7 +658,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Make Gridfinity Even Better with Half Sized Containers](https://www.youtube.com/watch?v=9JK4h4ROupU) - 2026-05-12.
 * [Fusion + Gridfinity: Custom Tool Shadowboxing, Today!](https://www.youtube.com/watch?v=N2C2LFqtCfQ) - 2026-05-12.
 * [6 Lessons learned creating and installing Gridfinity in my toolbox](https://www.youtube.com/watch?v=v8pl9xurgUk) - 2026-05-15.
-* [This FREE AI Tool Auto-Generates Gridfinity Bins!](https://www.youtube.com/watch?v=e3EhJJlWwws) - 2026-06-20.
+* [This FREE AI Tool Auto-Generates Gridfinity Bins!](https://www.youtube.com/watch?v=e3EhJJlWwws) - 2026-05-20.
+* [How To 3D Print A Compression Mold For Gridfinity Bins](https://www.youtube.com/watch?v=VYrx1LRttOc) - 2026-05-20.
 
 # Other Collections
 
