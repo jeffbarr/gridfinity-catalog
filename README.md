@@ -253,6 +253,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Filled-In Boxes for Customization](https://www.printables.com/model/210548-filled-in-gridfinity-boxes-for-customization) | 1x1-7x7 | 39 | STL | 2023-03-20 |
 | [Flashlight Holders](https://makerworld.com/en/models/1400746-gridfinity-flashlight-holders#profileId-1452634) | 1x1 | 78 | STL,3MF | 2025-05-15 |
 | [Flexbox Versatile Crate](https://www.printables.com/model/1008572-flexbox2-versatile-gridfinity-crate) | 1x2-3x3 | 64 | STL,F3D | 2025-07-07 |
+| [FlexBox2 Bins with Dividers and Labels](https://www.printables.com/model/1008572-flexbox2-gridfinity-bin-with-dividers-and-labels) | 1x1-3x3 | 42 | STL,F3D | 2026-05-21 |
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
 | [Fully Customizable Paint Rack](https://makerworld.com/en/models/2462995-fully-customizable-gridfinity-paint-rack#profileId-2704355) | 4x6 | 1 | STL,SCAD | 2026-03-01 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
