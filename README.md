@@ -306,6 +306,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Lite Ultra Boxes](https://www.printables.com/model/435429-gridfinity-lite-ultra-boxes-improved-version-with-) | 1x1-5x5 | 168 | STL,F3D | 2023-05-16 |
 | [Lithium Button Battery Beast](https://www.printables.com/model/244721-gridfinity-lithium-button-battery-beast) | 1x3 | 1 | STL | 2022-07-20 |
 | [Long n' Tall Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Long%20n'%20Tall%20Drawer-228161) | 1x3 | 2 parts | STL | 2022-09-04 |
+| [Low Profile 6" Caliper Tray](https://makerworld.com/en/models/886372-low-profile-gridfinity-6-caliper-tray#profileId-841695) | 2x6 | 1 | STL,3MF | 2026-05-25 |
+| [Low Profile 6" Caliper Tray v2](https://makerworld.com/en/models/886390-low-profile-gridfinity-6-caliper-tray-v2) | 2x6 | 1 | STL,3LF | 2026-05-25 |
 | [LTT Screwdriver](https://www.printables.com/model/1279926-ltt-screwdriver-gridfinity) | 1x6 | 1 | STL | 2025-05-09 |
 | [Lung Model](https://makerworld.com/en/models/1792163-gridfinity-anatomical-lung-model-multi-color-ams#profileId-1910041) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Macropad](https://makerworld.com/en/models/1772033-gridinity-macropad#profileId-2097539) | 2x2 | 1 | STL,3MF | 2025-11-07 |
@@ -409,6 +411,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Space Efficient Socket Holders](https://www.printables.com/model/1101988-space-efficient-socket-holders-gridfinity) | 2x7 | 29 | STL | 2024-12-10 |
 | [Spade Bit Holder](https://thangs.com/designer/rbarbrow/3d-model/Spade%2520Bit%2520Holder%2520Gridfinity-216505) | 4x3 | 1 | STL | 2022-09-22 |
 | [Spice Trays](https://www.printables.com/model/1338255-gridfinity-spice-trays) | 0.5x3-2.5x3 | 4 | STL,STP,F3D | 2025-06-29 |
+| [Spicefinity — Tiered Spice Rack System](Spicefinity — A Gridfinity Tiered Spice Rack System) | 2x4,2x5,2x6 | 3 | STL,3MF | 2026-05-25 |
 | [Spiralized Gridfinity Bins](https://thangs.com/designer/DaveMakesStuff/3d-model/Spiralized%20Gridfinity%20Bins-758773) | 1x1 | 1 | STL | 2023-03-21 |
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
 | [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 | STL,3MF | 2022-09-04 |
