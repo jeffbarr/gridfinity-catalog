@@ -281,7 +281,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Hobby Knife Stand](https://thangs.com/designer/anonym_xxl/3d-model/2x1GridfinityHobbyKnifeStand.stl-321683) | 1x2 | 1 | STL | 2022-09-06 |
 | [Husky Nut Driver Holder](https://www.reddit.com/r/gridfinity/comments/1h49cfv/husky_nut_driver_holder/) | - | - | - | 2024-12-08 |
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
-| [ICON 3/8 in Drive Metric Professional Long Ball Hex Bit Socket Set](https://www.printables.com/model/1602240-icon-38-in-drive-metric-professional-long-ball-hex) | 2x3 | 1 | 3MF,STP | 2026-02-17 |
+| [ICON 3/8 in Drive Metric Professional Long Ball Hex Bit  Set](https://www.printables.com/model/1602240-icon-38-in-drive-metric-professional-long-ball-hex) | 2x3 | 1 | 3MF,STP | 2026-02-17 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
 [ Ikea Bilresa Remote Control Holder](https://makerworld.com/en/models/2583493-gridfinity-ikea-bilresa-remote-control-holder#profileId-2849662) | 1x2 | 1 | STL,3MF | 2026-03-29 |
 | [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5-4x5 | 12 | STL,STP | 2025-02-10 |
@@ -372,7 +372,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ratchet Holder](https://www.printables.com/model/282674-gridfinity-ratchet-holder-1x4) | 1x4 | 1 | STL | 2022-09-26 |
 | [Ratchet Holders](https://makerworld.com/en/models/2699516-gridfinity-ratchet-holders) |  2x3,2x4 | 3 | STL,STP | 2026-04-23 |
 | [Ratchet Screwdriver Holder](https://thangs.com/designer/jrsunday/3d-model/Gridfinity%20Ratchet%20Screwdriver%20Holder-74638) | 1x3 | 1 | STL | 2022-07-11 |
-| [Ratchet + Socket Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20Socket%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
+| [Ratchet +  Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
 | [Reinforced Economical Bins](https://www.printables.com/model/538275-more-reinforced-economical-gridfinity-bins) | 0.5x0.5-7x7 | 1185 | 3MF | 2022-08-26 |
 | [RJ45 / 8P8C Crimp Tool Holder](https://makerworld.com/en/models/1305520-gridfinity-rj45-8p8c-crimp-tool-holder-2x5) | 5x2 | 1 | STL,3ML | 2025-04-10 |
 | [Roller Door Bin Collection](https://makerworld.com/en/models/1507224-roller-door-gridfinity-bin-collection#profileId-1577549) | 1x1-3x2 | 12 | STL,3MF | 2025-07-19 |
@@ -399,6 +399,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Slide-Up Drawer](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Slide-Up%20Drawer-303350) | 2x1x2 | 2 | STL | 2022-09-04 |
 | [SO-DIMM RAM Holder](https://www.printables.com/model/1222192-gridfinity-so-dimm-ram-holder) | 1x2 | 1 | STL | 2025-03-09 |
 | [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
+| [Socket Holder - SAE 1/4" Drive](https://makerworld.com/en/models/214895-gridfinity-socket-holder-sae-1-4-drive) | 1x5 | 1 | STL,3MF | 2026-05-25 |
 | [Socket Organizers for GEDORE RED Socket Sets](https://www.etsy.com/listing/1731541210/gridfinity-socket-organizers-for-gedore) | ? | ? | ? | 2025-01-18 |
 | [Socket Set Organizer for Husky 125-Piece Set](https://www.printables.com/model/614374-gridfinity-socket-holders-14-and-38) | 1x2-3x5 | ?? | 3MF,STEP | 2023-10-15 |
 | [Socket Tray - Customizable](https://makerworld.com/en/models/2292063-gridfinity-socket-tray-customizable?sfnsn=mo#profileId-2501011) |  |  | STP,F3D | 2026-01-29 |
@@ -598,6 +599,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Binforge](https://binforge.app/) - Design any part of Gridfinity - 2026-05-06.
 * [ExtraBold Tools - Gridfinity Baseplate](https://www.extrabold.tools/gridfinity-baseplate) - Generate a baseplate with configurable grid size and shape - 2026-05-16.
 * [GridPilot](https://gridpilot.us/) - Custom Gridfinity trays from a photo of your tools - 2026-05-19.
+* [Gridfinity Studio](https://gridfinity.ftdesign.at/) - Generate drawer-fit Gridfinity layouts in 3 clicks - 2026-05-25.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
@@ -671,6 +673,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Tooltrace Community](https://www.tooltrace.ai/community) - 2026-02-23.
 * [Desk Organizer System - Deskfinity](https://makerworld.com/en/models/826392-gridfinity-desk-organizer-system-deskfinity#profileId-780724) - 2026-05-12.
 * [Universal Toolbox Collection](https://makerworld.com/en/collections/2240372-gridfinity-universal-toolbox) - 2026-05-12.
+* [Socket Storage System](https://makerworld.com/en/collections/719890-gridfinity-socket-system) - 2026-05-25.
 
 # Other Resources
 
