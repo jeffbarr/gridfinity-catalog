@@ -379,6 +379,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Rugged Bin Collection](https://makerworld.com/en/models/946361-rugged-bin-collection-gridfinity-bins#profileId-926362) |  1x2-4x6 | 56 | STL,3MF | 2026-04-03 |
 | [Rugged Drawer System - Gridfinity Activated](https://makerworld.com/en/models/810461#profileId-751683) | 2x4, 3x5 | 6 | STL,3Mf | 2024-11-23 |
 | [Rugged Gridfinity Desk Organizer XL](https://thangs.com/designer/K2_Kevin/3d-model/Rugged%20Organizer%20XL%20-%20Gridfinity%202x4%20%26%202x5-1157447) | 2x4, 2x5 | 2 | STL,STP,OBJ,FBX | 2024-10-18 | 
+| [Rugged Modular Maker Station](https://makerworld.com/en/models/2598317-rugged-modular-maker-station-gridfinity) | 3x5 | 21 | STL,3MF | 2026-05-26 |
 | [Ruler & Pen Pot](https://thangs.com/designer/obscuresausage/3d-model/%2523Gridfinity%2520-%2520Ruler%2520%2526%2520Pen%2520Pot-75753) | 1x2 | 1 | STL |  2022-07-11 |
 | [Ruler Holder](https://thangs.com/designer/atrimbletlr/3d-model/Gridfinity%2520Ruler%2520Holder-74621) | 1x1 | 1 | STL | 2022-09-04 |
 | [Ruler Holder](https://www.printables.com/model/1639600-gridfinity-ruler-holder) | 1x1 | 5 | STL | 2026-03-16 |
