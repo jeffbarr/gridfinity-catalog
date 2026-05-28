@@ -282,6 +282,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Husky Nut Driver Holder](https://www.reddit.com/r/gridfinity/comments/1h49cfv/husky_nut_driver_holder/) | - | - | - | 2024-12-08 |
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
 | [ICON 3/8 in Drive Metric Professional Long Ball Hex Bit  Set](https://www.printables.com/model/1602240-icon-38-in-drive-metric-professional-long-ball-hex) | 2x3 | 1 | 3MF,STP | 2026-02-17 |
+| [Icon Scraper Bin](https://makerworld.com/en/models/2851595-icon-scraper-gridfinity?appSharePlatform=copy#profileId-3180630) | 2x9 | 1 | STL,3MF | 2026-05-28 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
 [ Ikea Bilresa Remote Control Holder](https://makerworld.com/en/models/2583493-gridfinity-ikea-bilresa-remote-control-holder#profileId-2849662) | 1x2 | 1 | STL,3MF | 2026-03-29 |
 | [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5-4x5 | 12 | STL,STP | 2025-02-10 |
@@ -353,6 +354,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Phone Stand](https://www.printables.com/model/177160-gridfinity-phone-stand) | 2x2 | 1 | STL | 2022-07-01 |
 | [Pic + Tweezers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Pick%20%2B%20Tweezer%20Racks-60742) | 2x2 | 1 | STL | 2022-06-12 |
 | [Pinecil Solder iron Holder](https://thangs.com/designer/markh018/3d-model/Gridfinity%2520Pinecil%2520Solder%2520iron%2520Holder-73357) | 1x1 | 1 | STL | 2022-07-25 |
+| [Pittsburg Pro Screwdriver Set 97517](https://www.printables.com/model/1731434-gridfinity-for-pittsburg-pro-screwdriver-set-97517) | 1x3 | 1 | STL | 2026-05-28 |
 | [Bin - Vase Mode](https://www.tinkercad.com/things/eGFlfBAA6Jx-1x4x77-vase-mode) | 1x4 | 1 | Tinkercad | 2022-12-06 |
 | [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) | 1x1-3x4 | 26 | 3MF | 2022-06-12 |
 | [Plain Bins](https://thangs.com/designer/robert.j.paisley/3d-model/Plain%2520Bins-73750) | 3x6 | 2 | STL | 2022-07-25 |
@@ -602,6 +604,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [ExtraBold Tools - Gridfinity Baseplate](https://www.extrabold.tools/gridfinity-baseplate) - Generate a baseplate with configurable grid size and shape - 2026-05-16.
 * [GridPilot](https://gridpilot.us/) - Custom Gridfinity trays from a photo of your tools - 2026-05-19.
 * [Gridfinity Studio](https://gridfinity.ftdesign.at/) - Generate drawer-fit Gridfinity layouts in 3 clicks - 2026-05-25.
+* [Gridfinity Cutout Maker](https://gridfinity-cutout.pages.dev/) - Generate custom inserts in 2 minutes - 2026-05-28.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
@@ -668,6 +671,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [6 Lessons learned creating and installing Gridfinity in my toolbox](https://www.youtube.com/watch?v=v8pl9xurgUk) - 2026-05-15.
 * [This FREE AI Tool Auto-Generates Gridfinity Bins!](https://www.youtube.com/watch?v=e3EhJJlWwws) - 2026-05-20.
 * [How To 3D Print A Compression Mold For Gridfinity Bins](https://www.youtube.com/watch?v=VYrx1LRttOc) - 2026-05-20.
+* [Generate Gridfinity Bins](https://www.youtube.com/watch?v=ZZkG9QdNQqQ) - 2026-05-28.
 
 # Other Collections
 
