@@ -1,0 +1,13 @@
+{
+  "name": "gridfinity-catalog-validator",
+  "version": "1.0.0",
+  "description": "Extensible validation tool for the gridfinity-catalog README.md",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "validate": "node index.js",
+    "validate:verbose": "node index.js --verbose"
+  },
+  "keywords": ["gridfinity", "validation", "markdown"],
+  "license": "MIT"
+}
