@@ -602,8 +602,6 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [GridPreview](https://www.gridpreview.app/) - Configure a Gridfinity grid right in the browser - 2026-04-28.
 * [GridCrate](https://makerworld.com/en/models/2716394-gridcrate-parametric-gridfinity-basket#profileId-3008498) - fully parametric basket - 2026-04-28.
 * [Binforge](https://binforge.app/) - Design any part of Gridfinity - 2026-05-06.
-* [ExtraBold Tools - Gridfinity Baseplate](https://www.extrabold.tools/gridfinity-baseplate) - Generate a baseplate with configurable grid size and shape - 2026-05-16.
-* [GridPilot](https://gridpilot.us/) - Custom Gridfinity trays from a photo of your tools - 2026-05-19.
 * [Gridfinity Studio](https://gridfinity.ftdesign.at/) - Generate drawer-fit Gridfinity layouts in 3 clicks - 2026-05-25.
 * [Gridfinity Cutout Maker](https://gridfinity-cutout.pages.dev/) - Generate custom inserts in 2 minutes - 2026-05-28.
 
