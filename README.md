@@ -248,7 +248,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x3-6x6 | 84 | STL | 2023-10-30 |
 | [Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
-| [Essie Mini Nail Polish Holder](https://makerworld.com/en/models/2433831-essie-small-gridfinity-bins#profileId-2670002) | | 1x1-2x5 | 6 | STL,3MF | 2026-02-24 |
+| [Essie Mini Nail Polish Holder](https://makerworld.com/en/models/2433831-essie-small-gridfinity-bins#profileId-2670002) | 1x1-2x5 | 6 | STL,3MF | 2026-02-24 |
 | [Filled Bins Full Height No Lip](https://www.printables.com/model/410744-gridfinity-filled-bins-full-height-no-lip) | 0.5x0x5-7x7 | - | 3MF | 2023-03-23 |
 | [Filled-In Boxes for Customization](https://www.printables.com/model/210548-filled-in-gridfinity-boxes-for-customization) | 1x1-7x7 | 39 | STL | 2023-03-20 |
 | [Flashlight Holders](https://makerworld.com/en/models/1400746-gridfinity-flashlight-holders#profileId-1452634) | 1x1 | 78 | STL,3MF | 2025-05-15 |
@@ -263,7 +263,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [GoPro Holder](https://thangs.com/designer/martinwew/3d-model/Gridfinity%202x1%20gopro%20holder.STL-313028) | 1x2 | 1 | STL | 2022-09-04 |
-| [Granola Bar Storage](https://makerworld.com/en/models/1918340-gridfinity-2x3x10-granola-bar-storage#profileId-2058167) | 2x3 | 1 | STL,3MF | 20026-04-02 |
+| [Granola Bar Storage](https://makerworld.com/en/models/1918340-gridfinity-2x3x10-granola-bar-storage#profileId-2058167) | 2x3 | 1 | STL,3MF | 2026-04-02 |
 | [GRoG - the Gridfinity openGrid Stand](https://makerworld.com/en/models/2462959-grog-the-gridfinity-opengrid-stand#profileId-2703739) | 2x2 | 1 | STL,3MF | 2026-03-01 |
 | [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1-0.5x3 | 10 | STL | 2022-09-19 |
 | [Hand Model](https://makerworld.com/en/models/526661-gridfinity-hand#profileId-1937043) | 2x2 | 1 | STL,3MF | 2025-09-27 |
