@@ -63,10 +63,10 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
 | [Costco Iris Plastic Storage Tote Bin](https://www.thingiverse.com/thing:7305440) | 5x7 | 1 | STL | 2026-04-01 |
 | [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) | 1x1 | 1 | STL | 2022-07-25 |
-| [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
+| [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 2022-10-26 |
 | [Design Thickness Guide](https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set#profileId-917678) | 1x2 | 1 | STL,3MF | 2025-04-22 |
 | [Ecodgrid Minimalistic Base](https://www.printables.com/model/1009236-ecogrid-minimalistic-gridfinity-base) | 1x2-4x4 | 20 | STL,F3D | 2025-07-07 |
-| [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 
+| [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 2022-07-25 |
 | [Ender 3 Power ledge Baseplate](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
 | [French Cleat Rack](https://makeronline.com/en/model/Gridfinity%20French%20Cleat%20Rack/261166.html) | 2x4,2x6 | 2 | STL | 2026-04-01 |
@@ -124,7 +124,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [1/4" Drive Long Socket with Magnetic Base](https://www.printables.com/model/682454-gridfinity-14-drive-long-socket-with-magnetic-base) | 2x2 | 1 | STP | 2023-12-26 |
 | [18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
 | [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 | 1 | STL | 2022-09-26 |
-| [3/8" Drive - Emergency 10mm Socket](https://makerworld.com/en/models/2352596-3-8-drive-emergency-10mm-socket-gridfinity) | 1 | STL,3MF | 2026-04-24 | 
+| [3/8" Drive - Emergency 10mm Socket](https://makerworld.com/en/models/2352596-3-8-drive-emergency-10mm-socket-gridfinity) | 1x1 | 1 | STL,3MF | 2026-04-24 | 
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | 2022-06-16 | 
 | [8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL,F3D | 2022-07-25 |
 | [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | 2022-07-01 | 
@@ -497,7 +497,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Lid](https://thangs.com/designer/noelboettcher2004/3d-model/Gridfinity%2520lid-194358) | 1x1 | 1 | STL | 2022-09-04 |
 | [Lids](https://thangs.com/designer/PotatoCheese/3d-model/Gridfinity%20Lids-294307) | 1x1-3x4 | 13 | STL | 2024-04-06 |
 | [Lids with Handles](https://www.printables.com/model/645622-gridfinity-lids-with-handles) | 1x1-5x5 | 25 | STL,SCAD | 2024-04-06 |
-| [Parametric Lids](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Parametric%20Lids-62072) | 1x1-3x3 | STL,F3D | 2024-04-06 |
+| [Parametric Lids](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Parametric%20Lids-62072) | 1x1-3x3 | 7 | STL,F3D | 2024-04-06 |
 
 # Dashboard
 
@@ -570,8 +570,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Schubox Storage Box V2](https://makerworld.com/en/models/2359984-gridfinity-storage-box-v2-5x4#profileId-2582008) | 5x4 | 1 | STL | 2026-04-21 |
 | [Schubox Storage Box V2](https://makerworld.com/en/models/2472040-schubox-v2-5x5#profileId-2714271) | 5x5 | 1 | STL | 2026-04-21 |
 | [Schubox Storage Box V2](https://makerworld.com/en/models/2488518-gridfinity-storage-box-schubox-v2-large-7x6#profileId-2734255) | 7x6 | 1 | STL | 2026-04-21 |
-| [Clip Persuader](https://makerworld.com/en/models/2668066-gridfinity-clip-persuader#profileId-2952698) | - | - | 2026-04-22 |
-| [Gridfinity Bin Compression Mold](https://www.printables.com/model/1723802-gridfinity-bin-compression-mold) | 1x2 | - | 2026-05-20 |
+| [Clip Persuader](https://makerworld.com/en/models/2668066-gridfinity-clip-persuader#profileId-2952698) | - | - | - | 2026-04-22 |
+| [Gridfinity Bin Compression Mold](https://www.printables.com/model/1723802-gridfinity-bin-compression-mold) | 1x2 | - | - | 2026-05-20 |
 
 # Online Generators
 
