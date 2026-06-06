@@ -340,6 +340,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Nippers, Strippers, Pliers Rack](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Nippers%20%2B%20Strippers%20%2B%20Pliers%20Racks-61120) | 1x4,2x4,1x5 | 3 | STL | 2022-06-12 | 
 | [OpenSCAD Templates](https://github.com/kennetek/gridfinity-rebuilt-openscad) | Varies | 2 | OpenSCAD | 2022-09-26 |
 | [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5 - 4x5 | 10 | STL | 2022-07-21 |
+| [Tool Organizer for P1/P2/X1 Accessories](https://makerworld.com/en/models/2057950-gridfinity-tool-organizer-for-p1-p2-x1-accessories) | 2x4 | 1 | 3MF,STL | 2026-06-06 |
 | [Paint Shelf](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Paint%20Shelf-62255) | 2x3, 3x3, 4x3 | 3 | F3D,STL | 2022-09-04 |
 | [Paper Towel Roll](https://social.thangs.com/m/201112) | 3x4 | 1 | STL | 2022-07-20 |
 | [Parametric Battery Bin](https://makerworld.com/en/models/1600384-parametric-gridfinity-battery-bin#profileId-1686727) | - | - | F3D | 2025-07-20 |
@@ -403,6 +404,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [SO-DIMM RAM Holder](https://www.printables.com/model/1222192-gridfinity-so-dimm-ram-holder) | 1x2 | 1 | STL | 2025-03-09 |
 | [Socket Holder](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_socket_holder.scad) | ? | ? | OpenSCAD | 2022-06-12 |
 | [Socket Holder - SAE 1/4" Drive](https://makerworld.com/en/models/214895-gridfinity-socket-holder-sae-1-4-drive) | 1x5 | 1 | STL,3MF | 2026-05-25 |
+| [Socket Organizers with 3/4, 1/2, 3/8 and 1/4 Inch Sockets](https://www.printables.com/model/1734674-gridfinity-socket-organizers-with-34-12-38-and-14) | 1x1-1x5 | 4 | 3MF,STL | 2026-06-06 |
 | [Socket Organizers for GEDORE RED Socket Sets](https://www.etsy.com/listing/1731541210/gridfinity-socket-organizers-for-gedore) | ? | ? | ? | 2025-01-18 |
 | [Socket Set Organizer for Husky 125-Piece Set](https://www.printables.com/model/614374-gridfinity-socket-holders-14-and-38) | 1x2-3x5 | ?? | 3MF,STEP | 2023-10-15 |
 | [Socket Tray - Customizable](https://makerworld.com/en/models/2292063-gridfinity-socket-tray-customizable?sfnsn=mo#profileId-2501011) |  |  | STP,F3D | 2026-01-29 |
