@@ -120,12 +120,12 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
-| [123 Block](https://makerworld.com/en/models/1295482-123-block-footfinity-gridfinity) | 1x4 | 1 | STL,3MF | 2025-04-10 |
 | [1/4" Drive Long Socket with Magnetic Base](https://www.printables.com/model/682454-gridfinity-14-drive-long-socket-with-magnetic-base) | 2x2 | 1 | STP | 2023-12-26 |
+| [123 Block](https://makerworld.com/en/models/1295482-123-block-footfinity-gridfinity) | 1x4 | 1 | STL,3MF | 2025-04-10 |
 | [18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
-| [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 | 1 | STL | 2022-09-26 |
 | [3/8" Drive - Emergency 10mm Socket](https://makerworld.com/en/models/2352596-3-8-drive-emergency-10mm-socket-gridfinity) | 1x1 | 1 | STL,3MF | 2026-04-24 | 
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | 2022-06-16 | 
+| [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 | 1 | STL | 2022-09-26 |
 | [8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL,F3D | 2022-07-25 |
 | [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | 2022-07-01 | 
 | [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) | 1x2 | 1 | STL | 2022-06-12 |
@@ -142,13 +142,12 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Apple AirTag Storage](https://makerworld.com/en/models/1600844-gridfinity-storage-for-apple-airtags#profileId-1687293) | 1x2,1x3 | 4 | STL,3MF | 2025-07-13 |
 | [AstroAI AM33D Multimeter Holder](https://makerworld.com/en/models/2269663-astroai-am33d-multimeter-holder-for-gridfinity#profileId-2473898) | 3x4 | 2 | STL,3MF | 2026-01-20 |
 | [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) | 1x1 | 1 | STL | 2022-07-11 |
-| [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
 | [Bambu H2/P2 Nozzle Holder](https://makerworld.com/en/models/2571192-gridfinity-bambu-h2-p2-standard-hotend-4-slot#profileId-2834392) | 2x3 | 1 | STL,3MF | 2026-03-29 |
 | [Bambu H2C Nozzle Holder](https://makerworld.com/en/models/2571177-gridfinity-bambu-h2c-induction-hotend-4-slot#profileId-2834369) | 2x2 | 1 | STL,3MF | 2026-03-29 |
+| [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
 | [Banana Plug Quick Connect Holder](https://makerworld.com/en/models/1806031-gridfinity-banana-plug-quick-connect-holder#profileId-1926320) | 1x1,1x2 | 2 | STL,3MF | 2025-09-18 |
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1-5x5 | 28 | CadQuery | 2022-06-12 | 
 | [Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF,F3D | 2022-07-25 |
-| [Battery Trays](https://www.printables.com/model/341811-gridfinity-battery-trays-aa-aaa-aaaa-18650-cr123-c) | 1x1,1x3,2x2 | Many | STL | 2024-02-14 |
 | [Battery Holder/Attachment for DeWalt Batteries](https://makerworld.com/en/models/1368182-gridfinity-battery-holder-attachment#profileId-1414219) | 2x3 | 1 | STL,3MF | 2026-05-13 |
 | [Battery Holders (AA, AAA, 9V, 2032)](https://www.printables.com/model/922743-gridfinity-battery-holders) | 1x2, 1x5 | 4 | STL | 2024-07-24 |
 | [Battery Holders, Stackable](https://www.printables.com/model/381400-definitive-collection-of-battery-holders-gridfinit) | 1x1-2x2 | Many | STL | 2024-02-14 |
@@ -156,6 +155,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Battery Holders (AGxx), Stackable](https://www.printables.com/model/442231-agx-button-cell-battery-holders-gridfinity-stackab) | 1x1-2x2 | Many | STL | 2024-02-14 |
 | [Battery Holders (CRxxxx), Stackable](https://www.printables.com/model/442365-crxxxx-button-cell-battery-holders-gridfinity-stac) | 1x1-2x2 | Many | STL | 2024-02-14 |
 | [Battery Holders (LRx), Stackable](https://www.printables.com/model/442274-lrxx-button-cell-battery-holders-gridfinity-stacka) | 1x1-2x2 | Many | STL | 2024-02-14 |
+| [Battery Trays](https://www.printables.com/model/341811-gridfinity-battery-trays-aa-aaa-aaaa-18650-cr123-c) | 1x1,1x3,2x2 | Many | STL | 2024-02-14 |
 | [Beard Club PT45 Trimmer & Guards](https://makerworld.com/en/models/2767486-beard-club-pt45-trimmer-guards-gridfinity-bin#profileId-3073437) | 4x5 | 1 | STL,3MF | 2026-05-08 |
 | [Beard Club T-Blade Beard Edger](https://makerworld.com/en/models/2751943-beard-club-t-blade-beard-edger-gridfinity-bin#profileId-3053435) | 2x5 | 1 | STL,3MF | 2026-05-08 |
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 1x4-5x5 | 36 | STL | 2022-06-25 |
