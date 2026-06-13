@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Gridfinity Catalog - Validation Warnings Checklist</title>
+<style>
+  @page {
+    margin: 0.75in;
+    size: letter;
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #1a1a1a;
+    max-width: 7.5in;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1 {
+    font-size: 18pt;
+    margin-bottom: 4px;
+    border-bottom: 2px solid #333;
+    padding-bottom: 6px;
+  }
+  .subtitle {
+    color: #555;
+    font-size: 10pt;
+    margin-bottom: 20px;
+  }
+  h2 {
+    font-size: 13pt;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    color: #333;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 3px;
+  }
+  .checklist {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  .checklist li {
+    padding: 4px 0 4px 28px;
+    position: relative;
+    page-break-inside: avoid;
+  }
+  .checklist li::before {
+    content: "";
+    position: absolute;
+    left: 2px;
+    top: 5px;
+    width: 14px;
+    height: 14px;
+    border: 1.5px solid #555;
+    border-radius: 2px;
+  }
+  .line-ref {
+    font-family: "SF Mono", "Fira Code", monospace;
+    font-size: 9pt;
+    color: #666;
+    background: #f0f0f0;
+    padding: 1px 4px;
+    border-radius: 3px;
+    margin-right: 4px;
+  }
+  .entry-name {
+    font-weight: 600;
+  }
+  .fix-note {
+    font-style: italic;
+    color: #555;
+    font-size: 10pt;
+    margin-top: 4px;
+    margin-bottom: 8px;
+    padding-left: 4px;
+  }
+  .summary-box {
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 12px 16px;
+    margin-bottom: 20px;
+  }
+  .summary-box p {
+    margin: 3px 0;
+    font-size: 10pt;
+  }
+  .count {
+    font-weight: 700;
+  }
+</style>
+</head>
+<body>
+
+<h1>Gridfinity Catalog - Warnings Checklist</h1>
+<p class="subtitle">Generated from <code>node validate/index.js</code> &mdash; 21 warnings, 0 errors</p>
+
+<div class="summary-box">
+  <p><span class="count">19</span> Alphabetical order issues</p>
+  <p><span class="count">1</span> Duplicate URL</p>
+  <p><span class="count">1</span> Description format issue</p>
+</div>
+
+<h2>1. Alphabetical Order &mdash; Baseplates</h2>
+<p class="fix-note">Fix: Move this entry earlier in the table so entries are sorted A-Z by link text.</p>
+<ul class="checklist">
+  <li><span class="line-ref">L55</span> <span class="entry-name">Base with Snap Connectors</span> &mdash; should come before "Baseplates with Pressure Fit Magnets"</li>
+</ul>
+
+<h2>2. Alphabetical Order &mdash; Bins/Blocks</h2>
+<p class="fix-note">Fix: Re-sort entries alphabetically by link text. Items starting with numbers/symbols go first.</p>
+<ul class="checklist">
+  <li><span class="line-ref">L124</span> <span class="entry-name">1/4" Drive Long Socket with Magnetic Base</span></li>
+  <li><span class="line-ref">L127</span> <span class="entry-name">3/8" Drive - Emergency 10mm Socket</span></li>
+  <li><span class="line-ref">L133</span> <span class="entry-name">AA/AAA Battery Organizer</span></li>
+  <li><span class="line-ref">L146</span> <span class="entry-name">Bambu H2/P2 Nozzle Holder</span></li>
+  <li><span class="line-ref">L152</span> <span class="entry-name">Battery Holder/Attachment for DeWalt Batteries</span></li>
+  <li><span class="line-ref">L156</span> <span class="entry-name">Battery Holders (AGxx), Stackable</span></li>
+  <li><span class="line-ref">L164</span> <span class="entry-name">Bins with Cover (1x1)</span></li>
+  <li><span class="line-ref">L176</span> <span class="entry-name">Bin/Lid for RJ45 Jacks</span></li>
+  <li><span class="line-ref">L181</span> <span class="entry-name">Bosch Professional 5M Tape Measure</span></li>
+  <li><span class="line-ref">L183</span> <span class="entry-name">Breadboard Bins</span></li>
+  <li><span class="line-ref">L192</span> <span class="entry-name">Caliper Holder</span></li>
+  <li><span class="line-ref">L203</span> <span class="entry-name">Cigfinity Pack Dispenser</span></li>
+  <li><span class="line-ref">L208</span> <span class="entry-name">Coffee Filter Collection</span></li>
+  <li><span class="line-ref">L234</span> <span class="entry-name">Divided Boxes (CadQuery Customizable)</span></li>
+  <li><span class="line-ref">L236</span> <span class="entry-name">Divided Vase Bins with Labels</span></li>
+  <li><span class="line-ref">L238</span> <span class="entry-name">Door'ed Container</span></li>
+  <li><span class="line-ref">L244</span> <span class="entry-name">Dremel Cutting Wheel Holder</span></li>
+  <li><span class="line-ref">L265</span> <span class="entry-name">GoPro Holder</span></li>
+</ul>
+
+<h2>3. Duplicate URL</h2>
+<p class="fix-note">Fix: Remove the duplicate entry, or differentiate if it points to distinct content.</p>
+<ul class="checklist">
+  <li><span class="line-ref">L622</span> <span class="entry-name">all3dp.com/2/gridfinity-simply-explained</span> &mdash; duplicate of L621 (Articles)</li>
+</ul>
+
+<h2>4. Description Format</h2>
+<p class="fix-note">Fix: Restructure to use standard [text](url) markdown link format in the Description cell.</p>
+<ul class="checklist">
+  <li><span class="line-ref">L198</span> <span class="entry-name">Celtic Knot Bin</span> &mdash; Description has no standard markdown link (Bins/Blocks)</li>
+</ul>
+
+</body>
+</html>
