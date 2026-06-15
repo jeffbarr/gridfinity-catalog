@@ -90,44 +90,30 @@
   .count {
     font-weight: 700;
   }
+  .success {
+    color: #2e7d32;
+    font-size: 14pt;
+    margin-top: 24px;
+  }
 </style>
 </head>
 <body>
 
 <h1>Gridfinity Catalog - Warnings Checklist</h1>
-<p class="subtitle">Generated from <code>node validate/index.js</code> &mdash; 6 warnings, 0 errors &mdash; June 15, 2026</p>
+<p class="subtitle">Generated from <code>node validate/index.js</code> &mdash; 1 warning, 0 errors &mdash; June 15, 2026</p>
 
 <div class="summary-box">
-  <p><span class="count">4</span> Alphabetical order issues</p>
-  <p><span class="count">1</span> Duplicate URL</p>
-  <p><span class="count">1</span> Description format issue</p>
+  <p><span class="count">0</span> Errors</p>
+  <p><span class="count">1</span> Warning</p>
 </div>
 
-<h2>1. Alphabetical Order &mdash; Baseplates</h2>
-<p class="fix-note">Fix: Move this entry earlier in the table.</p>
-<ul class="checklist">
-  <li><span class="line-ref">L54</span> <span class="entry-name">Base with Snap Connectors</span> &mdash; should come before "Baseplates with Handle"</li>
-</ul>
-
-<h2>2. Alphabetical Order &mdash; Bins/Blocks</h2>
-<p class="fix-note">Fix: Move each entry earlier in the table, before the indicated entry.</p>
-<ul class="checklist">
-  <li><span class="line-ref">L155</span> <span class="entry-name">Battery Holders (CRxxxx), Stackable</span> &mdash; should come before "Battery Holders, Stackable (remix)"</li>
-  <li><span class="line-ref">L162</span> <span class="entry-name">Bin/Lid for RJ45 Jacks</span> &mdash; should come before "Binfinity Modular Bin System"</li>
-  <li><span class="line-ref">L191</span> <span class="entry-name">Caliper Holder</span> &mdash; should come before "Caliper, Angle, and Radius Gauge"</li>
-</ul>
-
-<h2>3. Duplicate URL</h2>
-<p class="fix-note">Fix: Remove the duplicate entry, or differentiate if it points to distinct content.</p>
-<ul class="checklist">
-  <li><span class="line-ref">L621</span> <span class="entry-name">all3dp.com/2/gridfinity-simply-explained</span> &mdash; duplicate of L620 (Articles)</li>
-</ul>
-
-<h2>4. Description Format</h2>
+<h2>1. Description Format &mdash; Bins/Blocks</h2>
 <p class="fix-note">Fix: Restructure to use standard [text](url) markdown link format in the Description cell.</p>
 <ul class="checklist">
-  <li><span class="line-ref">L197</span> <span class="entry-name">Celtic Knot Bin</span> &mdash; Description has no standard markdown link (Bins/Blocks)</li>
+  <li><span class="line-ref">L197</span> <span class="entry-name">Celtic Knot Bin</span> &mdash; Description has no standard markdown link. The entry uses multiple inline links without wrapping the name in [text](url) format.</li>
 </ul>
+
+<p class="success">Almost there! Just 1 warning remaining.</p>
 
 </body>
 </html>
