@@ -50,8 +50,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Baseplate Mold Box](https://www.printables.com/model/1344249-castfinity-baseplate-mold-box) | 2x2-5x5 | 14 | STL,3MF | 2025-07-02 |
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) | - |  - | OpenSCAD | 2022-06-12 |  
-| [Baseplates with Handle](https://www.printables.com/model/1624252-gridfinity-baseplates-with-handle) | 2x5-4x5 | 4 | STL,FCSTD | 2026-04-01 |
 | [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
+| [Baseplates with Handle](https://www.printables.com/model/1624252-gridfinity-baseplates-with-handle) | 2x5-4x5 | 4 | STL,FCSTD | 2026-04-01 |
 | [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 130 | STL,F360,STP | 2023-03-30 |
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1-10x10 | 22 | CadQuery | 2022-06-12 |
 | [Bisley 10 Drawer Gridfinity Base](https://www.printables.com/model/1297104-bisley-10-drawer-gridfinity-base) | 5x8 | 1 | STL | 2025-05-18 |
@@ -151,15 +151,15 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Battery Holder/Attachment for DeWalt Batteries](https://makerworld.com/en/models/1368182-gridfinity-battery-holder-attachment#profileId-1414219) | 2x3 | 1 | STL,3MF | 2026-05-13 |
 | [Battery Holders (AA, AAA, 9V, 2032)](https://www.printables.com/model/922743-gridfinity-battery-holders) | 1x2, 1x5 | 4 | STL | 2024-07-24 |
 | [Battery Holders (AGxx), Stackable](https://www.printables.com/model/442231-agx-button-cell-battery-holders-gridfinity-stackab) | 1x1-2x2 | Many | STL | 2024-02-14 || [Battery Holders, Stackable](https://www.printables.com/model/381400-definitive-collection-of-battery-holders-gridfinit) | 1x1-2x2 | Many | STL | 2024-02-14 |
-| [Battery Holders, Stackable (remix)](https://www.printables.com/model/752699-gridfinity-battery-bins-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/battery-bins)) | 2x2 | 4 | OpenSCAD,STL | 2024-02-14 |
 | [Battery Holders (CRxxxx), Stackable](https://www.printables.com/model/442365-crxxxx-button-cell-battery-holders-gridfinity-stac) | 1x1-2x2 | Many | STL | 2024-02-14 |
 | [Battery Holders (LRx), Stackable](https://www.printables.com/model/442274-lrxx-button-cell-battery-holders-gridfinity-stacka) | 1x1-2x2 | Many | STL | 2024-02-14 |
+| [Battery Holders, Stackable (remix)](https://www.printables.com/model/752699-gridfinity-battery-bins-remix) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/battery-bins)) | 2x2 | 4 | OpenSCAD,STL | 2024-02-14 |
 | [Battery Trays](https://www.printables.com/model/341811-gridfinity-battery-trays-aa-aaa-aaaa-18650-cr123-c) | 1x1,1x3,2x2 | Many | STL | 2024-02-14 |
 | [Beard Club PT45 Trimmer & Guards](https://makerworld.com/en/models/2767486-beard-club-pt45-trimmer-guards-gridfinity-bin#profileId-3073437) | 4x5 | 1 | STL,3MF | 2026-05-08 |
 | [Beard Club T-Blade Beard Edger](https://makerworld.com/en/models/2751943-beard-club-t-blade-beard-edger-gridfinity-bin#profileId-3053435) | 2x5 | 1 | STL,3MF | 2026-05-08 |
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 1x4-5x5 | 36 | STL | 2022-06-25 |
-| [Binfinity Modular Bin System](https://makerworld.com/en/models/2294784-binfinity-modular-gridfinity-bin-system#profileId-2504193) | 1x1-6x5 | 560 | STL,3MF | 2026-01-25 |
 | [Bin/Lid for RJ45 Jacks](https://makerworld.com/en/models/1414568-gridfinity-bin-for-rj45-jacks-pinout-lid#profileId-1468931) | 2.5x3.5 | 1 | STL,3MF | 2025-05-13 |
+| [Binfinity Modular Bin System](https://makerworld.com/en/models/2294784-binfinity-modular-gridfinity-bin-system#profileId-2504193) | 1x1-6x5 | 560 | STL,3MF | 2026-01-25 |
 | [Bins with Cover (1x1)](https://www.printables.com/model/665798-gridfinity-1-x-1-x-2-and-1-x-1-x-3-inserts-with-co) | 1x1 | 17 | STL | 2024-02-14 |
 | [Bins with Cover (2x1)](https://www.printables.com/model/672541-gridfinity-1-x-2-size-inserts-can-be-closed-indivi) | 2x1 | 24 | STEP,STL | 2024-02-14 |
 | [Bins with Dividers](https://makerworld.com/en/models/2046419-gridfinity-bins-with-dividers-collection#profileId-2208248) | 1x1-3x5 | 74 | STL,3MF | 2025-11-29 |
@@ -187,9 +187,9 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Cable Organizing Boxes](https://makerworld.com/en/models/510993#profileId-427092) | 2x1-2x6 | 12 | STL,3MF | 2024-10-28 |
 | [Cable Storage Bins](https://makerworld.com/en/models/908154-gridfinity-cable-storage-bins#profileId-868526) | 1x2-2x6 | 8 | STL,STP,F3D | 2025-07-07 |
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
-| [Caliper, Angle, and Radius Gauge](https://makerworld.com/en/models/2581195-gridfinity-caliper-angle-and-radius-gauge-holder#profileId-2846854) | 3x6 | 1 | STL,3MF | 2026-03-30 |
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
 | [Caliper Holder](https://makerworld.com/en/models/435832#profileId-394445) | 1x6 | 1 | STL | 2024-06-25 |
+| [Caliper, Angle, and Radius Gauge](https://makerworld.com/en/models/2581195-gridfinity-caliper-angle-and-radius-gauge-holder#profileId-2846854) | 3x6 | 1 | STL,3MF | 2026-03-30 |
 | [Camera Lens Holder](https://makerworld.com/en/models/2216613-tpu-padded-gridfinity-lens-holders-60mm-to-80mm#profileId-2410133) | 2x2 | 11 | STL,3MF | 2026-01-10 |
 | [Can Holder](https://www.printables.com/model/245372-gridfinity-can-holder) | 2x2 | 1 | STL,3MF | 2022-07-21 |
 | [Case for Ferrules and Crimp Tool](https://www.thingiverse.com/thing:6539877) | 2x5 | 1 | STL | 2024-03-19 |
@@ -618,7 +618,6 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 * [Gridfinity: 3D Printed Super Quick Tool Storage And Retrieval](https://hackaday.com/2022/04/18/gridfinity-3d-printed-super-quick-tool-storage-and-retrieval/).
 * [Gridfinity Modular Storage System: All You Need to Know](https://all3dp.com/2/gridfinity-simply-explained/)
-* [Gridfinity Simply Explained](https://all3dp.com/2/gridfinity-simply-explained/).
 * [Gridinity Latching Baseplate Without Creep](https://www.printables.com/article/gridfinity-latching-baseplate-without-creep-1ND2Mjd) - 2026-02-23.
 
 # Videos
