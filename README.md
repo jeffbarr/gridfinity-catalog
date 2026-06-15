@@ -46,11 +46,11 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [A1 Printer Attachment System](https://makerworld.com/en/models/2412696-a1-printer-gridfinity-attachment-system#profileId-2645439) | 2x5-4x5 | 3 | STL,3MF | 2025-04-01 |
 | [Alex Drawer Tray Grid](https://www.printables.com/model/1552099-gridfinity-alex-drawer-tray-grid-economic-variant) | 3x4 | 1 | STL | 2026-01-26 |
 | [Angled Plate](https://www.printables.com/model/1250441-gridfinity-angled-plate) | 2x4 | 1 | STL | 2025-05-18 |
+| [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
 | [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
 | [Baseplate Mold Box](https://www.printables.com/model/1344249-castfinity-baseplate-mold-box) | 2x2-5x5 | 14 | STL,3MF | 2025-07-02 |
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) | - |  - | OpenSCAD | 2022-06-12 |  
-| [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
 | [Baseplates with Handle](https://www.printables.com/model/1624252-gridfinity-baseplates-with-handle) | 2x5-4x5 | 4 | STL,FCSTD | 2026-04-01 |
 | [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 130 | STL,F360,STP | 2023-03-30 |
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1-10x10 | 22 | CadQuery | 2022-06-12 |
