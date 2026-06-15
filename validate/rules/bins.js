@@ -117,17 +117,20 @@ export const alphabeticalOrder = {
     for (const table of section.tables) {
       if (!table.headers.includes('Description')) continue;
       let prevName = '';
+      let prevDisplay = '';
       for (const row of table.rows) {
         const desc = row.cells['Description'] || '';
         const match = desc.match(/\[([^\]]+)\]/);
         const name = match ? match[1].toLowerCase() : desc.toLowerCase();
+        const display = match ? match[1] : desc;
         if (prevName && name < prevName) {
           issues.push({
             line: row.line,
-            message: `"${match ? match[1] : desc}" is not in alphabetical order`,
+            message: `"${display}" should come before "${prevDisplay}" (not alphabetical)`,
           });
         }
         prevName = name;
+        prevDisplay = display;
       }
     }
     return issues;
