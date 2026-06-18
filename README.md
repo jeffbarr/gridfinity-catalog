@@ -29,6 +29,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 - [Lids for bins](#lids-for-bins)
 - [Dashboard](#dashboard)
 - [Adapters](#adapters)
+- [Stackfinity](#stackfinity)
 - [Templates](#templates])
 - [Everything Else](#everything-else)
 - [Online Generators](#online-generators)
@@ -519,6 +520,16 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Gridfinity Adapters](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Adapters-61462) | 1x1-5x5 | 1 | STL/F3D | 2022-07-28
 | [Height Adaptive Spacers](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Height%2520Adaptive%2520Spacers-61820) | various | 30 | STL | 2022-07-25 |
+
+# Stackfinity
+
+| Description | Sizes | Variants |Format | Date Added |
+| :---        |  ---: |     ---: |  ---: | :---       |
+| [Base](https://www.printables.com/model/1755530-stackfinity-home/files) | 1x1 | 1 | STL | 2026-06-18 |
+| [Bases - Single](https://www.printables.com/model/1755532-stackfinity-bases-single) | 1x1-8x8 | 36 | STL | 2026-06-18 |
+| [Handles](https://www.printables.com/model/1725881-stackfinity-handles) | 1x3-8x24 | 86 | STL | 2026-06-18 |
+| [Tools](https://www.printables.com/model/1755580-stackfinity-tools) | - | 1 | STL | 2026-06-18 |
+| [Bases - Wire Shelves](https://www.printables.com/model/1755558-stackfinity-bases-wire-shelves) | 1x1-8x8 | 36 | STL | 2026-06-18 |
 
 # Templates
 | Description | Sizes | Variants |Format | Date Added |
