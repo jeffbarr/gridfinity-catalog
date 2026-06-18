@@ -28,6 +28,7 @@ A zero-dependency, extensible JavaScript validation framework in `validate/`:
 | "Operating instructions" | Created `validate/README.md` with usage, examples, and extension guide |
 | "Render as PDF with checkboxes" | Created `warnings-checklist.html` (print-ready HTML) |
 | "Change sort order message to include which entry it should precede" | Updated both `baseplates.js` and `bins.js` to say `"X" should come before "Y"` |
+| "Create a new validator for the Stackfinity section" | Added `rules/stackfinity.js` with full rule set (sizes, format, date, alphabetical order) |
 
 ## Progress Report
 
@@ -84,6 +85,16 @@ A zero-dependency, extensible JavaScript validation framework in `validate/`:
 
 - Only remaining: **Celtic Knot Bin** — uses multiple inline links without a standard `[text](url)` wrapper in the Description cell
 
+### Run 7 — June 18, 2026 (added Stackfinity section validator)
+
+```
+2 issues: 0 errors, 2 warnings
+```
+
+- Added `rules/stackfinity.js` — new section with 5 entries now validated
+- **Celtic Knot Bin** — still has no standard markdown link in Description
+- **Bases - Wire Shelves** (Stackfinity) — should come before "Tools" (not alphabetical)
+
 ## Progress Chart
 
 ```
@@ -93,6 +104,7 @@ Run 3:  █████████ 9
 Run 4:  ██████ 6
 Run 5:  ██ 2
 Run 6:  █ 1
+Run 7:  ██ 2
 ```
 
 ## Key Design Decisions

@@ -12,6 +12,7 @@ import { dashboardRules } from './dashboard.js';
 import { adapterRules } from './adapters.js';
 import { templateRules } from './templates.js';
 import { everythingElseRules } from './everything-else.js';
+import { stackfinityRules } from './stackfinity.js';
 import { createListSectionRules } from './lists.js';
 
 /**
@@ -34,6 +35,7 @@ export function createEngine() {
   engine.registerRules('Adapters', adapterRules);
   engine.registerRules('Templates', templateRules);
   engine.registerRules('Everything Else', everythingElseRules);
+  engine.registerRules('Stackfinity', stackfinityRules);
 
   // Register rules for list-based sections
   const listSections = [
