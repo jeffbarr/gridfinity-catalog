@@ -525,11 +525,12 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
-| [Base](https://www.printables.com/model/1755530-stackfinity-home/files) | 1x1 | 1 | STL | 2026-06-18 |
 | [Bases - Single](https://www.printables.com/model/1755532-stackfinity-bases-single) | 1x1-8x8 | 36 | STL | 2026-06-18 |
+| [Bases - Wire Shelves](https://www.printables.com/model/1755558-stackfinity-bases-wire-shelves) | 1x1-8x8 | 36 | STL | 2026-06-18 |
 | [Handles](https://www.printables.com/model/1725881-stackfinity-handles) | 1x3-8x24 | 86 | STL | 2026-06-18 |
 | [Tools](https://www.printables.com/model/1755580-stackfinity-tools) | - | 1 | STL | 2026-06-18 |
-| [Bases - Wire Shelves](https://www.printables.com/model/1755558-stackfinity-bases-wire-shelves) | 1x1-8x8 | 36 | STL | 2026-06-18 |
+
+[Learn more](https://www.printables.com/model/1755530-stackfinity-home/file) about Stackfinity.
 
 # Templates
 | Description | Sizes | Variants |Format | Date Added |
