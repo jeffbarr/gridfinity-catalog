@@ -297,7 +297,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Klein MM400 Multimeter](https://makerworld.com/en/models/1651239-klein-mm400-multimeter-gridfinity-bin-with-storage#profileId-1745767) | 4x5 | 1 | STL,3MF | 2025-07-29 |
 | [Knee Model](https://makerworld.com/en/models/526650-gridfinity-knee#profileId-1937037) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Kumiko Bins Sampler Set](https://makerworld.com/en/models/2513474-gridfinity-kumiko-bins-sampler-set#profileId-2764555) | 1x1 | 6 | STL,3MF | 2026-03-30 |
-| [Kumiko Bins Asanoha Pattern](https://makerworld.com/en/models/2513379-kumiko-gridfinity-bins-asanoha-pattern#profileId-2764423) | 1x1-3x3 | STL,3MF | 2026-03-30 |
+| [Kumiko Bins Asanoha Pattern](https://makerworld.com/en/models/2513379-kumiko-gridfinity-bins-asanoha-pattern#profileId-2764423) | 1x1-3x3 | 20 | STL,3MF | 2026-03-30 |
 | [Kumiko Mikado Bins](https://www.printables.com/model/1124775-gridfinity-kumiko-mikado-bins) | 1x1-3x3 | 24 | STL,3MF | 2026-03-31 |
 | [Label Slot Bins](https://thangs.com/designer/galile0/3d-model/galile0%27s%20Label%20Slot%20Bins%20for%20Gridfinity-987328) | 1x1-4x2 | 20 | STL | 2024-01-09 |
 | [LCD Display Holder](https://thangs.com/designer/jeman/3d-model/Gridfinity%202x%20lcd%20display%20Holder.stl-201107) | 2x1 | 1 | STL | 2022-09-04 |
@@ -417,14 +417,14 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Spade Bit Holder](https://thangs.com/designer/rbarbrow/3d-model/Spade%2520Bit%2520Holder%2520Gridfinity-216505) | 4x3 | 1 | STL | 2022-09-22 |
 | [Spice Packet Box](https://makerworld.com/en/models/2878767-gridfinity-spice-packet-box#profileId-3214942) | 2x4,3x4 | 2 | STL,3MF | 2026-06-08 |
 | [Spice Trays](https://www.printables.com/model/1338255-gridfinity-spice-trays) | 0.5x3-2.5x3 | 4 | STL,STP,F3D | 2025-06-29 |
-| [Spicefinity — Tiered Spice Rack System](Spicefinity — A Gridfinity Tiered Spice Rack System) | 2x4,2x5,2x6 | 3 | STL,3MF | 2026-05-25 |
+| [Spicefinity — Tiered Spice Rack System](https://makerworld.com/en/models/2475427-spicefinity#profileId-2718346) | 2x4,2x5,2x6 | 3 | STL,3MF | 2026-05-25 |
 | [Spiralized Gridfinity Bins](https://thangs.com/designer/DaveMakesStuff/3d-model/Spiralized%20Gridfinity%20Bins-758773) | 1x1 | 1 | STL | 2023-03-21 |
 | [Speed Square Holder](https://www.printables.com/model/557540-gridfinity-speed-square-holder-universal-45-square) | 4x4 | 1 | STL | 2023-09-16 |
 | [Spudger Holder](https://www.printables.com/model/256886) | 1x1 | 1 | F3D,+STL | 2022-09-04 | STL,3MF | 2022-09-04 |
 | [Stackable Battery Storage for Cylindrical & 9V Batteries]() |1x2-3x2| 35 | STL | 2025-12-28 |
 | [Stackable Citadel Paint Pot Storage](https://www.printables.com/model/267790-gridfinity-stackable-citadel-paint-pot-storage) | 1x1-6x6 | 5 | STL,F3D | 2022-09-26 |
 | [Gridfinity Stackable Battery Storage for Cylindrical & 9V Batteries](https://www.printables.com/model/1529938-gridfinity-stackable-battery-storage-for-cylindric) | 1x1-2x3 | 35 | STL | 2025-12-28 |
-| [Stackable Roller Door Bins](https://makerworld.com/en/models/1564668-stackable-roller-door-gridfinity-bin-parametric#profileId-1644739) | 1x1 | 1 STL,3MF | 2025-07-19 |
+| [Stackable Roller Door Bins](https://makerworld.com/en/models/1564668-stackable-roller-door-gridfinity-bin-parametric#profileId-1644739) | 1x1 | 1 |  STL,3MF | 2025-07-19 |
 | [Stackable Shipping Container](https://makerworld.com/en/models/540866#profileId-458375) | 1x2 | 1 | STL | 2024-07-19 |
 | [Stackable Storage Basket](https://www.printables.com/model/1335756-stackable-gridfinity-storage-basket-parametric) | 2x2-5x5 | 162 | STL,3MF,OpenSCAD | 2025-07-09 |
 | [Stackable Sunglasses Organizer with Modular Dividers](https://makerworld.com/en/models/1518074-gridfinity-sunglasses-organizer-w-modular-divider#profileId-1590639) | 4x4,6x4 | 4 |3MF,STL | 2025-06-18 |
@@ -441,7 +441,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Tabletop (Gaming)](https://www.thingiverse.com/thing:5454853) | 1x1 | 3 | STL | 2022-09-04 |
 | [Tap and Die Bins](https://makerworld.com/en/models/434208#profileId-339020) | 1x3, 2x2 | 9 | STL,3MF | 2024-04-20 |
 | [Tape Dispenser](https://www.printables.com/model/234669-gridfinity-tape-dispenser) | 1x2 | 1 | 3MF | 2022-07-01 | 
-| [Tape Dispenser](https://makerworld.com/en/models/2799162-gridfinity-tape-dispenser#profileId-3113711) | 1x2 | STL,3MF | 2026-05-15 |
+| [Tape Dispenser](https://makerworld.com/en/models/2799162-gridfinity-tape-dispenser#profileId-3113711) | 1x2 | 1 | STL,3MF | 2026-05-15 |
 | [Tape Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%203x3%20Tape%20Holder-72448) | 3x3 | 1 | STL | 2022-09-04 |
 | [Tape Stand/Sorter](https://www.printables.com/model/1506848-gridfinity-tape-standsorter) | 4x1,4x2 | 2 | STL | 2025-12-21 |
 | [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
