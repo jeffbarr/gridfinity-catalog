@@ -626,6 +626,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Center - Bin Generator](https://gridfinity.alextac.com/bin-generator) - Generate Gridfinity bins, complete with compartments, scoops, and magnet holes - 2026-06-08.
 * [Gridfinity Center - Grid Generator](https://gridfinity.alextac.com/grid-generator) - Generate Gridfinity standard grids for all sizes and shapes - 2026-06-08.
 * [Nabu Labels](https://nabulabels.com/) - Create labels for Gridfinity in seconds - 2026-06-19.
+* [Bin Customizer with Pred-Style Label](https://makerworld.com/en/models/2928141-gridfinity-bin-customizer-with-pred-style-label#profileId-3277680) - Customizable Gridfinity bins with a built-in snap-in holder for matching Pred-style labels - 2026-06-19.
+* [Label Generator for Gridfinity Bins](https://makerworld.com/en/models/769441-label-generator-gridfinity-bin#profileId-705079) - Create tailored labels - 2026-06-19.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
