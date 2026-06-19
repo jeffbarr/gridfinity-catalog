@@ -78,6 +78,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [GRIPS: GRidfinity Interlocking basePlate System](https://makerworld.com/en/models/704997) | Any | - | OpenSCAD | 2025-02-03 |
 | [Ikea Alex Exact Fit Ultralight](https://makerworld.com/en/models/1706276-ikea-alex-gridfinity-exact-fit-70g-ultralight#profileId-1810082) | 10x14 | 1 | STL,3MF | 2025-08-24 |
 | [Ikea Alex Wide Drawers](https://www.printables.com/model/718705-gridfinity-base-for-ikea-alex-wide-drawers) | 3x5-5x5 | 3 | 3MF | 2024-01-23 |
+| [Ikea Kuggis 26x35x15 Box Baseplate](https://makerworld.com/en/models/2930966-ikea-kuggis-26x35x15-box-gridfinity-7x5-baseplate#profileId-3281138) | 5x7 | 1 | STL,3MF | 2026-06-18 |
 | [Ikea Skadis Baseplate](https://www.printables.com/model/171690-gridfinity-x-skadis-frames) - baseplates that attach to Ikea Skadis pegboards |1x2-2x7 | 12 | STL | 2022-09-06 |
 | [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2-6x6 | 8 | 3MF | 2022-06-12 |
 | [Jesh Baseplates for Crappy Printers](https://www.printables.com/model/471686-jesh-plates-gridfinty-for-crappy-printers) | 1x1-6x6 | 19 | STEP | 2023-05-16 | 
@@ -255,6 +256,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Flexbox Versatile Crate](https://www.printables.com/model/1008572-flexbox2-versatile-gridfinity-crate) | 1x2-3x3 | 64 | STL,F3D | 2025-07-07 |
 | [FlexBox2 Bins with Dividers and Labels](https://www.printables.com/model/1008572-flexbox2-gridfinity-bin-with-dividers-and-labels) | 1x1-3x3 | 42 | STL,F3D | 2026-05-21 |
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
+| [Fluke 62 Max+ IR Thermometer](https://makerworld.com/en/models/2927990-fluke-62-max-ir-thermometer-gridfinity-holder-5x3#profileId-3277420) | 3x5 | 1 | STL,3MF | 2026-06-19 |
 | [Fully Customizable Paint Rack](https://makerworld.com/en/models/2462995-fully-customizable-gridfinity-paint-rack#profileId-2704355) | 4x6 | 1 | STL,SCAD | 2026-03-01 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
 | [Fusion360 Templates](https://thangs.com/designer/KptnAutismus/3d-model/Gridfinity%2520Templates%2520%28Filled%2520in%2520and%2520Hollow%29%2520for%2520Fusion360-202057) | Varies | 3 | F3D | 2022-09-26 |
@@ -623,6 +625,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Cutout Maker](https://gridfinity-cutout.pages.dev/) - Generate custom inserts in 2 minutes - 2026-05-28.
 * [Gridfinity Center - Bin Generator](https://gridfinity.alextac.com/bin-generator) - Generate Gridfinity bins, complete with compartments, scoops, and magnet holes - 2026-06-08.
 * [Gridfinity Center - Grid Generator](https://gridfinity.alextac.com/grid-generator) - Generate Gridfinity standard grids for all sizes and shapes - 2026-06-08.
+* [Nabu Labels](https://nabulabels.com/) - Create labels for Gridfinity in seconds - 2026-06-19.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
