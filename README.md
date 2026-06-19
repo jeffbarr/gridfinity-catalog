@@ -314,6 +314,10 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Macropad](https://makerworld.com/en/models/1772033-gridinity-macropad#profileId-2097539) | 2x2 | 1 | STL,3MF | 2025-11-07 |
 | [Magnetic Screwdriver Bit Holder](https://makerworld.com/en/models/2852894-gridfinity-magnetic-screwdriver-bit-holder-2x4#profileId-3182349) | 2x4 | 1 | STL,3MF | 2026-05-27 |
 | [Makita 1/4" Hex Driver DF012D](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1096752-gridfinity-bin-for-72v-makita-df012d-screwdriver) | 2x8 | 1 | STL | 2024-12-08 |
+| [Makita Jigsaw 18V](https://makerworld.com/en/models/2909180-makita-jigsaw-18v-gridfinity-insert-6x6x6u#profileId-3253395) | 6x6 | 1 | STL,3MF | 2026-06-19 |
+| [Makita Multitool 18v](https://makerworld.com/en/models/2909231-makita-multitool-18v-gridfinity-insert-2x7x6u#profileId-3253456) | 2x7 | 1 | STL,3MF | 2026-06-19 |
+| [Makita XGT Hammer Drill](https://makerworld.com/en/models/2909278-makita-xgt-hammer-drill-gridfinity-insert-5x6x6u#profileId-3253525) | 5x6 | 1 | STL,3MF | 2026-06-19 |
+| [Makita XGT Impact Gun](https://makerworld.com/en/models/2391306-makita-xgt-impact-gun-gridfinity-insert-5x3#profileId-2619794) | 5x3 | STL,3MF | 2026-06-19 |
 | [Material Swatches holder](https://www.printables.com/model/587675-gridfinity-material-swatches-holder-v2-parametric) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/material-swatch-bins)) | 1x1 - 2x4 + Customizable | 7 | OpenSCAD,STL | 2024-02-14 |
 | [Mechanical Keyboard Keycap Storage Trays](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%2520Mechanical%2520Keyboard%2520Keycap%2520Storage%2520Trays%2520(5x5%2520and%25205x7)-238569) | 5x5, 5x7 | 4 | STL | 2022-09-04 |
 | [Mechanical Pencil (Staedtler Micro 775) Holder](https://www.printables.com/model/498295-gridfinity-mechanical-pencil-holder-mars-staedtler) | 2x1 | 1 | STL, F3D | 2023-06-04 |
