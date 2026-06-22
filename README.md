@@ -591,6 +591,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Schubox Storage Box V2](https://makerworld.com/en/models/2488518-gridfinity-storage-box-schubox-v2-large-7x6#profileId-2734255) | 7x6 | 1 | STL | 2026-04-21 |
 | [Clip Persuader](https://makerworld.com/en/models/2668066-gridfinity-clip-persuader#profileId-2952698) | - | - | - | 2026-04-22 |
 | [Gridfinity Bin Compression Mold](https://www.printables.com/model/1723802-gridfinity-bin-compression-mold) | 1x2 | - | - | 2026-05-20 |
+| [Dowel storage system for Circular bins!] (https://makerworld.com/en/models/2894003-dowel-storage-system-for-circulair-bins#profileId-3233989) | 2x4 | 1 | STL,3MF | 2026-06-22 |
 
 # Online Generators
 
