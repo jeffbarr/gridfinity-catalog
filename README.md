@@ -57,6 +57,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1-10x10 | 22 | CadQuery | 2022-06-12 |
 | [Bisley 10 Drawer Gridfinity Base](https://www.printables.com/model/1297104-bisley-10-drawer-gridfinity-base) | 5x8 | 1 | STL | 2025-05-18 |
 | [Bookfinity](https://makerworld.com/en/models/1978845-bookfinity-complete-collection) | 3x4,3x5 | 35 | STL,3MF | 2025-11-09 |
+| [Bookfinity - Easy Edit](https://makerworld.com/en/models/2741830-bookfinity-easy-edit-version#profileId-3040565) | 3x3-4x5 | 360 | STL,3MF | 2026-06-25 |
+| [Bookfinity with Latches - Easy Edit](https://makerworld.com/en/models/2975304-bookfinity-with-latches-easy-edit#profileId-3337453) | 3x3-4x5 | 360 | STL,3MF | 2026-06-25 |
 | [Center Handle Tote](https://makerworld.com/en/models/1988611-gridfinty-center-handle-tote-many-sizes-stacking#profileId-2155528) | 1x4-3x7 | 12 | STL,3MF | 2025-11-29 |
 | [CLICKbase Refined](https://www.printables.com/model/1487592-clickbase-refined-a-no-magnet-latching-gridfinity) | 1x1-8x8 | 9 | STL | 2025-11-29 |
 | [ClickBase StackPlate](https://www.printables.com/model/1342921-clickbase-stackplate) | 1x1-4x4 | 5 | STL,Blend| 2025-07-07 |
@@ -249,6 +251,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x3-6x6 | 84 | STL | 2023-10-30 |
 | [Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
+| [ER25 Collet Holder with Size Labels](https://makerworld.com/en/models/2970992-gridfinity-er25-collet-holder-with-size-labels#profileId-3331899) | 1x1 | 19 | STL,3MF | 2026-06-25 |
 | [Essie Mini Nail Polish Holder](https://makerworld.com/en/models/2433831-essie-small-gridfinity-bins#profileId-2670002) | 1x1-2x5 | 6 | STL,3MF | 2026-02-24 |
 | [Filled Bins Full Height No Lip](https://www.printables.com/model/410744-gridfinity-filled-bins-full-height-no-lip) | 0.5x0x5-7x7 | - | 3MF | 2023-03-23 |
 | [Filled-In Boxes for Customization](https://www.printables.com/model/210548-filled-in-gridfinity-boxes-for-customization) | 1x1-7x7 | 39 | STL | 2023-03-20 |
