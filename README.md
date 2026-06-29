@@ -697,6 +697,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [This FREE AI Tool Auto-Generates Gridfinity Bins!](https://www.youtube.com/watch?v=e3EhJJlWwws) - 2026-05-20.
 * [How To 3D Print A Compression Mold For Gridfinity Bins](https://www.youtube.com/watch?v=VYrx1LRttOc) - 2026-05-20.
 * [Generate Gridfinity Bins](https://www.youtube.com/watch?v=ZZkG9QdNQqQ) - 2026-05-28.
+* [Custom Gridfinity Bins Without Modeling Every Tool](https://www.youtube.com/watch?v=gnwr17fNdVs) - 2026-06-29.
 
 # Other Collections
 
