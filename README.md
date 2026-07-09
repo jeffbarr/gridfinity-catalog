@@ -239,13 +239,14 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) | 1x1-5x1 | 51 | STL | 2022-06-12 |
 | [Divider Box for Breadboard Jumper Wires](https://thangs.com/designer/whoistobias/3d-model/Gridfinity%2520Divider%2520Box%2520for%2520Breadboard%2520Jumper%2520Wires-186348?s=09) | 2x5 | 1 | STL | 2022-07-21 |
 | [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) | 2x2 | 1 | STL | 2022-07-18 | 
+| [DrawerFlow - Kitchen Organizer System](https://makerworld.com/en/models/3000268-gridfinity-drawerflow-kitchen-organizer-system?appSharePlatform=copy#profileId-3368484) | 2x4-2x6 | 6 | STL,3MF | 2026-07-09 |
 | [Drawers](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Drawers-188528?s=09) | 2x3,4x6 | 6 | STL | 2022-07-21 | 
 | [Drawers for Lack Enclosures](https://www.printables.com/model/284027-gen2-gridfinity-drawers-for-lack-enclosures) | 3x4 | 3 | 3MF | 2024-02-14 |
 | [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) | 3x2 | 1 | STL | 2022-06-19 |
 | [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 | STL | 2022-07-19 |
 | [Dremel Cutting Wheel Holder](https://makeronline.com/en/model/Gridfinity%20Dremel%20Cutting%20Wheel%20Holder/265865.html) | 1x4 | 1 | ? | 2026-04-08 | 
 | [Dremel Light Bin](https://makerworld.com/en/models/1598127-gridfinity-dremel-lite-7760-bin#profileId-1683924) | 1x5 | 1 | STP | 2025-07-23 |
-| [Dremel Sanding and Grinding Accessory Organizer](https://makeronline.com/en/model/Gridfinity%20Dremel%20Sanding%20and%20Grinding%20Accessory%20Organizer/265868.html) | 2x4 | 1 | ? | 2026-04-08 | 
+| [Dremel Sanding and Grinding Accessory Organizer](https://makeronline.com/en/model/Gridfinity%20Dremel%20Sanding%20and%20Grinding%20Accessory%20Organizer/265868.html) | 2x4 | 1 | ? | 2026-04-08 | 7 | STL,3MF | 2026-07-09 |
 | [Drill Caddy](https://thangs.com/designer/Zwierzak%252C%2520Does%2520a%2520Thing/3d-model/Gridfinity%2520Drill%2520Caddy-65743) | 2x2 | 1 | STEP | 2022-09-04 |
 | [Dulce Gusto Coffee Capsule Holder](https://www.printables.com/model/1364828-gridfinity-dolce-gusto-coffee-capsule-holder) | 2x2,2x3,2x6,3x3 | 5 | STL,3MF | 2025-07-27 |
 | [Easter Island Head](https://makerworld.com/en/models/1974324-easter-island-head-gridfinity#profileId-2123260) | 1x1,2x2 | 2 | STL,3MF | 2025-12-22 |
@@ -300,6 +301,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Kitchen Caddy Jr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Kitchen%20Caddy%20Jr.-217330) | 2x1 | 1 | STL | 2022-09-04 |
 | [Kitchen Caddy Sr.](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Kitchen%2520Caddy%2520Sr.-217328) | 4x3 | 1 + 3 trays | STL | 2022-09-04 |
 | [Kitchen Drawer (Parametric)](https://makerworld.com/en/models/883766#profileId-838429) | 3x1-6x2 | 23 | STL,OpenSCAD | 2024-12-18 |
+| [Kitchen Knife Organizer](https://makerworld.com/en/models/2444960-gridfinity-kitchen-knife-organizer#profileId-2683409) | 5x10 | 1 | STL,3MF | 2026-07-09 |
 | [Klein 69408G 69408MG Combo Wrench](https://makerworld.com/en/models/2163734-klein-69408g-69408mg-combo-wrench-gridfinity-bin) | 4x6 | 2 | STP | 2025-12-31 |
 | [Klein MM400 Multimeter](https://makerworld.com/en/models/1651239-klein-mm400-multimeter-gridfinity-bin-with-storage#profileId-1745767) | 4x5 | 1 | STL,3MF | 2025-07-29 |
 | [Knee Model](https://makerworld.com/en/models/526650-gridfinity-knee#profileId-1937037) | 2x2 | 1 | STL,3MF | 2025-09-27 |
