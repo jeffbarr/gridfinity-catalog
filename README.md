@@ -444,6 +444,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Stackable Pen and Paper Tray](https://makerworld.com/en/models/2108904-gridfinity-stackable-pen-paper-trays) | 3x4 | 1 | STL,3MF | 2026-04-02 |
 | [Starbond CA Glue Variety Pack](https://www.printables.com/model/280137-starbond-ca-glue-variety-pack-holder-3-2oz-bottles) | 2x3 | 1 | STL | 2022-09-21 |
 | [Stanley Fatmax 6' Tape Measure](https://www.printables.com/model/1191042-gridfinity-bin-for-stanley-fatmax-6-tape-measure) | 2x2 | 1 | STL | 2025-02-23 | 
+| [Starrett Scriber Bin](https://makerworld.com/en/models/2609414-starrett-scriber-gridfinity-bin#profileId-2879899) | 1x3 | 1 | STL,3MF | 2026-07-09 |
 | [Sticky Note Holder](https://thangs.com/designer/Robot_taco_sauce/3d-model/Gridfinity%2520sticky%2520note%2520holder.stl-194948) | 2x2 | 1 | STL | 2022-09-04 |
 | [Storage Bin for Foam-Backed Sanding Sticks](https://www.printables.com/model/1359155-storage-bins-for-foam-backed-sanding-sticks-gridfi) | 3x4 | 2 | STL | 2025-07-23 |
 | [Storage Boxes](https://www.printables.com/model/175692-gridfinity-storage-boxes)  | 1x1-3x3 | 24 | STL | 2022-07-19 |
