@@ -43,6 +43,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+| [1/2" Drive SAE/Metric Socket Tray](https://makerworld.com/en/models/1038894-1-2-drive-sae-metric-socket-tray-for-gridfinity#profileId-1023303) | 2x11 | 1 | STL,3MF | 2026-07-13 | 
 | [5x5 Gridfinity 4 Tray Storage Rack](https://makerworld.com/en/models/185805-5x5-gridfinity-4-tray-storage-rack?from=search#profileId-213034) | 5x5x4 | 1 | STL | 2025-07-19 |
 | [A1 Printer Attachment System](https://makerworld.com/en/models/2412696-a1-printer-gridfinity-attachment-system#profileId-2645439) | 2x5-4x5 | 3 | STL,3MF | 2025-04-01 |
 | [Alex Drawer Tray Grid](https://www.printables.com/model/1552099-gridfinity-alex-drawer-tray-grid-economic-variant) | 3x4 | 1 | STL | 2026-01-26 |
@@ -420,6 +421,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Socket Organizers with 3/4, 1/2, 3/8 and 1/4 Inch Sockets](https://www.printables.com/model/1734674-gridfinity-socket-organizers-with-34-12-38-and-14) | 1x1-1x5 | 4 | 3MF,STL | 2026-06-06 |
 | [Socket Organizers for GEDORE RED Socket Sets](https://www.etsy.com/listing/1731541210/gridfinity-socket-organizers-for-gedore) | ? | ? | ? | 2025-01-18 |
 | [Socket Set Organizer for Husky 125-Piece Set](https://www.printables.com/model/614374-gridfinity-socket-holders-14-and-38) | 1x2-3x5 | ?? | 3MF,STEP | 2023-10-15 |
+| [Sockey Tray for Tekton SKT15311](https://makerworld.com/en/models/1121622-3-8-socket-gridfinity-tray#profileId-1120181) | 5x11 | 1 | STL | 2026-07-13 |
 | [Socket Tray - Customizable](https://makerworld.com/en/models/2292063-gridfinity-socket-tray-customizable?sfnsn=mo#profileId-2501011) |  |  | STP,F3D | 2026-01-29 |
 | [Solder Flix & Soldering Iron Tip Cleaner](https://www.printables.com/model/825562-gridfinity-bin-for-solder-flux-soldering-iron-tip) | 2x2 | 3 | STL | 2024-04-01 |
 | [Solder and Wire Spool Holder](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20Solder%20and%20Wire%20Spool%20Holder-73624) | 2x3 | 1 | STL | 2022-06-19 |
