@@ -287,6 +287,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [HF Pick and Hook Set](https://makerworld.com/en/models/2064691-gridfinity-storage-for-hf-pick-and-hook-set#profileId-2229517) | 2x4 | 1 | STL,3MF | 2026-02-24 |
 | [Hinged Box](https://www.printables.com/model/724144-gridfinity-hinged-box) | 1x1, 1x2 | 2 | STL | 2024-01-16 |
 | [Hobby Knife Stand](https://thangs.com/designer/anonym_xxl/3d-model/2x1GridfinityHobbyKnifeStand.stl-321683) | 1x2 | 1 | STL | 2022-09-06 |
+| [Holder for Festool BSTA HD D 3.5 CE](https://makerworld.com/en/models/3043093-gridfinity-holder-for-festool-bsta-hs-d-3-5-ce#profileId-3422225) | 1x3 | 1 | STL,3MF | 2026-07-15 |
 | [Husky Nut Driver Holder](https://www.reddit.com/r/gridfinity/comments/1h49cfv/husky_nut_driver_holder/) | - | - | - | 2024-12-08 |
 | [Hyper Tough 20-piece Ratchet Holder](https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-) | 4x3 | 1 | STL,F3D | 2023-05-29 |
 | [ICON 3/8 in Drive Metric Professional Long Ball Hex Bit  Set](https://www.printables.com/model/1602240-icon-38-in-drive-metric-professional-long-ball-hex) | 2x3 | 1 | 3MF,STP | 2026-02-17 |
