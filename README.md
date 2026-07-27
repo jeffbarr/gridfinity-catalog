@@ -340,6 +340,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Milwaukee Wire Stripper](https://makerworld.com/en/models/2689838-milwaukee-wire-stripper-and-cutter-48-22-3081#profileId-2980260) | 2x5 | 3 | STL,3MF | 2026-05-06 |
 | [Minifig Display Base](https://www.printables.com/model/284008-gridfinity-minifig-display-base) | 1x1, 3x4 | 2 | STL, STEP | 2023-01-09 |
 | [Minifinity Bin Collection](https://www.printables.com/model/247815-gridfinity-minifinity-bin-collection) | 1x1-4x2 | 9 | STL | 2022-07-29 |
+} [Miniature Base to Gridfinity Adapter](https://makerworld.com/en/models/3101379-miniature-base-to-gridfinity-adapter-32mm-base#profileId-3495826) | 1x1 | 1 | STL,3MF | 2026-07-27 |
 | [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) | 2x2 | 2 | STL | 2022-07-25 |
 | [Mitutoyo Caliper Holder](https://www.printables.com/model/448005-gridfinity-mitutoyo-caliper-holder-2x2-1x1) | 2x2 + 1x1 | 13 | STL | 2024-06-25 |
 | [Mitutoyo Digital Calipers (6" and 8")](https://www.printables.com/model/1102634-gridfinity-bins-for-mitutoyo-digital-calipers-6-in) | 2x6,3x8 | 2 | STL | 2024-12-10 |
