@@ -49,6 +49,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Alex Drawer Tray Grid](https://www.printables.com/model/1552099-gridfinity-alex-drawer-tray-grid-economic-variant) | 3x4 | 1 | STL | 2026-01-26 |
 | [Angled Plate](https://www.printables.com/model/1250441-gridfinity-angled-plate) | 2x4 | 1 | STL | 2025-05-18 |
 | [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1-7x7 | 30 | STL,STP | 2023-03-30 |
+| [Base plate for Cases With Foam](https://makerworld.com/en/models/3070627-custom-gridfinity-base-plate-for-cases-with-foam#profileId-3456794) | 1x3,2x2,2x3 | 6 | 3MF,OpenSCAD | 2026-07-31 |
 | [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
 | [Baseplate Mold Box](https://www.printables.com/model/1344249-castfinity-baseplate-mold-box) | 2x2-5x5 | 14 | STL,3MF | 2025-07-02 |
 | [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
