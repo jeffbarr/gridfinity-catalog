@@ -228,6 +228,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Creality K2 Plus Combo Toolbox Foam Insert Adapter](https://thangs.com/designer/myokeeh/3d-model/Creality%20K2%20Plus%20Combo%20Toolbox%20Foam%20Insert%20Gridfinity%20Adapter-1360427) | 2x3 | 1 | 3LF | 2025-06-18 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
 | [Customizable Airpods Organizer](https://makerworld.com/en/models/2700231-customizable-airpods-gridfinity-organizer#profileId-2993304) | 2x2 | 1 | STL,3MF | 2026-05-11 | 
+| [Customizable Cylindrical Tool Holder LG](https://makerworld.com/en/models/3142327-gridfinity-customizable-cylindrical-tool-holder-lg#profileId-3548114) |  1x5,1x6 | 3 | STL,3MF | 2026-08-07 | 
 | [Customizable Long Tool Organizer](https://makerworld.com/en/models/2707046-customizable-gridfinity-long-tool-organizer#profileId-2999598) | 1x2 | 2 | STL,OpenSCAD | 2026-04-24 |
 | [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
