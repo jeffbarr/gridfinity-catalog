@@ -243,6 +243,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Divider Bins](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Divider%2520Bins-60721) | 1x1-5x1 | 51 | STL | 2022-06-12 |
 | [Divider Box for Breadboard Jumper Wires](https://thangs.com/designer/whoistobias/3d-model/Gridfinity%2520Divider%2520Box%2520for%2520Breadboard%2520Jumper%2520Wires-186348?s=09) | 2x5 | 1 | STL | 2022-07-21 |
 | [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) | 2x2 | 1 | STL | 2022-07-18 | 
+| [Drawer Chest | Customizable Drawers](https://www.printables.com/model/1715803-gridfinity-drawer-chest-customizable-drawers) | 3x5 | 5 | STL | 2026-08-07 |
 | [DrawerFlow - Kitchen Organizer System](https://makerworld.com/en/models/3000268-gridfinity-drawerflow-kitchen-organizer-system?appSharePlatform=copy#profileId-3368484) | 2x4-2x6 | 6 | STL,3MF | 2026-07-09 |
 | [Drawers](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Drawers-188528?s=09) | 2x3,4x6 | 6 | STL | 2022-07-21 | 
 | [Drawers for Lack Enclosures](https://www.printables.com/model/284027-gen2-gridfinity-drawers-for-lack-enclosures) | 3x4 | 3 | 3MF | 2024-02-14 |
