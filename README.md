@@ -484,6 +484,9 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ultimate Battery Holder (AA, AAA, AAAA, 2032, LR44, A97, 18650, 9v)](https://thangs.com/designer/Michael%20Fuchs/3d-model/Gridfinity%25203x5%2520Ultimate%2520Battery%2520Holder%2520%28AA%252C%2520AAA%252C%2520AAAA%252C%25202032%252C%2520LR44%252C%2520A97%252C%252018650%252C%25209v%29-62533) | 3x5 | 1 | STL | 2022-07-25 |
 | [Ultra Light Bins - Plain Edition](https://www.printables.com/model/627719-gridfinity-ultra-light-bins-plain-edition) | 1x1-5x5 | 330 | STL | 2026-08-03 |
 | [Ultra Light Bins - Divider Edition](https://www.printables.com/model/640799-gridfinity-ultra-light-bins-divider-edition) | 1x1-3x4 | 2079 | STL | 2026-08-03 |
+| [Ultra Light Bins - Divider Label Edition](https://www.printables.com/model/708366-gridfinity-ultra-light-bins-divider-label-edition) | 1x1-3x5 | 2880 | STL | 2026-08-09 |
+| [Ultra Light Bins - Plan Half Grid Edition](https://www.printables.com/model/640797-gridfinity-ultra-light-bins-plain-half-grid-editio) | 0.5x1-3x3 | 200 | STL | 2026-08-09 |
+| [Ultra Light Bins - Plain Label Half Grid Edition](https://www.printables.com/model/755848-gridfinity-ultra-light-bins-plain-label-half-grid) | 0.5x1-3x3 | 900 | STL | 2026-08-09 |
 | [Universal Screwdriver Trays](https://makerworld.com/en/models/624327-gridfinity-universal-screwdriver-trays?from=recommend#profileId-548655) | 1x2-2x4 | 16 | STL,3MF | 2026-05-29 |
 | [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) | 1x1 | 1 | STL | 2022-06-12 |
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
