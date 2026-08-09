@@ -593,6 +593,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Dynamic 3D Label Generator](https://github.com/clement-roblot/Gridfinity-Label-Generator) | - | 1 | Python,  PDF | 2024-08-08 |
 | [Gridfinity Height Bin](https://makerworld.com/en/models/171875-gridfinity-bin#profileId-420345) | 1x3 | 1 | STL,3MF | 2025-11-07 |
+| [Gridfinity Height Ruler](https://www.printables.com/model/765848-gridfinity-hight-ruler) | - | 2 | STL,STP | 2026-08-09 | 
 | [Gridfinity ruler](https://www.printables.com/model/1142386-gridfinity-ruler) | 1 | 1 | STL | 2025-01-23 |
 | [Gridfinity Ruler MKII](https://makerworld.com/en/models/856330#profileId-805694) | - | 5 | STL,3MF | 2024-12-08 |
 | [Gridfinity Secure Brackets](https://www.printables.com/model/1009734-gridfinity-secure-brackets) | - | 3 | STL | 2024-10-13 |
