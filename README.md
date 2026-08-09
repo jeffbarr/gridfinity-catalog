@@ -656,6 +656,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
 * [Fusion Gridfinity Generator](https://github.com/Le0Michine/FusionGridfinityGenerator) - Fusion 360 add-in to generate bins and baseplates.
 * [Fusion Gridfinity Generator Mod](https://github.com/jonmooreai/fusion-gridfinity-mod) - Generate baseplate from draws dimensions.
+* [Ultralight Bins - Parametric Generator Edition](https://www.printables.com/model/925520-gridfinity-ultra-light-bin-generator) - Create your own Gridfinity bin (OpenSCAD).
 
 # Apps
 * [Sorted w/Gridfinity[(https://play.google.com/store/apps/details?id=com.gridfinity.drawerdesigner) - Drawer layout designer.
