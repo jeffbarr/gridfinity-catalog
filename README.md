@@ -165,6 +165,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Beard Club PT45 Trimmer & Guards](https://makerworld.com/en/models/2767486-beard-club-pt45-trimmer-guards-gridfinity-bin#profileId-3073437) | 4x5 | 1 | STL,3MF | 2026-05-08 |
 | [Beard Club T-Blade Beard Edger](https://makerworld.com/en/models/2751943-beard-club-t-blade-beard-edger-gridfinity-bin#profileId-3053435) | 2x5 | 1 | STL,3MF | 2026-05-08 |
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 1x4-5x5 | 36 | STL | 2022-06-25 |
+
+| [Bin with Transparent Lid](https://makerworld.com/en/models/1385345-gridfinity-bin-with-transparent-lid-1x1-3u-6u#profileId-1434631) | 1x1 | TBD | STL,3MF | 2026-08-23 |
 | [Bin/Lid for RJ45 Jacks](https://makerworld.com/en/models/1414568-gridfinity-bin-for-rj45-jacks-pinout-lid#profileId-1468931) | 2.5x3.5 | 1 | STL,3MF | 2025-05-13 |
 | [Binfinity Modular Bin System](https://makerworld.com/en/models/2294784-binfinity-modular-gridfinity-bin-system#profileId-2504193) | 1x1-6x5 | 560 | STL,3MF | 2026-01-25 |
 | [Bins with Cover (1x1)](https://www.printables.com/model/665798-gridfinity-1-x-1-x-2-and-1-x-1-x-3-inserts-with-co) | 1x1 | 17 | STL | 2024-02-14 |
@@ -616,6 +618,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Clip Persuader](https://makerworld.com/en/models/2668066-gridfinity-clip-persuader#profileId-2952698) | - | - | - | 2026-04-22 |
 | [Gridfinity Bin Compression Mold](https://www.printables.com/model/1723802-gridfinity-bin-compression-mold) | 1x2 | - | - | 2026-05-20 |
 | [Dowel storage system for Circular bins!] (https://makerworld.com/en/models/2894003-dowel-storage-system-for-circulair-bins#profileId-3233989) | 2x4 | 1 | STL,3MF | 2026-06-22 |
+| [Treasure Island - Modular Collectibles Display](https://makerworld.com/en/models/3202182-treasure-islands-modular-collectibles-display) | 1x1-6x6 | 164 | STL,3MF | 2026-08-23 |
 
 # Online Generators
 
