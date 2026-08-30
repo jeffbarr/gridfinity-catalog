@@ -165,7 +165,6 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Beard Club PT45 Trimmer & Guards](https://makerworld.com/en/models/2767486-beard-club-pt45-trimmer-guards-gridfinity-bin#profileId-3073437) | 4x5 | 1 | STL,3MF | 2026-05-08 |
 | [Beard Club T-Blade Beard Edger](https://makerworld.com/en/models/2751943-beard-club-t-blade-beard-edger-gridfinity-bin#profileId-3053435) | 2x5 | 1 | STL,3MF | 2026-05-08 |
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 1x4-5x5 | 36 | STL | 2022-06-25 |
-
 | [Bin with Transparent Lid](https://makerworld.com/en/models/1385345-gridfinity-bin-with-transparent-lid-1x1-3u-6u#profileId-1434631) | 1x1 | TBD | STL,3MF | 2026-08-23 |
 | [Bin/Lid for RJ45 Jacks](https://makerworld.com/en/models/1414568-gridfinity-bin-for-rj45-jacks-pinout-lid#profileId-1468931) | 2.5x3.5 | 1 | STL,3MF | 2025-05-13 |
 | [Binfinity Modular Bin System](https://makerworld.com/en/models/2294784-binfinity-modular-gridfinity-bin-system#profileId-2504193) | 1x1-6x5 | 560 | STL,3MF | 2026-01-25 |
@@ -354,6 +353,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
 | [Modular Hammer Rack](https://makerworld.com/en/models/1633800-gridfinity-modular-hammer-rack#profileId-1725807) | 2x2 | 5 | 3MF,STL | 2025-070-23 |
 | [Modular Kitchen Trays](https://www.printables.com/model/1162895-gridfinity-modular-modern-kitchen-trays) | 1x1-5x5 | 23 | STL,OpenSCAD | 2025-02-03 |
+| [Modular Rotating Bit Storage](https://makerworld.com/en/models/3204132-gridfinity-modular-rotating-bit-storage-3u#profileId-3626213) | 2x4 | 1 | STL,3MF | 2026-08-30 |
 | [Modular Screwdriver Organizer](https://makerworld.com/en/models/1131369#profileId-1132136) | 1x3, 1x.5 | 6 | STP | 2025-02-23 |
 | [Mounted Hanging Trash Can](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Mounted%2520Hanging%2520Trash%2520Can-64964) | 2x2 | 2 | STL | 2022-07-25 |
 | [Needle File Set Holder (Draper 6 Piece Diamond)](https://www.printables.com/model/636437-needle-file-set-holder-gridfinity-4x2-draper-6-pie) | 2x4 | 1 | STL | 2024-01-02 |
@@ -400,6 +400,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ratchet +  Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Ratchet%20%2B%20%20Holders-60906) | 1x3,1x4,1x5 | 5 | STL | 2022-07-19 |
 | [Reinforced Economical Bins](https://www.printables.com/model/538275-more-reinforced-economical-gridfinity-bins) | 0.5x0.5-7x7 | 1185 | 3MF | 2022-08-26 |
 | [RJ45 / 8P8C Crimp Tool Holder](https://makerworld.com/en/models/1305520-gridfinity-rj45-8p8c-crimp-tool-holder-2x5) | 5x2 | 1 | STL,3ML | 2025-04-10 |
+| [Removable Divider Bins](https://makerworld.com/en/models/3237220-gridfinity-removable-divider-bins#profileId-3667295) | 1x4-2x4 | 6 | STL,3MF | 2026-08-30 | 
 | [Roller Door Bin Collection](https://makerworld.com/en/models/1507224-roller-door-gridfinity-bin-collection#profileId-1577549) | 1x1-3x2 | 12 | STL,3MF | 2025-07-19 |
 | [Rugged Bin Collection](https://makerworld.com/en/models/946361-rugged-bin-collection-gridfinity-bins#profileId-926362) |  1x2-4x6 | 56 | STL,3MF | 2026-04-03 |
 | [Rugged Drawer System - Gridfinity Activated](https://makerworld.com/en/models/810461#profileId-751683) | 2x4, 3x5 | 6 | STL,3Mf | 2024-11-23 |
@@ -473,6 +474,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Tape Stand/Sorter](https://www.printables.com/model/1506848-gridfinity-tape-standsorter) | 4x1,4x2 | 2 | STL | 2025-12-21 |
 | [Tarot Card Box](https://www.printables.com/model/199465-gridfinity-boxes-for-tarot-cards) | 1x3, 2x3 | 4 | STL | 2022-06-12 |
 | [Template with Mid-Air Holes](https://www.printables.com/model/269834-gridfinity-template-modified-for-mid-air-holes) | 1x1 | 1 | STL,F3D | 2022-09-26 |
+| [Terro Liquid Ant Bait Box](https://makerworld.com/en/models/3203400-terro-liquid-ant-bait-gridfinity-box#profileId-3625320) | 2x3 | 1 | STL,3MF | 2026-08-30 |
 | [Test Hooks Clips Probes](https://makerworld.com/en/models/1527842-test-hook-clips-probes-gridfinity#profileId-1601868) | 1x1 | 1 | STL,3MF | 2025-09-18 |
 | [Testors Paint Jars](https://thangs.com/designer/me252613057338/3d-model/Gridfinity%2520Testors%25202x3%2520for%25209-74539) | 1x2 | 1 | STL | 2022-06-12 |
 | [Thread Chaser Organizer](https://makerworld.com/en/models/1095238#profileId-1089530) | 3x4 | 1 | STL | 2025-02-23 |
