@@ -416,6 +416,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ryobi Quick Change Hobby Knife](https://www.printables.com/model/748779-ryobi-quick-change-hobby-knife-kit-rhckp04-gridfin) | 1x1 | 2 | STL,STP,F3D | 2024-02-07 |
 | [Ryobi USB Lithium LED Pivoting Laser](https://www.printables.com/model/1679124-ryobi-gridfinity-bin-usb-lithium-led-pivoting-lase) | 1x5 | 1 | STL,3MF | 2026-04-10 |
 | [Ryobi USB Lithium Screwdriver](https://www.printables.com/model/1660652-ryobi-gridfinity-bin-usb-lithium-screwdriver) |  2x6 | 1 | STL,3MF | 2026-04-10 |
+| [SAE Socket Bit Organizer](https://makerworld.com/en/models/2635721-gridfinity-sae-socket-bit-organizer#profileId-2911267) | 4x4 | 1 | STL,3MF | 2026-08-31 |
 | [Screwdriver Rack](https://www.printables.com/model/237438-gridfinity-screwdriver-rack) | 1x2 | 1 | STL | 2022-07-08 |
 | [Screw Measure Tool](https://www.printables.com/model/276983-gridfinity-screw-measure-tool-1x1-mini-edition) | 1x1 | 1 | STL | 2024-02-14 |
 | [Serum Holders](https://makerworld.com/en/models/1511397-gridfinity-serum-holders#profileId-1582563) | 2x3 | 4 | STL,3MF | 2025-06-25 |
@@ -740,6 +741,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Desk Organizer System - Deskfinity](https://makerworld.com/en/models/826392-gridfinity-desk-organizer-system-deskfinity#profileId-780724) - 2026-05-12.
 * [Universal Toolbox Collection](https://makerworld.com/en/collections/2240372-gridfinity-universal-toolbox) - 2026-05-12.
 * [Socket Storage System](https://makerworld.com/en/collections/719890-gridfinity-socket-system) - 2026-05-25.
+* [Gridfinity DrawerFlow - Workshop](https://makerworld.com/en/collections/34127755-gridfinity-drawerflow-workshop) - 2026-08-31.
 
 # Other Resources
 
