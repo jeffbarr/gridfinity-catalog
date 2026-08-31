@@ -312,6 +312,9 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Klein 69408G 69408MG Combo Wrench](https://makerworld.com/en/models/2163734-klein-69408g-69408mg-combo-wrench-gridfinity-bin) | 4x6 | 2 | STP | 2025-12-31 |
 | [Klein MM400 Multimeter](https://makerworld.com/en/models/1651239-klein-mm400-multimeter-gridfinity-bin-with-storage#profileId-1745767) | 4x5 | 1 | STL,3MF | 2025-07-29 |
 | [Knee Model](https://makerworld.com/en/models/526650-gridfinity-knee#profileId-1937037) | 2x2 | 1 | STL,3MF | 2025-09-27 |
+| [Knipex 99-220 Concreters Nippers Holder](https://makerworld.com/en/models/3233537-gridfinity-knipex-99-220-concreters-nippers-holder#profileId-3662707) | 2x6 | 2 | STL,3MF | 2026-08-31 |
+| [Knipex 99-280 Concreters Nippers Holder](https://makerworld.com/en/models/3233637-gridfinity-knipex-99-280-concreters-nippers-holder#profileId-3662854) | 2x8 | 2 | STL,3MF | 2026-08-31 |
+| [Knipex Wire Rope Cutter 95 61190](https://makerworld.com/en/models/3227816-gridfinity-knipex-wire-rope-cutter-95-61-190#profileId-3655531) | 2x5 | 1 | STL,3MF | 2026-08-31 |
 | [Kumiko Bins Sampler Set](https://makerworld.com/en/models/2513474-gridfinity-kumiko-bins-sampler-set#profileId-2764555) | 1x1 | 6 | STL,3MF | 2026-03-30 |
 | [Kumiko Bins Asanoha Pattern](https://makerworld.com/en/models/2513379-kumiko-gridfinity-bins-asanoha-pattern#profileId-2764423) | 1x1-3x3 | 20 | STL,3MF | 2026-03-30 |
 | [Kumiko Mikado Bins](https://www.printables.com/model/1124775-gridfinity-kumiko-mikado-bins) | 1x1-3x3 | 24 | STL,3MF | 2026-03-31 |
@@ -493,6 +496,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ultra Light Bins - Plan Half Grid Edition](https://www.printables.com/model/640797-gridfinity-ultra-light-bins-plain-half-grid-editio) | 0.5x1-3x3 | 200 | STL | 2026-08-09 |
 | [Ultra Light Bins - Plain Label Half Grid Edition](https://www.printables.com/model/755848-gridfinity-ultra-light-bins-plain-label-half-grid) | 0.5x1-3x3 | 900 | STL | 2026-08-09 |
 | [Universal Screwdriver Trays](https://makerworld.com/en/models/624327-gridfinity-universal-screwdriver-trays?from=recommend#profileId-548655) | 1x2-2x4 | 16 | STL,3MF | 2026-05-29 |
+| [Usag 158A Safety-Twist Pliers Holder](https://makerworld.com/en/models/3227094-gridfinity-safety-twist-pliers-holder#profileId-3654687) | 2x7 | 1 | STL,3MF | 2026-08-31 |
 | [USB & Micro SD Holder](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%2520USB%2520%2526%2520Micro%2520SD%2520Holder-62708) | 1x1 | 1 | STL | 2022-06-12 |
 | [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%23Gridfinity%20Usb%20and%20SD%20Card%20Holder%20-61209) | 1x2 | 1 | STL | 2022-06-12 |
 | [USB A & C holder](https://www.printables.com/model/242607-gridfinity-usb-a-c-holder-1x1x3-or-2x1x3-added-ste) | 1x1,2x1 | 2 | STP, STEP | 2024-02-14 |
