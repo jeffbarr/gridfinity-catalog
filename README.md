@@ -78,6 +78,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
 | [French Cleat Rack](https://makeronline.com/en/model/Gridfinity%20French%20Cleat%20Rack/261166.html) | 2x4,2x6 | 2 | STL | 2026-04-01 |
 | [Gen 5 (2023+) Prius Center Console](https://www.printables.com/model/1585337-gen-5-2023-prius-center-console-gridfinity-base) | 3x5 | 2 | 3MF,F3D | 2026-04-01 |
+| [Gridfinity base SnapClip System](https://makerworld.com/en/models/1034973-gridfinity-base-snapclip-system#profileId-1100293) | 1x2-5x5 | 9 | 3MF,STL | 2026-09-03 |
 | [Gridfinity Grids - Stacked for Printing](https://www.printables.com/model/995911-gridfinity-grids-stacked-for-printing) | 8x8 | 1 | STL,F3D | 2024-10-14 |
 | [Gridfinity Shelf for openGrid](https://makerworld.com/en/models/1469935-infinite-gridfinity-shelf-for-opengrid-very-strong#profileId-1534153) | 2x2-2x6 | 3 | STL,3MF | 2025-09-20 |
 | [GRIPS: GRidfinity Interlocking basePlate System](https://makerworld.com/en/models/704997) | Any | - | OpenSCAD | 2025-02-03 |
@@ -671,6 +672,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Ultralight Bins - Parametric Generator Edition](https://www.printables.com/model/925520-gridfinity-ultra-light-bin-generator) - Create your own Gridfinity bin (OpenSCAD).
 
 # Apps
+* [Baseplate Nesting Planner](https://arexey.github.io/public_tools/baseplate-nesting-planner/) - Plans a minimum-plate baseplate layout for a given opening and reports the clip count and the seams that carry no fastener.
 * [Sorted w/Gridfinity[(https://play.google.com/store/apps/details?id=com.gridfinity.drawerdesigner) - Drawer layout designer.
 
 # Articles
