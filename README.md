@@ -82,6 +82,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Gridfinity Grids - Stacked for Printing](https://www.printables.com/model/995911-gridfinity-grids-stacked-for-printing) | 8x8 | 1 | STL,F3D | 2024-10-14 |
 | [Gridfinity Shelf for openGrid](https://makerworld.com/en/models/1469935-infinite-gridfinity-shelf-for-opengrid-very-strong#profileId-1534153) | 2x2-2x6 | 3 | STL,3MF | 2025-09-20 |
 | [GRIPS: GRidfinity Interlocking basePlate System](https://makerworld.com/en/models/704997) | Any | - | OpenSCAD | 2025-02-03 |
+| [Hex Shelf Modular](https://makerworld.com/en/models/3242738-hex-shelf-modular#profileId-3674266) | 3x5 | 1 | 3MF,STL | 2026-09-19 |
 | [Ikea Alex Exact Fit Ultralight](https://makerworld.com/en/models/1706276-ikea-alex-gridfinity-exact-fit-70g-ultralight#profileId-1810082) | 10x14 | 1 | STL,3MF | 2025-08-24 |
 | [Ikea Alex Wide Drawers](https://www.printables.com/model/718705-gridfinity-base-for-ikea-alex-wide-drawers) | 3x5-5x5 | 3 | 3MF | 2024-01-23 |
 | [Ikea Kuggis 26x35x15 Box Baseplate](https://makerworld.com/en/models/2930966-ikea-kuggis-26x35x15-box-gridfinity-7x5-baseplate#profileId-3281138) | 5x7 | 1 | STL,3MF | 2026-06-18 |
@@ -201,7 +202,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Caliper, Angle, and Radius Gauge](https://makerworld.com/en/models/2581195-gridfinity-caliper-angle-and-radius-gauge-holder#profileId-2846854) | 3x6 | 1 | STL,3MF | 2026-03-30 |
 | [Camera Lens Holder](https://makerworld.com/en/models/2216613-tpu-padded-gridfinity-lens-holders-60mm-to-80mm#profileId-2410133) | 2x2 | 11 | STL,3MF | 2026-01-10 |
 | [Can Holder](https://www.printables.com/model/245372-gridfinity-can-holder) | 2x2 | 1 | STL,3MF | 2022-07-21 |
-| [ Car Key Bin](https://makerworld.com/en/models/2942436-car-key-gridfinity-bin#profileId-3295591) |  1x2 | 1 | STL,3MF | 2026-06-27 |
+| [Car Key Bin](https://makerworld.com/en/models/2942436-car-key-gridfinity-bin#profileId-3295591) |  1x2 | 1 | STL,3MF | 2026-06-27 |
+| [Card Deck Holder - Parametric](https://makerworld.com/en/models/3317050-gridfinity-card-deck-holder-parametric-any-deck)  | - | - | OpenSCAD | 2026-09-19 |
 | [Case for Ferrules and Crimp Tool](https://www.thingiverse.com/thing:6539877) | 2x5 | 1 | STL | 2024-03-19 |
 | [Case for Scalpels](https://www.printables.com/model/241400) | 4x2 | 1 | F3D,STL | 2022-09-04 |
 | Celtic Knot Bin | 1x1 ([std](https://social.thangs.com/m/733950), [ext](https://social.thangs.com/m/733951)), 1x2 ([std](https://social.thangs.com/m/733953), [ext](https://social.thangs.com/m/733956)), 2x2 ([std](https://social.thangs.com/m/733962), [ext](https://social.thangs.com/m/733965)) | 1 | STL | 2023-03-15 |
