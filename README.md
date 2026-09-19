@@ -94,7 +94,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Milwaukee 11-Compartment Packout Low Profile Organizer](https://makerworld.com/en/models/1534482-gridfinity-base-for-packout-low-profile-organizer#profileId-1609516) |  7x9.5 | 1 | STL,3MF | 2025-07-07 |
 | [Milwaukee 5-Compartment Packout Low Profile Organizer](https://makerworld.com/en/models/1487820-packout-low-profile-organizer-gridfinity-base#profileId-1554673) | 4x4.5 | 1 | STL,3MF | 2025-07-07 |
 | [Milwaukee 5-Compartment Packout Small Parts Organizer](https://makerworld.com/en/models/1504698-packout-deep-organizer-gridfinity-base-and-bins#profileId-1574535) | 4.5x7 | 1 | STL,3MF | 2025-07-07 |
-| [Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Minimal%2520Baseplate%25204x4.stl-260576) | 4x4 + Customizable | 1 | STL,F3D | 2022-08-12 |
+| [Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Minimal%2520Baseplate%25204x4.stl-260576) | 4x4 +  | 1 | STL,F3D | 2022-08-12 |
 | [Modular Gridfinity Drawers](https://www.printables.com/model/458846-modular-gridfinity-drawers-in-various-sizes) | 2x3-3x5 | 48 | STL,STP | 2024-03-12 |
 | [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1-5x6 | 18 | 3MF | 2022-06-12 |
 | [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) | 1x4-3x4 | 3 | STL | 2022-06-12 |
@@ -108,7 +108,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Stackable Modular Baseplates](https://www.printables.com/model/373752-gridfinity-stackable-modular-baseplates) | 1x1-7x7 | 56 | STK | 2025-12-21 |
 | [Subdivide Base Plates](https://makerworld.com/en/models/1365928-gridfinity-subdivide-base-plates#profileId-1411605) | 1x1-6x6 | 11 | STL,3MF | 2025-07-19 |
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3-5x5 | 14 | STL | 2023-10-07 |
-| [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1-7x7 | 13 | STL | 2022-06-12 | 28 | 
+| [Support-less Weighted Baseplates (CadQuery )](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20)-65042) | 1x1-7x7 | 13 | STL | 2022-06-12 | 28 | 
 | [Thin Baseplate with Magnets](https://www.printables.com/model/303923-gridfinity-thin-base-with-magnets) | 2x2-6x6 | 15 | STL | 2022-10-27 |
 | [Thinner Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Thinner%2520Minimal%2520Baseplate%25204x4.stl-260577) | 4x4 + Customizable | 1 | STL,F3D | 2022-08-12 |
 | [Uline Louvre Board Tray](https://www.printables.com/model/1349734-uline-louvre-board-gridfinity-tray) | 4x5 | 1 | STL,SolidWorks | 2025-07-13 |
@@ -231,7 +231,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
 | [Customizable Airpods Organizer](https://makerworld.com/en/models/2700231-customizable-airpods-gridfinity-organizer#profileId-2993304) | 2x2 | 1 | STL,3MF | 2026-05-11 | 
 | [Customizable Cylindrical Tool Holder LG](https://makerworld.com/en/models/3142327-gridfinity-customizable-cylindrical-tool-holder-lg#profileId-3548114) |  1x5,1x6 | 3 | STL,3MF | 2026-08-07 | 
-| [Customizable Long Tool Organizer](https://makerworld.com/en/models/2707046-customizable-gridfinity-long-tool-organizer#profileId-2999598) | 1x2 | 2 | STL,OpenSCAD | 2026-04-24 |
+| [Customizable Long Tool Organizer](https://makerworld.com/en/models/2707046-customizable-gridfinity-long-tool-organizer#profileId-2999598) | 1x2 | 2 | STL | 2026-04-24 |
+| [Customizable Stacking Trays](https://makerworld.com/en/models/3315402-gridfinity-customizable-stacking-trays-bins-v2#profileId-3764211) | 2x2,3x4,4x5,4x6 + Custom | 4 | STL,OpenSCAD | 2026-09-19 |
 | [Cutlery Low Profile Bins](https://www.printables.com/model/825548-gridfinity-cutlery-low-profile-bins) | 1x6,1x6.5 | 2 | STL | 2024-04-01 |
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
 | [Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
