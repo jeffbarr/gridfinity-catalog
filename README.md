@@ -642,6 +642,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfi](https://gridfi.cc/) - Configurator and printing service.
 * [Gridfinity Generator](https://gridfinitygenerator.com/en) - Easily create custom 3D Gridfinity designs with this free, interactive tool. Export your designs as STL.
 * [ToolTrace](https://www.tooltrace.ai/) - Tool inserts, made in one click.
+* [TraceBin](https://tracebin.app/#) - Photo to bin generation - 2026-09-19. 
 * [TracetoForge](https://tracetoforge.com/) - Photo-to-STL tool insert generator. Supports Gridfinity, Milwaukee Packout, and custom trays. Multi-tool tracing, finger notch control, and multiple export formats (STL, 3MF, SVG, DXF).
 * [Outline.Georgs.LV](https://outline.georgs.lv/) - Make an SVG path and Gridfinity box for any tool using only a picture.
 * [Gridfinity Extended Irregular Bins Generator](https://makerworld.com/en/models/1699341-gridfinity-extended-irregular-bins-generator#profileId-1804521) - Create custom Gridfinity-compatible bins and cups with shapes beyond simple rectangles.
