@@ -31,7 +31,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 - [Adapters](#adapters)
 - [Stackfinity](#stackfinity)
 - [Templates](#templates])
-- [Everything ](#everything-)
+- [Everything Else](#everything-else)
 - [Online Generators](#online-generators)
 - [Offline Generators](#offline-generators)
 - [Apps](#Apps)
