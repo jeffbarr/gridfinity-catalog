@@ -31,7 +31,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 - [Adapters](#adapters)
 - [Stackfinity](#stackfinity)
 - [Templates](#templates])
-- [Everything Else](#everything-else)
+- [Everything ](#everything-)
 - [Online Generators](#online-generators)
 - [Offline Generators](#offline-generators)
 - [Apps](#Apps)
@@ -264,6 +264,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Engineer SS-02 Solder Sucker](https://www.printables.com/en/model/217839-gridfinity-engineer-ss-02-solder-sucker) | 1x1 | 1 | STL | 2022-07-25 |
 | [Epson Label Cartridge Holder](https://social.thangs.com/m/201086) | 2x2, 2x4 | 4 | STL | 2022-07-20 |
 | [ER25 Collet Holder with Size Labels](https://makerworld.com/en/models/2970992-gridfinity-er25-collet-holder-with-size-labels#profileId-3331899) | 1x1 | 19 | STL,3MF | 2026-06-25 |
+| [ER32 Collet Holders](https://www.printables.com/model/1817601-gpgf-gridfinity-er32-collet-holders) | 1x1 | 1 | STEP | 2026-09-23 |
 | [Essie Mini Nail Polish Holder](https://makerworld.com/en/models/2433831-essie-small-gridfinity-bins#profileId-2670002) | 1x1-2x5 | 6 | STL,3MF | 2026-02-24 |
 | [Filled Bins Full Height No Lip](https://www.printables.com/model/410744-gridfinity-filled-bins-full-height-no-lip) | 0.5x0x5-7x7 | - | 3MF | 2023-03-23 |
 | [Filled-In Boxes for Customization](https://www.printables.com/model/210548-filled-in-gridfinity-boxes-for-customization) | 1x1-7x7 | 39 | STL | 2023-03-20 |
@@ -630,6 +631,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Gridfinity Bin Compression Mold](https://www.printables.com/model/1723802-gridfinity-bin-compression-mold) | 1x2 | - | - | 2026-05-20 |
 | [Dowel storage system for Circular bins!] (https://makerworld.com/en/models/2894003-dowel-storage-system-for-circulair-bins#profileId-3233989) | 2x4 | 1 | STL,3MF | 2026-06-22 |
 | [Treasure Island - Modular Collectibles Display](https://makerworld.com/en/models/3202182-treasure-islands-modular-collectibles-display) | 1x1-6x6 | 164 | STL,3MF | 2026-08-23 |
+| [Baseplate Magnet Setter Jig](https://www.printables.com/model/1850385-gridfinity-baseplate-magnet-setter-jig-6x6) | 6x6 | 1 | STEP | 2026-09-23 |
 
 # Online Generators
 
@@ -668,6 +670,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Nabu Labels](https://nabulabels.com/) - Create labels for Gridfinity in seconds - 2026-06-19.
 * [Bin Customizer with Pred-Style Label](https://makerworld.com/en/models/2928141-gridfinity-bin-customizer-with-pred-style-label#profileId-3277680) - Customizable Gridfinity bins with a built-in snap-in holder for matching Pred-style labels - 2026-06-19.
 * [Label Generator for Gridfinity Bins](https://makerworld.com/en/models/769441-label-generator-gridfinity-bin#profileId-705079) - Create tailored labels - 2026-06-19.
+* [Pocketry](https://pocketry.xyz/) - Turn photographs into editable outlines and Gridfinity bins - 2026-09-23.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
