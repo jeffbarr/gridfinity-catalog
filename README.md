@@ -283,6 +283,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [Granola Bar Storage](https://makerworld.com/en/models/1918340-gridfinity-2x3x10-granola-bar-storage#profileId-2058167) | 2x3 | 1 | STL,3MF | 2026-04-02 |
 | [GRoG - the Gridfinity openGrid Stand](https://makerworld.com/en/models/2462959-grog-the-gridfinity-opengrid-stand#profileId-2703739) | 2x2 | 1 | STL,3MF | 2026-03-01 |
+| [H2D Toolbox Accessory Organizer](https://makerworld.com/en/models/1281145-h2d-toolbox-gridfinity-accessory-organizer#profileId-1309063) | 2x4 | 1 | 3MF | 2026-09-27 | 
 | [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1-0.5x3 | 10 | STL | 2022-09-19 |
 | [Hand Model](https://makerworld.com/en/models/526661-gridfinity-hand#profileId-1937043) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Height Tool](https://thangs.com/designer/myway2build3d/3d-model/Gridfinity%20Height%20Tool%20-666915) | 1x1 | 1 | STP,3MF | 2023-03-15 |
@@ -393,6 +394,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Pliers Stand](https://makerworld.com/en/models/1487921-gridfinity-pliers-stand#profileId-1554792) | 2x2 | 1 | STL,3MF | 2025-06-05 |
 | [Nippers, Pliers,Strippers Rack](https://www.printables.com/model/994578-gridfinity-nippers-pliers-strippers-rack-2x2) | 2x2 | 3 | STL,F3D | 2025-07-29 |
 | [Odd Tool Storage](https://makerworld.com/en/models/2106246-gridfinity-6x3x7-long-slots-odd-tool-storage) | 6x3 | 1 | STL,3MF | 2026-04-02 |
+| [P2S Toolbox and Hotend Organizer](https://makerworld.com/en/models/3355973-gridfinity-p2s-toolbox-and-hotend-organizer#profileId-3814956) | 3x4 | 1 | STL,3MF | 2026-09-27 |
 | [Posca Marker Holder](https://www.printables.com/model/811375-posca-marker-holder-for-gridfinity) | 2x2-2x3 | 1 | STL | 2024-03-19 | 
 | [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
 | [Prusa Pliers and Flat Cuts](https://www.printables.com/model/240253) | 1x1 | 1 | 3MF + STL | 2022-09-04 |
