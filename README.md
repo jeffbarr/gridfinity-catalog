@@ -132,6 +132,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [1/4" Drive Long Socket with Magnetic Base](https://www.printables.com/model/682454-gridfinity-14-drive-long-socket-with-magnetic-base) | 2x2 | 1 | STP | 2023-12-26 |
 | [123 Block](https://makerworld.com/en/models/1295482-123-block-footfinity-gridfinity) | 1x4 | 1 | STL,3MF | 2025-04-10 |
 | [18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
+| [2-Size Cup Holder](https://makerworld.com/en/models/3308184-parameterized-gridfinity-3x3-2-size-cup-holder#profileId-3755332)  | 3x3 | 1 | 3MF,F3D | 2026-09-28 |
 | [3/8" Drive - Emergency 10mm Socket](https://makerworld.com/en/models/2352596-3-8-drive-emergency-10mm-socket-gridfinity) | 1x1 | 1 | STL,3MF | 2026-04-24 | 
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | 2022-06-16 | 
 | [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 | 1 | STL | 2022-09-26 |
@@ -154,6 +155,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bambu H2/P2 Nozzle Holder](https://makerworld.com/en/models/2571192-gridfinity-bambu-h2-p2-standard-hotend-4-slot#profileId-2834392) | 2x3 | 1 | STL,3MF | 2026-03-29 |
 | [Bambu H2C Nozzle Holder](https://makerworld.com/en/models/2571177-gridfinity-bambu-h2c-induction-hotend-4-slot#profileId-2834369) | 2x2 | 1 | STL,3MF | 2026-03-29 |
 | [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
+| [Bambu Hotend Rack for P1/P1S/X1c](https://makerworld.com/en/models/3297838-gridfinity-bambu-hotend-rack-for-p1-p1s-x1c#profileId-3742451) | 1x4 | 1 | STL,3MF | 2026-09-28 |
 | [Banana Plug Quick Connect Holder](https://makerworld.com/en/models/1806031-gridfinity-banana-plug-quick-connect-holder#profileId-1926320) | 1x1,1x2 | 2 | STL,3MF | 2025-09-18 |
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1-5x5 | 28 | CadQuery | 2022-06-12 | 
 | [Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF,F3D | 2022-07-25 |
@@ -673,6 +675,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Bin Customizer with Pred-Style Label](https://makerworld.com/en/models/2928141-gridfinity-bin-customizer-with-pred-style-label#profileId-3277680) - Customizable Gridfinity bins with a built-in snap-in holder for matching Pred-style labels - 2026-06-19.
 * [Label Generator for Gridfinity Bins](https://makerworld.com/en/models/769441-label-generator-gridfinity-bin#profileId-705079) - Create tailored labels - 2026-06-19.
 * [Pocketry](https://pocketry.xyz/) - Turn photographs into editable outlines and Gridfinity bins - 2026-09-23.
+* [Gridfinity Label Generator](https://gridlabelstudio.com/) - Make print-read labels for Gridfinity bins in PNG or SVG at exact heights - 2026-09-28.
+* [Gridfinity Hub]() - Custom cutout generator- 2026-09-28.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
@@ -753,6 +757,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Universal Toolbox Collection](https://makerworld.com/en/collections/2240372-gridfinity-universal-toolbox) - 2026-05-12.
 * [Socket Storage System](https://makerworld.com/en/collections/719890-gridfinity-socket-system) - 2026-05-25.
 * [Gridfinity DrawerFlow - Workshop](https://makerworld.com/en/collections/34127755-gridfinity-drawerflow-workshop) - 2026-08-31.
+* [Coin Battery Storage](https://makerworld.com/en/collections/7645422-gridfinity-battery-storage) - 2026-09-28. 
 
 # Other Resources
 
