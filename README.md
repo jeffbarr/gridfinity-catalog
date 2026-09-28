@@ -304,7 +304,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [ICON 3/8 in Drive Metric Professional Long Ball Hex Bit  Set](https://www.printables.com/model/1602240-icon-38-in-drive-metric-professional-long-ball-hex) | 2x3 | 1 | 3MF,STP | 2026-02-17 |
 | [Icon Scraper Bin](https://makerworld.com/en/models/2851595-icon-scraper-gridfinity?appSharePlatform=copy#profileId-3180630) | 2x9 | 1 | STL,3MF | 2026-05-28 |
 | [iFixit Mako + ES121 Screwdriver Holders](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20iFixit%20Mako%20%2B%20ES121%20Screwdriver%20Holders-60744) | 1x4,2x4 | 3 | STL | 2022-07-19 |
-[ Ikea Bilresa Remote Control Holder](https://makerworld.com/en/models/2583493-gridfinity-ikea-bilresa-remote-control-holder#profileId-2849662) | 1x2 | 1 | STL,3MF | 2026-03-29 |
+[Ikea Bilresa Remote Control Holder](https://makerworld.com/en/models/2583493-gridfinity-ikea-bilresa-remote-control-holder#profileId-2849662) | 1x2 | 1 | STL,3MF | 2026-03-29 |
 | [Improved Modular Gridfinity Drawers](https://www.printables.com/model/1149008-improved-modular-gridfinity-drawers) | 2x5-4x5 | 12 | STL,STP | 2025-02-10 |
 | [Inserts for Pandemic Board Game](https://makerworld.com/en/models/1621396-pandemic-board-game-gridfinity-inserts#profileId-1711605) | 2x2,2x3,1x5 | 5 | STL,3MF | 2025-07-25 |
 | [HF Jacobs Chuck](https://makerworld.com/en/models/2066429-gridfinity-jacobs-chuck-hf-tools-58728#profileId-2231544) | 2x4 | 1 | STL,3MF | 2026-02-26 |
@@ -338,11 +338,11 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Lung Model](https://makerworld.com/en/models/1792163-gridfinity-anatomical-lung-model-multi-color-ams#profileId-1910041) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Macropad](https://makerworld.com/en/models/1772033-gridinity-macropad#profileId-2097539) | 2x2 | 1 | STL,3MF | 2025-11-07 |
 | [Magnetic Screwdriver Bit Holder](https://makerworld.com/en/models/2852894-gridfinity-magnetic-screwdriver-bit-holder-2x4#profileId-3182349) | 2x4 | 1 | STL,3MF | 2026-05-27 |
-| [ 1/4" Hex Driver DF012D](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1096752-gridfinity-bin-for-72v--df012d-screwdriver) | 2x8 | 1 | STL | 2024-12-08 |
-| [ Jigsaw 18V](https://makerworld.com/en/models/2909180--jigsaw-18v-gridfinity-insert-6x6x6u#profileId-3253395) | 6x6 | 1 | STL,3MF | 2026-06-19 |
-| [ Multitool 18v](https://makerworld.com/en/models/2909231--multitool-18v-gridfinity-insert-2x7x6u#profileId-3253456) | 2x7 | 1 | STL,3MF | 2026-06-19 |
-| [ XGT Hammer Drill](https://makerworld.com/en/models/2909278--xgt-hammer-drill-gridfinity-insert-5x6x6u#profileId-3253525) | 5x6 | 1 | STL,3MF | 2026-06-19 |
-| [ XGT Impact Gun](https://makerworld.com/en/models/2391306-makita-xgt-impact-gun-gridfinity-insert-5x3#profileId-2619794) | 5x3 | 1 | STL,3MF | 2026-06-19 |
+| [1/4" Hex Driver DF012D](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1096752-gridfinity-bin-for-72v--df012d-screwdriver) | 2x8 | 1 | STL | 2024-12-08 |
+| [Jigsaw 18V](https://makerworld.com/en/models/2909180--jigsaw-18v-gridfinity-insert-6x6x6u#profileId-3253395) | 6x6 | 1 | STL,3MF | 2026-06-19 |
+| [Multitool 18v](https://makerworld.com/en/models/2909231--multitool-18v-gridfinity-insert-2x7x6u#profileId-3253456) | 2x7 | 1 | STL,3MF | 2026-06-19 |
+| [XGT Hammer Drill](https://makerworld.com/en/models/2909278--xgt-hammer-drill-gridfinity-insert-5x6x6u#profileId-3253525) | 5x6 | 1 | STL,3MF | 2026-06-19 |
+| [XGT Impact Gun](https://makerworld.com/en/models/2391306-makita-xgt-impact-gun-gridfinity-insert-5x3#profileId-2619794) | 5x3 | 1 | STL,3MF | 2026-06-19 |
 | [Material Swatches holder](https://www.printables.com/model/587675-gridfinity-material-swatches-holder-v2-parametric) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/material-swatch-bins)) | 1x1 - 2x4 + Customizable | 7 | OpenSCAD,STL | 2024-02-14 |
 | [Mechanical Keyboard Keycap Storage Trays](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%2520Mechanical%2520Keyboard%2520Keycap%2520Storage%2520Trays%2520(5x5%2520and%25205x7)-238569) | 5x5, 5x7 | 4 | STL | 2022-09-04 |
 | [Mechanical Pencil (Staedtler Micro 775) Holder](https://www.printables.com/model/498295-gridfinity-mechanical-pencil-holder-mars-staedtler) | 2x1 | 1 | STL, F3D | 2023-06-04 |
