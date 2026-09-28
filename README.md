@@ -129,6 +129,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
+| [11.6 mm diameter Gridfinity Coin Battery Storage](https://makerworld.com/en/models/3211165-11-6-mm-diameter-gridfinity-coin-battery-storage) | 1x1,1x2 | 21 | STL,3MF | 2026-09-28 |
 | [1/4" Drive Long Socket with Magnetic Base](https://www.printables.com/model/682454-gridfinity-14-drive-long-socket-with-magnetic-base) | 2x2 | 1 | STP | 2023-12-26 |
 | [123 Block](https://makerworld.com/en/models/1295482-123-block-footfinity-gridfinity) | 1x4 | 1 | STL,3MF | 2025-04-10 |
 | [18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
@@ -136,6 +137,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [3/8" Drive - Emergency 10mm Socket](https://makerworld.com/en/models/2352596-3-8-drive-emergency-10mm-socket-gridfinity) | 1x1 | 1 | STL,3MF | 2026-04-24 | 
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | 2022-06-16 | 
 | [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 | 1 | STL | 2022-09-26 |
+| [5.8 mm Diameter Coin Battery Storage](https://makerworld.com/en/models/3302933-5-8-mm-diameter-gridfinity-coin-battery-storage) | 1x1,1x2 | 22 | STL,3MF | 2026-09-28 |
 | [8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL,F3D | 2022-07-25 |
 | [9V Battery Holder](https://www.printables.com/model/225989-gridfinity-9v-battery-holder) | 1x1, 1x2 | 2 | 3MF | 2022-07-01 | 
 | [AA Battery Holder](https://thangs.com/designer/Pestilence204/3d-model/Gridfinity%25202x1%252010xAA%2520Battery%2520Holder-103178) | 1x2 | 1 | STL | 2022-06-12 |
@@ -226,6 +228,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Controller Stand](https://www.printables.com/model/1210233-the-gridfinity-controller-stand) | 2x4 | 5 | STL | 2026-05-06 |
 | [Corrugated Bin](https://www.printables.com/model/1621031-corrugated-gridfinity-bin-with-snap-in-dividers-pr/files) | 2x2 | 1 | STL,STP,F3Z | 2026-03-01 |
 | [CR Battery Organizer](https://makerworld.com/en/models/2497702-cr-battery-organizer-gridfinity-version#profileId-2745369) | 1x4,2x4 | 2 | STL,3MF | 2024-03-16 |
+| [CR1025 Coin Battery Storage](https://makerworld.com/en/models/1664435-cr1025-coin-battery-storage-for-gridfinity) | 1x1 | 2 | STL,3MF | 2026-09-28 |
 | [CR12xx Coin Battery Storage](https://makerworld.com/en/models/1516518-cr12xx-coin-battery-storage-for-gridfinity#profileId-1588681) | 1x1, 1x3 | 9 | STL,3MF | 2025-06-18 |
 | [CR16xx Coin Battery Storage](https://makerworld.com/en/models/1537291-cr16xx-coin-battery-storage-for-gridfinity#profileId-1612854) | 1x1, 1x3 | 8 | STL,3MF | 2025-06-25 |
 | [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL,3MF | 2025-05-05 |
