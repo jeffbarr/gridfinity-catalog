@@ -136,6 +136,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [2-Size Cup Holder](https://makerworld.com/en/models/3308184-parameterized-gridfinity-3x3-2-size-cup-holder#profileId-3755332)  | 3x3 | 1 | 3MF,F3D | 2026-09-28 |
 | [3/8" Drive - Emergency 10mm Socket](https://makerworld.com/en/models/2352596-3-8-drive-emergency-10mm-socket-gridfinity) | 1x1 | 1 | STL,3MF | 2026-04-24 | 
 | [3D Printing Accessories](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741) | 1x1, 1x3 | 7 | STL | 2022-06-16 | 
+| [3x Deburring Tool](https://www.printables.com/model/1843889-gpgf-3x-deburring-tool-gridfinity-bin) | 2x4 | 1 | STP | 2026-10-01 |
+| [3x Wire Brush](https://www.printables.com/model/1843612-gpgf-3x-wire-brush-gridfinity-bin) | 2x5 | 1 | STP | 2026-10-01 |
 | [42mm Bottle Holder](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%25201x1%252042mm%2520Bottle%2520Holder%2520-%2520Fits%2520120ml%2520Chubby%2520Gorilla%2520e-Liquid%2520Bottles-196488) | 1x1 | 1 | STL | 2022-09-26 |
 | [5.8 mm Diameter Coin Battery Storage](https://makerworld.com/en/models/3302933-5-8-mm-diameter-gridfinity-coin-battery-storage) | 1x1,1x2 | 22 | STL,3MF | 2026-09-28 |
 | [8 AA batteries storage](https://thangs.com/designer/anime_reference/3d-model/Gridfinity%2520-%25202x1%25208%2520AA%2520batteries%2520storage-66292) | 2x1 | 1 | STL,F3D | 2022-07-25 |
@@ -426,6 +428,9 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ruler Holder](https://thangs.com/designer/atrimbletlr/3d-model/Gridfinity%2520Ruler%2520Holder-74621) | 1x1 | 1 | STL | 2022-09-04 |
 | [Ruler Holder](https://www.printables.com/model/1639600-gridfinity-ruler-holder) | 1x1 | 5 | STL | 2026-03-16 |
 | [Ryobi Quick Change Hobby Knife](https://www.printables.com/model/748779-ryobi-quick-change-hobby-knife-kit-rhckp04-gridfin) | 1x1 | 2 | STL,STP,F3D | 2024-02-07 |
+
+| [Ryobi Power Cutter](https://www.printables.com/model/1860638-gpgf-ryobi-power-cutter-gridfinity-bin) | 2x6 | 1 | STP | 2026-10-01 |
+
 | [Ryobi USB Lithium LED Pivoting Laser](https://www.printables.com/model/1679124-ryobi-gridfinity-bin-usb-lithium-led-pivoting-lase) | 1x5 | 1 | STL,3MF | 2026-04-10 |
 | [Ryobi USB Lithium Screwdriver](https://www.printables.com/model/1660652-ryobi-gridfinity-bin-usb-lithium-screwdriver) |  2x6 | 1 | STL,3MF | 2026-04-10 |
 | [SAE Socket Bit Organizer](https://makerworld.com/en/models/2635721-gridfinity-sae-socket-bit-organizer#profileId-2911267) | 4x4 | 1 | STL,3MF | 2026-08-31 |
@@ -639,6 +644,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Dowel storage system for Circular bins!] (https://makerworld.com/en/models/2894003-dowel-storage-system-for-circulair-bins#profileId-3233989) | 2x4 | 1 | STL,3MF | 2026-06-22 |
 | [Treasure Island - Modular Collectibles Display](https://makerworld.com/en/models/3202182-treasure-islands-modular-collectibles-display) | 1x1-6x6 | 164 | STL,3MF | 2026-08-23 |
 | [Baseplate Magnet Setter Jig](https://www.printables.com/model/1850385-gridfinity-baseplate-magnet-setter-jig-6x6) | 6x6 | 1 | STEP | 2026-09-23 |
+| [Woodfinity Make Up Organizer](https://www.printables.com/model/1692022-woodworks-woodfinity-make-up-organizer-with-gridfi) | 4x4 | 6 | STL,3MF | 2026-10-01 |
 
 # Online Generators
 
@@ -751,6 +757,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [How To 3D Print A Compression Mold For Gridfinity Bins](https://www.youtube.com/watch?v=VYrx1LRttOc) - 2026-05-20.
 * [Generate Gridfinity Bins](https://www.youtube.com/watch?v=ZZkG9QdNQqQ) - 2026-05-28.
 * [Custom Gridfinity Bins Without Modeling Every Tool](https://www.youtube.com/watch?v=gnwr17fNdVs) - 2026-06-29.
+* [Laser Labeled Gridfinity](https://www.printables.com/model/1843612-gpgf-3x-wire-brush-gridfinity-bin) - 2026-10-01.
 
 # Other Collections
 
