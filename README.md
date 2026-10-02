@@ -428,9 +428,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Ruler Holder](https://thangs.com/designer/atrimbletlr/3d-model/Gridfinity%2520Ruler%2520Holder-74621) | 1x1 | 1 | STL | 2022-09-04 |
 | [Ruler Holder](https://www.printables.com/model/1639600-gridfinity-ruler-holder) | 1x1 | 5 | STL | 2026-03-16 |
 | [Ryobi Quick Change Hobby Knife](https://www.printables.com/model/748779-ryobi-quick-change-hobby-knife-kit-rhckp04-gridfin) | 1x1 | 2 | STL,STP,F3D | 2024-02-07 |
-
 | [Ryobi Power Cutter](https://www.printables.com/model/1860638-gpgf-ryobi-power-cutter-gridfinity-bin) | 2x6 | 1 | STP | 2026-10-01 |
-
 | [Ryobi USB Lithium LED Pivoting Laser](https://www.printables.com/model/1679124-ryobi-gridfinity-bin-usb-lithium-led-pivoting-lase) | 1x5 | 1 | STL,3MF | 2026-04-10 |
 | [Ryobi USB Lithium Screwdriver](https://www.printables.com/model/1660652-ryobi-gridfinity-bin-usb-lithium-screwdriver) |  2x6 | 1 | STL,3MF | 2026-04-10 |
 | [SAE Socket Bit Organizer](https://makerworld.com/en/models/2635721-gridfinity-sae-socket-bit-organizer#profileId-2911267) | 4x4 | 1 | STL,3MF | 2026-08-31 |
