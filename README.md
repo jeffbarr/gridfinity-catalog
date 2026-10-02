@@ -196,7 +196,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bowls](https://www.printables.com/model/447389-gridfinity-bowls) | 1x1,1x2,1x4,2x2 | 4 | STL | 2023-04-09 |
 | [Breadboard Bins](https://www.printables.com/model/764343-gridfinity-breadboard-bins) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/breadboard-bins)) | 2x4-4x4, customizable | 24 | OpenSCAD,STL | 2024-02-14 |
 | [Breadboard Holders](https://www.printables.com/model/248418) | 1x2,2x2,2x4 | 3 | F3D + STL | 2022-09-04 |
-| [Bristol Stool Scale](https://makerworld.com/en/models/1822916-gridfinity-bristol-stool-scale-5x2#profileId-1945906)) | 2x5 | 1 | STL,3MF | 2025-09-27 |
+| [Bristol Stool Scale](https://makerworld.com/en/models/1822916-gridfinity-bristol-stool-scale-5x2#profileId-1945906) | 2x5 | 1 | STL,3MF | 2025-09-27 |
 | [Brother P-Touch Tape Holder](https://www.printables.com/model/1708863-brother-p-touch-tze-gridfinity-tape-holder-6-24mm) | 3x3,3x4,3x5 | 3 | STL,STP,F3D | 2026-05-06 |
 | [Build Plate Cleaner Microfiber Holder Adapter](https://www.printables.com/model/1347300-gridfinity-build-plate-cleaner-microfiber-holder-a) | 2x2 | 1 | STL | 2025-07-07 |
 | [Bulk Battery Holder](https://makerworld.com/en/models/1563857-gridfinity-bulk-battery-holder-aa-aaa-9v#profileId-1643779) | 3x5 | 1 |  STL,3MF | 2025-07-27 |
