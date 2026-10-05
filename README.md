@@ -683,7 +683,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Label Generator for Gridfinity Bins](https://makerworld.com/en/models/769441-label-generator-gridfinity-bin#profileId-705079) - Create tailored labels - 2026-06-19.
 * [Pocketry](https://pocketry.xyz/) - Turn photographs into editable outlines and Gridfinity bins - 2026-09-23.
 * [Gridfinity Label Generator](https://gridlabelstudio.com/) - Make print-read labels for Gridfinity bins in PNG or SVG at exact heights - 2026-09-28.
-* [Gridfinity Hub]() - Custom cutout generator- 2026-09-28.
+* [GridPitch](https://gridpitch.io/) - Design Gridfinity-style drawer organizers on any grid pitch - 2026-01-05.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
@@ -756,6 +756,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Generate Gridfinity Bins](https://www.youtube.com/watch?v=ZZkG9QdNQqQ) - 2026-05-28.
 * [Custom Gridfinity Bins Without Modeling Every Tool](https://www.youtube.com/watch?v=gnwr17fNdVs) - 2026-06-29.
 * [Laser Labeled Gridfinity](https://www.printables.com/model/1843612-gpgf-3x-wire-brush-gridfinity-bin) - 2026-10-01.
+* [Gridpitch - Gridfinity, never heard of her. Easiest gridfinity generator.](https://youtu.be/-Mq-gVTfGQg) - 2026-10-05.
 
 # Other Collections
 
