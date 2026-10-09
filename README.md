@@ -685,6 +685,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridfinity Label Generator](https://gridlabelstudio.com/) - Make print-read labels for Gridfinity bins in PNG or SVG at exact heights - 2026-09-28.
 * [GridPitch](https://gridpitch.io/) - Design Gridfinity-style drawer organizers on any grid pitch - 2026-01-05.
 * [Gridmint](https://gridmint.net/en/) - Free drawer planner, bin and baseplate generator in the browser (English/German): furniture templates (IKEA ALEX, PAX, Systainer, L-BOXX …), custom inserts from a photo with local AI, 200+ special inserts, export as STL, STEP, 3MF or a ready-to-print Bambu Studio project - 2026-10-06.
+* * [STLKit3D](https://stlkit3d.com/) - Free, client-side browser parametric Gridfinity bin generator with real-time 3D preview and watertight binary STL export - 2026-10-09.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
