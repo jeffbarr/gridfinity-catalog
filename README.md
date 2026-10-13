@@ -189,6 +189,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1-7x7 | 1508 | STL,F360,STP | 2023-03-30 |
 | [Bins with Roller Lid](https://makerworld.com/en/models/2486248-gridfinity-bin-with-roller-lid#profileId-2731332) | 1x1-2x5 | 8 | STL,STP,3MF | 2026-03-16 |
 | [Bins with Swappable Labels](https://makerworld.com/en/models/446624#profileId-353132) | 1x1-3x2 | 32 | STL,3MF | 2024-04-29 |
+| [Bolt and Threaded Insert Organizer](https://makerworld.com/en/models/2417008-gridfinity-bolt-and-threaded-insert-organizer#profileId-2665972) | 1x1-1x3 | 6 | STL,STEP | 2026-10-13 |
 | [Bolt Sorter](https://www.thingiverse.com/thing:5402658) | 1x2 | 1 | STL | 2022-09-04 |
 | [Bosch Professional 5M Tape Measure](https://www.printables.com/model/1655644-gridfinity-bosch-professional-5m-tape-measure) | 2.5x2.5 | 4 | STL,3MF | 2026-04-07 |
 | [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
@@ -643,6 +644,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Treasure Island - Modular Collectibles Display](https://makerworld.com/en/models/3202182-treasure-islands-modular-collectibles-display) | 1x1-6x6 | 164 | STL,3MF | 2026-08-23 |
 | [Baseplate Magnet Setter Jig](https://www.printables.com/model/1850385-gridfinity-baseplate-magnet-setter-jig-6x6) | 6x6 | 1 | STEP | 2026-09-23 |
 | [Woodfinity Make Up Organizer](https://www.printables.com/model/1692022-woodworks-woodfinity-make-up-organizer-with-gridfi) | 4x4 | 6 | STL,3MF | 2026-10-01 |
+| [Gamekeeper Board Game Organizer](https://makerworld.com/en/models/3416408-gamekeeper-board-game-organiser-3d-print-files) | 3x3 | 19 | STL | 2026-10-13 |
 
 # Online Generators
 
