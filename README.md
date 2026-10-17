@@ -696,6 +696,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Fusion Gridfinity Generator](https://github.com/Le0Michine/FusionGridfinityGenerator) - Fusion 360 add-in to generate bins and baseplates.
 * [Fusion Gridfinity Generator Mod](https://github.com/jonmooreai/fusion-gridfinity-mod) - Generate baseplate from draws dimensions.
 * [Ultralight Bins - Parametric Generator Edition](https://www.printables.com/model/925520-gridfinity-ultra-light-bin-generator) - Create your own Gridfinity bin (OpenSCAD).
+* [Gridbox Pro](https://gridboxpro.com/) - Desktop app for Mac and Windows that designs Gridfinity bins, baseplates and shadowboxes traced from a photo of your tools. Shared project files open with every setting, so anyone can change them for their own drawer. Try it free with no time limit and design as much as you like, then $150 once unlocks exporting STL and 3MF. - 2026-10-16.
 
 # Apps
 * [Baseplate Nesting Planner](https://arexey.github.io/public_tools/baseplate-nesting-planner/) - Plans a minimum-plate baseplate layout for a given opening and reports the clip count and the seams that carry no fastener.
