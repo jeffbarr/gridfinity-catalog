@@ -349,8 +349,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [1/4" Hex Driver DF012D](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1096752-gridfinity-bin-for-72v--df012d-screwdriver) | 2x8 | 1 | STL | 2024-12-08 |
 | [Jigsaw 18V](https://makerworld.com/en/models/2909180--jigsaw-18v-gridfinity-insert-6x6x6u#profileId-3253395) | 6x6 | 1 | STL,3MF | 2026-06-19 |
 | [Multitool 18v](https://makerworld.com/en/models/2909231--multitool-18v-gridfinity-insert-2x7x6u#profileId-3253456) | 2x7 | 1 | STL,3MF | 2026-06-19 |
-| [XGT Hammer Drill](https://makerworld.com/en/models/2909278--xgt-hammer-drill-gridfinity-insert-5x6x6u#profileId-3253525) | 5x6 | 1 | STL,3MF | 2026-06-19 |
-| [XGT Impact Gun](https://makerworld.com/en/models/2391306-makita-xgt-impact-gun-gridfinity-insert-5x3#profileId-2619794) | 5x3 | 1 | STL,3MF | 2026-06-19 |
+| [Makita LXT 18V Tray](https://www.printables.com/model/1877426-gpgf-t2b-makita-lxt-18v-gridfinity-tray) | 2x3 | 3 | STP | 2026-10-17 |
 | [Material Swatches holder](https://www.printables.com/model/587675-gridfinity-material-swatches-holder-v2-parametric) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/material-swatch-bins)) | 1x1 - 2x4 + Customizable | 7 | OpenSCAD,STL | 2024-02-14 |
 | [Mechanical Keyboard Keycap Storage Trays](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%2520Mechanical%2520Keyboard%2520Keycap%2520Storage%2520Trays%2520(5x5%2520and%25205x7)-238569) | 5x5, 5x7 | 4 | STL | 2022-09-04 |
 | [Mechanical Pencil (Staedtler Micro 775) Holder](https://www.printables.com/model/498295-gridfinity-mechanical-pencil-holder-mars-staedtler) | 2x1 | 1 | STL, F3D | 2023-06-04 |
@@ -540,6 +539,8 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [WORX WX242L Screwdriver](https://makerrepo.com/r/fangpenlin/open-models/artifact/master/922beff8-d5ef-4ffd-9643-1261e57b1dba) | 2x5 | 1 | STL | 2026-03-29 |
 | [Wolfbox MegaFlow50 Holder](Wolfbox MegaFlow50) | 2x4 | 1 | 3MF | 2026-01-19 |
 | [Xacto Holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
+| [XGT Hammer Drill](https://makerworld.com/en/models/2909278--xgt-hammer-drill-gridfinity-insert-5x6x6u#profileId-3253525) | 5x6 | 1 | STL,3MF | 2026-06-19 |
+| [XGT Impact Gun](https://makerworld.com/en/models/2391306-makita-xgt-impact-gun-gridfinity-insert-5x3#profileId-2619794) | 5x3 | 1 | STL,3MF | 2026-06-19 |
 | [Xiaomi Wowstick 1F+ Holder](https://thangs.com/designer/bn326160/3d-model/Xiaomi%2520Wowstick%25201F%252B%2520%2523Gridfinity%2520holder%2520-98140) | 2x5 | 2 | STL | 2022-09-04 |
 | [Ziggurat Storage Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Ziggurat%20Storage%20Bin-216412) | 3x3 | 1 | STL | 2022-09-04 |
 | [Ziplock, Wrap, and Kitchen Extra Containers](https://www.printables.com/model/892677-gridfinity-ziplock-wrap-and-kitchen-extra-containe) | 2x3-2x8 | 30 | STL | 2024-06-03 |
@@ -688,6 +689,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [GridPitch](https://gridpitch.io/) - Design Gridfinity-style drawer organizers on any grid pitch - 2026-01-05.
 * [Gridmint](https://gridmint.net/en/) - Free drawer planner, bin and baseplate generator in the browser (English/German): furniture templates (IKEA ALEX, PAX, Systainer, L-BOXX …), custom inserts from a photo with local AI, 200+ special inserts, export as STL, STEP, 3MF or a ready-to-print Bambu Studio project - 2026-10-06.
 * [STLKit3D](https://stlkit3d.com/) - Free, client-side browser parametric Gridfinity bin generator with real-time 3D preview and watertight binary STL export - 2026-10-09.
+* [Vaseverse](https://vaseverse.org/) - Generate bins with decorative surfaces - 2026-10-17.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
