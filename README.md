@@ -131,6 +131,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [11.6 mm diameter Gridfinity Coin Battery Storage](https://makerworld.com/en/models/3211165-11-6-mm-diameter-gridfinity-coin-battery-storage) | 1x1,1x2 | 21 | STL,3MF | 2026-09-28 |
 | [1/4" Drive Long Socket with Magnetic Base](https://www.printables.com/model/682454-gridfinity-14-drive-long-socket-with-magnetic-base) | 2x2 | 1 | STP | 2023-12-26 |
+| [1/4" Hex Driver DF012D](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1096752-gridfinity-bin-for-72v--df012d-screwdriver) | 2x8 | 1 | STL | 2024-12-08 |
 | [123 Block](https://makerworld.com/en/models/1295482-123-block-footfinity-gridfinity) | 1x4 | 1 | STL,3MF | 2025-04-10 |
 | [18650 holder](https://thangs.com/designer/paxtoncoghlin/3d-model/Gridfinity%25201x1%252018650%2520holder-62043) | 1x1 | 1 | 3MF | 2022-07-25 |
 | [2-Size Cup Holder](https://makerworld.com/en/models/3308184-parameterized-gridfinity-3x3-2-size-cup-holder#profileId-3755332)  | 3x3 | 1 | 3MF,F3D | 2026-09-28 |
@@ -346,10 +347,10 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Lung Model](https://makerworld.com/en/models/1792163-gridfinity-anatomical-lung-model-multi-color-ams#profileId-1910041) | 2x2 | 1 | STL,3MF | 2025-09-27 |
 | [Macropad](https://makerworld.com/en/models/1772033-gridinity-macropad#profileId-2097539) | 2x2 | 1 | STL,3MF | 2025-11-07 |
 | [Magnetic Screwdriver Bit Holder](https://makerworld.com/en/models/2852894-gridfinity-magnetic-screwdriver-bit-holder-2x4#profileId-3182349) | 2x4 | 1 | STL,3MF | 2026-05-27 |
-| [1/4" Hex Driver DF012D](https://www.printables.com/refresh?redirectUrl=%2Fmodel%2F1096752-gridfinity-bin-for-72v--df012d-screwdriver) | 2x8 | 1 | STL | 2024-12-08 |
 | [Jigsaw 18V](https://makerworld.com/en/models/2909180--jigsaw-18v-gridfinity-insert-6x6x6u#profileId-3253395) | 6x6 | 1 | STL,3MF | 2026-06-19 |
 | [Multitool 18v](https://makerworld.com/en/models/2909231--multitool-18v-gridfinity-insert-2x7x6u#profileId-3253456) | 2x7 | 1 | STL,3MF | 2026-06-19 |
 | [Makita LXT 18V Tray](https://www.printables.com/model/1877426-gpgf-t2b-makita-lxt-18v-gridfinity-tray) | 2x3 | 3 | STP | 2026-10-17 |
+| [Map Measurer](https://makerworld.com/en/models/3454799-gridfinity-bin-for-map-measurer#profileId-3941536) | 2x2 | 1 | STL,3MF | 2026-10-18 |
 | [Material Swatches holder](https://www.printables.com/model/587675-gridfinity-material-swatches-holder-v2-parametric) ([source](https://github.com/smkent/monoscad/tree/main/gridfinity/material-swatch-bins)) | 1x1 - 2x4 + Customizable | 7 | OpenSCAD,STL | 2024-02-14 |
 | [Mechanical Keyboard Keycap Storage Trays](https://thangs.com/designer/LengAwaits/3d-model/Gridfinity%2520Mechanical%2520Keyboard%2520Keycap%2520Storage%2520Trays%2520(5x5%2520and%25205x7)-238569) | 5x5, 5x7 | 4 | STL | 2022-09-04 |
 | [Mechanical Pencil (Staedtler Micro 775) Holder](https://www.printables.com/model/498295-gridfinity-mechanical-pencil-holder-mars-staedtler) | 2x1 | 1 | STL, F3D | 2023-06-04 |
