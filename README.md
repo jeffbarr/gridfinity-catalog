@@ -693,6 +693,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Gridmint](https://gridmint.net/en/) - Free drawer planner, bin and baseplate generator in the browser (English/German): furniture templates (IKEA ALEX, PAX, Systainer, L-BOXX …), custom inserts from a photo with local AI, 200+ special inserts, export as STL, STEP, 3MF or a ready-to-print Bambu Studio project - 2026-10-06.
 * [STLKit3D](https://stlkit3d.com/) - Free, client-side browser parametric Gridfinity bin generator with real-time 3D preview and watertight binary STL export - 2026-10-09.
 * [Vaseverse](https://vaseverse.org/) - Generate bins with decorative surfaces - 2026-10-17.
+* [3D MakerBench – Gridfinity Bin & Baseplate Generator](https://3dmakerbench.com/gridfinity-bin-generator) - Free, in-browser bins (compartments, stacking lip, magnet and screw holes) and baseplates (magnets, screw holes, split to fit your printer bed), STL download - 2026-10-26.
+* [3D MakerBench – Tool Cutout Generator](https://3dmakerbench.com/tool-cutout-generator) - Photo of your tools on A4/Letter paper to a Gridfinity insert with true-size cutouts and finger scoops - 2026-10-26.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
