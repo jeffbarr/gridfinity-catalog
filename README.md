@@ -706,6 +706,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 # Apps
 * [Baseplate Nesting Planner](https://arexey.github.io/public_tools/baseplate-nesting-planner/) - Plans a minimum-plate baseplate layout for a given opening and reports the clip count and the seams that carry no fastener.
 * [Sorted w/Gridfinity[(https://play.google.com/store/apps/details?id=com.gridfinity.drawerdesigner) - Drawer layout designer.
+* [Tucked](https://tucked.me/) - iPhone app that turns a photo or dimensions into a custom storage tray or Gridfinity bin (42 mm grid) and exports STL; on-device outline processing. [App Store](https://apps.apple.com/us/app/tucked-gridfinity-tray-maker/id6811067667). Not affiliated with the Gridfinity creator. - 2026-10-25.
 
 # Articles
 
