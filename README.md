@@ -295,6 +295,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [H2D Toolbox Accessory Organizer](https://makerworld.com/en/models/1281145-h2d-toolbox-gridfinity-accessory-organizer#profileId-1309063) | 2x4 | 1 | 3MF | 2026-09-27 | 
 | [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1-0.5x3 | 10 | STL | 2022-09-19 |
 | [Hand Model](https://makerworld.com/en/models/526661-gridfinity-hand#profileId-1937043) | 2x2 | 1 | STL,3MF | 2025-09-27 |
+| [Harbor Freight 47823 Precision Screwdriver Set](https://makerworld.com/en/models/3513538-gridfinity-hf-47823-precision-screwdriver-set#profileId-4015087) | 3x3 | 2 | STL,3MF | 2026-10-29 |
 | [Height Tool](https://thangs.com/designer/myway2build3d/3d-model/Gridfinity%20Height%20Tool%20-666915) | 1x1 | 1 | STP,3MF | 2023-03-15 |
 | [Helping Hand](https://thangs.com/designer/dangerclose35/3d-model/%2523Gridfinity%2520helping%2520hand-61040) | 1x1 | 1 | STL | 2022-07-25 |
 | [Helping Hands Base](https://thangs.com/designer/faalzin/3d-model/Gridfinity%2520Helping%2520Hands%2520Base-260671) | 1x1 | 1 | STL | 2022-09-08 |
