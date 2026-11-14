@@ -440,6 +440,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Screw Measure Tool](https://www.printables.com/model/276983-gridfinity-screw-measure-tool-1x1-mini-edition) | 1x1 | 1 | STL | 2024-02-14 |
 | [Serum Holders](https://makerworld.com/en/models/1511397-gridfinity-serum-holders#profileId-1582563) | 2x3 | 4 | STL,3MF | 2025-06-25 |
 | [Sewing Needle Holder](https://www.printables.com/model/283716-gridfinity-needle-holder) | 1x2 | 1 | STL,STEP,F3D | 2023-10-07 |
+| [Scoop Bins - 4U](https://makerworld.com/en/models/3360948-gridfinity-scoop-bins-easy-access-parts-bins#profileId-3825688) | 1x1-5x6 | 21 | STL,3MF | 2026-11-14 |
 | [ScrewUnit](https://thangs.com/designer/K2_Kevin/3d-model/ScrewU-nit%20Hardware%20Organizer%20-%20nuts%2C%20bolts%2C%20screws-1004137?affiliateCode=ZOMBIEHEDGEHOG) | ? | ? | ? | 2024-06-15 | 
 | [Screwfinity Unit 2U Large](https://thangs.com/designer/ZombieHedgehog/3d-model/Screwfinity%20Unit%202U%20Large%20-%20The%20Gridfinity%20Storage%20Unit-1081351?image=1350915) | 3x5 | 1 | STL,3MF,STP,OBJ,FBX | 2024-06-15 |
 | [Sharpie Holder](https://thangs.com/mythangs/file/191487) | 1x1 | 1 | STL | 2022-07-18 | 
@@ -619,6 +620,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Modern Gridfinity Case](https://www.printables.com/model/894202-modern-gridfinity-case) | 2x2-8x5 | 11 | 3MF | 2024-12-15 |
 | [Modular Gridfinity Case](https://www.printables.com/model/894202-modern-gridfinity-case) | 1x2-8x8 |  10 | 3MF | 2024-10-09 |
 | [Modular Rack System for Gridfinity Drawers](https://makerworld.com/en/models/85205) | 5x5 | 1 | STL, STP | 2024-01-23 |
+| [Modular Travel Organizer Case](https://makerworld.com/en/models/3601060-modular-travel-organizer-case-custom-gridfinity#profileId-4126287) | 2x6 | 1 | STL,3MF | 2026-11-14 |
 | [Multiboard Shelf Ultrastrong](https://makerworld.com/en/models/1112496-gridfinity-x-multiboard-ultrastrong-v2#profileId-1109339) | 1x1-5x5 | 28 | 3MF | 2025-05-15 |
 | [Monorail](https://makerworld.com/en/models/1196609-martin-s-monorail-gridfinity-train-v1-3#profileId-1224048) | - | - | STL,3MF | 2025-07-19 |
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
