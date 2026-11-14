@@ -238,6 +238,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [CR20xx Coin Battery Storage](https://makerworld.com/en/models/1381659-cr20xx-coin-battery-storage-for-gridfinity#profileId-1430212) | 1x1-1x3 | 6 | STL,3MF | 2025-05-05 |
 | [CR24xx Coin Battery Storage](https://makerworld.com/en/models/1457723-cr24xx-coin-battery-storage-for-gridfinity#profileId-1519490) | 1x1-1x3 | 12 | STL,3MF | 2025-06-02 |
 | [Craftsman Screwdriver Holder](https://www.printables.com/model/685801-gridfinity-craftsman-screwdriver-holder) | 7x9 | 1 | STL,3MF | 2025-05-05 |
+| [Craighill Scissors Stand](https://www.printables.com/model/1890934-craighill-scissors-stand-gridfinity) | 1x6 | 1 | STL | 2026-11-14 |
 | [Creality K2 Plus Combo Toolbox Foam Insert Adapter](https://thangs.com/designer/myokeeh/3d-model/Creality%20K2%20Plus%20Combo%20Toolbox%20Foam%20Insert%20Gridfinity%20Adapter-1360427) | 2x3 | 1 | 3LF | 2025-06-18 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
 | [Customizable Airpods Organizer](https://makerworld.com/en/models/2700231-customizable-airpods-gridfinity-organizer#profileId-2993304) | 2x2 | 1 | STL,3MF | 2026-05-11 | 
@@ -248,6 +249,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Deburring Tool, countersink, and spare blades](https://www.printables.com/model/244752-gridfinity-deburring-tool) | 1x2 | 1 | STL | 2022-07-20 |
 | [Dense 9 Full SD & 9 Micro SD Card Storage](https://thangs.com/designer/thingymaker9000/3d-model/Gridfinity%25201x1%2520Dense%25209%2520Full%2520SD%2520%2526%25209%2520Micro%2520SD%2520Card%2520Storage-66001) | 1x1 | 1 | STL | 2022-07-25 |
 | [Desktop Tool Bins](https://makerworld.com/en/models/1479743-gridfinity-desktop-tool-bins#profileId-1544955) | 2x2-2x4 | 12 | STL,3MF | 2025-06-02 |
+| [DeWalt Hammer Drill DCD999 TY1 Stand](https://www.printables.com/model/1890947-gridfinity-stand-for-dewalt-hammer-drill-dcd999-ty) | 2x6 | 2 | STL | 2026-11-14 |
 | [Diagonal Dividing Bins](https://makerworld.com/en/models/2393657-gridfinity-diagonal-dividing-bins#profileId-2622750) | 2x3-6z6 | 80 | STL,3MF | 2026-02-13 |
 | [Diamond Needle File kit](https://www.printables.com/model/244748-gridfinity-diamond-needle-file-set) | 1x1 | 1 | STL | 2022-07-20 |
 | [Dice Holder for DnD and other TTRPG](https://www.printables.com/model/295485-gridfinity-dice-holder-for-dnd-and-other-ttrpg) | 1x3 | 7 | STL | 2022-10-26 |
@@ -422,6 +424,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [RJ45 / 8P8C Crimp Tool Holder](https://makerworld.com/en/models/1305520-gridfinity-rj45-8p8c-crimp-tool-holder-2x5) | 5x2 | 1 | STL,3ML | 2025-04-10 |
 | [Removable Divider Bins](https://makerworld.com/en/models/3237220-gridfinity-removable-divider-bins#profileId-3667295) | 1x4-2x4 | 6 | STL,3MF | 2026-08-30 | 
 | [Roller Door Bin Collection](https://makerworld.com/en/models/1507224-roller-door-gridfinity-bin-collection#profileId-1577549) | 1x1-3x2 | 12 | STL,3MF | 2025-07-19 |
+| [Router Bit Bin](https://makerworld.com/en/models/3530322-gridfinity-router-bit-bin#profileId-4036387) | 1x1 | 1 | STL,3MF | 2026-11-14 |
 | [Rugged Bin Collection](https://makerworld.com/en/models/946361-rugged-bin-collection-gridfinity-bins#profileId-926362) |  1x2-4x6 | 56 | STL,3MF | 2026-04-03 |
 | [Rugged Drawer System - Gridfinity Activated](https://makerworld.com/en/models/810461#profileId-751683) | 2x4, 3x5 | 6 | STL,3Mf | 2024-11-23 |
 | [Rugged Gridfinity Desk Organizer XL](https://thangs.com/designer/K2_Kevin/3d-model/Rugged%20Organizer%20XL%20-%20Gridfinity%202x4%20%26%202x5-1157447) | 2x4, 2x5 | 2 | STL,STP,OBJ,FBX | 2024-10-18 | 
@@ -774,6 +777,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Custom Gridfinity Bins Without Modeling Every Tool](https://www.youtube.com/watch?v=gnwr17fNdVs) - 2026-06-29.
 * [Laser Labeled Gridfinity](https://www.printables.com/model/1843612-gpgf-3x-wire-brush-gridfinity-bin) - 2026-10-01.
 * [Gridpitch - Gridfinity, never heard of her. Easiest gridfinity generator.](https://youtu.be/-Mq-gVTfGQg) - 2026-10-05.
+* [Designing a Gridfinity Torx Key Tray in Aretu CAD](https://www.youtube.com/watch?v=cf82lZPKJrw) - 2026-11-14.
 
 # Other Collections
 
