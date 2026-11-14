@@ -286,6 +286,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
 | [Fusion360 Templates](https://thangs.com/designer/KptnAutismus/3d-model/Gridfinity%2520Templates%2520%28Filled%2520in%2520and%2520Hollow%29%2520for%2520Fusion360-202057) | Varies | 3 | F3D | 2022-09-26 |
 | [Generic Upright Holder](https://www.printables.com/model/825575-generic-gridfinity-upright-holder-2x2x6) | 2x2 | 1 | STL | 2024-01-01 |
+| [Gift Box](https://makerworld.com/en/models/3587252-gridfinity-gift-box-parametric-customizeable#profileId-4108312) | Parametric (1x1-5x5) | 1 | OpenSCAD | 2026-11-14 |
 | [Glasses (3x) Stand](https://www.printables.com/model/245600-gridfinity-glasses-3x-stand) | 1x3 | 1 | STL | 2022-07-22 |
 | [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [GoPro Holder](https://thangs.com/designer/martinwew/3d-model/Gridfinity%202x1%20gopro%20holder.STL-313028) | 1x2 | 1 | STL | 2022-09-04 |
