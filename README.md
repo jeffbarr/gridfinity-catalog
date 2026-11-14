@@ -702,6 +702,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 * [Vaseverse](https://vaseverse.org/) - Generate bins with decorative surfaces - 2026-10-17.
 * [3D MakerBench – Gridfinity Bin & Baseplate Generator](https://3dmakerbench.com/gridfinity-bin-generator) - Free, in-browser bins (compartments, stacking lip, magnet and screw holes) and baseplates (magnets, screw holes, split to fit your printer bed), STL download - 2026-10-26.
 * [3D MakerBench – Tool Cutout Generator](https://3dmakerbench.com/tool-cutout-generator) - Photo of your tools on A4/Letter paper to a Gridfinity insert with true-size cutouts and finger scoops - 2026-10-26.
+* [PrintParams](https://printparams.com/gridfinity/) - Bins, baseplates, lids, labels and cutout bins to the Gridfinity specification, made in your browser and downloaded as STL or 3MF - 2026-11-14.
+* [Form Fit Print](https://formfitprint.com/) -  Upload a 3D model of something you own. Form Fit Print cuts a pocket shaped to it into a Gridfinity bin - 2026-11-14.
 
 # Offline Generators
 * [Tracefinity](https://github.com/tracefinity/tracefinity) - Gridfinity Bin Generator.
