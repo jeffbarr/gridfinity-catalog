@@ -656,6 +656,7 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Baseplate Magnet Setter Jig](https://www.printables.com/model/1850385-gridfinity-baseplate-magnet-setter-jig-6x6) | 6x6 | 1 | STEP | 2026-09-23 |
 | [Woodfinity Make Up Organizer](https://www.printables.com/model/1692022-woodworks-woodfinity-make-up-organizer-with-gridfi) | 4x4 | 6 | STL,3MF | 2026-10-01 |
 | [Gamekeeper Board Game Organizer](https://makerworld.com/en/models/3416408-gamekeeper-board-game-organiser-3d-print-files) | 3x3 | 19 | STL | 2026-10-13 |
+| [Parametric Gap Fillers - Half-Grid](https://makerworld.com/en/models/3619270-parametric-gridfinity-gap-fillers-half-grid#profileId-4148743) | Parametric | - | STP,F3D | 2026-11-17 |
 
 # Online Generators
 
