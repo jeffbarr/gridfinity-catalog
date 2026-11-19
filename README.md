@@ -537,6 +537,7 @@ You can also start with the [Gridfinity Master Collection](https://www.printable
 | [Wera Imperial 950 Allen Key Holder](https://www.printables.com/model/407463-gridfinity-wera-imperial-9509-hex-plus-2-inches/files) | 4x7 | 1 | STL | 2023-03-15 |
 | [Wera Metric 950 Allen Key Holder](https://www.printables.com/model/407467-gridfinity-wera-metric-950-spkl9-sm-hf) | 4x7 | 1 | STL | 2023-03-15 |
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
+| [Wiha 75093 Precision Screwdriver Holder](https://makerworld.com/en/models/3575141-gridfinity-wiha-precision-screwdriver-holder#profileId-4092886) | 1x5 | 2  | STL,3MF | 2026-11-18 |
 | [Wiha Metric Nut Driver Holder](https://www.thingiverse.com/thing:6596520) | 1x2 | 1 | STL,F3D,3MF | 2023-04-26 |
 | [Wiha Precision Screwdriver Tray](https://www.printables.com/model/493970-gridfinity-wiha-precision-screwdriver-tray) | 3x5 | 1 | STL,F3Z | 2025-11-04 |
 | [Wii Remote Bin](https://www.printables.com/model/810571-gridfinity-wii-remote-bin) | 3x4 | 1 | STL,3MF,STP,F3d | 2024-03-19 |
@@ -657,6 +658,8 @@ More [Dashboard Modules](https://www.printables.com/@mhwlng_888536/collections/9
 | [Woodfinity Make Up Organizer](https://www.printables.com/model/1692022-woodworks-woodfinity-make-up-organizer-with-gridfi) | 4x4 | 6 | STL,3MF | 2026-10-01 |
 | [Gamekeeper Board Game Organizer](https://makerworld.com/en/models/3416408-gamekeeper-board-game-organiser-3d-print-files) | 3x3 | 19 | STL | 2026-10-13 |
 | [Parametric Gap Fillers - Half-Grid](https://makerworld.com/en/models/3619270-parametric-gridfinity-gap-fillers-half-grid#profileId-4148743) | Parametric | - | STP,F3D | 2026-11-17 |
+| [Stackable Tray](https://makerworld.com/en/models/3639950-gridfinity-stackable-tray-parametric) | Parametric | - | | F3D+Customizer | 2026-11-18 |
+| [Frame Feet - Print Bins Footless](https://makerworld.com/en/models/3634745-gridfinity-frame-feet-print-bins-footless#profileId-4168671) | 2x2-7x7 | 6 | OpenSCAD+Customizer | 2026-11-18 | 
 
 # Online Generators
 
